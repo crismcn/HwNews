@@ -8,9 +8,9 @@ const APIDICT = {
 
 const _URL_ =
   'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_5f57284795e5493f958540a4317c9e33&to_app=hwbrowser&dy_scenario=topicinside&tn=90a3f8a6639eaa065d8b9312976ab5dd0e70790f700453f6b86554f3a3d0d93e&channel=-1&ctype=topic&cpid=666&r=CN&share_to=system#/newspaper'
-// 0. 启动浏览器
-const browser = await chromium.launch({ headless: true })
 
+// 创建浏览器实例(无头模式)
+const browser = await chromium.launch({ headless: true })
 const OPEN_URL_WASH_DATA = async (url, cb) => {
   const collectedData = []
   // 1. 新建页面
@@ -51,6 +51,7 @@ const OPEN_URL_WASH_DATA = async (url, cb) => {
   return collectedData.flat()
 }
 
+// 获取今日新闻链接
 const getTodayNewsUrl = async (response) => {
   const request = response.request()
   const requestUrl = request.url()
@@ -77,6 +78,7 @@ const getTodayNewsUrl = async (response) => {
   }
 }
 
+// 获取今日新闻数据
 const getTodayNews = async (response) => {
   const request = response.request()
   const requestUrl = new URL(request.url())
@@ -104,6 +106,7 @@ const getTodayNews = async (response) => {
   }
 }
 
+// 持久化数据到文件
 const persistenceData = async (data, filename) => {
   try {
     const filePath = `./${filename}.json`
@@ -120,19 +123,17 @@ const persistenceData = async (data, filename) => {
 
   // 国际早报
   const globalNews = categorys.find((item) => item.title == '每日国际早报') || { url: '', title: '' }
-  if (!globalNews.url || !globalNews.title) {
-    return browser.close()
+  if (globalNews.url) {
+    const newsList = await OPEN_URL_WASH_DATA(globalNews.url, getTodayNews)
+    await persistenceData(newsList, globalNews.title)
   }
-  const globalNewsList = await OPEN_URL_WASH_DATA(globalNews.url, getTodayNews)
-  await persistenceData(globalNewsList, globalNews.title)
 
   // 科技早报
   const technologyNews = categorys.find((item) => item.title == '每日科技早报') || { url: '', title: '' }
-  if (!technologyNews.url || !technologyNews.title) {
-    return browser.close()
+  if (technologyNews.url) {
+    const newsList = await OPEN_URL_WASH_DATA(technologyNews.url, getTodayNews)
+    await persistenceData(newsList, technologyNews.title)
   }
-  const technologyNewsList = await OPEN_URL_WASH_DATA(technologyNews.url, getTodayNews)
-  await persistenceData(technologyNewsList, technologyNews.title)
 
   await browser.close()
 })()
