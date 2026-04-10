@@ -1,44 +1,32 @@
 import { chromium } from 'playwright'
+import fs from 'fs/promises'
 
-// 1. 启动浏览器
+const APIDICT = {
+  recommend_newspaper: `https://newsfeed-drcn.cloud.dbankcloud.cn/infoflow/v2/recommend_newspaper?channelId=-1&count=4&refresh=001&cachedCount=0`,
+  recommend_newspaper_more: `https://newsfeed-drcn.cloud.dbankcloud.cn/infoflow/v2/recommend_newspaper_more?channelId=-1&count=15&refresh=001&cachedCount=0`,
+}
+
+const _URL_ =
+  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_5f57284795e5493f958540a4317c9e33&to_app=hwbrowser&dy_scenario=topicinside&tn=90a3f8a6639eaa065d8b9312976ab5dd0e70790f700453f6b86554f3a3d0d93e&channel=-1&ctype=topic&cpid=666&r=CN&share_to=system#/newspaper'
+// 0. 启动浏览器
 const browser = await chromium.launch({ headless: true })
 
-const getTodayNews = async (url) => {
-  // 2. 新建页面
+const OPEN_URL_WASH_DATA = async (url, cb) => {
+  const collectedData = []
+  // 1. 新建页面
   const page = await browser.newPage()
 
-  // 3. 监听网络请求
+  // 2. 监听网络请求
   page.on('response', async (response) => {
-    const request = response.request()
-    const requestUrl = new URL(request.url())
-    const params = requestUrl.searchParams
-    if (request.resourceType() === 'xhr' || request.resourceType() === 'fetch') {
-      try {
-        // 检查响应类型
-        const contentType = response.headers()['content-type']
-        if (contentType && contentType.includes('application/json')) {
-          const data = await response.json()
-          // 检查数据结构是否符合
-          if (data.code == 0 && data.sourceInfoList && data.sourceInfoList.length) {
-            console.log('今日资讯:')
-            console.log(data.result)
-            // TODO REQUEST NEWS API
-          }
-          if (params.get('count') == 15 && params.get('channelId') == -1) {
-            console.log('今日栏目:')
-            console.log(data.result)
-            // # globalNews ==>> category: "4101000000"
-            // # globalNews ==>> category: "4101000000"
-          }
-        }
-      } catch (error) {}
+    const result = await cb(response)
+    if (result) {
+      collectedData.push(result)
     }
   })
-
-  // 4. 打开指定url
+  // 3. 打开指定url
   await page.goto(url, { waitUntil: 'networkidle' })
 
-  // 5. 向下滑动到底部
+  // 4. 向下滑动到底部
   await page.evaluate(async () => {
     await new Promise((resolve) => {
       let totalHeight = 0
@@ -55,12 +43,96 @@ const getTodayNews = async (url) => {
       }, 100)
     })
   })
-  // 等待页面加载完成
+  // 5. 等待页面加载完成
   await page.waitForTimeout(2000)
-  await browser.close()
+  await page.close()
+
+  // 展平所有收集到的数据
+  return collectedData.flat()
 }
 
-const url =
-  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_1b5978b7664349adbd5b6cab3184c4de&to_app=hwbrowser&dy_scenario=topicinside&tn=1a4f800b93e98d12ae426ff3739a777478437cbb531708d22394f556bac7b210&channel=-1&ctype=topic&cpid=666&r=CN&share_to=system#/newspaper'
+const getTodayNewsUrl = async (response) => {
+  const request = response.request()
+  const requestUrl = request.url()
+  if (request.resourceType() === 'xhr' || request.resourceType() === 'fetch') {
+    try {
+      // 检查响应类型
+      if (APIDICT.recommend_newspaper_more == requestUrl) {
+        const data = await response.json()
+        if (data.result && Array.isArray(data.result)) {
+          const categorys = data.result.map((item) => {
+            const { recommendTitle } = item.newspaperInfo
 
-getTodayNews(url)
+            const { url } = item.shareInfoList[0].shareLinkList[0]
+            return {
+              url: url,
+              title: recommendTitle,
+              realDate: item.realDate,
+            }
+          })
+          return categorys
+        }
+      }
+    } catch (error) {}
+  }
+}
+
+const getTodayNews = async (response) => {
+  const request = response.request()
+  const requestUrl = new URL(request.url())
+  if (request.resourceType() === 'xhr' || request.resourceType() === 'fetch') {
+    try {
+      // 检查响应类型
+      if (APIDICT.recommend_newspaper == requestUrl) {
+        const data = await response.json()
+        return data.result
+          .filter((item) => item.realCpID != item.cpID)
+          .map((item) => {
+            const { id, url, title, summary, source, image, realDate } = item
+            return {
+              id,
+              url,
+              title,
+              summary,
+              author: source,
+              image,
+              realDate,
+            }
+          })
+      }
+    } catch (error) {}
+  }
+}
+
+const persistenceData = async (data, filename) => {
+  try {
+    const filePath = `./${filename}.json`
+    const jsonContent = JSON.stringify(data, null, 2)
+    await fs.writeFile(filePath, jsonContent, 'utf-8')
+    console.log(`今日共写入 ${data.length} 条${filename}新闻数据`)
+  } catch (error) {
+    console.error('写入文件失败', error)
+  }
+}
+
+;(async () => {
+  const categorys = await OPEN_URL_WASH_DATA(_URL_, getTodayNewsUrl)
+
+  // 国际早报
+  const globalNews = categorys.find((item) => item.title == '每日国际早报') || { url: '', title: '' }
+  if (!globalNews.url || !globalNews.title) {
+    return browser.close()
+  }
+  const globalNewsList = await OPEN_URL_WASH_DATA(globalNews.url, getTodayNews)
+  await persistenceData(globalNewsList, globalNews.title)
+
+  // 科技早报
+  const technologyNews = categorys.find((item) => item.title == '每日科技早报') || { url: '', title: '' }
+  if (!technologyNews.url || !technologyNews.title) {
+    return browser.close()
+  }
+  const technologyNewsList = await OPEN_URL_WASH_DATA(technologyNews.url, getTodayNews)
+  await persistenceData(technologyNewsList, technologyNews.title)
+
+  await browser.close()
+})()

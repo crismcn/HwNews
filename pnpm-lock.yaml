@@ -8,11 +8,17 @@ importers:
 
   .:
     dependencies:
+      dayjs:
+        specifier: ^1.11.20
+        version: 1.11.20
       playwright:
         specifier: ^1.59.1
         version: 1.59.1
 
 packages:
+
+  dayjs@1.11.20:
+    resolution: {integrity: sha512-YbwwqR/uYpeoP4pu043q+LTDLFBLApUP6VxRihdfNTqu4ubqMlGDLd6ErXhEgsyvY0K6nCs7nggYumAN+9uEuQ==}
 
   fsevents@2.3.2:
     resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
@@ -30,6 +36,8 @@ packages:
     hasBin: true
 
 snapshots:
+
+  dayjs@1.11.20: {}
 
   fsevents@2.3.2:
     optional: true

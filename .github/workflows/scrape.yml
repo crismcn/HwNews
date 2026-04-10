@@ -26,3 +26,26 @@ jobs:
 
       - name: 运行脚本
         run: node scrape.js
+
+      - name: 配置 Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: 检查是否有文件变更
+        id: git-check
+        run: |
+          echo "检查 JSON 文件变更"
+          git status
+          git add *.json
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交变更到仓库
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git commit -m "自动更新新闻数据 [$(date +'%Y-%m-%d %H:%M')]"
+          git push

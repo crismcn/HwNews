@@ -1,0 +1,101 @@
+[
+  {
+    "id": "10510509814de242b1731befb47d6e282ccca16",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510509814de242b1731befb47d6e282ccca16&to_app=hwbrowser&dy_scenario=topicinside&tn=12115c52300b52b0cbef7117fd19212f568c6075854004c559c286d6200c97f3&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "消息称Happy Horse-1.0确系阿里研发",
+    "summary": "媒体表示，阿里巴巴研发的视频模型Happy Horse-1.0将于近期发布，由前快手副总裁张迪带队。该模型近日登顶AI Video Arena排行榜，在文本转视频等领域领先Seedance2.0和可3.0。不过有视频模型行业人士反应，登顶并不完全意味着实用效果，速度和成本在实际业务中同样重要，目前Happy Horse-1.0的API暂不可用。",
+    "author": "钛媒体APP",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/aaf34204674545cd935d76c071431f97_1_0/hd.webp",
+    "realDate": "2026-04-09 23:05:56"
+  },
+  {
+    "id": "10517412029040761445417",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10517412029040761445417&to_app=hwbrowser&dy_scenario=topicinside&tn=525746169c675c07b1a0f21f188e74c3f2d8673a60df878ed1db4a6f97d4d134&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "字节Seed大模型人才外溢",
+    "summary": "字节Seed是对大模型人才最具吸引力的团队之一，同时也有很多人正在离开字节跳动，最新一个目的地是腾讯。随着腾讯重新整合大模型组织架构，字节在Infra与数据方面的核心人员被招募，除了肖学峰、张弛和黄启，还有负责数据处理的团队被成批挖走。",
+    "author": "晚点LatePost",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/10517412029040761445417/8051b90898cb4a9f8bbc38bbbe59fd3d_1_9/hd.webp",
+    "realDate": "2026-04-09 09:44:39"
+  },
+  {
+    "id": "10510774332708",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774332708&to_app=hwbrowser&dy_scenario=topicinside&tn=895b0d9055e47ace8243f13338907b9ae76d3c565b2c17501008e4259149b495&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "抖音集团年度反腐通报出炉：电商、生活服务板块成重灾区",
+    "summary": "4月9日，抖音集团发布反腐通报显示，2025年共50余人被移送司法机关，23家合作方被列入黑名单。电商板块5起案件涉及前员工利用职权为商家谋利，生活服务板块8起案件集中在收受贿赂、骗取补贴等行为。同时，主平台、广告销售等部门也有人员被查处。此前字节跳动曾通报季度处理65名违规员工。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/1d112deffe9c44e18c93c093dfeb8a79_1_0/hd.webp",
+    "realDate": "2026-04-10 00:38:37"
+  },
+  {
+    "id": "1051435ID3G7DJJ4ACACP5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G7DJJ4ACACP5&to_app=hwbrowser&dy_scenario=topicinside&tn=ca72b95331d61c35544ebba512b733cc5cb01a5bba265c67e28d4a9c99eb504e&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "李飞飞发布全新世界模型 几分钟就能把真实地点“搬”进3D世界",
+    "summary": "李飞飞团队近日发布Marble 1.1系列两款3D生成模型，其中1.1版侧重画质优化，能提升光照和明暗对比。1.1-Plus版可基于平面图生成更大范围的3D空间。实测显示，输入《我的世界》风格平面图后，两款模型分别能在5分钟和10分钟内输出可360度查看的3D场景，后者生成空间更开阔。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/bedd17f6e96f450684dd6850ff6e1ba3_1_0/hd.webp",
+    "realDate": "2026-04-09 14:58:00"
+  },
+  {
+    "id": "1051074937310",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074937310&to_app=hwbrowser&dy_scenario=topicinside&tn=7f2ff09137aa92514d94e97ef3ff6f9816dab4f443ec9d7ab7584393b75fe474&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "MiniMax发布面向AI Agent的命令行工具“MMX-CLI” 跑通自动化工作流",
+    "summary": "该工具支持在Claude Code等环境中直接调用编程、视频生成等全模态模型，实现资料搜集到视频制作的自动化流程。该工具针对Agent优化了输出隔离、语义化状态码及异步任务控制功能，安装仅需两行代码，同时可显示MiniMax Token套餐用量。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/568499d84a69433b82038d1509bfd8c4_1_0/hd.webp",
+    "realDate": "2026-04-09 11:21:16"
+  },
+  {
+    "id": "10510282339672",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282339672&to_app=hwbrowser&dy_scenario=topicinside&tn=4bfe6612881c979fc0e8843d17bb599e93fc2f551cfabee5c5cf6515c4d54ad1&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "OpenAI预计今年广告收入达25亿美元 2030年冲击1000亿美元",
+    "summary": "今年1月，OpenAI宣布将开始向部分美国用户在ChatGPT中展示广告，广告主要在ChatGPT的免费版本及价格较低的Go订阅方案中进行测试。上个月底，OpenAI一位发言人表示，公司广告试点项目在不到两个月时间内就实现了1亿美元的年度经常性收入，预计未来将实现快速增长。当时，该平台的广告客户数量已超过600家。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/da8d6580f48643639c7b97fa19c43fd3_1_0/hd.webp",
+    "realDate": "2026-04-09 22:08:52"
+  },
+  {
+    "id": "1051074937294",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074937294&to_app=hwbrowser&dy_scenario=topicinside&tn=e9235691e1d0bc5cccbe4ff99bbef6107463bb9c12b081f774896d81041087e0&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "微软高管变动仍在继续 开发者部门负责人宣布辞职",
+    "summary": "微软开发者部门负责人朱莉娅·柳松宣布将于6月底离职，结束34年任职。她曾主导收购GitHub并推动开源项目，离职后转任顾问。近月微软高管变动频繁，包括前Xbox负责人斯宾塞、体验与设备事业部负责人贾哈相继离职。同时，微软调整了Windows、Office等产品汇报架构，并任命新Copilot负责人。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/fa2c66bb086c4ca18b4a6fe574151b5c_1_0/hd.webp",
+    "realDate": "2026-04-09 10:44:33"
+  },
+  {
+    "id": "10514481ac5321213aed0d34cd22210a886cbf8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514481ac5321213aed0d34cd22210a886cbf8&to_app=hwbrowser&dy_scenario=topicinside&tn=415ea70a572470d529daed0066090e72dabadefc683180af6b1dd4193f2e33e2&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "1年合约已成往事 三星、SK海力士非3-5年长期订单不卖",
+    "summary": "三星电子与SK海力士宣布终止短期供货合约，强制推行3至5年长期供应协议。微软、谷歌等科技巨头将纳入该框架，三星今年起新增合约最短3年，SK海力士正与谷歌洽谈5年DRAM合约。此举旨在缓解存储行业周期性波动，锁定价格与出货量以稳定业绩。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/76c6f326c3df46a38d1164f43aeaa85b_1_0/hd.webp",
+    "realDate": "2026-04-09 11:46:38"
+  },
+  {
+    "id": "10510282338693",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282338693&to_app=hwbrowser&dy_scenario=topicinside&tn=e4c0772f546261f8d4238d50bcd19fabecaf626925d6fed5f1ff809a596e16d9&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "美国拟放宽频谱功率限制 宽带容量有望提升7倍",
+    "summary": "美国联邦通信委员会计划4月30日投票表决放宽卫星频谱功率限制，新规若通过将使卫星宽带容量提升至当前7倍，网速提高且成本降低。此举源于SpaceX等企业呼吁，旨在打破低轨卫星发展瓶颈，但传统地球静止轨道运营商Viasat和DirecTV担忧信号受干扰。政策调整或推动全球频谱规则变革。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/af/v3/10510282338693/3d9f0a3191894e60843ced68a3ef2a9b_1_8/hd.webp",
+    "realDate": "2026-04-09 09:42:33"
+  },
+  {
+    "id": "10510282338638",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282338638&to_app=hwbrowser&dy_scenario=topicinside&tn=ff78157f3fce95661d4f6a786fcf7befc7185fab47d426ad18e1c509e1050192&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "SK海力士猛攻1c DRAM：良率已升至80% 超半数产能年内转换",
+    "summary": "SK海力士加速推进10纳米第六代DRAM技术研发，其良率已达80%，并计划年内将超半数DRAM产能转换为该工艺产品，预计年底产能达19万片。此举旨在为英伟达明年下半年推出的下一代AI加速器“Vera Rubin Ultra”提供第七代HBM4E核心芯片，目前样品计划于今年交付。",
+    "author": "财联社电报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/a81fe3431b384abd812739fb9dd3329b_1_0/hd.webp",
+    "realDate": "2026-04-09 08:47:47"
+  },
+  {
+    "id": "10510324849030",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324849030&to_app=hwbrowser&dy_scenario=topicinside&tn=32d09b54837675ebac5fb37b09bf9f4ac12685cd0986aea93b1a765b7f940187&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "“三体”照进现实 科学家首次唤醒冷冻的“大脑”",
+    "summary": "德国科学家近日在《美国国家科学院院刊》发表研究，通过玻璃化冷冻技术首次使成年小鼠海马体在解冻后恢复长时程增强等关键神经功能。该技术源于1938年提出的“玻璃化”构想，虽距人类冷冻复活仍遥远，但它标志着神经组织保存取得突破性进展。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_3cf5f63055ce42fdb51b200d9844a0f7/438eab8b65eb4a06a3c7c5b028f3c63d_1_0/hd.webp",
+    "realDate": "2026-04-09 08:19:51"
+  }
+]
