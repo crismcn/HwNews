@@ -1,92 +1,92 @@
 [
   {
-    "id": "1051104b72dcda68ef32b76fc2421b222bacc3c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104b72dcda68ef32b76fc2421b222bacc3c&to_app=hwbrowser&dy_scenario=topicinside&tn=328e4fad0cc63e01b3da76daa25feb32fdf750ad45ab6dfb90aa392c735a48d0&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "华为鸿蒙生态重磅里程碑！鸿蒙版微信安装量突破5000万",
-    "summary": "4月12日，华为应用市场显示，鸿蒙版微信安装量已突破5000万次，成为鸿蒙生态发展的又一里程碑节点。该应用自2025年1月上线后持续迭代超百次，已支持通讯、支付、小程序等核心功能，并新增微信ClawBot插件。其安装量增速显著，2025年7月达1000万次，2026年4月突破5000万次。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/Topic_15491eb7d339481c82e4862cdabc4ac8/93000e8abb9149e48ca59ffb8d36f8ad_1_0/hd.webp",
-    "realDate": "2026-04-12 10:40:43"
+    "id": "1051074938460",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938460&to_app=hwbrowser&dy_scenario=topicinside&tn=01080f169b1790a22a796bd7b8db2cd992671a92919f1c10030b434c19ee9ccf&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "华为Pura X Max开启预订 全球首款大阔折定档",
+    "summary": "华为正式宣布Pura X Max将于4月20日发布，这是行业首款大阔折。市场对这款新机期待值被彻底点燃,更具行业深意的是，在当前全球供应链成本普涨的大背景下，华为此时推出Pura X Max，不仅意味着其无惧成本压力、以行业首个大阔折形态强势入局，更标志着华为在折叠屏形态演进的时间节点上，再次确立领先行业半年的绝对优势。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/82/v3/1051074938460/6b5e57f78dd34782a218fa1fe6a11648_1_6/hd.webp",
+    "realDate": "2026-04-13 11:18:57"
   },
   {
-    "id": "105120614239477",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614239477&to_app=hwbrowser&dy_scenario=topicinside&tn=e13523426557323b4be35904fde0b18723f25015b4848cc86115ba68202883ee&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "前DeepSeek多模态技术核心研究员阮翀加盟元戎启行",
-    "summary": "4月12日，元戎启行在智能电动汽车发展高层论坛首次对外确认，前DeepSeek多模态技术核心研究员阮翀已加盟公司，出任首席科学家。据悉，阮翀早在数月前便已加入，此前未有公开信息，他将于北京车展首次公开亮相并发表演讲。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/Topic_15491eb7d339481c82e4862cdabc4ac8/6c17c80da99f45449fbc0ed31a1bd664_1_0/hd.webp",
-    "realDate": "2026-04-12 17:13:50"
+    "id": "1051435ID3G7TMOC1DMCSD",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G7TMOC1DMCSD&to_app=hwbrowser&dy_scenario=topicinside&tn=9f9431f545ee64fa657d27fe85ceabb9eab153ee5bf5b87aebd3c45e9e63adff&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Anthropic的新AI模型被质疑用了字节Seed技术",
+    "summary": "近日，Anthropic公司未公开的Claude“Mythos”模型因在图搜索测试中表现异常引发热议。该模型在广度优先图搜索测试中以80%对21.4%的分数远超GPT 5.4，社区猜测其可能采用了字节Seed团队提出的循环语言模型架构。该架构通过内部潜空间迭代实现知识操作能力提升。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/94/v3/1051435ID3G7TMOC1DMCSD/bd57ab683d8f4fa9ae09b9c9d4cf2eb0_1_1/hd.webp",
+    "realDate": "2026-04-13 12:24:00"
   },
   {
-    "id": "1051057d_KQAU59EA0511ABV6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KQAU59EA0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=a9540d00a4ef8caf0966ba21628f1c7960000dc7ff82a50c73e4ab0196b19d8d&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "OpenAI遭反超 Anthropic狂吞70%新客户 Claude已开启“灵魂校准”",
-    "summary": "数据显示，Anthropic的Claude在企业AI市场迅速崛起，其客户占比达30.6%，单月增长6.3个百分点，与OpenAI的差距缩小至4.6个点。在新客户竞争中，Anthropic以70%的胜率领先。尽管存在算力不足等问题，但该公司的文化立场和行业渗透率成为关键优势。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/Topic_15491eb7d339481c82e4862cdabc4ac8/c92d15175a9f43de817897de70e963fc_1_0/hd.webp",
-    "realDate": "2026-04-12 15:33:49"
+    "id": "105144879fc45c592753f745f07731eb470bf21",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144879fc45c592753f745f07731eb470bf21&to_app=hwbrowser&dy_scenario=topicinside&tn=db87299ad4d0eadf2fc31e50d2e4db66d81e8a00ac900b29af63972a642fb14c&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "微软版龙虾来了 报道称Copilot拟引入OpenClaw",
+    "summary": "微软正探索将开源AI智能体OpenClaw技术引入Copilot，旨在开发能自主处理复杂任务的智能体。OpenClaw可全天候运行并控制应用，如自动生成Outlook待办事项或整理Excel数据。同时，微软面临竞争压力，付费Copilot用户仅占Office 365用户的3%。安全性仍是关键挑战，部分功能或于6月Build大会推出预览版。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/448d9276ec2b4029986dfeb8bcbbb1d9_1_0/hd.webp",
+    "realDate": "2026-04-13 21:03:09"
   },
   {
-    "id": "10510282341361",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282341361&to_app=hwbrowser&dy_scenario=topicinside&tn=b722abf96e3eb6c3fc2089338a2ce4517a7dc4f279119349d84e245762864438&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Arm CEO或兼掌软银前沿业务大权",
-    "summary": "英国芯片设计公司Arm首席执行官Rene Haas或将在担任现职的同时，负责软银集团的半导体、AI及潜在机器人业务运营，以推进孙正义的“伊邪那岐项目”。该项目旨在整合Graphcore等收购资产，抗衡英伟达等对手。知情人士称该任命尚未获董事会批准，若成行Haas将成为软银核心高管。",
+    "id": "10511183e7e807c5b689ba659afed4a5d13e0f4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511183e7e807c5b689ba659afed4a5d13e0f4&to_app=hwbrowser&dy_scenario=topicinside&tn=936867bc5340d485f09cae21e558523c45a44a15a0c4bed6c3336244a76c0bf6&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "MiniMax M2.7全球开源 摩尔线程、沐曦等完成Day0适配",
+    "summary": "4月12日，MiniMax M2.7全球开源，华为昇腾、摩尔线程、沐曦等海内外厂商完成Day0适配。该模型三周前上线，具备构建复杂Agent Harness能力，在软件工程等场景表现优异。开源当日，华为昇腾、摩尔线程等技术团队分别基于自研架构实现高性能推理部署，昆仑芯、英伟达等也完成适配。同时，Together AI等开发平台同步接入模型。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/d6634fed689c48189d6e3deb4b3af0ad_1_0/hd.webp",
+    "realDate": "2026-04-13 09:02:54"
+  },
+  {
+    "id": "1051074938480",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938480&to_app=hwbrowser&dy_scenario=topicinside&tn=9010b76e1f4488412673da39e24d568ea92e56edcee17377875c260ca4f4b067&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "AI预测英超联赛结果 Claude Opus 4.6表现最佳 Grok垫底",
+    "summary": "近日，一项针对2023-2024赛季英超联赛的AI预测测试显示，Anthropic的Claude Opus 4.6表现最佳，三次测试平均亏损11%，而X平台的Grok一次亏光资金，另两次未完成任务，在八款模型中垫底。OpenAI的GPT 5.4平均亏损13.6%，谷歌Gemini 3.1 Pro波动较大。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/c631d6d7c9e94e778d689ac4354159b7_1_0/hd.webp",
+    "realDate": "2026-04-13 12:33:43"
+  },
+  {
+    "id": "10510282342853",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282342853&to_app=hwbrowser&dy_scenario=topicinside&tn=3c89a223696228c042b89265bfb4f946f76fba72ff657edf89d332838c43a790&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "英伟达回应“洽购大型PC制造商”传言",
+    "summary": "一名英伟达发言人表示，该消息并不属实，英伟达并未就收购任何PC制造商展开讨论。此前，行业网站Semi Accurate刊文称英伟达正在寻求一笔“重塑PC市场格局”的并购。同时，戴尔和惠普股价也受次消息影响波动。",
     "author": "科创板日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f5/v3/10510282341361/278ed143c8974e9dbab2ab7479e74ca2_1_5/hd.webp",
-    "realDate": "2026-04-12 06:22:39"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/c6dae7bddfbe4c8a8d8871104f50d019_1_0/hd.webp",
+    "realDate": "2026-04-14 04:53:25"
   },
   {
-    "id": "1051074938099",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938099&to_app=hwbrowser&dy_scenario=topicinside&tn=34cde4bff6565d79cebbfa04807b46e72be30286d474e8897c1a84ad49bd5344&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "亚马逊CEO表示：自研芯片年化收入预估500亿美元",
-    "summary": "亚马逊CEO安迪·贾西称，公司自研Graviton服务器处理器和Trainium AI芯片业务年化收入预计达500亿美元，规模已超AMD与英特尔。贾西表示，自研芯片帮助AWS降低数十亿美元成本，同时透露可能向外部客户出售整机柜方案，直接与芯片巨头竞争。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/Topic_15491eb7d339481c82e4862cdabc4ac8/7bb6c02566064b0dbe288fe344aba0c1_1_0/hd.webp",
-    "realDate": "2026-04-11 14:58:48"
+    "id": "10510282342109",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282342109&to_app=hwbrowser&dy_scenario=topicinside&tn=5aa62780d4a7f6f6f1cb0da138acf324a220a8f4cabd61db66ce7527d8e06b57&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "“马斯克版微信”将在周五上线",
+    "summary": "马斯克旗下X平台宣布，具备加密、阅后即焚等功能的X Chat将于4月17日上线。该应用对标微信，支持跨设备通话及481人群聊，承诺无广告且不追踪用户行为，但被指自行保留加密密钥且未明确AI交互数据处理方式。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/20/v3/10510282342109/9b088e93e5234a3c82b947e0b8004992_1_0/hd.webp",
+    "realDate": "2026-04-13 14:44:46"
   },
   {
-    "id": "10512323762088319484419",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512323762088319484419&to_app=hwbrowser&dy_scenario=topicinside&tn=6134f7ddb78140aadee481262a4eacd0d69ccac710aa3ddc78fb96d1497045aa&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "曾拿下豪华种子轮 明星AI公司Yupp宣布倒闭",
-    "summary": "知名AI创业公司Yupp宣布4月15日停止服务，距产品上线不足一年。该公司曾获3300万美元种子轮融资。Yupp通过免费模型评测服务吸引130万用户，但因技术迭代导致商业模式失效，从成立到倒闭仅存活22个月。",
-    "author": "36氪",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/10512323762088319484419/113fa6bb81e149b58caa19e4b5dc0cad_1_7/hd.webp",
-    "realDate": "2026-04-11 15:20:09"
+    "id": "1051044103129770",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103129770&to_app=hwbrowser&dy_scenario=topicinside&tn=917b947cc88dd31b99ddfa596b8b11ab059e8c8e9628100792147eacba5081e5&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "OpenAI CEO奥尔特曼房子两天内遭遇两次攻击",
+    "summary": "OpenAI CEO奥尔特曼位于美国旧金山的房子近日连续遭遇两次袭击，4月10日凌晨被投掷燃烧瓶后，12日凌晨又发生枪击事件。警方已逮捕3名嫌疑人并缴获枪支，具体动机仍在调查中。奥尔特曼在第一次攻击事件后发布的博客中，提到人们对人工智能的焦虑情绪。奥尔特曼表示，前几天有人告知他，有一篇关于他的煽动性文章，认为这是在人们对人工智能感到焦虑的情况下出现的，会让他的处境变得危险，但当时他并没有放在心上。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/a9b68462ee244039bfffdbab00523313_1_0/hd.webp",
+    "realDate": "2026-04-13 13:00:04"
   },
   {
-    "id": "10510324849694",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324849694&to_app=hwbrowser&dy_scenario=topicinside&tn=7e68748a352547a4d9cc68a08737dd4167045fc43ecfff2707da505bb2a233d7&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "三星40亿美元押注 越南“芯”跳加速",
-    "summary": "三星电子计划在越南北部太原省投资40亿美元建半导体封测厂，首期投入20亿美元，系其在越半导体领域最大单笔投资。同时，Amkor等企业也在扩大越南封测产能，推动该国从终端组装向上游延伸。越南财政部确认正与三星就合作磋商。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1032_8/f4/v3/10510324849694/0ba370487c444f208d2949411bae66fd_1_0/hd.webp",
-    "realDate": "2026-04-11 13:05:31"
+    "id": "1051143f81d0e9446d4f5c2943f92d1023eceb7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143f81d0e9446d4f5c2943f92d1023eceb7&to_app=hwbrowser&dy_scenario=topicinside&tn=15d13926d62a9a5c23a0edbe608a25e5081f0d7c262bd1e731dee1e14fe54758&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "苹果前AI负责人确认本周离职 生成式AI落后成导火索",
+    "summary": "苹果前AI负责人约翰·詹南德雷亚本周离职，其2018年从谷歌跳槽后主导的Apple Intelligence进展不及预期，生成式AI落后导致2025年3月被削减职权。升级版Siri多次延期，其职责已移交其他高管，离职前处于“顾问”状态等待股权归属。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/4227b8a848af49e1ad72db9c1220cfb4_1_0/hd.webp",
+    "realDate": "2026-04-13 07:31:00"
   },
   {
-    "id": "1051048794dcaff5e3263a014ede825f6882ee0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048794dcaff5e3263a014ede825f6882ee0&to_app=hwbrowser&dy_scenario=topicinside&tn=2cfe89550e27ce0a97c75a90aed17b6851cd7e815299cabda294e15ae4175427&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "国内最大！我国复用航天器关键部件研制成功",
-    "summary": "中国航天科技集团一院宣布，5米直径复合材料动力舱产品研制成功，成为国内航天领域最大复用运载器整体舱段。该舱段复合材料占比超60%，可承受千吨轴压载荷并具备自适应调节接口，攻克了大尺寸复合材料高精度制造等技术难题。",
-    "author": "北京日报客户端",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/Topic_15491eb7d339481c82e4862cdabc4ac8/042f1a001542493dbde95998cd5e3479_1_0/hd.webp",
-    "realDate": "2026-04-12 11:14:16"
-  },
-  {
-    "id": "1051074938217",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938217&to_app=hwbrowser&dy_scenario=topicinside&tn=af645b9ea5024f2ac907035b552bd3e68ccc35f084337e1f0bbcd02b6c45e1de&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "NASA寻找240亿美元波音SLS火箭替代方案 为登月计划做准备",
-    "summary": "在波音SLS火箭搭载阿耳忒弥斯2号任务绕月飞行约一周前，美国宇航局已向业内征询替代方案，以应对该240亿美元项目的高成本问题。NASA局长艾萨克曼称SLS历史包袱重，计划建设月球基地需更廉价方案。白宫拟再次尝试寻找商业替代方案，但国会此前反对淘汰SLS。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/6c/v3/1051074938217/07e0138116bf46e49a9e88eba463507c_1_2/hd.webp",
-    "realDate": "2026-04-12 10:21:26"
-  },
-  {
-    "id": "1051074938197",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938197&to_app=hwbrowser&dy_scenario=topicinside&tn=ea37517e2097e72deda1e03359256f8055790a15728587375d4f531dd437231a&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "百亿光年外星系亮度20年骤降95% 超大质量黑洞“燃料”快速耗尽",
-    "summary": "日本千叶工业大学领衔的国际团队发现，距地球约100亿光年的星系J0218−0036亮度20年内骤降95%。观测显示，其中心超大质量黑洞因气体流入量锐减导致活动强度快速衰退，质量吸积率7年间降至原水平的五十分之一。该现象挑战了现有吸积模型，表明黑洞活动可在人类观测尺度内剧烈变化。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/Topic_15491eb7d339481c82e4862cdabc4ac8/c3ca4e4f95a5400287ebda6e00443147_1_0/hd.webp",
-    "realDate": "2026-04-12 08:15:58"
+    "id": "10511950affe15243c84801ed452a6e12985c72",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511950affe15243c84801ed452a6e12985c72&to_app=hwbrowser&dy_scenario=topicinside&tn=711a8b61852742c0cceeeda6961fdb2c8c911e544995ee4e4eaf502cbd94d048&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "词元已成“新石油”：全球算力紧张 龙虾热背后资源掠夺战或将烧至2029年",
+    "summary": "人工智能领域“词元”作为信息处理基本单位需求激增，国产视频大模型生成15秒视频需消耗30万词元。全球算力紧张致OpenAI暂缓Sora应用，Anthropic实施“词元配给制”。英伟达芯片租价两月涨50%，美银预测供需失衡或持续至2029年。",
+    "author": "红星新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/56bcc9b2f0ad4f60bad149b3eafdb272_1_0/hd.webp",
+    "realDate": "2026-04-13 12:25:37"
   }
 ]
