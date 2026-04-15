@@ -1,92 +1,110 @@
 [
   {
-    "id": "1051074938460",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938460&to_app=hwbrowser&dy_scenario=topicinside&tn=01080f169b1790a22a796bd7b8db2cd992671a92919f1c10030b434c19ee9ccf&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "华为Pura X Max开启预订 全球首款大阔折定档",
-    "summary": "华为正式宣布Pura X Max将于4月20日发布，这是行业首款大阔折。市场对这款新机期待值被彻底点燃,更具行业深意的是，在当前全球供应链成本普涨的大背景下，华为此时推出Pura X Max，不仅意味着其无惧成本压力、以行业首个大阔折形态强势入局，更标志着华为在折叠屏形态演进的时间节点上，再次确立领先行业半年的绝对优势。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/82/v3/1051074938460/6b5e57f78dd34782a218fa1fe6a11648_1_6/hd.webp",
-    "realDate": "2026-04-13 11:18:57"
-  },
-  {
-    "id": "1051435ID3G7TMOC1DMCSD",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G7TMOC1DMCSD&to_app=hwbrowser&dy_scenario=topicinside&tn=9f9431f545ee64fa657d27fe85ceabb9eab153ee5bf5b87aebd3c45e9e63adff&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Anthropic的新AI模型被质疑用了字节Seed技术",
-    "summary": "近日，Anthropic公司未公开的Claude“Mythos”模型因在图搜索测试中表现异常引发热议。该模型在广度优先图搜索测试中以80%对21.4%的分数远超GPT 5.4，社区猜测其可能采用了字节Seed团队提出的循环语言模型架构。该架构通过内部潜空间迭代实现知识操作能力提升。",
+    "id": "1051435ID2BF8ZVGGGI3TE",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BF8ZVGGGI3TE&to_app=hwbrowser&dy_scenario=topicinside&tn=fa6ee9c9ac0e1c81d5812be939bee6206eed6ea7d3e2923c3feddeb11e441e61&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "李飞飞世界模型新成果发布",
+    "summary": "近日，李飞飞空间智能独角兽World Labs开源3D高斯溅射渲染引擎Spark 2.0。它基于Three.js构建，能将超大规模3D世界流式传输到多设备。全新Spark 2.0融合细节层次、渐进式流式加载、虚拟内存三项技术，实现超大规模3D高斯溅射场景在网页端预处理、流式加载与跨设备渲染。",
     "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/94/v3/1051435ID3G7TMOC1DMCSD/bd57ab683d8f4fa9ae09b9c9d4cf2eb0_1_1/hd.webp",
-    "realDate": "2026-04-13 12:24:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0e/v3/1051435ID2BF8ZVGGGI3TE/901278d0ec8c4423b6913cebd4eb76da_1_3/hd.webp",
+    "realDate": "2026-04-15 09:09:00"
   },
   {
-    "id": "105144879fc45c592753f745f07731eb470bf21",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144879fc45c592753f745f07731eb470bf21&to_app=hwbrowser&dy_scenario=topicinside&tn=db87299ad4d0eadf2fc31e50d2e4db66d81e8a00ac900b29af63972a642fb14c&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "微软版龙虾来了 报道称Copilot拟引入OpenClaw",
-    "summary": "微软正探索将开源AI智能体OpenClaw技术引入Copilot，旨在开发能自主处理复杂任务的智能体。OpenClaw可全天候运行并控制应用，如自动生成Outlook待办事项或整理Excel数据。同时，微软面临竞争压力，付费Copilot用户仅占Office 365用户的3%。安全性仍是关键挑战，部分功能或于6月Build大会推出预览版。",
+    "id": "105102132974553",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102132974553&to_app=hwbrowser&dy_scenario=topicinside&tn=5f71bd8c51864c74435c2a44d3f95ff1d6cf9849442bb42ba8d554c9a6837853&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "博通再获Meta芯片大单 CEO陈福阳卸任Meta董事",
+    "summary": "芯片巨头博通与Meta宣布深化合作，博通将持续为Meta定制加速器（MTIA）提供技术支持至2029年，初始合作规模超1吉瓦，并共同开发2纳米AI芯片。同时，博通CEO陈福阳卸任Meta董事转任顾问。Meta CEO扎克伯格称合作将提升系统性能与效率。MTIA是Meta专为AI训练与推理设计的定制芯片系列。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/Topic_aca2c5ee55d44bfaa8a6deb6742eec3c/2619a4b7cb3a4686916c7f8b83bdd640_1_0/hd.webp",
+    "realDate": "2026-04-15 14:01:21"
+  },
+  {
+    "id": "10512471714822558880724652",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512471714822558880724652&to_app=hwbrowser&dy_scenario=topicinside&tn=5d260f6561d878458e6aed0d7a062c761f3b242dbd12bcd91fd9a33d91493375&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "首飞成功！我国自主研发“无人飞行卡车”来了",
+    "summary": "我国自主研发的HH-200航空商用无人运输系统近日在陕西蒲城完成首飞，试验持续22分钟并取得成功。该系统由无人机和地面系统组成，无人机最大商载1.5吨、航程2360公里，货舱标准容积12立方米，可扩展至18立方米，2人5分钟即可完成装卸。该机型适应短跑道、高高原等特殊环境，未来将用于应急救援、航空遥感等领域。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/87/v3/10512471714822558880724652/1b27af1197784b3abf41e656cbef09e4_1_2/hd.webp",
+    "realDate": "2026-04-15 09:58:35"
+  },
+  {
+    "id": "10514480776613c1b62291790eecb0fd74841d5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514480776613c1b62291790eecb0fd74841d5&to_app=hwbrowser&dy_scenario=topicinside&tn=8a4686cbbb4a6af739706a28c4d38e1429ae34cbd39271306bb4219f4a2d3859&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Anthropic又“上新” 本周有望发布旗舰模型Opus 4.7和AI设计工具",
+    "summary": "新设计工具旨在通过自然语言提示帮助生成演示完稿、网站乃至完整产品原型，将对Gamma和Google Stitch构成挑战。知情人士透露，Claude Opus 4.7将作为Anthropic新一代旗舰模型之一，但其性能并非该公司当前最先进的水平。其内部真正的前沿模型为Claude Mythos，该模型仍处于测试阶段，已向部分早期合作伙伴开放。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/448d9276ec2b4029986dfeb8bcbbb1d9_1_0/hd.webp",
-    "realDate": "2026-04-13 21:03:09"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/10514480776613c1b62291790eecb0fd74841d5/1f5a76efa80b4cd49e7cd2260f681c52_1_0/hd.webp",
+    "realDate": "2026-04-15 06:20:47"
   },
   {
-    "id": "10511183e7e807c5b689ba659afed4a5d13e0f4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511183e7e807c5b689ba659afed4a5d13e0f4&to_app=hwbrowser&dy_scenario=topicinside&tn=936867bc5340d485f09cae21e558523c45a44a15a0c4bed6c3336244a76c0bf6&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "MiniMax M2.7全球开源 摩尔线程、沐曦等完成Day0适配",
-    "summary": "4月12日，MiniMax M2.7全球开源，华为昇腾、摩尔线程、沐曦等海内外厂商完成Day0适配。该模型三周前上线，具备构建复杂Agent Harness能力，在软件工程等场景表现优异。开源当日，华为昇腾、摩尔线程等技术团队分别基于自研架构实现高性能推理部署，昆仑芯、英伟达等也完成适配。同时，Together AI等开发平台同步接入模型。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/d6634fed689c48189d6e3deb4b3af0ad_1_0/hd.webp",
-    "realDate": "2026-04-13 09:02:54"
-  },
-  {
-    "id": "1051074938480",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074938480&to_app=hwbrowser&dy_scenario=topicinside&tn=9010b76e1f4488412673da39e24d568ea92e56edcee17377875c260ca4f4b067&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "AI预测英超联赛结果 Claude Opus 4.6表现最佳 Grok垫底",
-    "summary": "近日，一项针对2023-2024赛季英超联赛的AI预测测试显示，Anthropic的Claude Opus 4.6表现最佳，三次测试平均亏损11%，而X平台的Grok一次亏光资金，另两次未完成任务，在八款模型中垫底。OpenAI的GPT 5.4平均亏损13.6%，谷歌Gemini 3.1 Pro波动较大。",
+    "id": "1051074939189",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074939189&to_app=hwbrowser&dy_scenario=topicinside&tn=d8dd887f0d781c04ba9928104298ab0754628823b536238e6903b538b00ea593&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "“AI医生”并不可靠 研究称五款头部AI平台半数医学建议存在误导性",
+    "summary": "近日，美加英研究团队测试ChatGPT等五款主流AI平台发现，约50%的医学建议存在问题，其中近20%为严重误导。这些模型在疫苗等领域表现较好，但无法提供可靠依据。OpenAI称每周超2亿用户咨询健康问题，研究警告AI缺乏医疗资质可能传播错误信息。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/c631d6d7c9e94e778d689ac4354159b7_1_0/hd.webp",
-    "realDate": "2026-04-13 12:33:43"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/Topic_aca2c5ee55d44bfaa8a6deb6742eec3c/6746f6617f1f4f6c94dff4fcb524a5ec_1_0/hd.webp",
+    "realDate": "2026-04-15 08:30:53"
   },
   {
-    "id": "10510282342853",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282342853&to_app=hwbrowser&dy_scenario=topicinside&tn=3c89a223696228c042b89265bfb4f946f76fba72ff657edf89d332838c43a790&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "英伟达回应“洽购大型PC制造商”传言",
-    "summary": "一名英伟达发言人表示，该消息并不属实，英伟达并未就收购任何PC制造商展开讨论。此前，行业网站Semi Accurate刊文称英伟达正在寻求一笔“重塑PC市场格局”的并购。同时，戴尔和惠普股价也受次消息影响波动。",
-    "author": "科创板日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/c6dae7bddfbe4c8a8d8871104f50d019_1_0/hd.webp",
-    "realDate": "2026-04-14 04:53:25"
+    "id": "105144879d8c7fad971888fefaa8fa7a63127ff",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144879d8c7fad971888fefaa8fa7a63127ff&to_app=hwbrowser&dy_scenario=topicinside&tn=2b1f62aeb6b99b36b9449358744c06a5d167ef1102c97a40b1e713f795ac3107&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "谷歌持股SpaceX比例首次曝光 后者IPO或带来千亿美元回报",
+    "summary": "谷歌持有SpaceX约5%股权首次曝光，若后者以2万亿美元估值上市，该投资账面价值将达1000亿美元。据监管文件，谷歌持股比例从6.11%稀释至5%，同时马斯克持有40%股权。SpaceX已秘密递交上市申请，目标6月挂牌，募资最高750亿美元，或成全球最大IPO。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/Topic_aca2c5ee55d44bfaa8a6deb6742eec3c/0e8fe0723e924c50b25657392428ce7a_1_0/hd.webp",
+    "realDate": "2026-04-16 03:23:30"
   },
   {
-    "id": "10510282342109",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282342109&to_app=hwbrowser&dy_scenario=topicinside&tn=5aa62780d4a7f6f6f1cb0da138acf324a220a8f4cabd61db66ce7527d8e06b57&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "“马斯克版微信”将在周五上线",
-    "summary": "马斯克旗下X平台宣布，具备加密、阅后即焚等功能的X Chat将于4月17日上线。该应用对标微信，支持跨设备通话及481人群聊，承诺无广告且不追踪用户行为，但被指自行保留加密密钥且未明确AI交互数据处理方式。",
+    "id": "1051074939452",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074939452&to_app=hwbrowser&dy_scenario=topicinside&tn=aa6cf0e4de55df04f5b6d2236183b07a44dc29da5c65da852411c3f9ca213a00&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "宇树科技官宣H1机型参赛北京人形机器人马拉松",
+    "summary": "2026北京亦庄半程马拉松将于4月19日开跑。宇树科技宣布其H1机型参赛，该机器人高180厘米、重47千克，内部测试半马最好成绩50多分钟。同时，多个独立团队基于宇树产品自行开发参赛。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/Topic_aca2c5ee55d44bfaa8a6deb6742eec3c/fc656e0583c4484fa876bd58244518df_1_0/hd.webp",
+    "realDate": "2026-04-15 15:29:14"
+  },
+  {
+    "id": "1051448cef1da5500fd441bbb130c869a922aab",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448cef1da5500fd441bbb130c869a922aab&to_app=hwbrowser&dy_scenario=topicinside&tn=31aceca1ba37cbc8e8796361b9a74f4d877b30879f586f894e33bc0f0e95b9a3&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "阿斯麦Q1净利27.6亿欧元超预期 但Q2展望不及预期",
+    "summary": "阿斯麦一季度净销售额87.7亿欧元、净利润27.6亿欧元均超预期，毛利率达53%，并上调全年销售指引至360亿-400亿欧元。但Q2预计净销售额84亿至90亿欧元低于预期，毛利率51%至52%略低于Q1。CEO称芯片需求超供应，客户加速扩产计划，同时公司将出口管制不确定性纳入2026年预测。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ba/v3/1051448cef1da5500fd441bbb130c869a922aab/c5bfab526bcb42278b62174d8193cf5e_1_1/hd.webp",
+    "realDate": "2026-04-15 13:54:01"
+  },
+  {
+    "id": "1051054ucms_8sKtlWLfbsL",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8sKtlWLfbsL&to_app=hwbrowser&dy_scenario=topicinside&tn=b8c44bcdf78966777286253be656a6c002ded9f9776c559679664e432acffcf9&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "OpenAI“星际之门”再弃一国项目 微软接管获得3万块英伟达芯片算力",
+    "summary": "微软租用挪威北极圈内数据中心3万块英伟达Vera Rubin芯片，该设施原为OpenAI“星际之门挪威”项目准备。OpenAI因谈判未果放弃该项目，同时上周暂停了英国类似计划，理由为能源成本与监管问题。该公司基础设施投资计划从1.4万亿美元调整为6000亿美元。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/1051054ucms_8sKtlWLfbsL/f61452ae61424735b8bd5b713c1af3f8_1_4/hd.webp",
+    "realDate": "2026-04-15 07:29:09"
+  },
+  {
+    "id": "10510010cafddde0c64c8caa64202624a3febcc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510010cafddde0c64c8caa64202624a3febcc&to_app=hwbrowser&dy_scenario=topicinside&tn=c53391deb9193d9cb7bbac61e4150b59811bb4717f32ad3c1000a3a216aba3fa&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "扎克伯格把办公桌搬进Meta AI实验室 亲自下场写代码",
+    "summary": "Meta总裁迪娜·鲍威尔·麦考密克证实了该消息，扎克伯格全天驻守实验室工作。此举旨在近距离推动Meta人工智能技术升级，应对与OpenAI、Anthropic及谷歌在AI领域的激烈竞争。此前Meta已投入数十亿美元组建“超级智能实验室”，扎克伯格深度参与该团队筹建。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/Topic_aca2c5ee55d44bfaa8a6deb6742eec3c/d162cbc914ef4c559ce7505c69067fad_1_0/hd.webp",
+    "realDate": "2026-04-15 14:00:02"
+  },
+  {
+    "id": "10510282344481",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282344481&to_app=hwbrowser&dy_scenario=topicinside&tn=1b9566a2d2853a343633e84cca412045bca3556edf136fd0c4743f68c9f313bb&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "韩国存储芯片业面临重大风险：以色列溴供应处于伊朗袭击半径内",
+    "summary": "韩国存储芯片巨头三星和SK海力士97.5%的溴依赖以色列进口，而以色列ICL集团的溴生产基地位于伊朗导弹射程内的索多姆。全球三分之二溴供应来自以约地区，若运输中断将冲击DRAM和NAND芯片生产，波及消费电子、AI内存及数据中心产业链。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/20/v3/10510282342109/9b088e93e5234a3c82b947e0b8004992_1_0/hd.webp",
-    "realDate": "2026-04-13 14:44:46"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/11/v3/10510282344481/9b0af202b1b444c2baaae75ee061cd76_1_2/hd.webp",
+    "realDate": "2026-04-15 13:08:38"
   },
   {
-    "id": "1051044103129770",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103129770&to_app=hwbrowser&dy_scenario=topicinside&tn=917b947cc88dd31b99ddfa596b8b11ab059e8c8e9628100792147eacba5081e5&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "OpenAI CEO奥尔特曼房子两天内遭遇两次攻击",
-    "summary": "OpenAI CEO奥尔特曼位于美国旧金山的房子近日连续遭遇两次袭击，4月10日凌晨被投掷燃烧瓶后，12日凌晨又发生枪击事件。警方已逮捕3名嫌疑人并缴获枪支，具体动机仍在调查中。奥尔特曼在第一次攻击事件后发布的博客中，提到人们对人工智能的焦虑情绪。奥尔特曼表示，前几天有人告知他，有一篇关于他的煽动性文章，认为这是在人们对人工智能感到焦虑的情况下出现的，会让他的处境变得危险，但当时他并没有放在心上。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/a9b68462ee244039bfffdbab00523313_1_0/hd.webp",
-    "realDate": "2026-04-13 13:00:04"
-  },
-  {
-    "id": "1051143f81d0e9446d4f5c2943f92d1023eceb7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143f81d0e9446d4f5c2943f92d1023eceb7&to_app=hwbrowser&dy_scenario=topicinside&tn=15d13926d62a9a5c23a0edbe608a25e5081f0d7c262bd1e731dee1e14fe54758&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "苹果前AI负责人确认本周离职 生成式AI落后成导火索",
-    "summary": "苹果前AI负责人约翰·詹南德雷亚本周离职，其2018年从谷歌跳槽后主导的Apple Intelligence进展不及预期，生成式AI落后导致2025年3月被削减职权。升级版Siri多次延期，其职责已移交其他高管，离职前处于“顾问”状态等待股权归属。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/4227b8a848af49e1ad72db9c1220cfb4_1_0/hd.webp",
-    "realDate": "2026-04-13 07:31:00"
-  },
-  {
-    "id": "10511950affe15243c84801ed452a6e12985c72",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511950affe15243c84801ed452a6e12985c72&to_app=hwbrowser&dy_scenario=topicinside&tn=711a8b61852742c0cceeeda6961fdb2c8c911e544995ee4e4eaf502cbd94d048&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "词元已成“新石油”：全球算力紧张 龙虾热背后资源掠夺战或将烧至2029年",
-    "summary": "人工智能领域“词元”作为信息处理基本单位需求激增，国产视频大模型生成15秒视频需消耗30万词元。全球算力紧张致OpenAI暂缓Sora应用，Anthropic实施“词元配给制”。英伟达芯片租价两月涨50%，美银预测供需失衡或持续至2029年。",
-    "author": "红星新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_0cacdb55ab0547a7a340149c2a38aea6/56bcc9b2f0ad4f60bad149b3eafdb272_1_0/hd.webp",
-    "realDate": "2026-04-13 12:25:37"
+    "id": "10510282344448",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282344448&to_app=hwbrowser&dy_scenario=topicinside&tn=f780cbd2e86bc70f57e755cd14d1b503c6afec80276e8df9e6db75dd87a50bc2&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "美国首个禁止建大型数据中心的州要出现了 缅因州议会通过立法",
+    "summary": "缅因州议会近日通过法案，暂停新建电力负荷超20兆瓦的大型数据中心至2027年11月，成为美国首个颁布此类禁令的州。该法案旨在评估数据中心对环境和电网的影响，同时州长米尔斯正考虑是否批准。全美至少12个州正考虑类似禁令，因数据中心用电量巨大引发社区抗议。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/Topic_aca2c5ee55d44bfaa8a6deb6742eec3c/0d5548cc51f942eaa51d9ce448ec3634_1_0/hd.webp",
+    "realDate": "2026-04-15 10:54:54"
   }
 ]
