@@ -1,92 +1,101 @@
 [
   {
-    "id": "10511040ad1e9e2fce260971eb4269774328897",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511040ad1e9e2fce260971eb4269774328897&to_app=hwbrowser&dy_scenario=topicinside&tn=1f0b38c0825a741ce2b45e374db667963024b0766ca84b58315e48f9ba052601&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "宇树机器人打破人类1500米世界纪录",
-    "summary": "4月19日，在北京人形机器人半程马拉松排位赛中，宇树科技H1人形机器人以4分13秒自主完成1.9公里多弯道赛程，平均配速7.51米/秒，超越人类1500米、1英里及2000米世界纪录配速。该机器人全程未使用遥控器，依靠传感器自主决策。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_b0f8950108154be5a3a1d837ed208396/5098f9c3fad84f469d7b5a10f6c5037e_1_0/hd.webp",
-    "realDate": "2026-04-19 07:39:55"
+    "id": "10512172923389137613147",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512172923389137613147&to_app=hwbrowser&dy_scenario=topicinside&tn=6184691577061b55223ee27e714c25828101de54510b5d6498d0a52d45ada391&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "鸿蒙6.1正式发布 鸿蒙6终端设备数突破5500万",
+    "summary": "4月20日，华为在Pura系列及全场景新品发布会上正式发布了HarmonyOS 6.1版本，同时公布支持HarmonyOS 6的终端设备数已突破5500万台。本次更新带来了全新沉浸光感视效、星盾防诈、限时加密分享等功能，Pura 90系列等40多个机型可体验HarmonyOS 6.1正式版。",
+    "author": "花先锋队长",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/c09a6208e45b4ad793cd36aa24cafd07_1_0/hd.webp",
+    "realDate": "2026-04-20 17:44:07"
   },
   {
-    "id": "10510282348314",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282348314&to_app=hwbrowser&dy_scenario=topicinside&tn=2fced620b89049d9301f1ab7e4f7bdd17db4f42ba7db7bc6e7c7a36c6709660d&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "半导体又迎涨价函：涨幅最高或达15%",
-    "summary": "晶圆代工厂联电近日向客户发出涨价通知，预计2026年下半年调整晶圆价格，涨幅因产品组合和客户条件而异。供应链消息称，8吋晶圆涨幅约10%-15%，12吋成熟制程涨幅5%-10%。联电表示涨价源于需求稳健、产能趋紧及成本上升。此前晶合集成已宣布6月起晶圆涨价10%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f6/v3/10510282348314/61b8769ae400449cadbcf519fdbae1f3_1_3/hd.webp",
-    "realDate": "2026-04-18 20:00:35"
-  },
-  {
-    "id": "10510282348395",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282348395&to_app=hwbrowser&dy_scenario=topicinside&tn=7331ade20f52ef6f92b740571b3e5fd43b124b6d96b7e14cb2c3114f9e45305a&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "200亿美元！OpenAI押注“迄今为止最大”AI芯片",
-    "summary": "OpenAI近日与芯片设计商Cerebras达成协议，未来三年将支付逾200亿美元使用其晶圆级引擎服务器，同时提供10亿美元资金支持数据中心开发。Cerebras的WSE-3芯片面积达46225平方毫米，集成90万计算核心，性能远超英伟达B200。该交易是OpenAI减少对英伟达依赖战略的一部分。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_b0f8950108154be5a3a1d837ed208396/5033f619dcec459193494febeb5f1715_1_0/hd.webp",
-    "realDate": "2026-04-19 08:36:45"
-  },
-  {
-    "id": "10510863477403",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510863477403&to_app=hwbrowser&dy_scenario=topicinside&tn=f1067b92c67941d0e51d6284ab5ac081ee12e68e03f2af43b249d8b97d54e9f7&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "“还没断奶就出来跑半马了！”多款萌系人形机器人马拉松赛场火出圈",
-    "summary": "在北京亦庄机器人半马比赛中，多款身高75厘米的萌系人形机器人引发关注。高擎动力市场负责人梁丽丽表示，其参赛机器人采用迭代算法，速度达每秒1.5米，旨在验证高速奔跑时的稳定性与自研电机爆发力，而非追求比赛成绩。",
-    "author": "极目新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_b0f8950108154be5a3a1d837ed208396/00b1f967f8924660961350e8a5efbfc3_1_0/hd.webp",
-    "realDate": "2026-04-19 15:08:03"
-  },
-  {
-    "id": "1051074940872",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074940872&to_app=hwbrowser&dy_scenario=topicinside&tn=9949ee59bd1bc291772ab419b458504f6109718f6672d0ee80fab83334de7c13&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "脖子以下全是腿：网友自制“豆脚”机器人现身北京人形机器人马拉松",
-    "summary": "2026北京亦庄半程马拉松开跑，有网友自制的“豆脚”机器人因独特造型引发关注。该机器人采用高擎动力的小派机身，搭配偶域KigLand制作的豆包虚拟形象头套，以矮小身材和抽象设计成为赛事亮点。",
+    "id": "1051074941277",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074941277&to_app=hwbrowser&dy_scenario=topicinside&tn=491084acdf93fc8a70251a4b810c557197b4483d70859f24a8d774bae9ffebf3&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "华为AI眼镜正式发布 搭载小艺智能体 2499元起",
+    "summary": "4月20日，华为发布首款鸿蒙AI眼镜，售价2499元起。该产品配备1200万像素摄像头，支持HDR Vivid标准，可实现0.7秒快速拍摄及±20°自动构图矫正。同时搭载小艺智能体，支持实时视觉交互、47dB轻声识别及20种语言翻译，提供第一人称视角的智慧生活体验。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_b0f8950108154be5a3a1d837ed208396/71ae3a931a4d46ebb77bf5ea76239328_1_0/hd.webp",
-    "realDate": "2026-04-19 15:28:34"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/41adfda1aab647fc8ade74ad2363327e_1_0/hd.webp",
+    "realDate": "2026-04-20 17:20:14"
   },
   {
-    "id": "1051435ID3G8HFLK7I1IZO",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G8HFLK7I1IZO&to_app=hwbrowser&dy_scenario=topicinside&tn=3d226bcce32f1f046e8f4dc4289c93d35399f60cce4c91ecc42704c64d99fa4a&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
-    "summary": "高德发布全球首个面向AGI的全栈具身技术体系ABot，其世界模型在CVPR 2026国际挑战赛中超越谷歌英伟达。据介绍，该体系以“物理优先、动作可控、闭环进化”为核心，通过可交互世界模型ABot-World实现物理规律推演，横扫具身智能领域15项SOTA技术指标，成为全球唯一三项关键指标全面领先的解决方案。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1435_8/8a/v3/1051435ID3G8HFLK7I1IZO/8c505d63443e4d30a88db8f3abe423df_1_5/hd.webp",
-    "realDate": "2026-04-19 12:28:00"
+    "id": "10510282348905",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282348905&to_app=hwbrowser&dy_scenario=topicinside&tn=4157cad15fff8524711167d55275e1d21f9a67d288fd92052f3f4dd8d1675604&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "挑战英伟达 谷歌欲携手Marvell开发两款AI芯片",
+    "summary": "据介绍，新芯片包括内存处理单元和新型TPU，以提升AI模型运行效率。Marvell将承担设计服务，目前谈判尚未形成正式合同。谷歌TPU销售已成为其云业务增长驱动力，同时该公司计划最早明年完成内存处理单元设计。Marvell数据中心业务收入创纪录，定制芯片业务年化营收约15亿美元。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5e/v3/10510282348905/85259ba0601246b29b104f45259cb379_1_6/hd.webp",
+    "realDate": "2026-04-20 10:27:44"
   },
   {
-    "id": "1051057d_KQSJOIPV0511ABV6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KQSJOIPV0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=495e08b341cb3d4f90fb21fc7d6c8201b59f4820c33a83c98d5aed9fe1a55b01&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "扎克伯格拆骨Thinking Machines 120亿美元AI独角兽第5位创始人跳槽Meta",
-    "summary": "Meta近9个月持续挖角AI公司Thinking Machines Lab，后者目前估值120亿美元，其第五位创始成员Joshua Gross上月加入其超级智能实验室。同时，该公司从Meta挖来Py Torch之父Soumith Chintala担任CTO。该初创公司去年融资20亿美元后员工激增4倍至130人，但核心团队频遭巨头争夺。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1057_8/b5/v3/1051057d_KQSJOIPV0511ABV6/d687c00fc09b451e9ae4ce977052df1d_1_0/hd.webp",
-    "realDate": "2026-04-19 12:18:27"
+    "id": "1051074941214",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074941214&to_app=hwbrowser&dy_scenario=topicinside&tn=19877c626b41f8759ec6daf0341df36dce23d1f8d747c7aef293da18deda78fd&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "阿里Qwen 3.6-Max预览版发布 新一代“家族旗舰”模型来了",
+    "summary": "该模型为Qwen系列新一代旗舰早期版本，提供交互对话与API调用。相比Qwen3.6-Plus，其在智能体编程、世界知识和指令遵循等六项基准上均有显著提升。同时，阿里表示该预览版仍在持续优化中。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/d89d1c89ff7947c8ae69ad54231c3519_1_0/hd.webp",
+    "realDate": "2026-04-20 15:53:53"
   },
   {
-    "id": "105105003c4420a5e398d2219aa5c911974867b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105105003c4420a5e398d2219aa5c911974867b&to_app=hwbrowser&dy_scenario=topicinside&tn=4ccc2829ae5d5ee8f7f869b96b0bb92b21a62f4e014aec9ff59f84ee4df8cdf8&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "三年亏14亿 千亿芯片巨头芯原股份辟谣“友商抢单”",
-    "summary": "近日，芯原股份股价因“抢单传闻”一度闪跌13%，董事长戴伟民辟谣称友商抢单不实，强调公司2025年末在手订单达50.75亿元。该公司近三年累计亏损超14亿元，但2025年营收突破30亿元，亏损同比收窄12.16%。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_b0f8950108154be5a3a1d837ed208396/e888a6fba092452fb4808aeb2217efd1_1_0/hd.webp",
-    "realDate": "2026-04-19 10:54:38"
+    "id": "10510749746053108845282",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510749746053108845282&to_app=hwbrowser&dy_scenario=topicinside&tn=d978212de4862f2a1aa8ad1b3b0a2d347294d1c0ccbdfee1365e84666224c9a7&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "华为首款珠宝智能腕表发布：镶嵌99颗天然钻石 售价29999元",
+    "summary": "华为在Pura系列新品发布会上推出首款珠宝智能腕表，WATCH ULTIMATE DESIGN非凡大师星钻绽放款，售价29999元。该表由国际珠宝设计师操刀，镶嵌99颗天然钻石，搭载蓝宝石玻璃表镜及玄玑感知系统，支持健康监测、eSIM通话等功能，将于5月15日开售。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/a5050b460e2a45bfbc2cb3b6398a66da_1_0/hd.webp",
+    "realDate": "2026-04-20 17:20:34"
   },
   {
-    "id": "1051023726742",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023726742&to_app=hwbrowser&dy_scenario=topicinside&tn=a89e219eefed6658c9bd8c16ce556a20dc5e66e881d5b115b681ccc3776a612b&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "中国机器人租出海 一天6000美元",
-    "summary": "近日，擎天租CEO李一言透露，在欧洲地区，例如德国，一台国内型号的灵犀X2机器人日均租赁价格在2000至3000欧元。在北美地区，更高性能的机器人单日租金则达到6000美元。海外市场因供需缺口大、人力成本高推高价格，但价格下行是趋势。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/70/v3/1051023726742/eae877984e494f158ef4868539ce8294_1_4/hd.webp",
-    "realDate": "2026-04-19 14:45:04"
+    "id": "1051074940968",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074940968&to_app=hwbrowser&dy_scenario=topicinside&tn=2790d0719e6ae8c0ae0ff7b5609f272a93c7b6da146056ec904f869bfdfebd3c&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "三星电子工会警告称：罢工或致最高30万亿韩元损失",
+    "summary": "三星电子工会表示，5月21日至6月7日计划举行的18天罢工将可能导致20万亿至30万亿韩元生产损失，日均损失超1万亿韩元。该工会已获多数代表资格，诉求包括将绩效奖金设为营业利润15%并取消上限，同时要求副会长李在镕参与谈判。行业人士指出，半导体生产中断将影响交付并可能引发违约。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/b1252ac731d24ad599181c1f6eb0840a_1_0/hd.webp",
+    "realDate": "2026-04-20 07:25:42"
   },
   {
-    "id": "10514483cb404ca71e6c74d8949c840960d2aa7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483cb404ca71e6c74d8949c840960d2aa7&to_app=hwbrowser&dy_scenario=topicinside&tn=ce63a030164caa8354005f1e31bb03f7e25e73c2d2d096d9f871fbf2bad7f482&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "内存危机深化：有DRAM厂商预计2027年前仅能满足六成需求",
-    "summary": "主要DRAM厂商三星、SK海力士、美光扩产仍难缓解供给危机，行业数据显示到2027年底全球供给仅能满足六成需求。AI算力爆发导致HBM等专用内存挤占消费电子份额，PC与智能手机市场受冲击最严重。2026年第一季度内存价格同比暴涨110%，供需失衡或持续至2028年后。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_b0f8950108154be5a3a1d837ed208396/7c2b51b3a0654536b2d4aba092be920c_1_0/hd.webp",
-    "realDate": "2026-04-19 16:29:38"
+    "id": "105102133011024",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133011024&to_app=hwbrowser&dy_scenario=topicinside&tn=cde1a1b7d43582be125bd24c237343ec99099cd3842f12754f078fd255a51383&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
+    "summary": "近日，英伟达CEO黄仁勋在播客节目中批评美国芯片出口管制政策，称其主张“极其愚蠢”且是“失败者心态”。他表示中国已具备相当算力资源，限制英伟达芯片无法阻止中国AI发展，同时强调计算生态难以替代，公司应通过持续创新而非封锁来保持竞争力。黄仁勋还承认早期未能支持Anthropic等AI初创企业是自身失误。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/1ee30f9de9c24dcaad4afaa50e8c4420_1_0/hd.webp",
+    "realDate": "2026-04-20 19:33:22"
+  },
+  {
+    "id": "105102133009011",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133009011&to_app=hwbrowser&dy_scenario=topicinside&tn=da8a1ea3cb15b19b784c6c819e949549e261fbaec9f5921742cf3962c72fb9aa&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "李飞飞学生苏昊加盟复旦 目标培养下个十年的AI领军人物",
+    "summary": "复旦大学近日宣布，AI专家苏昊加盟担任浩清特聘教授及通用物理智能研究院院长，致力于推动物理智能研究。苏昊拥有斯坦福大学计算机科学博士学位，以前师从“AI教母”李飞飞并参与ImageNet项目，此前为加州大学圣地亚哥分校终身副教授。加盟复旦大学后，他致力于培养下个十年的人工智能领军人物。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6b/v3/105102133009011/473a70abfe9f42c78378703debc8b9ba_1_3/hd.webp",
+    "realDate": "2026-04-20 11:24:01"
+  },
+  {
+    "id": "1051023726789",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023726789&to_app=hwbrowser&dy_scenario=topicinside&tn=811bf59978452cd33749e3635628a5a287536e00c9dfeb3b8a7417e808841a37&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "受昔日中国学生聘请 国际顶级分析化学家加盟中山大学",
+    "summary": "近日，国际著名分析化学家、加拿大皇家科学院院士雅努什·帕夫利申加盟中山大学，其曾指导的中国学生、现中大化工学院院长欧阳钢锋参与引进。帕夫利申是固相微萃取技术发明者，发表论文800余篇，引用超8.8万次，2019年位列全球分析科学百强人物第九。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f3/v3/1051023726789/16272696bfb346cfa52534f1b01336d3_1_2/hd.webp",
+    "realDate": "2026-04-20 08:23:12"
+  },
+  {
+    "id": "1051074941098",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074941098&to_app=hwbrowser&dy_scenario=topicinside&tn=7d0537e1c9c6044e4302a6c3160d58ad5c643e77891ecf0600a9db47f4c53422&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "脑机接口新突破：猴子仅凭意念在VR世界中自由移动",
+    "summary": "近日，一项发表于《科学进展》的研究显示，三只植入新型脑机接口的恒河猴仅凭大脑信号，成功在VR环境中实现自主移动。该系统通过解码运动相关脑区信号，使猴子完成避障、目标切换等复杂任务，无需肢体动作或重新训练，为实用型脑机接口研发提供新突破。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/cb/v3/1051074941098/f98cead1f15e4f5a8c677da0b24d073a_1_0/hd.webp",
+    "realDate": "2026-04-20 12:11:24"
+  },
+  {
+    "id": "1051104a92c8992c03356a70284fbccc749f9ff",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104a92c8992c03356a70284fbccc749f9ff&to_app=hwbrowser&dy_scenario=topicinside&tn=dd0decbd789a5e58035c54329755bdfa22939e736ce827b0f286f99d76e4a059&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "蓝色起源新格伦火箭发射失败：未能将卫星送入预定轨道",
+    "summary": "当地时间4月19日，蓝色起源公司新格伦火箭第三次发射任务失败，搭载的AST SpaceMobile公司BlueBird 7卫星因第二级故障被送入过低轨道，最终在入大气层烧毁。该卫星原计划用于太空蜂窝宽带网络。新格伦火箭高98米，近地轨道运力45吨，此次是其第二次商业发射。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/Topic_aaea049a409241fe99e9160301251e82/cc56d6edc75841abbfdd5ae9724c50cf_1_0/hd.webp",
+    "realDate": "2026-04-20 08:37:40"
   }
 ]
