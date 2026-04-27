@@ -7,7 +7,7 @@ const APIDICT = {
 }
 
 const _URL_ =
-  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_5f57284795e5493f958540a4317c9e33&to_app=hwbrowser&dy_scenario=topicinside&tn=90a3f8a6639eaa065d8b9312976ab5dd0e70790f700453f6b86554f3a3d0d93e&channel=-1&ctype=topic&cpid=666&r=CN&share_to=system#/newspaper'
+  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_d808575d3af4440da4aef9b690f0fc6d&to_app=hwbrowser&dy_scenario=topicinside&tn=65a795cea7e3aec5dcbb5833d4bf8389331e7372d2f1f5b5034784c6267ba08e&channel=-1&ctype=topic&cpid=666&r=CN&share_to=system#/newspaper'
 
 // 创建浏览器实例(无头模式)
 const browser = await chromium.launch({ headless: true })
@@ -118,6 +118,46 @@ const persistenceData = async (data, filename) => {
   }
 }
 
+const publishNews = async (data) => {
+  const WECHAT_OPENID = process.env.WECHAT_OPENID
+  console.log(' ------------------- Publish Global News ------------------- ')
+  const url = 'https://news.crism.cn/api/v1/wechat/refresh_global_news'
+  const headers = {
+    openId: WECHAT_OPENID,
+    'Content-Type': 'application/json',
+  }
+
+  const body = JSON.stringify({
+    data: {
+      articles: data.map((item) => {
+        return {
+          guid: item.id,
+          title_cn: item.title,
+          summary_cn: item.summary,
+          image_urls: [`${item.image}?id=${item.id}&media_id=${item.id}`],
+          author: item.author,
+          pub_date: item.realDate,
+          original_title: '',
+          original_url: '',
+        }
+      }),
+    },
+  })
+
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers,
+      body,
+    })
+    await res.json()
+    return true
+  } catch (error) {
+    console.error('Publish Global News Failed:', error)
+    return false
+  }
+}
+
 ;(async () => {
   const categorys = await OPEN_URL_WASH_DATA(_URL_, getTodayNewsUrl)
 
@@ -126,6 +166,7 @@ const persistenceData = async (data, filename) => {
   if (globalNews.url) {
     const newsList = await OPEN_URL_WASH_DATA(globalNews.url, getTodayNews)
     await persistenceData(newsList, globalNews.title)
+    await publishNews(newsList)
   }
 
   // 科技早报
