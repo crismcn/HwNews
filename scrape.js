@@ -1,5 +1,6 @@
 import { chromium } from 'playwright'
 import fs from 'fs/promises'
+import crypto from 'crypto'
 
 const APIDICT = {
   recommend_newspaper: `https://newsfeed-drcn.cloud.dbankcloud.cn/infoflow/v2/recommend_newspaper?channelId=-1&count=4&refresh=001&cachedCount=0`,
@@ -92,7 +93,7 @@ const getTodayNews = async (response) => {
           .map((item) => {
             const { id, url, title, summary, source, image, realDate } = item
             return {
-              id,
+              id: crypto.createHash('md5').update(summary).digest('hex'),
               url,
               title,
               summary,
