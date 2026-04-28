@@ -1,14 +1,7 @@
 import { chromium } from 'playwright'
 import fs from 'fs/promises'
 import crypto from 'crypto'
-
-const APIDICT = {
-  recommend_newspaper: `https://newsfeed-drcn.cloud.dbankcloud.cn/infoflow/v2/recommend_newspaper?channelId=-1&count=4&refresh=001&cachedCount=0`,
-  recommend_newspaper_more: `https://newsfeed-drcn.cloud.dbankcloud.cn/infoflow/v2/recommend_newspaper_more?channelId=-1&count=15&refresh=001&cachedCount=0`,
-}
-
-const _URL_ =
-  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_d808575d3af4440da4aef9b690f0fc6d&to_app=hwbrowser&dy_scenario=topicinside&tn=65a795cea7e3aec5dcbb5833d4bf8389331e7372d2f1f5b5034784c6267ba08e&channel=-1&ctype=topic&cpid=666&r=CN&share_to=system#/newspaper'
+import { APIDICT, _URL_ } from './config.js'
 
 // 创建浏览器实例(无头模式)
 const browser = await chromium.launch({ headless: true })
@@ -107,6 +100,18 @@ const getTodayNews = async (response) => {
   }
 }
 
+const reCacheUrl = async (url) => {
+  const categorys = await OPEN_URL_WASH_DATA(url, getTodayNewsUrl)
+  const globalNews = categorys.find((item) => item.title == '每日财经早报') || { url: '', title: '' }
+  // 将 globalNews.url 写入到 config.js 文件 _URL_ 中
+  if (globalNews.url) {
+    const configContent = await fs.readFile('./config.js', 'utf-8')
+    const updatedConfig = configContent.replace(/const _URL_ =[\s\S]*?'[^']*'/, `const _URL_ =\n  '${globalNews.url}'`)
+    await fs.writeFile('./config.js', updatedConfig, 'utf-8')
+    console.log(' >>>>>>>>>>>>>>>>>>>>>>>>>> 已更新 _URL_ <<<<<<<<<<<<<<<<<<<<<<<<<< ')
+  }
+}
+
 // 持久化数据到文件
 const persistenceData = async (data, filename) => {
   try {
@@ -164,6 +169,8 @@ const publishNews = async (data) => {
 
   // 国际早报
   const globalNews = categorys.find((item) => item.title == '每日国际早报') || { url: '', title: '' }
+  reCacheUrl(globalNews.url)
+
   if (globalNews.url) {
     const newsList = await OPEN_URL_WASH_DATA(globalNews.url, getTodayNews)
     await persistenceData(newsList, globalNews.title)
