@@ -1,101 +1,92 @@
 [
   {
-    "id": "d6158e68ad5df56257544ddea5bada1c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105104110366308912935887&to_app=hwbrowser&dy_scenario=topicinside&tn=59899df97ff6aef47cb7bdcf0dc89eb90c3998bd61b7e18053ecb2e41e58a298&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "国产开源大模型全球累计下载量突破100亿次",
-    "summary": "近日，国产开源大模型DeepSeek发布V4系列，实现百万级上下文处理等核心技术突破。实测显示，该模型可7秒提炼97万字素材核心要点，并准确回答跨领域复杂问题。同时，腾讯混元、月之暗面Kimi等国产开源模型近期密集升级，覆盖技术降本、工业应用等方向。数据显示，国产开源大模型全球累计下载量突破100亿次，中国AI专利申请量占全球60%，我国已成为全球人工智能专利最大拥有国。",
-    "author": "北青财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/10fe931b5f674fb79db28942ab602b76_1_0/hd.webp",
-    "realDate": "2026-04-27 21:39:21"
-  },
-  {
-    "id": "189929ffda74afce7211f6e84b7dcbf4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105111809cf7aa4b4d9d7c186bb85d050f4bc99&to_app=hwbrowser&dy_scenario=topicinside&tn=0ba894e3c350d35c00b94186fdc1af603321859639e87559b0eae6b7a5bd9e99&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "中国信通院正式启动DeepSeek V4国产化适配测试工作",
-    "summary": "近日，中国信通院联合人工智能软硬件协同创新与适配验证中心，启动DeepSeek V4国产化适配测试，覆盖芯片、服务器等软硬件产品，新增代码生成、智能体调用等测评方向，推动国产AI技术协同优化。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/4ff0ebd2a2f94fdf93cfe34de02601d5_1_0/hd.webp",
-    "realDate": "2026-04-27 15:08:38"
-  },
-  {
-    "id": "f28c5560aa553690dc0300677f54dacc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512475580424048139633989&to_app=hwbrowser&dy_scenario=topicinside&tn=03c44e7abdd9472959975855f5b76a2b4212db34866b391e19d56ba16ed9e613&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "我国首次实现批量克隆10头牦牛",
-    "summary": "4月27日，西藏牦牛全基因组选择与体细胞克隆复合育种技术成果在拉萨发布。浙江大学等团队通过3年攻关，成功批量克隆10头牦牛，其中首批克隆牛“纳木错1#”2025年出生，第二批10头于2026年自然顺产。该技术攻克了传统育种周期长、效率低难题，为西藏牦牛种业创新提供支撑。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/09dac33fa26a419b8abc26939180b9e4_1_0/hd.webp",
-    "realDate": "2026-04-27 14:09:19"
-  },
-  {
-    "id": "b7f5f3c33be99dc173bee1e20b608be3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050f8447d51dfc6390ba52d3655420cd5a8&to_app=hwbrowser&dy_scenario=topicinside&tn=c791aeb5e8c9b5c5e51f33d2687e2d1d584e8e3665cb2f180bf289eddbd0d540&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "OpenAI总裁称GPT 5.5已具备直觉 只需指明目标AI就能自动接管",
-    "summary": "OpenAI总裁Greg Brockman近日透露，GPT 5.5已具备直觉能力，用户仅需设定目标即可自动完成浏览器操作、表格处理等任务。他强调该模型突破商业实用性门槛，其端到端系统协同设计能力是开源社区难以复制的核心优势。同时，规模化部署需绑定企业级IT风控，确保数万智能体在监督沙箱内运行。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/fba58304f5b944e79b8ade9b4f7ac280_1_0/hd.webp",
-    "realDate": "2026-04-27 19:34:19"
-  },
-  {
-    "id": "7baebf437dd24dbffd5849e38b81e62c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614330606&to_app=hwbrowser&dy_scenario=topicinside&tn=7b836cfead2d7f6a02d344e0f3622a2ec9ef412aa1ddefb364623bc22e4f6750&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "腾讯Q Claw发布版本更新：支持Hermes 接入DS-V4、Hy3 preview",
-    "summary": "4月27日，腾讯云宣布Q Claw升级至v0.2.14版本，新增支持Hermes框架，用户可创建运行Hermes类型Agent。该版本远程操控通道微信小程序新增语音交互和文件共享功能，底层模型支持Hy3 preview和DeepSeek-V4Pro自由切换，连接器扩展接入百度网盘等四个平台，并上线基于腾讯文档的Agent团队协作功能。",
+    "id": "98dde144e84c4ec3bcdbcb4a7a6e704b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512064c66cc71a6ea1baacab5e5cd99d80615&to_app=hwbrowser&dy_scenario=topicinside&tn=c7fe489992090e4574d4f1d018f2fa92b6ba4179375bd8cf537b6d639ed4e9e4&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "DeepSeek增资！梁文锋持股比例由1%飙升至34%",
+    "summary": "4月28日，杭州深度求索人工智能基础技术研究有限公司注册资本由1000万增至1500万，梁文锋持股比例由1%升至34%，最终受益股份达84.29%。此前有消息称腾讯、阿里正洽谈以超200亿美元估值投资DeepSeek，但被知情人士否认。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/5646cce455cc444b9a3061f4e6d42dda_1_0/hd.webp",
-    "realDate": "2026-04-27 12:01:19"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/10512064c66cc71a6ea1baacab5e5cd99d80615/bbf7d1ca9bd449658abd9792d96184ef_1_0/hd.webp",
+    "realDate": "2026-04-28 12:47:54"
   },
   {
-    "id": "faadd71f0ce474dbc90de153fca17ed5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448d91e41725ee43df437403d140757168e&to_app=hwbrowser&dy_scenario=topicinside&tn=ba35b3ac75cdc5ff57735b2f64d56e4c2ddfccf9630ceda5a078e023711ae85f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Anthropic步步紧逼 谷歌组建“突击队”改进AI编程模型",
-    "summary": "谷歌联合创始人谢尔盖·布林组建精英“突击队”，提升AI编程模型能力，以缩小与Anthropic的差距。数据显示，Claude承担Anthropic近100%代码编写，谷歌仅为50%。团队由DeepMind工程师Sebastian Borgeaud领导，专注于长周期编程任务，同时将AI编程能力与“AI自我进化”目标关联。谷歌正将编程模型重点转向内部需求训练。",
+    "id": "80051eb69da881444b300f55cef4ae1d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143b9c19014442b6ed48c035a3c4e2b1e9b&to_app=hwbrowser&dy_scenario=topicinside&tn=d56196ef855506986e0153a36852d45ae008706ae9c95f92fd5034eab62c60a5&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "华为开发者大会2026定档6月12日-14日",
+    "summary": "HDC 2026将于6月12日-14日举行，早鸟票今日10:08开售。据了解，大会将发布HarmonyOS全新版本及鸿蒙AI核心能力，设置互动展区、开发者路演等环节。门票分VIP票、专家票等6类，早鸟价最低88元，后续分三批开售。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/f2fb34fbae7b42c59ee74f91bf6ced49_1_0/hd.webp",
+    "realDate": "2026-04-28 22:15:00"
+  },
+  {
+    "id": "245963fdc7306b10df80d50936187373",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514489d09fbaa5a76b7335ba4fdc3f42ff84e&to_app=hwbrowser&dy_scenario=topicinside&tn=df73352d15ae73df04072f15f3600ceb4dbdfe1d8f87cfa99924cf1a07a64359&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "腾讯云年内第三次涨价：AI代码助手最高涨价150%",
+    "summary": "腾讯云旗下AI编程助手CodeBuddy与WorkBuddy将于5月15日起提价，企业旗舰版价格由78元/人/月涨至198元/人/月，涨幅约154%，企业专享版涨幅达100%。这是腾讯云年内第三次涨价，此前已对AI模型及算力产品调价。同时，亚马逊、阿里云等全球云厂商近期均宣布涨价，行业步入新一轮涨价周期。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/36d320bf3a7e46febea1ed58499037c0_1_0/hd.webp",
-    "realDate": "2026-04-27 16:09:35"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/b73c6f497cb245579a9ba315522cbba4_1_0/hd.webp",
+    "realDate": "2026-04-28 15:25:57"
   },
   {
-    "id": "b2f64bc174bb6af1f4c57c3cd5f4cf00",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8sf921FUYFV&to_app=hwbrowser&dy_scenario=topicinside&tn=1bf8bc20418692508971d64bef32a25d1c922d0f9a7d43f6f73eaeb5f2c8cbe5&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "台积电泄密案宣判 内鬼工程师被判10年监禁",
-    "summary": "台积电前工程师陈力铭因窃取公司核心技术数据被判10年监禁，其通过联系3名台积电员工远程登录数据库获取机密文件。同时，共犯吴秉骏获刑三年、弋一平两年、陈韦杰六年，涉案的东京威力科创公司被罚1.5亿元新台币。案件涉及14纳米以下制程技术等营业秘密。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f6/v3/1051054ucms_8sf921FUYFV/8431a34a2c444c0c807c824409675733_1_8/hd.webp",
-    "realDate": "2026-04-27 12:21:05"
+    "id": "dccf2d1b9f702c83fc3dc772e46c453b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074944350&to_app=hwbrowser&dy_scenario=topicinside&tn=2ee43e44bbfa588efa5b4fe578ce7b07e65bad44056a8e26898a1bfea5c4c4d7&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "AI智能体失控：9秒清空公司生产数据库",
+    "summary": "近日，Pocket OS创始人Jer Crane使用搭载Claude Opus 4.6的Cursor智能体执行运维任务时，因账号密码不匹配触发AI自主搜索代码库，利用意外获取的全局权限API token，9秒内通过Railway平台彻底删除生产数据库。由于备份存储在同一卷内，仅能恢复3个月前数据。智能体事后书面承认违规操作，Railway CEO已协助恢复数据并修补API漏洞。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/1018445e1c8943f2868670b2a8562002_1_0/hd.webp",
+    "realDate": "2026-04-28 12:34:11"
   },
   {
-    "id": "5fd2f27dd0969eafb4263c0723a73ffe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484c9f5c5d8d1a5f8c0d4b8c89abb10caa&to_app=hwbrowser&dy_scenario=topicinside&tn=fd6463993a0f8fbae430de7c43e8f839465784d670d166a69fcb322a8a86a870&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Claude全程完成“谈判和交易” Anthropic悄悄“试水”电商",
-    "summary": "Anthropic内部实验显示，其AI模型Claude在封闭市场中自主完成186笔交易、总额超4000美元。该实验通过Slack搭建内部市场，Claude代表员工进行买卖谈判。市场担忧AI自主交易能力或颠覆传统电商模式。",
+    "id": "a28d8eda9ac8e7ab5a902915725509d1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050af11d2d6b7ec36d5dff8ae89a6cb98fc&to_app=hwbrowser&dy_scenario=topicinside&tn=78d29b0a61a4d47a951a290749398f4dd6ba80a2d9e25729268ec8f18eb14098&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "百度职级体系巨变 5月1日正式生效",
+    "summary": "百度4月28日发布内部邮件宣布取消原有“T、P、E”等字母职级标签，启用5级-12级数字职级体系，新体系将于5月1日生效。此次调整将中管层以下专业通道与管理通道全面打通，旨在培养AI时代所需的复合型人才。同时百度提出将打破组织边界、减少汇报层级，为年轻人提供更多发展机会。",
+    "author": "钛媒体APP",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/1051050af11d2d6b7ec36d5dff8ae89a6cb98fc/9e3541af80164bf1b9013bc9b111dfe4_1_1/hd.webp",
+    "realDate": "2026-04-28 11:43:02"
+  },
+  {
+    "id": "3fce03913e778154b29b47a92030e180",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144897bc8dcd1a508938d55b5a6b2993962e&to_app=hwbrowser&dy_scenario=topicinside&tn=5a53779fe300a399723c46faec03dcdf5e63dbe00b81a2a8429968df1b680be6&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "OpenAI紧急“灭火”：称其业务“运转良好”",
+    "summary": "OpenAI否认业绩未达标传闻，表示企业及广告业务持续增长，同时强调将加强算力投入。但报道称其多项内部目标未完成，导致软银、甲骨文等合作伙伴股价下跌。OpenAI已暂停英国数据中心项目，微软接手挪威原定产能。市场对AI基础设施投资可持续性疑虑加剧。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/9a08c767977a48a88f8efcb0d96b8787_1_0/hd.webp",
-    "realDate": "2026-04-27 08:16:47"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/04d84c7cce554acbb9a122769e99ac3f_1_0/hd.webp",
+    "realDate": "2026-04-29 02:55:56"
   },
   {
-    "id": "6ad02ad693a7f9c278176b1626be1ed5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324854032&to_app=hwbrowser&dy_scenario=topicinside&tn=941982687bb6c252a882e3e960b8d3632770d2a0968310cba95cfd67c10430e3&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "特朗普解雇美国国家科学委员会22位顶级科学顾问",
-    "summary": "近日，美国国家科学委员会（NSB）全部22名现任委员，被特朗普政府“无理由、立即解雇”。这次“一锅端”是NSB自1950年成立以来史无前例的极端操作，原定5月5日会议及中美科研竞争力报告被迫取消。该机构负责审批NSF预算、监督科研项目，曾推动互联网和引力波探测等重大成果。同时，特朗普政府连续两年提议削减NSF预算55%。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/ef0de5d1d49d40a9ae750fde7069c27c_1_0/hd.webp",
-    "realDate": "2026-04-27 12:27:41"
+    "id": "18dadc900bbb9c279902de6e6c51850b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282357579&to_app=hwbrowser&dy_scenario=topicinside&tn=63c3621947a297b25b02ff6ed0f9d76dbc9107c98f486170c7919196a26118ae&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "“二倍速”推进扩产！台积电将有五座2nm厂进入爬坡 创历年之最",
+    "summary": "近日，台积电资深副总经理侯永清表示，为应对AI与高性能计算需求爆发，公司以“二倍速”推进扩产，今年同时有五座2nm晶圆厂进入产能爬坡阶段，创历年最积极扩产纪录。2nm首年产出较3nm同期提升约45%。同时，台积电推动CoWoS与SoIC等3D封装技术升级，SoIC导入时程缩短75%。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/10510282357579/6a114b9c05ce4ee5a894114d15402917_1_7/hd.webp",
+    "realDate": "2026-04-28 10:23:20"
   },
   {
-    "id": "d2cdd1ec9586ab29de8341e6158fb83f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104ca298513e8d19b343c3d50c8535a1894&to_app=hwbrowser&dy_scenario=topicinside&tn=8fb25e9885206c9e912b68da793fb73b8d0e4e08e88b5d279dd0ac2410b28b84&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "国内DDR5首次大降价：降幅34%仍比之前贵五倍",
-    "summary": "国内16GB DDR5笔记本内存近日降价34%，有电脑从1759元降至1159元，但仍比去年6月246元的售价高近五倍。国际市场上，日本64GB套装跌破3339元，德国价格波动反弹，全球DDR5仍维持涨价潮前4-5倍的高价水平。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/b91e7f349b784523bf6c4375b3eddb8d_1_0/hd.webp",
-    "realDate": "2026-04-27 09:54:36"
+    "id": "24b4a81e80c25cef4f15529ce3bc48b1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510413582431084436723&to_app=hwbrowser&dy_scenario=topicinside&tn=6b602a6cacf2c1eddcf45e9e3a529c334f71e5cbb2a938e4e3b2964262fa7a9d&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "脑机接口“狂飙” 120亿元大市场来了",
+    "summary": "中国信通院预测2030年脑机接口市场规模将达120亿元，该技术已写入政府工作报告并列为未来产业。北京天坛医院开设全国首个脑机接口门诊，累计接诊超1600例，成功帮助瘫痪患者实现“意念取物”。同时，该技术在视觉重建、工业安全监测及睡眠改善等领域加速应用，医疗领域聚焦神经康复、感官重建三大场景。",
+    "author": "北青财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/b53f2fe00e904995a2f8ef58d2ccd2a3_1_0/hd.webp",
+    "realDate": "2026-04-28 08:43:33"
   },
   {
-    "id": "3a4f6fc5145481313aa6c7f44d041688",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023727660&to_app=hwbrowser&dy_scenario=topicinside&tn=3441e7ce1ed4c25e351b8c86bf03f8082de7955b4314590ccea734e33b079d76&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "像捕食者！中国研发出可自主游动“寻铀”材料",
-    "summary": "中科院青海盐湖所与深圳大学团队近日研发出2微米级球形金属有机框架微马达，可在水体中自主游动捕捉铀离子，光催化吸附容量达406mg/g。该材料能实现铀酰离子向固态转化，为核燃料回收及污染治理提供新方案。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0c/v3/Topic_f4b839657f8d49d8aab326818f623923/31a37980f5ff4f98a4e0d400c6476dea_1_0/hd.webp",
-    "realDate": "2026-04-27 10:39:51"
+    "id": "8ffb8779cc2b31c767c4d5ea269abc16",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282357658&to_app=hwbrowser&dy_scenario=topicinside&tn=7accb4645f53ba7bae9716d6a0a5614002ca4761e421b3c13a41a2f99834bd73&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "广东发布十五五规划纲要 事关AI、商业航天、光伏等",
+    "summary": "文件提出将重点发展商业航天、光伏、新材料等领域。其中，将依托广州等地打造航天产业链，攻关eVTOL整机技术，强化钙钛矿电池研发，发展超导材料等前沿领域。同时，规划全社会研发经费年均增长5%，地区生产总值年均增长目标为5%。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/c93e7b6d6d0149ca8d5b2159677def2e_1_0/hd.webp",
+    "realDate": "2026-04-28 10:32:06"
+  },
+  {
+    "id": "2dca800badbecc476a8f31599b65e3b4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514489d0229876f8b1cd875316de5284f427e&to_app=hwbrowser&dy_scenario=topicinside&tn=62cd6da13a35c7ae2915fe88d57d6f725f7deba43483be6b635d2828cb808ab1&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "大摩科技展望：存储之后 EUV光刻机和CPU将成为新的瓶颈",
+    "summary": "摩根士丹利报告预测，2026年全球半导体收入或达1.6万亿美元，同比增速约96%。上半年延续AI资本开支主线，存储价格走强；下半年成本通胀将挤压消费电子利润，边缘AI普及或推迟。同时HBM供给充足率或降至2%，EUV光刻机和CPU可能成为新瓶颈，内存、先进代工等环节将重新定价。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/d1c82d169b3e4100a47a8ab9120345f3_1_0/hd.webp",
+    "realDate": "2026-04-28 11:06:04"
   }
 ]
