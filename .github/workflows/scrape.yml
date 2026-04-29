@@ -24,6 +24,8 @@ jobs:
         run: npx playwright install --with-deps
 
       - name: 运行脚本
+        env:
+          WECHAT_OPENID: ${{ secrets.WECHAT_OPENID }}
         run: node scrape.js
 
       - name: 提交变更到仓库
