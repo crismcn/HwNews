@@ -129,7 +129,7 @@ const publishNews = async (data) => {
 
   // 检查环境变量是否设置
   if (!WECHAT_OPENID) {
-    console.log('⚠️  WECHAT_OPENID 环境变量未设置，跳过发布')
+    console.error('⚠️  WECHAT_OPENID 环境变量未设置，跳过发布')
     return false
   }
 
