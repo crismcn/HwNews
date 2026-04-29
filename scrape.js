@@ -126,6 +126,13 @@ const persistenceData = async (data, filename) => {
 
 const publishNews = async (data) => {
   const WECHAT_OPENID = process.env.WECHAT_OPENID
+
+  // 检查环境变量是否设置
+  if (!WECHAT_OPENID) {
+    console.log('⚠️  WECHAT_OPENID 环境变量未设置，跳过发布')
+    return false
+  }
+
   console.log(' ------------------- Publish Global News ------------------- ')
   const url = 'https://news.crism.cn/api/v1/wechat/refresh_global_news'
   const headers = {
