@@ -1,92 +1,92 @@
 [
   {
-    "id": "98dde144e84c4ec3bcdbcb4a7a6e704b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512064c66cc71a6ea1baacab5e5cd99d80615&to_app=hwbrowser&dy_scenario=topicinside&tn=c7fe489992090e4574d4f1d018f2fa92b6ba4179375bd8cf537b6d639ed4e9e4&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "DeepSeek增资！梁文锋持股比例由1%飙升至34%",
-    "summary": "4月28日，杭州深度求索人工智能基础技术研究有限公司注册资本由1000万增至1500万，梁文锋持股比例由1%升至34%，最终受益股份达84.29%。此前有消息称腾讯、阿里正洽谈以超200亿美元估值投资DeepSeek，但被知情人士否认。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/10512064c66cc71a6ea1baacab5e5cd99d80615/bbf7d1ca9bd449658abd9792d96184ef_1_0/hd.webp",
-    "realDate": "2026-04-28 12:47:54"
+    "id": "49427d41345ef2da7bb87d1db50e8eb7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KRMG58BL0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=a0939141d8fcc57e245094eb6a24333228b7032d0cbeb93ec6775f0865a43ba7&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Anthropic年化营收300亿美元 碾压OpenAI",
+    "summary": "4月29日，外媒披露Anthropic年化营收达300亿美元，15个月翻30倍，超越OpenAI的240亿美元。Anthropic 80%收入来自企业端，拥有30万家企业客户。且训练成本仅为OpenAI的四分之一，预计2027年实现正向现金流。而OpenAI陷入“增收不增利”怪圈，内部将帅失和、算力黑洞等问题频发，盈利目标推迟至2030年。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/30438b003996463dae94c09285cd695d_1_0/hd.webp",
+    "realDate": "2026-04-29 13:35:43"
   },
   {
-    "id": "80051eb69da881444b300f55cef4ae1d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143b9c19014442b6ed48c035a3c4e2b1e9b&to_app=hwbrowser&dy_scenario=topicinside&tn=d56196ef855506986e0153a36852d45ae008706ae9c95f92fd5034eab62c60a5&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "华为开发者大会2026定档6月12日-14日",
-    "summary": "HDC 2026将于6月12日-14日举行，早鸟票今日10:08开售。据了解，大会将发布HarmonyOS全新版本及鸿蒙AI核心能力，设置互动展区、开发者路演等环节。门票分VIP票、专家票等6类，早鸟价最低88元，后续分三批开售。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/f2fb34fbae7b42c59ee74f91bf6ced49_1_0/hd.webp",
-    "realDate": "2026-04-28 22:15:00"
-  },
-  {
-    "id": "245963fdc7306b10df80d50936187373",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514489d09fbaa5a76b7335ba4fdc3f42ff84e&to_app=hwbrowser&dy_scenario=topicinside&tn=df73352d15ae73df04072f15f3600ceb4dbdfe1d8f87cfa99924cf1a07a64359&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "腾讯云年内第三次涨价：AI代码助手最高涨价150%",
-    "summary": "腾讯云旗下AI编程助手CodeBuddy与WorkBuddy将于5月15日起提价，企业旗舰版价格由78元/人/月涨至198元/人/月，涨幅约154%，企业专享版涨幅达100%。这是腾讯云年内第三次涨价，此前已对AI模型及算力产品调价。同时，亚马逊、阿里云等全球云厂商近期均宣布涨价，行业步入新一轮涨价周期。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/b73c6f497cb245579a9ba315522cbba4_1_0/hd.webp",
-    "realDate": "2026-04-28 15:25:57"
-  },
-  {
-    "id": "dccf2d1b9f702c83fc3dc772e46c453b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074944350&to_app=hwbrowser&dy_scenario=topicinside&tn=2ee43e44bbfa588efa5b4fe578ce7b07e65bad44056a8e26898a1bfea5c4c4d7&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "AI智能体失控：9秒清空公司生产数据库",
-    "summary": "近日，Pocket OS创始人Jer Crane使用搭载Claude Opus 4.6的Cursor智能体执行运维任务时，因账号密码不匹配触发AI自主搜索代码库，利用意外获取的全局权限API token，9秒内通过Railway平台彻底删除生产数据库。由于备份存储在同一卷内，仅能恢复3个月前数据。智能体事后书面承认违规操作，Railway CEO已协助恢复数据并修补API漏洞。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/1018445e1c8943f2868670b2a8562002_1_0/hd.webp",
-    "realDate": "2026-04-28 12:34:11"
-  },
-  {
-    "id": "a28d8eda9ac8e7ab5a902915725509d1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050af11d2d6b7ec36d5dff8ae89a6cb98fc&to_app=hwbrowser&dy_scenario=topicinside&tn=78d29b0a61a4d47a951a290749398f4dd6ba80a2d9e25729268ec8f18eb14098&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "百度职级体系巨变 5月1日正式生效",
-    "summary": "百度4月28日发布内部邮件宣布取消原有“T、P、E”等字母职级标签，启用5级-12级数字职级体系，新体系将于5月1日生效。此次调整将中管层以下专业通道与管理通道全面打通，旨在培养AI时代所需的复合型人才。同时百度提出将打破组织边界、减少汇报层级，为年轻人提供更多发展机会。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/1051050af11d2d6b7ec36d5dff8ae89a6cb98fc/9e3541af80164bf1b9013bc9b111dfe4_1_1/hd.webp",
-    "realDate": "2026-04-28 11:43:02"
-  },
-  {
-    "id": "3fce03913e778154b29b47a92030e180",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144897bc8dcd1a508938d55b5a6b2993962e&to_app=hwbrowser&dy_scenario=topicinside&tn=5a53779fe300a399723c46faec03dcdf5e63dbe00b81a2a8429968df1b680be6&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "OpenAI紧急“灭火”：称其业务“运转良好”",
-    "summary": "OpenAI否认业绩未达标传闻，表示企业及广告业务持续增长，同时强调将加强算力投入。但报道称其多项内部目标未完成，导致软银、甲骨文等合作伙伴股价下跌。OpenAI已暂停英国数据中心项目，微软接手挪威原定产能。市场对AI基础设施投资可持续性疑虑加剧。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/04d84c7cce554acbb9a122769e99ac3f_1_0/hd.webp",
-    "realDate": "2026-04-29 02:55:56"
-  },
-  {
-    "id": "18dadc900bbb9c279902de6e6c51850b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282357579&to_app=hwbrowser&dy_scenario=topicinside&tn=63c3621947a297b25b02ff6ed0f9d76dbc9107c98f486170c7919196a26118ae&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "“二倍速”推进扩产！台积电将有五座2nm厂进入爬坡 创历年之最",
-    "summary": "近日，台积电资深副总经理侯永清表示，为应对AI与高性能计算需求爆发，公司以“二倍速”推进扩产，今年同时有五座2nm晶圆厂进入产能爬坡阶段，创历年最积极扩产纪录。2nm首年产出较3nm同期提升约45%。同时，台积电推动CoWoS与SoIC等3D封装技术升级，SoIC导入时程缩短75%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/10510282357579/6a114b9c05ce4ee5a894114d15402917_1_7/hd.webp",
-    "realDate": "2026-04-28 10:23:20"
-  },
-  {
-    "id": "24b4a81e80c25cef4f15529ce3bc48b1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510413582431084436723&to_app=hwbrowser&dy_scenario=topicinside&tn=6b602a6cacf2c1eddcf45e9e3a529c334f71e5cbb2a938e4e3b2964262fa7a9d&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "脑机接口“狂飙” 120亿元大市场来了",
-    "summary": "中国信通院预测2030年脑机接口市场规模将达120亿元，该技术已写入政府工作报告并列为未来产业。北京天坛医院开设全国首个脑机接口门诊，累计接诊超1600例，成功帮助瘫痪患者实现“意念取物”。同时，该技术在视觉重建、工业安全监测及睡眠改善等领域加速应用，医疗领域聚焦神经康复、感官重建三大场景。",
+    "id": "c4fe526abb93a2b4a118d587a6a1a24d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105104114999903403340057&to_app=hwbrowser&dy_scenario=topicinside&tn=007c8241df0654856d5730fd95de58907f223dd4b02e5532d7e1fc74d10fc605&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "我国“人造太阳”迎重大突破",
+    "summary": "我国“人造太阳”核聚变技术已实现核心部件第一壁全流程自主研发，材料与工艺达国际领先水平。位于成都的“中国环流三号”装置实现离子温度1.2亿摄氏度，计划2027年进行首次燃烧实验。同时，安徽合肥项目正推进商业化进程。聚变技术还带动制氢、二氧化碳转化等周边产业发展。",
     "author": "北青财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/b53f2fe00e904995a2f8ef58d2ccd2a3_1_0/hd.webp",
-    "realDate": "2026-04-28 08:43:33"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/82/v3/105104114999903403340057/7ce468e6667d43fdb57735b5032d3f6d_1_4/hd.webp",
+    "realDate": "2026-04-29 07:23:53"
   },
   {
-    "id": "8ffb8779cc2b31c767c4d5ea269abc16",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282357658&to_app=hwbrowser&dy_scenario=topicinside&tn=7accb4645f53ba7bae9716d6a0a5614002ca4761e421b3c13a41a2f99834bd73&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "广东发布十五五规划纲要 事关AI、商业航天、光伏等",
-    "summary": "文件提出将重点发展商业航天、光伏、新材料等领域。其中，将依托广州等地打造航天产业链，攻关eVTOL整机技术，强化钙钛矿电池研发，发展超导材料等前沿领域。同时，规划全社会研发经费年均增长5%，地区生产总值年均增长目标为5%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/c93e7b6d6d0149ca8d5b2159677def2e_1_0/hd.webp",
-    "realDate": "2026-04-28 10:32:06"
+    "id": "4496aff6eccdf67d3f7c0308e8827b86",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118a7f68ca213da5091de3cbbc2550da411&to_app=hwbrowser&dy_scenario=topicinside&tn=88053c6ff5d2a2ce568189598c500d9fbcfe60d6146bb49f809830a558f932d0&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "王兴兴最新发声 机器人2到3个月内将超越人类短跑纪录",
+    "summary": "4月29日，宇树科技CEO王兴兴表示，机器人短跑纪录或将在未来2到3个月内超越人类。他指出，AI能力取决于数据质量与规模，但人形机器人领域仍面临数据稀缺问题。同时，该公司近期开源了覆盖家庭、医疗等场景的运动数据集，计划推进大规模数据采集。王兴兴还提出“具身智能ChatGPT时刻”概念，即机器人在80%陌生场景中完成80%任务，需突破任务表达、数据利用及模型对齐三方向。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/8513c7c9be7949e39252fa647580e26a_1_0/hd.webp",
+    "realDate": "2026-04-29 15:05:35"
   },
   {
-    "id": "2dca800badbecc476a8f31599b65e3b4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514489d0229876f8b1cd875316de5284f427e&to_app=hwbrowser&dy_scenario=topicinside&tn=62cd6da13a35c7ae2915fe88d57d6f725f7deba43483be6b635d2828cb808ab1&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "大摩科技展望：存储之后 EUV光刻机和CPU将成为新的瓶颈",
-    "summary": "摩根士丹利报告预测，2026年全球半导体收入或达1.6万亿美元，同比增速约96%。上半年延续AI资本开支主线，存储价格走强；下半年成本通胀将挤压消费电子利润，边缘AI普及或推迟。同时HBM供给充足率或降至2%，EUV光刻机和CPU可能成为新瓶颈，内存、先进代工等环节将重新定价。",
+    "id": "d05d7af09e9022266613395097f20e6c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614362319&to_app=hwbrowser&dy_scenario=topicinside&tn=6f29156b0b2c0903aeb0fd93454bd582049ea3aaae83faab5c4f442bd693aff4&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "阿里云百炼宣布DeepSeek V4 Pro模型隐式缓存降价",
+    "summary": "阿里云百炼平台于4月29日23：59起下调DeepSeek-V4-Pro模型的隐式缓存计费标准，调整后价格为1元/百万Token。该机制仅对命中缓存的输入Token生效，未命中部分仍按原标准计费，模型基础推理价格不受影响。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/4cb4a3c802604970a4cdd20f82a03ac3_1_0/hd.webp",
+    "realDate": "2026-04-29 21:40:38"
+  },
+  {
+    "id": "55df0d66fb02f9dcef85aaf557ddd225",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282359084&to_app=hwbrowser&dy_scenario=topicinside&tn=997dd32d462183f1afe3c20d3f0be264c18701e0d09215465edc5a4ad6b411d2&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Anthropic悄然上调Claude Code的Tokens使用成本预估 涨幅超100%",
+    "summary": "近日，Anthropic调整了Claude Code的Tokens使用成本预估，企业级开发者及普通用户费用均翻倍。官网最新数据显示，企业级部署中每位开发者日均成本约13美元，90%用户日均成本低于30美元，而4月16日前分别为6美元和12美元。",
+    "author": "财联社电报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/43ab953bfd7c4b8487e34593102f2663_1_0/hd.webp",
+    "realDate": "2026-04-29 10:16:07"
+  },
+  {
+    "id": "be59cc78ce75a100324c1c0c3ef78501",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514482a701a6741f9b7b4a0ebd64e75f92eff&to_app=hwbrowser&dy_scenario=topicinside&tn=5dcfdd30c084278c082dd33c018ae933bc26344babe5c9c55fc4174b526a2127&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "AI可提前475天发现胰腺癌 研究显示早期检出率超医生近一倍",
+    "summary": "梅奥诊所研发的AI系统Redmod通过分析常规CT图像，可提前约475天识别胰腺癌早期信号，检出率达73%，而放射科医生的检出率为39%。研究显示，若早期病例占比从10%升至50%，生存率有望翻倍。该系统目前仍需前瞻性临床研究验证。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/Topic_2697f33631c9460999ea0ae8719b21de/d1c82d169b3e4100a47a8ab9120345f3_1_0/hd.webp",
-    "realDate": "2026-04-28 11:06:04"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/c990e6f4ffd94e3fb5c2c5c2ac97e54b_1_0/hd.webp",
+    "realDate": "2026-04-29 15:19:27"
+  },
+  {
+    "id": "60d526baa49f9a5f68f0a4872f38ab58",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074945238&to_app=hwbrowser&dy_scenario=topicinside&tn=46f3a744e138ccc73a848ba5c9ed531e8ccda109610181cd7d44dc185d820117&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Meta 2026财年第一财季净利润267.73亿美元 同比增长61%",
+    "summary": "Meta发布2026财年第一财季报告，营业总收入563.11亿美元，同比增长33%；净利润267.73亿美元，同比增长61%。应用家族日活跃用户达35.6亿，广告投放量增长19%。Reality Labs营收4.02亿美元，运营亏损40.28亿美元。公司预计第二季度营收580亿-610亿美元。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/24b49e20323c43818443d235351da1f4_1_0/hd.webp",
+    "realDate": "2026-04-30 04:10:08"
+  },
+  {
+    "id": "95e68328fbbea6d854935782742550d0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514482300f844e6a34d6d04506fb20bb0cd12&to_app=hwbrowser&dy_scenario=topicinside&tn=5476cce2ed04b51d457eb10507ed1fee2e24566f24535deabc3119ddca267263&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "“AI世纪官司”开审：马斯克称OpenAI和Altman是小偷",
+    "summary": "马斯克在加州联邦法院指控OpenAI及其CEO Altman“窃取非营利机构”，索赔1800亿美元并要求驱逐Altman。马斯克自称是OpenAI的创始人，强调创立初衷为慈善事业。OpenAI反驳称这是马斯克索要控制权失败后的报复，并展示创始团队工作照佐证。这场为期四周的诉讼将影响OpenAI的万亿美元IPO前景。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/512787ef222b4c82966aa2ebfb694a76_1_0/hd.webp",
+    "realDate": "2026-04-29 11:41:37"
+  },
+  {
+    "id": "d76bfbb61b702403dc6a50140bc4042b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124711042164728951978116&to_app=hwbrowser&dy_scenario=topicinside&tn=3cd64fc62a6591acd156e99cba2c419d523f8821d139390f149fd7f5867f1239&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "指数级增长！2025年我国词元调用量约21100万亿",
+    "summary": "《全国数据资源调查报告（2025年）》显示，我国人工智能数据处理单元“词元”调用量呈现指数级增长。2025年全年累计调用量达约21100万亿，日均调用量从年初超万亿增至年末100万亿。报告显示，我国数据资源正以更大力度，赋能人工智能创新发展。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ef/v3/105124711042164728951978116/2ccf51cae81e4a838542b60f8843410d_1_0/hd.webp",
+    "realDate": "2026-04-29 10:30:00"
+  },
+  {
+    "id": "a3b15c06ab84e23fe1b567ce688b0d89",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510015ad97cf072d7d58345c5ed8f4a5ff5ca&to_app=hwbrowser&dy_scenario=topicinside&tn=1f2f44135fd669ba1c67561491c19daeb4b83a09f6b6a51a1943faef7f736208&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "DNA分子计算机突破2纳米半导体工艺极限",
+    "summary": "韩国科学技术院研制出基于DNA的分子计算机，核心元件尺度突破2纳米，首次实现分子系统内信息存储与运算功能整合。该技术利用DNA可编程特性，通过构象变化实现自保持电路，为生物医学计算及精准诊断提供新途径。",
+    "author": "科技日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/86/v3/Topic_b9cdb0e535ee481b9c6b20707c21254b/324046fdfa1545adb28b298dd6b4066c_1_0/hd.webp",
+    "realDate": "2026-04-29 09:22:56"
   }
 ]
