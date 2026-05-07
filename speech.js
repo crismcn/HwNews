@@ -1,5 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai'
 import fs from 'fs'
+import { Lunar } from 'lunar-typescript'
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
 
@@ -9,16 +10,10 @@ function pcmToWav(pcmData, sampleRate = 24000, channels = 1, bitDepth = 16) {
   const byteRate = (sampleRate * channels * bitDepth) / 8
   const blockAlign = (channels * bitDepth) / 8
 
-  // RIFF
   header.write('RIFF', 0)
-
-  // file length
   header.writeUInt32LE(36 + pcmData.length, 4)
-
-  // WAVE
   header.write('WAVE', 8)
 
-  // fmt chunk
   header.write('fmt ', 12)
   header.writeUInt32LE(16, 16)
   header.writeUInt16LE(1, 20)
@@ -28,17 +23,34 @@ function pcmToWav(pcmData, sampleRate = 24000, channels = 1, bitDepth = 16) {
   header.writeUInt16LE(blockAlign, 32)
   header.writeUInt16LE(bitDepth, 34)
 
-  // data chunk
   header.write('data', 36)
   header.writeUInt32LE(pcmData.length, 40)
 
   return Buffer.concat([header, pcmData])
 }
 
-async function generateNewsBroadcast() {
+function buildNewsText(text) {
+  const nowDate = new Date()
+  const lunar = Lunar.fromDate(nowDate)
+
+  const today = {
+    month: nowDate.getMonth() + 1,
+    day: nowDate.getDate(),
+    week: ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'][nowDate.getDay()],
+    lunarCalendar: `${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`,
+  }
+
+  const morning = `早上好，这里是每天一分钟·速知天下事。` + `今天是${today.month}月${today.day}日${today.week}，` + `农历${today.lunarCalendar}。` + `下面为大家播报今日早报。`
+
+  return `${morning}\n${text}`
+}
+
+async function generateNewsBroadcast(text) {
   const model = genAI.getGenerativeModel({
     model: 'gemini-2.5-flash-preview-tts',
   })
+
+  const finalText = buildNewsText(text)
 
   const result = await model.generateContent({
     contents: [
@@ -46,7 +58,23 @@ async function generateNewsBroadcast() {
         role: 'user',
         parts: [
           {
-            text: '各位听众大家好，欢迎收看今日科技快讯。',
+            text: `
+请使用中文新闻联播风格播报以下内容：
+
+要求：
+- 女声
+- 温柔且专业
+- 有新闻播音感
+- 节奏稍快
+- 语气自然
+- 段落间有轻微停顿
+- 不要机器人语气
+- 类似早间资讯电台
+
+播报内容：
+
+${finalText}
+            `,
           },
         ],
       },
@@ -54,7 +82,10 @@ async function generateNewsBroadcast() {
 
     generationConfig: {
       responseModalities: ['AUDIO'],
+
       speechConfig: {
+        speakingRate: 1.15,
+
         voiceConfig: {
           prebuiltVoiceConfig: {
             voiceName: 'Kore',
@@ -73,15 +104,19 @@ async function generateNewsBroadcast() {
     throw new Error('没有返回音频数据')
   }
 
-  // base64 -> PCM
   const pcmBuffer = Buffer.from(part.inlineData.data, 'base64')
 
-  // PCM -> WAV
   const wavBuffer = pcmToWav(pcmBuffer)
 
   fs.writeFileSync('news_broadcast.wav', wavBuffer)
 
-  console.log('WAV 文件已生成')
+  console.log('新闻播报生成成功')
 }
 
-generateNewsBroadcast().catch(console.error)
+generateNewsBroadcast(`
+1. OpenAI 发布新模型，推理能力进一步增强。
+
+2. 苹果正在测试新一代 AI Siri 功能。
+
+3. 多地推进低空经济建设，无人机产业持续升温。
+`)
