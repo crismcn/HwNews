@@ -43,7 +43,7 @@ async function generateNewsBroadcast() {
 
   const audioBuffer = Buffer.from(audioData, 'base64')
 
-  fs.writeFileSync('news_broadcast.mp3', audioBuffer)
+  fs.writeFileSync('news_broadcast.wav', audioBuffer)
 
   console.log('语音生成成功')
 }
