@@ -27,7 +27,7 @@ jobs:
         env:
           WECHAT_OPENID: ${{ secrets.WECHAT_OPENID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scrape.js
+        run: node speech.js
 
       - name: 提交变更到仓库
         run: |
