@@ -99,7 +99,7 @@ async function generateNewsBroadcast() {
       speechConfig: {
         voiceConfig: {
           prebuiltVoiceConfig: {
-            voiceName: 'Aoede',
+            voiceName: 'Aoede', // Aoede（最稳） Kore（偏清晰） Charon（偏播报）
           },
         },
       },
