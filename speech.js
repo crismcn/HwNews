@@ -40,9 +40,9 @@ function buildNewsText(text) {
     lunarCalendar: `${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`,
   }
 
-  const morning = `早上好，这里是每天一分钟·速知天下事。` + `今天是${today.month}月${today.day}日${today.week}，` + `农历${today.lunarCalendar}。` + `下面为大家播报今日早报。`
+  const morning = `[speed: fast] 早上好，这里是每天一分钟·速知天下事。 ` + `今天是${today.month}月${today.day}日${today.week}，` + `农历${today.lunarCalendar}。` + ` 下面为大家播报今日早报。`
 
-  return `[speed: fast]${morning}\n${text}`
+  return `${morning}\n${text}`
 }
 
 async function generateNewsBroadcast(text) {
@@ -86,7 +86,7 @@ ${finalText}
       speechConfig: {
         voiceConfig: {
           prebuiltVoiceConfig: {
-            voiceName: 'Aoede', // 'Kore',
+            voiceName: 'Kore',
           },
         },
       },
