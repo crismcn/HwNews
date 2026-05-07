@@ -84,11 +84,11 @@ ${finalText}
       responseModalities: ['AUDIO'],
 
       speechConfig: {
-        speakingRate: 1.15,
+        // speakingRate: 1.15,
 
         voiceConfig: {
           prebuiltVoiceConfig: {
-            voiceName: 'Kore',
+            voiceName: 'Aoede', // 'Kore',
           },
         },
       },
