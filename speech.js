@@ -99,7 +99,7 @@ async function generateNewsBroadcast() {
       speechConfig: {
         voiceConfig: {
           prebuiltVoiceConfig: {
-            voiceName: 'Callirrhoe',
+            voiceName: 'Aoede',
           },
         },
       },
