@@ -1,4 +1,4 @@
-name: Scrape Website
+name: Speech News
 
 on:
   workflow_dispatch:
