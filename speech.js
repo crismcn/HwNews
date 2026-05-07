@@ -54,11 +54,9 @@ async function generateNewsBroadcast() {
 [professional]
 [slightly fast paced]
 
-早上好，这里是 每天一分钟，速知天下事。
-今天是5月7日，星期四，农历四月十五。
+早上好，这里是：每天一分钟，速知天下事。
+今天是05月07日 星期四 农历三月廿一
 下面为大家播报今日早报。
-【每天一分钟·速知天下事】
-05月07日 星期四 农历三月廿一
 
 1、今年“五一”假期民航日均客流量210.8万人次，同比下降5.74%，系疫情后首次负增长；
 
@@ -101,7 +99,7 @@ async function generateNewsBroadcast() {
       speechConfig: {
         voiceConfig: {
           prebuiltVoiceConfig: {
-            voiceName: 'Leda',
+            voiceName: 'Callirrhoe',
           },
         },
       },
