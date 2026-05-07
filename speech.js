@@ -84,8 +84,6 @@ ${finalText}
       responseModalities: ['AUDIO'],
 
       speechConfig: {
-        // speakingRate: 1.15,
-
         voiceConfig: {
           prebuiltVoiceConfig: {
             voiceName: 'Aoede', // 'Kore',
