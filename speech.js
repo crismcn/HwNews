@@ -53,6 +53,7 @@ async function generateNewsBroadcast() {
 [news anchor]
 [professional]
 [slightly fast paced]
+[clear pronunciation]
 
 早上好，这里是：每天一分钟，速知天下事。
 今天是05月07日 星期四 农历三月廿一
