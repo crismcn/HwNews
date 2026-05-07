@@ -1,28 +1,22 @@
 import { GoogleGenerativeAI } from '@google/generative-ai'
 import fs from 'fs'
-import { Lunar } from 'lunar-typescript'
+import ffmpeg from 'fluent-ffmpeg'
+import ffmpegPath from 'ffmpeg-static'
+
+ffmpeg.setFfmpegPath(ffmpegPath)
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
 
-/**
- * PCM -> WAV
- */
 function pcmToWav(pcmData, sampleRate = 24000, channels = 1, bitDepth = 16) {
   const header = Buffer.alloc(44)
 
   const byteRate = (sampleRate * channels * bitDepth) / 8
   const blockAlign = (channels * bitDepth) / 8
 
-  // RIFF
   header.write('RIFF', 0)
-
-  // file length
   header.writeUInt32LE(36 + pcmData.length, 4)
-
-  // WAVE
   header.write('WAVE', 8)
 
-  // fmt chunk
   header.write('fmt ', 12)
   header.writeUInt32LE(16, 16)
   header.writeUInt16LE(1, 20)
@@ -32,62 +26,22 @@ function pcmToWav(pcmData, sampleRate = 24000, channels = 1, bitDepth = 16) {
   header.writeUInt16LE(blockAlign, 32)
   header.writeUInt16LE(bitDepth, 34)
 
-  // data chunk
   header.write('data', 36)
   header.writeUInt32LE(pcmData.length, 40)
 
   return Buffer.concat([header, pcmData])
 }
 
-/**
- * 构建新闻播报 SSML
- */
-function buildSSML(newsText) {
-  const nowDate = new Date()
-  const lunar = Lunar.fromDate(nowDate)
-
-  const today = {
-    month: nowDate.getMonth() + 1,
-    day: nowDate.getDate(),
-    week: ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'][nowDate.getDay()],
-    lunarCalendar: `${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`,
-  }
-
-  return `
-<speak>
-  [news anchor]
-  [professional]
-  [slightly fast paced]
-  [clear pronunciation]
-
-  <p>
-    早上好。
-    <break time="300ms"/>
-    这里是每天一分钟，速知天下事。
-    <break time="300ms"/>
-    今天是${today.month}月${today.day}日，
-    ${today.week}，
-    农历${today.lunarCalendar}。
-    <break time="400ms"/>
-    下面为大家播报今日早报。
-  </p>
-  <break time="600"/>
-  <p>
-    ${newsText}
-  </p>
-</speak>
-`
+async function wavToMp3(wavPath, mp3Path) {
+  return new Promise((resolve, reject) => {
+    ffmpeg(wavPath).audioCodec('libmp3lame').audioBitrate('64k').audioChannels(1).audioFrequency(24000).save(mp3Path).on('end', resolve).on('error', reject)
+  })
 }
 
-/**
- * 生成新闻语音
- */
-async function generateNewsBroadcast(newsText) {
+async function generateNewsBroadcast() {
   const model = genAI.getGenerativeModel({
-    model: 'gemini-2.5-flash-tts-preview',
+    model: 'gemini-3.1-flash-tts-preview',
   })
-
-  const ssml = buildSSML(newsText)
 
   const result = await model.generateContent({
     contents: [
@@ -96,62 +50,16 @@ async function generateNewsBroadcast(newsText) {
         parts: [
           {
             text: `
-请使用中文新闻电台播报风格朗读以下 SSML 内容。
+[news anchor]
+[professional]
+[slightly fast paced]
 
-要求：
-- 女声
-- 新闻主播风格
-- 语速稍快
-- 自然
-- 专业
-- 不要机械感
+早上好，这里是 每天一分钟，速知天下事。
+今天是5月7日，星期四，农历四月十五。
+下面为大家播报今日早报。
+【每天一分钟·速知天下事】
+05月07日 星期四 农历三月廿一
 
-SSML：
-
-${ssml}
-            `,
-          },
-        ],
-      },
-    ],
-
-    generationConfig: {
-      responseModalities: ['AUDIO'],
-
-      speechConfig: {
-        voiceConfig: {
-          prebuiltVoiceConfig: {
-            voiceName: 'Leda',
-          },
-        },
-      },
-    },
-  })
-
-  const response = result.response
-
-  const part = response.candidates?.[0]?.content?.parts?.[0]
-
-  if (!part?.inlineData?.data) {
-    console.error(JSON.stringify(response, null, 2))
-    throw new Error('没有返回音频数据')
-  }
-
-  // base64 -> PCM
-  const pcmBuffer = Buffer.from(part.inlineData.data, 'base64')
-
-  // PCM -> WAV
-  const wavBuffer = pcmToWav(pcmBuffer)
-
-  fs.writeFileSync('news_broadcast.wav', wavBuffer)
-
-  console.log('新闻播报 WAV 已生成')
-}
-
-/**
- * 示例新闻
- */
-generateNewsBroadcast(`
 1、今年“五一”假期民航日均客流量210.8万人次，同比下降5.74%，系疫情后首次负增长；
 
 2、“五一”假期全国出入境人员达1127.9万人次，较去年同期增长3.5%；其中外国人入出境125.5万人次，同比增长3.5%；
@@ -181,4 +89,46 @@ generateNewsBroadcast(`
 14、外媒：特朗普宣布暂停霍尔木兹海峡护航行动，伊朗称特朗普此举是为掩盖计划的失败；
 
 15、美媒：白宫认为与伊朗接近达成停战谅解备忘录；特朗普称若伊朗同意美方条款，“史诗怒火”行动将宣告结束；
-`).catch(console.error)
+            `,
+          },
+        ],
+      },
+    ],
+
+    generationConfig: {
+      responseModalities: ['AUDIO'],
+
+      speechConfig: {
+        voiceConfig: {
+          prebuiltVoiceConfig: {
+            voiceName: 'Leda',
+          },
+        },
+      },
+    },
+  })
+
+  const part = result.response.candidates?.[0]?.content?.parts?.[0]
+
+  if (!part?.inlineData?.data) {
+    throw new Error('没有返回音频')
+  }
+
+  // PCM
+  const pcmBuffer = Buffer.from(part.inlineData.data, 'base64')
+
+  // WAV
+  const wavBuffer = pcmToWav(pcmBuffer)
+
+  fs.writeFileSync('temp.wav', wavBuffer)
+
+  // MP3
+  await wavToMp3('temp.wav', 'news.mp3')
+
+  // 删除临时wav
+  fs.unlinkSync('temp.wav')
+
+  console.log('MP3生成成功')
+}
+
+generateNewsBroadcast().catch(console.error)
