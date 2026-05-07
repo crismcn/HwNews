@@ -3,7 +3,7 @@ name: Scrape Website
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 23,0 * * *' # 每天07:09,07:27执行
+    - cron: '7 20 * * *' # 每天04:07
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -20,13 +20,11 @@ jobs:
       - name: 安装依赖
         run: npm install
 
-      - name: 安装 Playwright 浏览器
-        run: npx playwright install --with-deps
-
       - name: 运行脚本
         env:
           WECHAT_OPENID: ${{ secrets.WECHAT_OPENID }}
-        run: node scrape.js
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node speech.js
 
       - name: 提交变更到仓库
         run: |
