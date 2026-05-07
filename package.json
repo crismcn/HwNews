@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "lunar-typescript": "^1.8.6",
     "playwright": "^1.59.1"
   }
 }
