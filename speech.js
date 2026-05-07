@@ -42,7 +42,7 @@ function buildNewsText(text) {
 
   const morning = `早上好，这里是每天一分钟·速知天下事。` + `今天是${today.month}月${today.day}日${today.week}，` + `农历${today.lunarCalendar}。` + `下面为大家播报今日早报。`
 
-  return `${morning}\n${text}`
+  return `[speed: fast]${morning}\n${text}`
 }
 
 async function generateNewsBroadcast(text) {
