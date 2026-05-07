@@ -5,37 +5,41 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY
 const GoogleAI = new GoogleGenerativeAI(GEMINI_API_KEY)
 
 async function generateNewsBroadcast() {
-  // 选择模型：gemini-3.1-flash-tts
-  const model = GoogleAI.getGenerativeModel({ model: 'gemini-3.1-flash-tts-preview' })
+  // 1. 确保模型名称完全匹配预览版 ID
+  const model = GoogleAI.getGenerativeModel({
+    model: 'gemini-3.1-flash-tts-preview',
+  })
 
-  // 模拟新闻播报文案，使用音频标签控制节奏
-  const prompt = `
-    [scene: professional news studio, high clarity]
-    [speaker: authoritative, male, clear articulation]
-    
-    各位听众大家好，欢迎收看今日科技快讯。
-    
-    [speed: slow] 首先关注一则国际消息：[pause: 500ms] 
-    谷歌正式发布了 Gemini 3.1 Flash TTS 模型。
-    
-    [tone: exciting] 该模型在表现力上实现了质的飞跃！
-    [speed: normal] 据悉，它支持超过70种语言，并能根据文本语境自动调整情绪。
-    
-    今天的播报到此结束，感谢您的收听。
-  `
+  const prompt = '各位听众大家好，欢迎收看今日科技快讯。'
 
   try {
-    const result = await model.generateContent(prompt)
+    const result = await model.generateContent({
+      contents: [{ role: 'user', parts: [{ text: prompt }] }],
+      // 2. 必须指定 generationConfig，否则模型不知道该返回文本还是音频
+      generationConfig: {
+        responseMimeType: 'audio/mpeg',
+      },
+    })
+
     const response = await result.response
 
-    // 提取音频数据 (通常以 Base64 或特定 Buffer 格式返回)
-    // 注意：预览版 API 的具体字段可能会随 SDK 更新微调
-    const audioData = response.audioContents[0]
+    // 3. 获取音频数据
+    // 在 Gemini 3.1 TTS 中，音频通常存在于 dataContents 或特定的 candidate 中
+    const audioPart = response.candidates[0].content.parts.find((p) => p.inlineData)
 
-    fs.writeFileSync('news_broadcast.mp3', Buffer.from(audioData, 'base64'))
-    console.log('音频新闻已生成：news_broadcast.mp3')
+    if (audioPart) {
+      const buffer = Buffer.from(audioPart.inlineData.data, 'base64')
+      fs.writeFileSync('news_broadcast.mp3', buffer)
+      console.log('音频新闻已生成：news_broadcast.mp3')
+    } else {
+      console.log('未找到音频数据，请检查响应内容：', JSON.stringify(response, null, 2))
+    }
   } catch (error) {
-    console.error('生成失败:', error)
+    // 如果还是 400，打印详细错误
+    console.error('生成失败:', error.message)
+    if (error.errorDetails) {
+      console.error('详细错误信息:', JSON.stringify(error.errorDetails, null, 2))
+    }
   }
 }
 
