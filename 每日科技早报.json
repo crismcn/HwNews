@@ -1,119 +1,92 @@
 [
   {
-    "id": "b6e79fd977912ee9abc976e19095953c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120688a54e800329531e4fe004101530396f&to_app=hwbrowser&dy_scenario=topicinside&tn=9b4f0b473d7dc4ee1d745e28d0cde7b97be2d3a98f195782e1a6b53cf048e4f8&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "DeepSeek被曝拟募资最高500亿 将创中国AI领域最高纪录",
-    "summary": "5月8日，DeepSeek被曝拟募资最高500亿元，或成中国AI公司最大单轮融资。此前有消息称国家大基金、腾讯、阿里等正洽谈投资，但部分传闻遭否认。该公司近期频繁系统崩溃，同时计划6月推出V4.1模型，其V4预览版已在4月24日发布，性能多项领先开源模型。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/01b65b50e8a44c3290c83cf491390a5c_1_0/hd.webp",
-    "realDate": "2026-05-08 21:39:02"
-  },
-  {
-    "id": "43cc8cc9c75fea6f9c11839ca3916764",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510863502483&to_app=hwbrowser&dy_scenario=topicinside&tn=338c017428fa95ef8b6e2b831235e67b1d3aaf4d37474a222b118aa09492317b&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "6G来了！工信部批复6G技术试验频率",
-    "summary": "工信部近日批复6GHz频段6G试验频率使用许可，支持IMT 2030推进组在部分地区开展技术试验，推动6G研发与标准制定。数据显示，2025年我国5G基站达483.8万个，5G标准必要专利全球占比42%，6G关键技术验证取得阶段性成果。",
-    "author": "极目新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/18/v3/10510863502483/8b83e934626246a8acb6e0ad0123c577_1_5/hd.webp",
-    "realDate": "2026-05-08 09:10:04"
-  },
-  {
-    "id": "97caa73da899100c6aae1d5d1ab5c3bb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100190dee35f34b6e1436e78e4510755751d&to_app=hwbrowser&dy_scenario=topicinside&tn=10fee0fcf79c44e8b57e891433e20846b85fe491caf7c53029ccbfe4bae12120&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "人声接近真人 OpenAI一口气更新三款超强语音AI",
-    "summary": "5月8日，OpenAI推出三款高阶语音智能模型，包括GPT-Realtime-2、实时翻译模型与实时转写模型。GPT-Realtime-2具备GPT-5级推理能力，人声仿真度更高。翻译模型支持70余种语言识别与13种语音输出；转写模型可同步完成语音转文字。升级后的系统集聆听、思考、翻译等功能于一体，适用于客服、教育等多场景。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/6f8c5a1fbe2f491a8c0a49a14ca16e28_1_0/hd.webp",
-    "realDate": "2026-05-08 10:37:58"
-  },
-  {
-    "id": "9567db35a4e91b09b6df94e712be653c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282365648&to_app=hwbrowser&dy_scenario=topicinside&tn=3e22d98d55dd501dd94b221a1aad5d829afa33909c741f13c4472eae93fcb5dd&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Mythos打开“潘多拉魔盒” IMF警告称：恐对金融业造成系统性冲击",
-    "summary": "国际货币基金组织表示，Anthropic公司AI模型Claude Mythos可能引发金融业系统性风险，主要因其能快速发现广泛使用的软件漏洞。该模型已向40家美国机构发布，包括亚马逊、微软和摩根大通，但非美国金融机构无法使用，导致防护不均衡。IMF呼吁加强国际合作应对网络风险。",
+    "id": "68c9d370f7d35a7fc4c99c43c6ae11c0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282367107&to_app=hwbrowser&dy_scenario=topicinside&tn=1b14596340dbb2dd57ed77c9d8aeb1663ba6451bf5b4b510c4d90d0504d77d6b&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "字节再加码！全球AI资本开支持续上修",
+    "summary": "字节跳动今年计划资本支出超2000亿元，较原计划增25%，主要因AI投入增加及芯片成本上涨。同时，报告显示，九大云厂商2026年合计资本支出预估上调至8300亿美元，同比增幅从61%升至79%。微软、谷歌等均将开支上调归因于硬件涨价。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/5a663eb8688240ffbe128c9e720f0b91_1_0/hd.webp",
-    "realDate": "2026-05-08 09:45:46"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/954dfafd2f444982b0ec7245f8324eb1_1_0/hd.webp",
+    "realDate": "2026-05-10 11:07:06"
   },
   {
-    "id": "c21ac666c95fa0315e93e025312acd1c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282365894&to_app=hwbrowser&dy_scenario=topicinside&tn=6b228b9bb3d667fce2c8003c49b96e1022d309f290e778e8c64d9b133cb023d5&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "存储芯片涨价压力下 索尼预计：今年游戏机卖不动了",
-    "summary": "索尼发布2025财年业绩，营收12.47万亿日元同比增长3.7%，但净利润下滑3.4%。游戏业务营收4.26万亿日元增长6%，但PS5销量同比减少14%至1600万台。公司预计2026财年游戏业务营收将下降6%，主因存储芯片涨价及供应链问题抑制硬件销售。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/10510282365894/69fafb8422e24d97b1fe1a93d848c932_1_0/hd.webp",
-    "realDate": "2026-05-08 14:19:09"
-  },
-  {
-    "id": "c2aa20742941eaf66f21254242b0581d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169dbe50eeab580791bad7bef829509f279&to_app=hwbrowser&dy_scenario=topicinside&tn=a124aefb3390d2f73fba1552653b5b050838241d4876ff2772ade7b2b19d982b&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "向海力士人均325万元奖金看齐 三星工会要求工资上调7% 不涨薪就罢工",
-    "summary": "三星电子工会要求公司发放各事业部营业利润15%的收益并将工资上调7%，否则将于5月21日起罢工18天。该公司一季度净利润达47.2万亿韩元，半导体部门贡献主要利润。此外，SK海力士已同意将10%营业利润分配给员工，人均奖金或达325万元。罢工或致三星损失10万亿至17万亿韩元，并影响全球芯片供应链。",
-    "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/9087337fd6ce4d85bc77f7aafd27e75c_1_0/hd.webp",
-    "realDate": "2026-05-08 11:27:52"
-  },
-  {
-    "id": "a5310048696c2426351416c91fb9684f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074947658&to_app=hwbrowser&dy_scenario=topicinside&tn=fb7e81727408a6c148c2b3e6c56cd1b058eaecc59f16187451d00b0fe9e9eacd&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "台积电2026财年4月营收4107.26亿元新台币 同比增长17.5%",
-    "summary": "5月8日，台积电公布2026年4月营收报告，单月合并营收4107.26亿元新台币，同比增长17.5%，环比3月下降1.1%。2026年1至4月累计营收1.54万亿元新台币，较去年同期增长29.9%。",
+    "id": "5a2a5e92c6b16fa284f9f68e90d3e7cb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074948486&to_app=hwbrowser&dy_scenario=topicinside&tn=ac34bf4f13c195d8a7b04a804bc9fec26633d54e45402475094fad019fab8cf9&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "哈啰最新回应“10多名员工聚会脚踩青桔美团”照片",
+    "summary": "近日，网络流传哈啰员工聚会时脚踩青桔、美团单车的照片引发争议。哈啰回应称该行为与公司价值观不符，已对涉事员工依规处理，同时开展全员职业道德教育。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/7b337a521b044cc0a7d0a3e2c78fad72_1_0/hd.webp",
-    "realDate": "2026-05-08 14:05:35"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/191a6a540fb245579384497f0a1de3ea_1_0/hd.webp",
+    "realDate": "2026-05-10 16:36:48"
   },
   {
-    "id": "2e1563ec8ed3db20316a96fe05d5f821",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282365661&to_app=hwbrowser&dy_scenario=topicinside&tn=1d382cdb2a43ced4414c426b00f989ade3b0f1e4ad7accc7f4d35089d415d1d0&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "“存储荒”愈演愈烈 科技巨头抢投SK海力士保供货",
-    "summary": "近日，全球科技巨头竞相投资SK海力士以锁定存储芯片供应，包括出资建厂、采购光刻机等设备。目前AI需求激增导致存储芯片严重短缺，SK海力士客户长期合同请求激增，但产能几乎为零。该公司股价今年上涨154%，行业预计本轮上行周期将持续更久。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/10510282365661/8ce132de186649d6a5bc184ed7fc0ac3_1_0/hd.webp",
-    "realDate": "2026-05-08 09:56:38"
+    "id": "cdee39e40bca3b61bc29bed4b66288b1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051758ID2BI1BWRM9NGK1&to_app=hwbrowser&dy_scenario=topicinside&tn=0d3a3bc780d502e166e359bff9334e0475530bba92b8214c484239d37bfd2e20&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "xAI多位成员同日离职",
+    "summary": "近日，xAI预训练负责人庄钧堂宣布已离职，他曾主导Grok系列模型训练。同时，技术团队成员Xiuyu Li及前端工程师Fraster Cook也发文确认离职。此前马斯克宣布xAI将并入SpaceX，同日SpaceX与Anthropic达成合作。外媒报道xAI上周还裁减了约10名Grok团队员工。",
+    "author": "智东西",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/e859a94bcad54605b3f8138723ac791b_1_0/hd.webp",
+    "realDate": "2026-05-09 19:00:00"
   },
   {
-    "id": "cbab635ef07d73859af4c5b62f302e0d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282365704&to_app=hwbrowser&dy_scenario=topicinside&tn=c1e7f6c3230d99a02d04e9efdc85260927732a2cfbb036279ddaefcda333bfac&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "芯片短缺冲击电脑主板市场 四大生产商今年销量预计暴跌超过25%",
-    "summary": "人工智能数据中心建设推高芯片需求，消费电子厂商被迫高价抢购产能，导致电脑组件价格全面上涨。四大主板厂商华硕、技嘉、微星和华擎均下调年度销售目标，预计今年销量同比暴跌22%至37%，整体出货量将萎缩28%。芯片短缺及显卡新品延迟发布令消费者推迟升级，游戏电脑市场或受重创。同时，部分厂商转向人工智能服务器生产以应对危机。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/f28bfd7cdd7f4809ae813aacb2a7fe6e_1_0/hd.webp",
-    "realDate": "2026-05-08 10:21:10"
+    "id": "b8d58bf2a5818ce1a7dd8a5812f16b3a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KSJDG01L0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=1968ab20176cf21f3858971c4ce6da8dd811443094eec4ce42a8e00b99a69bc5&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "奥特曼亲封GPT 5.5“自闭天才” 16人团队连夜退订Claude",
+    "summary": "奥特曼称GPT 5.5为“自闭天才”，其性能远超Claude。16人团队退订Claude改用GPT 5.5后月省3.2万美元。同时，Codex单周下载量达9000万次，是Claude Code的12倍。开发者反馈GPT 5.5在编码任务中token消耗比Claude少40%。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/4e54b4f730cc48879b59c919c711bffb_1_0/hd.webp",
+    "realDate": "2026-05-10 19:07:08"
   },
   {
-    "id": "c50b683dd737f7aff73b0136f9f951e9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282365655&to_app=hwbrowser&dy_scenario=topicinside&tn=5dbfc9a7ad7a5c6182e83df29a4a4631d41115bea68d1554983d40f8d8d7880f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "英伟达CEO黄仁勋称：下一代AI基础设施将需要大量的光学连接 铜线已无法满足需求",
-    "summary": "黄仁勋表示，下一代AI基础设施需大规模采用光学连接技术，铜线已无法满足计算需求增长。其与康宁公司的合作将推动美国技术供应链重建，并称光学技术应用规模将达空前水平。黄仁勋指出，AI投资还带动了对电工、建筑工人等非科技行业人才的需求。",
+    "id": "40884c21ad473540173b63b40ea2c927",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614404615&to_app=hwbrowser&dy_scenario=topicinside&tn=79f37a73268e7fb9af30d4a5c522f3978e7c22ab9452bf42c9092b81b5bce3d8&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "MiniMax发长文回应“模型无法说出马嘉祺”",
+    "summary": "MiniMax表示，经排查发现“嘉祺”在分词器中为独立token但后训练数据频次过低导致生成能力退化。该公司通过构建全词表合成数据建立生成频率保障，并将token覆盖度纳入常规监控指标以防止类似问题。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/3ca4283f7591497d8171382440110dfa_1_0/hd.webp",
+    "realDate": "2026-05-09 16:00:23"
+  },
+  {
+    "id": "2acf7fdc063a19601379932cccada7e5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282366884&to_app=hwbrowser&dy_scenario=topicinside&tn=4618b54604b4c848fb7452cc625d1a1a4fdcec687a0c6f2364d1a301f55f3425&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "训练运行模式缺陷或致AI提供危险建议",
+    "summary": "英国《自然》杂志指出，AI聊天机器人因训练和运行模式缺陷可能提供危险建议，包括鼓励自杀、制作非法内容及实施金融诈骗等案例。该研究揭示当前大语言模型底层架构问题，加剧了监管难度。",
     "author": "财联社电报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/86f5e197a3c349a0afc87f26d85c0c5d_1_0/hd.webp",
-    "realDate": "2026-05-08 09:45:56"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/c601f123ee5e4af6950543412f380def_1_0/hd.webp",
+    "realDate": "2026-05-09 16:14:42"
   },
   {
-    "id": "8ae7ea8812b0eafcfb0ee0bc87c03f73",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282366383&to_app=hwbrowser&dy_scenario=topicinside&tn=d62ef5105e245a101fb232b6165ec4352598a70b05f0a0a5473eae9c9391d286&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "国内首台“双核原子”量子计算机现身 有望8个月内完成交付",
-    "summary": "国内首台“汉原2号”双核原子量子计算机近日发布，由中科院等团队联合研发，采用200个量子比特双核架构，效率翻倍。研发方中科酷原透露，该机计划8个月内交付，同时“汉原1号”已在中国移动云平台运营并出口海外。中性原子技术路线被业内视为具高扩展性与商用潜力。",
+    "id": "1252c1bedffd844f7c9d5d774a4a6b51",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282367033&to_app=hwbrowser&dy_scenario=topicinside&tn=c1b563ce76929431440016fa31631c7fc387f14870ac0e072598e2a16dd50343&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+    "summary": "英伟达今年股权投资超400亿美元，覆盖数据中心运营商IREN和玻璃制造商康宁等企业，分别投资21亿和32亿美元。公司通过投资布局AI供应链，从芯片到云服务，形成全链条生态。对OpenAI投入300亿美元，是其最大单笔投资之一。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/12/v3/10510282366383/47bef1a2937b490eb2a3f97525fc3430_1_0/hd.webp",
-    "realDate": "2026-05-08 19:47:29"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/10510282367033/65681c555887403399ef284341946ec4_1_6/hd.webp",
+    "realDate": "2026-05-09 21:22:58"
   },
   {
-    "id": "02a09efd9f00145a6e71d63e2a7391d5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512479648927676378936870&to_app=hwbrowser&dy_scenario=topicinside&tn=173bfef58cb2b4e3504e5eb5f25261fa7a161d857faf41897bcb69ffefa5f32f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "月壤研究有了新发现 碳质小行星撞击地月系统时间晚于预期",
-    "summary": "中国科学院地质与地球物理研究所通过分析嫦娥六号月壤发现，碳质小行星撞击地月系统时间将晚于预期。研究显示，43亿年前到28亿年前间，撞击类型从非碳质为主转为碳质显著增加，但其频率降低限制了向地月输送水和有机物的总量。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/b48ce91da2174f979df929e111f0b528_1_0/hd.webp",
-    "realDate": "2026-05-08 12:14:32"
+    "id": "e29431958f50878e84feba3c339b9b50",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282367099&to_app=hwbrowser&dy_scenario=topicinside&tn=fb6656a59bae325f52f86ae583eaad6737b4eec03eaad4b53032457b1e74a115&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "三星电子罢工恐造成最高116亿美元直接损失",
+    "summary": "三星电子工人要求将各部门营业利润15%分配员工并加薪7%，否则5月21日起将罢工18天。专家预计罢工或致68亿至116亿美元直接损失。管理层同意试点三年奖金制度化，但工人认为待遇仍不及SK海力士。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/53/v3/10510282367099/81e30a83c7994da6b317516f589a499d_1_1/hd.webp",
+    "realDate": "2026-05-10 09:50:57"
   },
   {
-    "id": "a0ab72dee68d3569b9f58e43bbcf2b69",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124711327192214922367284&to_app=hwbrowser&dy_scenario=topicinside&tn=91a8d3b576d3ff046ffb38f1ebb04a371114926ed54a290a995f94925c96469f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "天舟十号船箭组合体转运至发射区 将于近日择机发射",
-    "summary": "天舟十号货运飞船与长征七号遥十一运载火箭组合体于5月8日转运至发射区，计划近日择机发射。飞船将上行6.3吨物资，包括第3套舱外航天服、太空跑台及6项科学试验载荷，创空间站建造以来载荷数量之最。中国空间站已腾出对接端口，神舟二十一号乘组完成手控对接训练。",
+    "id": "fb47753eaae342fab10fc4862ffaaf49",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124717276418866938744993&to_app=hwbrowser&dy_scenario=topicinside&tn=7cd5827577624646fd811c2df920d24bf5f2ab08f999d04258e3bfb02b3fc51b&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "我国第四代自主超导量子计算机上线",
+    "summary": "近日，我国自主研发的第四代自主超导量子计算机“本源悟空-180”上线运行，搭载单核180个计算比特超导量子芯片，实现百比特级量子计算。该机由本源量子全栈自主研制，关键核心体系均自主可控，即日起接收全球量子计算任务。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_93d1e569b41b49b48bb0ea47c2f7dd05/aa95c08f2237472db87757763c637ac8_1_0/hd.webp",
-    "realDate": "2026-05-08 10:38:02"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/105124717276418866938744993/26462f36dcc147e3b6e2e6588737e34b_1_0/hd.webp",
+    "realDate": "2026-05-09 10:00:00"
+  },
+  {
+    "id": "7ef6dd21d7b8bd1f4676c48223858b2b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051034101002026050970002604&to_app=hwbrowser&dy_scenario=topicinside&tn=2833d0825dbd0bcb0860ea86d993a1f7eb2243e7d2b00dfe764bcf4fdd1c0b9e&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "工信部启动人工智能科技伦理审查与服务先导计划",
+    "summary": "该计划将细化省级审查制度、建设伦理委员会及服务中心，并设立全国伦理风险监测服务网络，开展审查实践与标准转化。此举旨在应对算法歧视等伦理风险，推动十部门联合印发的审查办法在部分城市先行实施。",
+    "author": "新华社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/Topic_144f48d397bf497bb3b6b2435e099afa/500c4f9184244b4d896d57d2726027d8_1_0/hd.webp",
+    "realDate": "2026-05-09 18:33:17"
   }
 ]
