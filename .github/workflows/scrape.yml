@@ -3,7 +3,7 @@ name: Scrape Website
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 23 * * *' # 每天07:07执行
+    - cron: '17 22,23 * * *' # 每天07:07执行
 jobs:
   scrape:
     runs-on: ubuntu-latest
