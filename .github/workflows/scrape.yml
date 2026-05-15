@@ -32,5 +32,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add *.json
+          git add *.json config.js
           git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新新闻数据 [$(date +'%Y-%m-%d %H:%M')]" && git push)
