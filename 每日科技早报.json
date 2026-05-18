@@ -1,101 +1,92 @@
 [
   {
-    "id": "cfe79158ec093e58f53008a3c88d712e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144821237f69762bf87382612252f1cfcaa7&to_app=hwbrowser&dy_scenario=topicinside&tn=b2b6af375f54880fe69ef5d2bd7da952f1d34e457c8867352041db07bea17323&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "三星罢工倒计时！韩国政府发出“最后通牒”",
-    "summary": "三星电子劳资双方将于今日重启谈判，韩国政府警告若罢工对国民经济造成重大损失，将动用“紧急调整权”。工会要求提高利润分红，此前谈判破裂致公司股价暴跌。罢工或致40万亿韩元损失，政府已召开紧急会议。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/5928832fe9504f80afd78cfebbab12c2_1_0/hd.webp",
-    "realDate": "2026-05-17 10:56:28"
-  },
-  {
-    "id": "e56194af05af07e1a2eec6fc65375c79",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KT4P11FK0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=d624f4c9f72dd48712725081b40e8c6f3e5cb93229c8ae0453e3940154c220fd&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "贝佐斯380亿物理AI黑马公司杀出 联手斯坦福科学家",
-    "summary": "贝佐斯联合创办的AI初创公司Project Prometheus正接近完成100亿美元融资，估值达380亿美元，参投方包括贝莱德和摩根大通。该公司聚焦制造、航天等实体产业，致力于将AI应用于物理世界模拟。贝佐斯亲自担任联席CEO，搭档为斯坦福科学家Vik Bajaj。",
+    "id": "f38cf0b92487b048bf996a9add4e2df4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KT7BS0770511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=fdaad09651c1a0e7dd3916a5c334ff70101f0e66c50daa72a3d7d011afc5651e&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "OpenAI秘密矩阵曝光 用户所有设备可被连成一台超级电脑",
+    "summary": "OpenAI被曝正升级Codex系统，用户所有安装该应用的设备将组成统一算力网络，包括笔记本、台式机等，手机可远程操控。内部测试显示，设备间无需复杂配置即可实现跨设备协作，开发者称其功能远超代码工具。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/76550de77153454db64270e093ec0cbd_1_0/hd.webp",
-    "realDate": "2026-05-17 12:55:46"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/5601be561dbb4b2a89297ae985cbd456_1_0/hd.webp",
+    "realDate": "2026-05-18 13:03:33"
   },
   {
-    "id": "3bafde4fe3416f5cd05a0560195da0cc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324859015&to_app=hwbrowser&dy_scenario=topicinside&tn=23b6ae9ff1707697bab688ecff9f166e0d9fe2178bf9db0dea3542551d465176&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Anthropic CEO称 Claude新功能几乎完全由AI自主开发",
-    "summary": "近日，Anthropic CEO Dario Amodei在专访中透露，旗下AI编程工具最新功能Claude Co-work几乎完全由Claude Opus 4.5自主开发，耗时仅一周半，上线首日指标达同类产品四倍。同时，他警告AI将导致高GDP增速与高失业率并存，并强调企业级市场可规避注意力经济陷阱。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/1b75bc4440d644c49fce52f4dd9d45af_1_0/hd.webp",
-    "realDate": "2026-05-17 14:49:00"
-  },
-  {
-    "id": "1461fcfe1b1e4e2cb0e49d73e8c5427a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3FS3BCE4UCFA7&to_app=hwbrowser&dy_scenario=topicinside&tn=5dd0c309880d45f8f925869c2372d1429664aeeacff5d049d5f94100e27d4ae5&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "用Claude Code写论文的全套流水线 有人打包开源了",
-    "summary": "近日，一套名为academic-research-skills的Claude Code技能包在GitHub开源，获得6.4k星标。该项目包含研究、写作、审稿、定稿4个模块，通过13个Agent团队完成文献溯源、PRISMA综述等科研全流程，12个Agent实现双语摘要生成等写作功能，7个Agent模拟期刊评审并输出修改路线图。支持Markdown等格式输出，1.5万字论文全程费用约4-6美元。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/44c5cf4cc94b43c199767b3c8a04ad1b_1_0/hd.webp",
-    "realDate": "2026-05-17 09:45:00"
-  },
-  {
-    "id": "13d99457d281fed45fa97ab1f508c21d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KT4P0KV90511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=653843ec4b5bf49844ec0eac0e43f2f6fae17890048535671dbc8cf319a85e16&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "3个人带100个AI程序员 一个月烧掉130万美元",
-    "summary": "近日，OpenClaw创始人Peter Steinberger晒出团队AI用量账单。3人小组部署约100个Codex实例，30天消耗超6030亿token、发起760万次请求，主要用于代码审查、安全漏洞排查、bug修复及监控等环节，这些环节产生的费用由OpenAI承担。他透露关闭快速模式后成本已低于一名工程师薪资。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/e1584451911f4f2e856fd1fffadcd428_1_0/hd.webp",
-    "realDate": "2026-05-17 12:55:33"
-  },
-  {
-    "id": "e237f76613674e9469f9d5a82c28e768",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324858946&to_app=hwbrowser&dy_scenario=topicinside&tn=cdf93014e385d5fd83a6218ee025c70684afb7de12eb4f82054c6f97956ffcc3&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "OpenAI和苹果的“联盟”即将破裂",
-    "summary": "近日，外媒消息称，苹果与OpenAI自2024年6月官宣的合作关系面临破裂。OpenAI已聘请律所拟对苹果发起违约诉讼，指控其未按协议实现ChatGPT深度集成至iOS系统。双方原计划通过Siri调用、系统级生成等功能实现双赢，但实际集成效果与OpenAI预期不符，包括功能缩减及用户使用率低。同时苹果拒绝OpenAI“强集成”要求并加速自研AI进程。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/10510324858946/6e24bc329331495492eda1fab64e3edc_1_8/hd.webp",
-    "realDate": "2026-05-16 20:03:19"
-  },
-  {
-    "id": "d36c6ab04e11f69ceb79e109abc8dc40",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051253e11077cd51508d955cd2becb2c4cfbe4&to_app=hwbrowser&dy_scenario=topicinside&tn=e689a939e9c09467a4a652979e4a85d473b4abe17c447c5569527d433519ca53&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "摩尔线程大动作！与国家人工智能应用中试基地达成战略合作",
-    "summary": "5月16日，摩尔线程与国家人工智能应用中试基地（具身智能）签署战略协议，共建“具身智能算力与仿真联合实验室”，将基于全功能GPU算力与国家级平台优势推动具身智能规模化落地。同时，该公司2025年营收同比增长243.37%至15.05亿元，今年一季度营收7.38亿元并实现扭亏。",
-    "author": "证券时报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/9c2d141cf250490bbfb903924a741409_1_0/hd.webp",
-    "realDate": "2026-05-17 13:23:35"
-  },
-  {
-    "id": "828c1528c9aefcde82db3440303721b7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282373416&to_app=hwbrowser&dy_scenario=topicinside&tn=5029f535c155c7dd0a77aae98468e8907da0416aa0f3649165a6473491f5ff02&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "半导体涨价潮蔓延至电源管理IC 多厂商计划6-7月调价、涨幅个位数",
-    "summary": "厂商中，德州仪器、MPS、立锜等计划6至7月上调报价，茂达、硅力正协商调价，涨幅多为个位数。此轮涨价由晶圆代工、封测成本上涨驱动，非终端需求推动。2026年一季度全球半导体销售额达2985亿美元，中国市场3月销售额同比增长约60%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/583bf9fb66434bbfb4c4265f0b86a235_1_0/hd.webp",
-    "realDate": "2026-05-17 18:24:43"
-  },
-  {
-    "id": "870a8784907bf82288d46c8ea9cc061d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100188e712bc8b0d862ec4785901de018cac&to_app=hwbrowser&dy_scenario=topicinside&tn=d79754f4e4e128e9c7093cb6c02eac8dc1a90cd5fe1a7535334392b250d17db4&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "1000公斤推力级涡扇发动机通过验收 我国取得重大突破",
-    "summary": "近日，江西中发天信公司研制的1000公斤推力级涡扇发动机在南昌通过验收，性能指标全面达标。该发动机由10余位专家现场评审，在保持推力等级的同时显著提升燃油效率和推进性能，将为无人机及通用航空领域提供长航时动力支持。此次突破标志着我国民营航空企业在核心动力技术领域取得重要进展。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/69b89862f6c84818ad0609888ae0bf97_1_0/hd.webp",
-    "realDate": "2026-05-17 16:50:05"
-  },
-  {
-    "id": "cda72b7b3ab7cfbfa775a1e2b3ff0584",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023729934&to_app=hwbrowser&dy_scenario=topicinside&tn=55f3dcbce735911965263f701fa033bb09e39b2ae8f5ef73571644e5ab9aa852&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "我国首颗文物行业遥感卫星“文物01星”出征",
-    "summary": "近日，长光卫星技术股份有限公司在吉林省航天信息产业园举行8颗卫星出征仪式，包括我国首颗文物行业遥感卫星“文物01星”。该卫星由国家文物局联合打造，旨在提升文物保护和管理的信息化、智能化水平。同时，“彩云光学01星”等卫星将分别服务于地质灾害防治、茶产业升级等领域。这批卫星将于近期在酒泉发射。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1023_8/f2/v3/1051023729934/f77316b1e3854b89a5927aed64a18930_1_0/hd.webp",
-    "realDate": "2026-05-17 11:13:00"
-  },
-  {
-    "id": "08e7b1d3bb67b39b46cd0a442dc135dd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512477402051768849496185&to_app=hwbrowser&dy_scenario=topicinside&tn=407099afbf3cd71fe7d31d40b4748375c9e4b88735a03a6340f3511ca6a52fad&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "科学家开发出人类心脏“生物起搏器”类器官",
-    "summary": "中国科学院团队利用人多能干细胞成功构建人源“生物起搏器”类器官，模拟窦房结功能并实现神经调控心跳，相关成果发表于《细胞-干细胞》。该研究为心律失常治疗及药物筛选提供了新工具。",
+    "id": "a55ca9eb94a3b6cd6033f7c434a02443",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124718249173722374500334&to_app=hwbrowser&dy_scenario=topicinside&tn=6c009a7751cf6c53c696c112221c96ba2ef6d945e5585d28c12311021a93cad0&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "我国“逐日工程”研究取得重大进展",
+    "summary": "5月18日，西安电子科技大学段宝岩院士团队宣布，“逐日工程”突破空间太阳能电站与微波无线传能核心技术，研制的地面验证系统实现百米级千瓦功率输出。该技术可构建太空“无线充电站”，为卫星等设备供电。团队提出的分布式欧米伽方案攻克多目标供电难题，测试显示直流传输效率20.8%，无人机在30米距离稳定接收143瓦。专家组认定该成果达国际领先水平。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/30/v3/Topic_7c0da1e32c6641878a56bd33c394d34c/ed41aaf65ece443eb3703158cde63c4c_1_0/hd.webp",
-    "realDate": "2026-05-17 13:19:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/2015a8c258c74a55863a5231732a3b14_1_0/hd.webp",
+    "realDate": "2026-05-18 15:19:53"
+  },
+  {
+    "id": "8c5ffdd792b46ab9247e331cb95d2c3e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023730049&to_app=hwbrowser&dy_scenario=topicinside&tn=17df195d64109b3a4c3f8537d43aca2a9b97b8ca78c0de588d07e6ec05c752dc&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "莫迪亲赴阿斯麦 带印度企业买光刻机",
+    "summary": "近日，印度塔塔电子与荷兰阿斯麦签署谅解备忘录，将合作建设印度首座12英寸晶圆厂，总投资110亿美元，月产能5万片，预计今年投产。该项目由台湾力积电提供28-110纳米成熟制程技术，阿斯麦或主要提供DUV光刻机。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/1051023730049/691525b24efa4c529474d74f27d71d81_1_1/hd.webp",
+    "realDate": "2026-05-18 12:33:23"
+  },
+  {
+    "id": "32687f8ea42e6747777c22dc99575e39",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282373776&to_app=hwbrowser&dy_scenario=topicinside&tn=f3e5a0c98f08c6a0cf4ac4ae1b82a6244b40c08e76ebfb35e15b41a88ee372af&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "谷歌开发者大会要来了 Gemini模型有望迎轻量升级",
+    "summary": "当地时间5月19日至20日，2026年谷歌开发者大会将举行，新一代Gemini模型或迎轻量升级，新模型可能是Gemini 3.2、3.5或4.0，不排除同步发布原生多模态版本。其性能大致与OpenAI近期发布的GPT 5.5相当，从性能上看，并不属于目前市场上最优的大模型阵列。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5e/v3/10510282373776/748edaea98364a21be6663d920fa8132_1_5/hd.webp",
+    "realDate": "2026-05-18 10:39:37"
+  },
+  {
+    "id": "2c623ac29f86b9156ba01e58c74cc015",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282374142&to_app=hwbrowser&dy_scenario=topicinside&tn=ab14a1d1a80a85600ce0d6b965a1cd3c65ae862b45c199225391925da458421f&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "韩国法院一纸裁决 紧急干预三星潜在大罢工",
+    "summary": "5月18日，韩国水原地方法院裁定，三星电子工会即将举行的18天罢工须维持正常生产，不得影响芯片产量，否则每日罚款1亿韩元。罢工源于员工不满奖金分配，员工要求15%营业利润作为绩效奖金，而公司仅同意10%。韩国总理金民锡警告称，罢工或致万亿韩元损失，涉及5万名员工。",
+    "author": "科创板日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/09a392f3f88144c78051970a84c2f1d2_1_0/hd.webp",
+    "realDate": "2026-05-18 15:41:08"
+  },
+  {
+    "id": "fcba3653df24bbaea4b88d1f86ebdea5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104fa3c8345a1c7be0b352ffdbcf772f1e0&to_app=hwbrowser&dy_scenario=topicinside&tn=ff65efeaba11e05964077ff02c63d17b4a2997925ff3c96e8d9cdd70e52a6a72&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "微软彻底犯众怒！Excel强制植入Copilot：无法关闭、遮挡数据、挡住滚动条",
+    "summary": "微软近期向Excel推送的Copilot浮动按钮更新引发用户不满。该按钮固定显示在工作表右下角，无法隐藏或关闭，遮挡数据、影响滚动条操作且截图中混入图标。用户投诉称其破坏使用体验，部分考虑转向替代产品，要求微软提供关闭选项或恢复至原位置。对此微软暂未回应。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/3218df7500154d5abd1e9352ad4de942_1_0/hd.webp",
+    "realDate": "2026-05-18 12:11:36"
+  },
+  {
+    "id": "4baf75f9b06519c33fdc33992f7fe571",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104988b4531e6eb04cda1de232af2543ec2&to_app=hwbrowser&dy_scenario=topicinside&tn=deabace9edd6007630693c91abb2ae7a65316060b79484bc8a138945a5d8618a&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "存储芯片巨头抢人战升级！三星成海力士补习班：200名核心工程师投奔对手",
+    "summary": "韩国半导体行业人才争夺加剧，过去四个月约200名三星核心工程师跳槽至SK海力士。海力士2025年与工会达成协议，将年度营业利润10%纳入奖金池，员工2025年人均奖金约65万元人民币，2026年预计达300万至350万元。三星因奖金上限问题与工会僵持，员工奖金不足海力士同岗三分之一。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/e8e448c6912c4dfaa4271fedc7d442e3_1_0/hd.webp",
+    "realDate": "2026-05-18 13:09:43"
+  },
+  {
+    "id": "3598a3568937c9e4b4c1a68e3602b5b1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282373682&to_app=hwbrowser&dy_scenario=topicinside&tn=c5bff1c53cbc55f5858a13032d44836d5d51f0e1bc0a1cc95b541a6405254e1e&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "AI数据中心致光纤价格暴涨 交货期限延长至20周以上",
+    "summary": "AI数据中心需求激增致光纤供不应求，价格从2021年3.70美元/公里涨至约6.30美元/公里。CRU数据显示2025年数据中心光纤需求同比增76%，占全球总需求30%。预制棒扩产周期长限制供应，交货期延至20周以上。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b8/v3/10510282373682/8b394e32248546ae96eb59756e3d6f70_1_6/hd.webp",
+    "realDate": "2026-05-18 10:03:44"
+  },
+  {
+    "id": "b98e81f73e2ec823792a9a0ff8d99e24",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448d4dacb37aee3e3483af3e18d98a861a2&to_app=hwbrowser&dy_scenario=topicinside&tn=a7d1c57550a73b734f06e9b241b9f39964e65ff8b17112770f773ba9382d7db5&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "台积电CPO布局升级加速 ABF基板供需恐再现紧张局面",
+    "summary": "台积电宣布“COUPE on Substrate”光电共封装方案将于今年下半年量产，推动AI芯片制造向光电系统整合升级。英伟达或效仿锁定CoWoS与HBM产能的做法，提前锁定ABF基板供应。AI GPU所需ABF基板材料消耗量较传统CPU暴增5至10倍，高阶ABF基板供需可能长期紧张。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/544c9f7c1ef6470da2cd104895b53bea_1_0/hd.webp",
+    "realDate": "2026-05-18 09:13:41"
+  },
+  {
+    "id": "0155feb93de502924fd25a9091bbd61d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511658d55e26bb63c50e4e0193bc9903d0d2f&to_app=hwbrowser&dy_scenario=topicinside&tn=6fa1263820b3af2fa06ebf3ff7e8c0d35dd9e8b5554e6000dc8ca8d8bef205e0&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "9位中外顶尖科学家荣获基础科学奖章",
+    "summary": "5月18日，2026国际基础科学大会新闻发布会在清华大学举行，公布9位中外科学家获基础科学奖章，覆盖数学、物理、工程领域，包括克莱尔·瓦赞、姚鸿泽、张寿武等。同时揭晓的前沿科学奖由118篇论文获得，涉及40个研究方向，500余名作者来自多国机构。大会宣布设立面向中国50岁以下科研人才的“创新科学奖”。",
+    "author": "新京报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1165_8/90/v3/10511658d55e26bb63c50e4e0193bc9903d0d2f/0d31d60385a44f55b62e9dbb0e24ec4b_1_0/hd.webp",
+    "realDate": "2026-05-18 16:33:58"
   }
 ]
