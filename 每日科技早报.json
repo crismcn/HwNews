@@ -1,92 +1,92 @@
 [
   {
-    "id": "f38cf0b92487b048bf996a9add4e2df4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KT7BS0770511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=fdaad09651c1a0e7dd3916a5c334ff70101f0e66c50daa72a3d7d011afc5651e&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "OpenAI秘密矩阵曝光 用户所有设备可被连成一台超级电脑",
-    "summary": "OpenAI被曝正升级Codex系统，用户所有安装该应用的设备将组成统一算力网络，包括笔记本、台式机等，手机可远程操控。内部测试显示，设备间无需复杂配置即可实现跨设备协作，开发者称其功能远超代码工具。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/5601be561dbb4b2a89297ae985cbd456_1_0/hd.webp",
-    "realDate": "2026-05-18 13:03:33"
+    "id": "41316202d454e1373e483b499b4d7d29",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10516575543bd91721fc431710c2576f564822a&to_app=hwbrowser&dy_scenario=topicinside&tn=042e2a2206fd450ce670d61c48193c4a35ae9324d6f3bd521b59294b30a86b2c&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "DeepSeek回应泄露用户对话内容",
+    "summary": "5月19日，DeepSeek回应“think字符触发异常回复”事件，称用户输入该字符后模型偶发不可预期内容属特殊字符引发的幻觉，不涉及隐私泄露。技术团队将针对性优化模型处理能力。记者实测网页端及App输入“think”仍会触发各类回答。",
+    "author": "南方都市报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/0dea77191f254fbfa4ea1f8a5b21827e_1_0/hd.webp",
+    "realDate": "2026-05-19 21:16:37"
   },
   {
-    "id": "a55ca9eb94a3b6cd6033f7c434a02443",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124718249173722374500334&to_app=hwbrowser&dy_scenario=topicinside&tn=6c009a7751cf6c53c696c112221c96ba2ef6d945e5585d28c12311021a93cad0&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "我国“逐日工程”研究取得重大进展",
-    "summary": "5月18日，西安电子科技大学段宝岩院士团队宣布，“逐日工程”突破空间太阳能电站与微波无线传能核心技术，研制的地面验证系统实现百米级千瓦功率输出。该技术可构建太空“无线充电站”，为卫星等设备供电。团队提出的分布式欧米伽方案攻克多目标供电难题，测试显示直流传输效率20.8%，无人机在30米距离稳定接收143瓦。专家组认定该成果达国际领先水平。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/2015a8c258c74a55863a5231732a3b14_1_0/hd.webp",
-    "realDate": "2026-05-18 15:19:53"
+    "id": "d0fc5fe344f73d216c0759a3abb9f699",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051253851cf8c14e451893cc6d6b2e5bcde411&to_app=hwbrowser&dy_scenario=topicinside&tn=687452c60cc95e68b01d0dd3d1c6a7bac0858eaba12f34bd0b04445fbcb972c3&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "事关封装 中芯国际最新宣布",
+    "summary": "近日，中芯国际披露，自2015年起持续布局封装技术，重点发展3D CIS键合封装领域。为应对市场需求，该公司近期成立先进封装研究院以加强技术研发，并组建芯三维公司配套产能建设。相关举措旨在紧密对接客户需求，灵活推进业务布局。",
+    "author": "证券时报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/9593dd4e54854231b7ef72b1d58ab48a_1_0/hd.webp",
+    "realDate": "2026-05-19 22:08:36"
   },
   {
-    "id": "8c5ffdd792b46ab9247e331cb95d2c3e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023730049&to_app=hwbrowser&dy_scenario=topicinside&tn=17df195d64109b3a4c3f8537d43aca2a9b97b8ca78c0de588d07e6ec05c752dc&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "莫迪亲赴阿斯麦 带印度企业买光刻机",
-    "summary": "近日，印度塔塔电子与荷兰阿斯麦签署谅解备忘录，将合作建设印度首座12英寸晶圆厂，总投资110亿美元，月产能5万片，预计今年投产。该项目由台湾力积电提供28-110纳米成熟制程技术，阿斯麦或主要提供DUV光刻机。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/1051023730049/691525b24efa4c529474d74f27d71d81_1_1/hd.webp",
-    "realDate": "2026-05-18 12:33:23"
+    "id": "e7c9e745e5a0371fdf4aa52586d019ab",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tFJZUyNk5j&to_app=hwbrowser&dy_scenario=topicinside&tn=cc8f83ed8f11fe3b6d4d77212d17de2385a9594bc74e3946f0e4b4a9976b3cee&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "新版星舰即将发射 SpaceX基地发生致死事故",
+    "summary": "据报道，SpaceX得州火箭基地上周五发生坠落事故，一名承包商员工死亡。该基地正为周三晚的新版“星舰”试飞做准备，事故地点“星际基地”位于布朗斯维尔以东20英里处，消防部门接警后未出勤。对此SpaceX暂未回应。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/1051054ucms_8tFJZUyNk5j/289cce511297486b9e2ab1afcd8a9ecd_1_7/hd.webp",
+    "realDate": "2026-05-19 07:18:58"
   },
   {
-    "id": "32687f8ea42e6747777c22dc99575e39",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282373776&to_app=hwbrowser&dy_scenario=topicinside&tn=f3e5a0c98f08c6a0cf4ac4ae1b82a6244b40c08e76ebfb35e15b41a88ee372af&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "谷歌开发者大会要来了 Gemini模型有望迎轻量升级",
-    "summary": "当地时间5月19日至20日，2026年谷歌开发者大会将举行，新一代Gemini模型或迎轻量升级，新模型可能是Gemini 3.2、3.5或4.0，不排除同步发布原生多模态版本。其性能大致与OpenAI近期发布的GPT 5.5相当，从性能上看，并不属于目前市场上最优的大模型阵列。",
+    "id": "d77bbdcb31d6a3e6319eecee48f32d40",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282374835&to_app=hwbrowser&dy_scenario=topicinside&tn=3a492129f3b880d588bbbb610ce153526ffdb7d4a56a5c2413aeb421955e42ed&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "xAI推出“Skills”功能 赋予Grok跨对话的持久记忆能力",
+    "summary": "该功能使AI助手Grok具备跨对话的持久记忆能力，支持网页端及移动平台，用户仅需一次教学，Grok即可永久保存个人偏好、格式规则等工作流步骤，避免重复输入提示词。此举推动Grok从单次问答向可编程自动化工具转型。",
+    "author": "财联社电报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/eb499ad37209408c82b47b4ee2a9a736_1_0/hd.webp",
+    "realDate": "2026-05-19 07:59:21"
+  },
+  {
+    "id": "a2a3bcd38a594018bdd3c42a733ee1be",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282374998&to_app=hwbrowser&dy_scenario=topicinside&tn=1bbef959e1eabe61a4324ac441ef83b076817864f738b096f1e271fb9f47def7&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "英伟达重磅CPU Vera交付 甲骨文承诺部署数十万颗",
+    "summary": "5月19日，英伟达宣布专为智能体AI设计的CPU Vera完成首批交付，客户包括Anthropic、OpenAI、SpaceX AI及甲骨文云。甲骨文计划2026年起部署数十万颗Vera，其88个自研核心较前代性能提升50%，内存带宽1.2TB/s。同时该芯片将作为Vera Rubin超级芯片平台主机处理器，与GPU协同提升AI算力效率。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5e/v3/10510282373776/748edaea98364a21be6663d920fa8132_1_5/hd.webp",
-    "realDate": "2026-05-18 10:39:37"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7f/v3/10510282374998/19314f1e02704f66a80bc615b0c4638e_1_8/hd.webp",
+    "realDate": "2026-05-19 10:29:50"
   },
   {
-    "id": "2c623ac29f86b9156ba01e58c74cc015",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282374142&to_app=hwbrowser&dy_scenario=topicinside&tn=ab14a1d1a80a85600ce0d6b965a1cd3c65ae862b45c199225391925da458421f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "韩国法院一纸裁决 紧急干预三星潜在大罢工",
-    "summary": "5月18日，韩国水原地方法院裁定，三星电子工会即将举行的18天罢工须维持正常生产，不得影响芯片产量，否则每日罚款1亿韩元。罢工源于员工不满奖金分配，员工要求15%营业利润作为绩效奖金，而公司仅同意10%。韩国总理金民锡警告称，罢工或致万亿韩元损失，涉及5万名员工。",
-    "author": "科创板日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/09a392f3f88144c78051970a84c2f1d2_1_0/hd.webp",
-    "realDate": "2026-05-18 15:41:08"
+    "id": "319519209ee9d167c219d4935f782311",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074952057&to_app=hwbrowser&dy_scenario=topicinside&tn=f1d206f6317afebcf8a53a9bd4c3c33c07b56f6823a399b81ddb932433974bc4&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Anthropic 2.8亿欧元收购Stainless 谷歌和OpenAI失去关键AI SDK工具",
+    "summary": "Anthropic以超2.8亿欧元收购API工具开发商Stainless，后者将停止对外提供SDK自动生成等托管服务。该技术可自动创建多语言开发工具包，此前被OpenAI、谷歌等用于AI开发。交易使Anthropic获得关键接口能力，强化其产品迭代优势。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/9f1b5111836644898dd69cc6cfa27dbe_1_0/hd.webp",
+    "realDate": "2026-05-19 07:53:39"
   },
   {
-    "id": "fcba3653df24bbaea4b88d1f86ebdea5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104fa3c8345a1c7be0b352ffdbcf772f1e0&to_app=hwbrowser&dy_scenario=topicinside&tn=ff65efeaba11e05964077ff02c63d17b4a2997925ff3c96e8d9cdd70e52a6a72&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "微软彻底犯众怒！Excel强制植入Copilot：无法关闭、遮挡数据、挡住滚动条",
-    "summary": "微软近期向Excel推送的Copilot浮动按钮更新引发用户不满。该按钮固定显示在工作表右下角，无法隐藏或关闭，遮挡数据、影响滚动条操作且截图中混入图标。用户投诉称其破坏使用体验，部分考虑转向替代产品，要求微软提供关闭选项或恢复至原位置。对此微软暂未回应。",
+    "id": "11393973dd4ca8d32694a5677a4397c9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074952097&to_app=hwbrowser&dy_scenario=topicinside&tn=a1e53181bac2ffa76e10e0b897f2db87342fa50c523071e67bf3c60c4ada2741&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "谷歌联手黑石组建AI云公司：50亿美元起步",
+    "summary": "谷歌与黑石计划在美国成立AI云公司，黑石首期投入50亿美元股权资本，总投资预计达250亿美元。新公司将利用谷歌自研芯片和云能力，目标2027年上线500兆瓦容量，挑战CoreWeave等算力服务商。黑石称其拥有超1500亿美元数据中心资产。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/3d4be6f15cfe4055a584539f9daf317d_1_0/hd.webp",
+    "realDate": "2026-05-19 09:52:20"
+  },
+  {
+    "id": "b21923c2f9a7900bf7e62c1fd026a65d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104f4e3258da52bc29c889ed1c646d5b595&to_app=hwbrowser&dy_scenario=topicinside&tn=f443b9b727c837d48296db67186af981e69534a2f1a36890ceaa03b02c219d04&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "狂砸63亿元！中国台湾存储模组厂集体举债买芯片",
+    "summary": "中国台湾存储模组厂商因DRAM和NAND合约价格逐季攀升，集体通过发行可转债、银团贷款等方式筹集超63.6亿元人民币采购芯片。威刚科技借款最多，已完成20亿新台币可转债发行并获120亿新台币贷款。行业数据显示，DRAM第一季度合约价环比涨90%至95%，预计第二季度续涨58%至63%。威刚科技董事长称，公司3月底芯片库存目标超350亿新台币。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/3218df7500154d5abd1e9352ad4de942_1_0/hd.webp",
-    "realDate": "2026-05-18 12:11:36"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/0e0f6b369b4340fb9d9cf7933b64db1f_1_0/hd.webp",
+    "realDate": "2026-05-19 15:28:45"
   },
   {
-    "id": "4baf75f9b06519c33fdc33992f7fe571",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104988b4531e6eb04cda1de232af2543ec2&to_app=hwbrowser&dy_scenario=topicinside&tn=deabace9edd6007630693c91abb2ae7a65316060b79484bc8a138945a5d8618a&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "存储芯片巨头抢人战升级！三星成海力士补习班：200名核心工程师投奔对手",
-    "summary": "韩国半导体行业人才争夺加剧，过去四个月约200名三星核心工程师跳槽至SK海力士。海力士2025年与工会达成协议，将年度营业利润10%纳入奖金池，员工2025年人均奖金约65万元人民币，2026年预计达300万至350万元。三星因奖金上限问题与工会僵持，员工奖金不足海力士同岗三分之一。",
+    "id": "6dae651eac46c2232a164fa81240a7ba",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104fc0186e976219cb8b2858cc8ccad0c6c&to_app=hwbrowser&dy_scenario=topicinside&tn=e3c5e0267b0b31a4115d0c7fcee1072d0665e8850529851bbe1a6e3cd993847b&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "DDR5内存价格仍在攀升：已暴涨414%",
+    "summary": "德国市场DDR5内存价格持续上涨，5月均价环比增长4%，较2025年7月基准价累计涨幅达414%。32GB DDR5-6400套装单月涨幅最高为9%，部分规格虽有回落但整体仍被高规格产品拉高。AI算力需求挤压消费级DRAM产能是主因，全球DDR5价格短期内难回归常态，当前为近十年购买成本最高时期。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/e8e448c6912c4dfaa4271fedc7d442e3_1_0/hd.webp",
-    "realDate": "2026-05-18 13:09:43"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/366b3416dda84a2b8567ac6107af08df_1_0/hd.webp",
+    "realDate": "2026-05-19 11:00:46"
   },
   {
-    "id": "3598a3568937c9e4b4c1a68e3602b5b1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282373682&to_app=hwbrowser&dy_scenario=topicinside&tn=c5bff1c53cbc55f5858a13032d44836d5d51f0e1bc0a1cc95b541a6405254e1e&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "AI数据中心致光纤价格暴涨 交货期限延长至20周以上",
-    "summary": "AI数据中心需求激增致光纤供不应求，价格从2021年3.70美元/公里涨至约6.30美元/公里。CRU数据显示2025年数据中心光纤需求同比增76%，占全球总需求30%。预制棒扩产周期长限制供应，交货期延至20周以上。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b8/v3/10510282373682/8b394e32248546ae96eb59756e3d6f70_1_6/hd.webp",
-    "realDate": "2026-05-18 10:03:44"
-  },
-  {
-    "id": "b98e81f73e2ec823792a9a0ff8d99e24",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448d4dacb37aee3e3483af3e18d98a861a2&to_app=hwbrowser&dy_scenario=topicinside&tn=a7d1c57550a73b734f06e9b241b9f39964e65ff8b17112770f773ba9382d7db5&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "台积电CPO布局升级加速 ABF基板供需恐再现紧张局面",
-    "summary": "台积电宣布“COUPE on Substrate”光电共封装方案将于今年下半年量产，推动AI芯片制造向光电系统整合升级。英伟达或效仿锁定CoWoS与HBM产能的做法，提前锁定ABF基板供应。AI GPU所需ABF基板材料消耗量较传统CPU暴增5至10倍，高阶ABF基板供需可能长期紧张。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a9/v3/Topic_5c6fce6a091d472bb3da132ae1439482/544c9f7c1ef6470da2cd104895b53bea_1_0/hd.webp",
-    "realDate": "2026-05-18 09:13:41"
-  },
-  {
-    "id": "0155feb93de502924fd25a9091bbd61d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511658d55e26bb63c50e4e0193bc9903d0d2f&to_app=hwbrowser&dy_scenario=topicinside&tn=6fa1263820b3af2fa06ebf3ff7e8c0d35dd9e8b5554e6000dc8ca8d8bef205e0&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "9位中外顶尖科学家荣获基础科学奖章",
-    "summary": "5月18日，2026国际基础科学大会新闻发布会在清华大学举行，公布9位中外科学家获基础科学奖章，覆盖数学、物理、工程领域，包括克莱尔·瓦赞、姚鸿泽、张寿武等。同时揭晓的前沿科学奖由118篇论文获得，涉及40个研究方向，500余名作者来自多国机构。大会宣布设立面向中国50岁以下科研人才的“创新科学奖”。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1165_8/90/v3/10511658d55e26bb63c50e4e0193bc9903d0d2f/0d31d60385a44f55b62e9dbb0e24ec4b_1_0/hd.webp",
-    "realDate": "2026-05-18 16:33:58"
+    "id": "362bf139d1d7b0ad897a83e952d0b42f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512215458b9be3688e6919c18ae9d1374ea0e&to_app=hwbrowser&dy_scenario=topicinside&tn=fa253b6cfcddca93dbaee3f3743dc2908c6bcef3c176d5066a32cc74c5731acb&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "大量倒卖Token的黄牛涌入 最便宜百万Token只卖2元",
+    "summary": "国内AI中转站低价倒卖大模型Token，Claude-Opus-4-6官方API调用价为170元/百万Token，而某头部中转站压至78元，中小站点普遍2-3折，最低仅2元/百万Token。业内人士透露，中转站通过复杂计费公式盈利，存在掺假模型和出售用户数据的风险。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4e/v3/10512215458b9be3688e6919c18ae9d1374ea0e/9873ca4699a34a74bfd2ad8dd67480cb_1_6/hd.webp",
+    "realDate": "2026-05-19 11:40:00"
   }
 ]
