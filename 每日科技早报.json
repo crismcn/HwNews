@@ -1,92 +1,92 @@
 [
   {
-    "id": "41316202d454e1373e483b499b4d7d29",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10516575543bd91721fc431710c2576f564822a&to_app=hwbrowser&dy_scenario=topicinside&tn=042e2a2206fd450ce670d61c48193c4a35ae9324d6f3bd521b59294b30a86b2c&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "DeepSeek回应泄露用户对话内容",
-    "summary": "5月19日，DeepSeek回应“think字符触发异常回复”事件，称用户输入该字符后模型偶发不可预期内容属特殊字符引发的幻觉，不涉及隐私泄露。技术团队将针对性优化模型处理能力。记者实测网页端及App输入“think”仍会触发各类回答。",
-    "author": "南方都市报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/0dea77191f254fbfa4ea1f8a5b21827e_1_0/hd.webp",
-    "realDate": "2026-05-19 21:16:37"
+    "id": "14f55f3729e7b5c6b66dde06a6e5f653",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774400551&to_app=hwbrowser&dy_scenario=topicinside&tn=f2cec371858e77e8d749c0539e0a3ec1f2eee1df1c620cde945d8fdacb26e501&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "阿里发布新一代千问旗舰模型Qwen3.7-Max",
+    "summary": "该模型在三方盲测中位列国产第一，接近GPT等国际顶尖水平。其突破性在于实现35小时自主完成芯片平台内核进化，推理速度提升10倍。同时阿里云宣布升级“芯-云-模型-推理”技术体系，该模型API将上线百炼平台，还将推出多模态版本。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/3c/v3/10510774400551/d3adb97e3b8e40ff935448a22935ef85_1_3/hd.webp",
+    "realDate": "2026-05-20 11:25:05"
   },
   {
-    "id": "d0fc5fe344f73d216c0759a3abb9f699",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051253851cf8c14e451893cc6d6b2e5bcde411&to_app=hwbrowser&dy_scenario=topicinside&tn=687452c60cc95e68b01d0dd3d1c6a7bac0858eaba12f34bd0b04445fbcb972c3&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "事关封装 中芯国际最新宣布",
-    "summary": "近日，中芯国际披露，自2015年起持续布局封装技术，重点发展3D CIS键合封装领域。为应对市场需求，该公司近期成立先进封装研究院以加强技术研发，并组建芯三维公司配套产能建设。相关举措旨在紧密对接客户需求，灵活推进业务布局。",
-    "author": "证券时报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/9593dd4e54854231b7ef72b1d58ab48a_1_0/hd.webp",
-    "realDate": "2026-05-19 22:08:36"
+    "id": "00b4007d16d7cace7b358e6b2bec732c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282377274&to_app=hwbrowser&dy_scenario=topicinside&tn=188a745814a644d5a6ce8a73ada5e210e90d25283daad9cf8d71bef2bcc1bda9&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "消息称OpenAI正秘密筹备IPO 最快周五递表",
+    "summary": "报道称，OpenAI或于5月22日秘密提交IPO招股书草案，估值8520亿美元。该公司正与高盛、摩根士丹利等投行合作，最快四季度上市。同时，SpaceX也计划近期披露招股书，估值1.25万亿美元。OpenAI CEO奥尔特曼面临商业模式可持续性挑战，主要竞争对手Anthropic估值或达9000亿美元。",
+    "author": "科创板日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/c8b6318defe546feabedddc0917c4618_1_0/hd.webp",
+    "realDate": "2026-05-21 04:35:59"
   },
   {
-    "id": "e7c9e745e5a0371fdf4aa52586d019ab",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tFJZUyNk5j&to_app=hwbrowser&dy_scenario=topicinside&tn=cc8f83ed8f11fe3b6d4d77212d17de2385a9594bc74e3946f0e4b4a9976b3cee&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "新版星舰即将发射 SpaceX基地发生致死事故",
-    "summary": "据报道，SpaceX得州火箭基地上周五发生坠落事故，一名承包商员工死亡。该基地正为周三晚的新版“星舰”试飞做准备，事故地点“星际基地”位于布朗斯维尔以东20英里处，消防部门接警后未出勤。对此SpaceX暂未回应。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/1051054ucms_8tFJZUyNk5j/289cce511297486b9e2ab1afcd8a9ecd_1_7/hd.webp",
-    "realDate": "2026-05-19 07:18:58"
-  },
-  {
-    "id": "d77bbdcb31d6a3e6319eecee48f32d40",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282374835&to_app=hwbrowser&dy_scenario=topicinside&tn=3a492129f3b880d588bbbb610ce153526ffdb7d4a56a5c2413aeb421955e42ed&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "xAI推出“Skills”功能 赋予Grok跨对话的持久记忆能力",
-    "summary": "该功能使AI助手Grok具备跨对话的持久记忆能力，支持网页端及移动平台，用户仅需一次教学，Grok即可永久保存个人偏好、格式规则等工作流步骤，避免重复输入提示词。此举推动Grok从单次问答向可编程自动化工具转型。",
-    "author": "财联社电报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/eb499ad37209408c82b47b4ee2a9a736_1_0/hd.webp",
-    "realDate": "2026-05-19 07:59:21"
-  },
-  {
-    "id": "a2a3bcd38a594018bdd3c42a733ee1be",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282374998&to_app=hwbrowser&dy_scenario=topicinside&tn=1bbef959e1eabe61a4324ac441ef83b076817864f738b096f1e271fb9f47def7&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "英伟达重磅CPU Vera交付 甲骨文承诺部署数十万颗",
-    "summary": "5月19日，英伟达宣布专为智能体AI设计的CPU Vera完成首批交付，客户包括Anthropic、OpenAI、SpaceX AI及甲骨文云。甲骨文计划2026年起部署数十万颗Vera，其88个自研核心较前代性能提升50%，内存带宽1.2TB/s。同时该芯片将作为Vera Rubin超级芯片平台主机处理器，与GPU协同提升AI算力效率。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7f/v3/10510282374998/19314f1e02704f66a80bc615b0c4638e_1_8/hd.webp",
-    "realDate": "2026-05-19 10:29:50"
-  },
-  {
-    "id": "319519209ee9d167c219d4935f782311",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074952057&to_app=hwbrowser&dy_scenario=topicinside&tn=f1d206f6317afebcf8a53a9bd4c3c33c07b56f6823a399b81ddb932433974bc4&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Anthropic 2.8亿欧元收购Stainless 谷歌和OpenAI失去关键AI SDK工具",
-    "summary": "Anthropic以超2.8亿欧元收购API工具开发商Stainless，后者将停止对外提供SDK自动生成等托管服务。该技术可自动创建多语言开发工具包，此前被OpenAI、谷歌等用于AI开发。交易使Anthropic获得关键接口能力，强化其产品迭代优势。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/9f1b5111836644898dd69cc6cfa27dbe_1_0/hd.webp",
-    "realDate": "2026-05-19 07:53:39"
-  },
-  {
-    "id": "11393973dd4ca8d32694a5677a4397c9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074952097&to_app=hwbrowser&dy_scenario=topicinside&tn=a1e53181bac2ffa76e10e0b897f2db87342fa50c523071e67bf3c60c4ada2741&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "谷歌联手黑石组建AI云公司：50亿美元起步",
-    "summary": "谷歌与黑石计划在美国成立AI云公司，黑石首期投入50亿美元股权资本，总投资预计达250亿美元。新公司将利用谷歌自研芯片和云能力，目标2027年上线500兆瓦容量，挑战CoreWeave等算力服务商。黑石称其拥有超1500亿美元数据中心资产。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/3d4be6f15cfe4055a584539f9daf317d_1_0/hd.webp",
-    "realDate": "2026-05-19 09:52:20"
-  },
-  {
-    "id": "b21923c2f9a7900bf7e62c1fd026a65d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104f4e3258da52bc29c889ed1c646d5b595&to_app=hwbrowser&dy_scenario=topicinside&tn=f443b9b727c837d48296db67186af981e69534a2f1a36890ceaa03b02c219d04&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "狂砸63亿元！中国台湾存储模组厂集体举债买芯片",
-    "summary": "中国台湾存储模组厂商因DRAM和NAND合约价格逐季攀升，集体通过发行可转债、银团贷款等方式筹集超63.6亿元人民币采购芯片。威刚科技借款最多，已完成20亿新台币可转债发行并获120亿新台币贷款。行业数据显示，DRAM第一季度合约价环比涨90%至95%，预计第二季度续涨58%至63%。威刚科技董事长称，公司3月底芯片库存目标超350亿新台币。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/0e0f6b369b4340fb9d9cf7933b64db1f_1_0/hd.webp",
-    "realDate": "2026-05-19 15:28:45"
-  },
-  {
-    "id": "6dae651eac46c2232a164fa81240a7ba",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104fc0186e976219cb8b2858cc8ccad0c6c&to_app=hwbrowser&dy_scenario=topicinside&tn=e3c5e0267b0b31a4115d0c7fcee1072d0665e8850529851bbe1a6e3cd993847b&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "DDR5内存价格仍在攀升：已暴涨414%",
-    "summary": "德国市场DDR5内存价格持续上涨，5月均价环比增长4%，较2025年7月基准价累计涨幅达414%。32GB DDR5-6400套装单月涨幅最高为9%，部分规格虽有回落但整体仍被高规格产品拉高。AI算力需求挤压消费级DRAM产能是主因，全球DDR5价格短期内难回归常态，当前为近十年购买成本最高时期。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_ce65a3f40ab24838bf6915888f17726f/366b3416dda84a2b8567ac6107af08df_1_0/hd.webp",
-    "realDate": "2026-05-19 11:00:46"
-  },
-  {
-    "id": "362bf139d1d7b0ad897a83e952d0b42f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512215458b9be3688e6919c18ae9d1374ea0e&to_app=hwbrowser&dy_scenario=topicinside&tn=fa253b6cfcddca93dbaee3f3743dc2908c6bcef3c176d5066a32cc74c5731acb&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "大量倒卖Token的黄牛涌入 最便宜百万Token只卖2元",
-    "summary": "国内AI中转站低价倒卖大模型Token，Claude-Opus-4-6官方API调用价为170元/百万Token，而某头部中转站压至78元，中小站点普遍2-3折，最低仅2元/百万Token。业内人士透露，中转站通过复杂计费公式盈利，存在掺假模型和出售用户数据的风险。",
+    "id": "a267f6a27232662527a6c8f3e008a3e2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221f0b1470b9dcbaaf3502114b26d46f3a8&to_app=hwbrowser&dy_scenario=topicinside&tn=75271283d5fde48382316d1323aed1ea61a8050acd57605e36e6eabd550b2960&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "相关人士辟谣字节Seedance 2.1即将发布",
+    "summary": "近日，有传言称字节跳动AI视频生成模型Seedance 2.1即将发布，生成质量较2.0版提升20%，并整合至剪映。该消息引发市场热议。但接近字节跳动人士表示，传言不属实。Seedance 2.0于今年2月发布，被部分用户称为“地表最强视频生成工具”，其发布后曾带动A股影视公司股价上涨，并在海外市场引发抢购热潮。",
     "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4e/v3/10512215458b9be3688e6919c18ae9d1374ea0e/9873ca4699a34a74bfd2ad8dd67480cb_1_6/hd.webp",
-    "realDate": "2026-05-19 11:40:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/066b7a3e57f24ff68c7fd4bf810f3569_1_0/hd.webp",
+    "realDate": "2026-05-20 12:43:00"
+  },
+  {
+    "id": "a3e4f246e8a300802afe68f8e4061f83",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512210fbf67deec691f49f25e21eb09327e42&to_app=hwbrowser&dy_scenario=topicinside&tn=f253658fb0dd96507cd982925313d242670b876bd3296d68997dda8d4a5acc40&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "谷歌联手OpenAI大幅推广AI水印",
+    "summary": "近日，谷歌宣布扩大AI水印计划SynthID，OpenAI、Kakao和Eleven Labs等公司接入。该技术可在AI生成图像中嵌入隐形数字水印，即使图片被编辑仍可识别。同时，谷歌向用户开放验证功能，未来将整合至搜索和浏览器中。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/fd7e2cad1af4417baf6329bb96e7ca7c_1_0/hd.webp",
+    "realDate": "2026-05-20 22:32:00"
+  },
+  {
+    "id": "08d1e85fe56a4b6e86182544f940c44b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614454603&to_app=hwbrowser&dy_scenario=topicinside&tn=cda68f49fe81ae033af7b53ef78fe02af69fe4eb0cfea81f3e0f139beca750e9&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "平头哥发布新一代AI芯片真武M890 性能提升至3倍",
+    "summary": "5月20日，阿里云峰会发布平头哥新一代AI芯片真武M890，其显存达144GB，片间互联带宽800GB/s，性能较前代真武810E提升3倍，支持FP32至FP4多精度计算。该芯片与自研ICN Switch1.0配合可实现64卡全带宽互联，提升智算集群效率，系阿里云“芯-云-模型-推理”技术体系关键组件。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/fe2b2e8e6a464031b2a3ff8e49275f19_1_0/hd.webp",
+    "realDate": "2026-05-20 11:43:47"
+  },
+  {
+    "id": "9f0564ac6b9c950231d4e777c87c8e8c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514481c61904e919ce2f776323383e041b63f&to_app=hwbrowser&dy_scenario=topicinside&tn=5dcd7dfbeba64e08e9fcc4e9f152a8b5dca52ff199faccddbd191e58874a31e5&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "Anthropic将迎首个盈利季度 本季营收预计翻倍冲上109亿美元",
+    "summary": "Anthropic预计第二季度首次实现运营盈利5.59亿美元。其季度增速超过Zoom疫情期间及谷歌、Facebook IPO前水平。Claude AI模型需求激增导致计算资源紧张，公司近期签署了包括SpaceX在内的数据中心协议以扩大产能。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/77e3955056974f59910e8fd58c0c1718_1_0/hd.webp",
+    "realDate": "2026-05-21 05:31:37"
+  },
+  {
+    "id": "5a48e7307ac4e72edd92ddb40a8a4092",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074952857&to_app=hwbrowser&dy_scenario=topicinside&tn=61381b8c648f6b9f4d71cdc716f47d8c2852368af94179583cf11a2520da2491&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "GitHub确认员工设备被恶意扩展入侵 约3800个内部仓库外泄",
+    "summary": "5月20日，GitHub称员工设备因恶意VS Code扩展遭入侵，约3800个内部仓库外泄。公司已移除该扩展并隔离设备，同时轮换关键密钥以降低风险，正持续分析日志并监控后续活动。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/be7cce230032487e8100b99bcb04aa7f_1_0/hd.webp",
+    "realDate": "2026-05-20 14:48:21"
+  },
+  {
+    "id": "e0ccd398b0867294c33c8f718d1affe9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048e61050152e41704d658296984962f37&to_app=hwbrowser&dy_scenario=topicinside&tn=f89a12840c309c8585d64cdb21bcc1cfd1cf7ca1bb72312d28c856d2e4ae856f&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "2nm以下芯片倒计时！阿斯麦官宣最强光刻机即将出货首批芯片",
+    "summary": "阿斯麦CEO傅恪礼近日宣布，首批采用新一代High-NA EUV光刻机制造的芯片将在未来数月问世，覆盖逻辑与存储芯片领域。该设备面向2nm以下制程，可降低光刻成本，同时适配AI芯片及高端存储芯片制造。英特尔已在波特兰工厂安装两台设备，台积电称单台造价达4亿美元。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/143fcb7148574f3ca000ea4711d1da6d_1_0/hd.webp",
+    "realDate": "2026-05-20 14:55:27"
+  },
+  {
+    "id": "3332da35ab0ba97e39e8b008f8edde92",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120684ec2a685e5f4e718f4e90765cb0ad84&to_app=hwbrowser&dy_scenario=topicinside&tn=0402db668e1a6237d89e2d547686a4614c9482ae1ca3300f876ff1d90ee6b178&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "不使用“0元”“免费”等表述 电信运营商服务新规整治文字游戏",
+    "summary": "近日，国家市场监督管理总局发布《电信和互联网服务 基础电信企业网上营业厅服务规范》国家标准，要求电信企业线上营业厅不得使用“0元”“免费”等易引发误解的表述，需在同一页面明示资费标准、限制性条件等关键信息。同时规范提出优化导航服务、适老化页面设计及个人信息保护等技术要求，以解决此前因宣传不规范引发的消费纠纷问题。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/Topic_849098a3fd284fce8bfad23dd53dce59/e31c6ba0dc784712a3ba6963ad526c7f_1_0/hd.webp",
+    "realDate": "2026-05-20 13:50:29"
+  },
+  {
+    "id": "6824a7200b215174c7e3c1ed64fc8607",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tH30HBUCdP&to_app=hwbrowser&dy_scenario=topicinside&tn=4154b0d5264fcea13fa7daffea3e299727c4e1268cbd15fdc6c775bc119abc08&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "谷歌DeepMind CEO批评“AI裁员论”：称别有用心 取代开发者是重大错误",
+    "summary": "近日，谷歌DeepMind CEO哈萨比斯驳斥“AI取代开发者”论调，称企业应利用AI提升生产力而非裁员。他透露Gemini 3.5 Flash模型具备操作系统编写等能力，但强调谷歌目标是扩大研发而非削减岗位，批评部分公司借AI裁员是“缺乏想象力”。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1054_8/86/v3/1051054ucms_8tH30HBUCdP/dc3ea0cdcf504b07bcd1a2825f329898_1_2/hd.webp",
+    "realDate": "2026-05-20 08:34:01"
   }
 ]
