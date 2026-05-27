@@ -1,101 +1,92 @@
 [
   {
-    "id": "6da6abd4ad560e80381d5dff8c749dea",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074955098&to_app=hwbrowser&dy_scenario=topicinside&tn=8f64f1082affd2a065b447f8a8f9d90d4b6aee938b7194b18d9c8c412f690b23&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "消息称Anthropic酝酿公开上线最强模型Mythos",
-    "summary": "Anthropic或即将上线Claude Mythos预览版，该模型定位为计算机安全前沿工具，代码推理能力优于旗舰Opus 4.7。同时公司警告其可能自动开发专业级网络攻击手段，存在公共风险。此外，Anthropic正推进“Glasswing”项目，联合多方利用Mythos Preview保护关键软件系统，已协助50家组织检测漏洞。",
+    "id": "1e95fde759e72086290dbfeda95eb798",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3FTESFUGNNV3L&to_app=hwbrowser&dy_scenario=topicinside&tn=6013135dc41e4f5e6d3cb3304e4015c3ac472c090610948f6119427dc06279de&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "DeepSeek开发自动研究Skill 写一篇论文人类只动脑2小时",
+    "summary": "近日，DeepSeek研究员陈德里利用自研技能Deli Auto Research与AI合著论文，耗时6天完成46页研究综述，人类参与仅2小时。论文提出L1-L5自主分级体系，分析17个主流系统及4种架构模式，指出当前AI研究瓶颈为持续知识积累和可靠自我评估。",
+    "author": "量子位",
+    "image": "https://feeds-drcn.dbankcdn.cn/web/Topic_44fddeda9b3e42e39cc93844eed5d228/image/3ff5f3ece3584892b3fe6c9ff427d60a.jpeg",
+    "realDate": "2026-05-27 08:49:00"
+  },
+  {
+    "id": "a5968ed8c60068ced65cd7fe958edd08",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051121566129e643354dfc7c23a5a7911c5961&to_app=hwbrowser&dy_scenario=topicinside&tn=88235fd901a48b07c6943065b2c8e6baaf3d739a59cb93f58ccfa0df379ff713&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "美团辟谣“产品岗裁员50%”",
+    "summary": "近日，有消息称美团产品岗将裁员50%，美团工作人员回应称此为不实消息。有说法称裁员比例25%，部门间存在差异，优化将分阶段进行，年底前完成，仅涉及产运研团队。目前美团春招网申仍在进行中。",
+    "author": "九派新闻",
+    "image": "https://feeds-drcn.dbankcdn.cn/web/Topic_44fddeda9b3e42e39cc93844eed5d228/image/444586599d984bcdb2dabb6e73898a94.jpeg",
+    "realDate": "2026-05-27 14:30:25"
+  },
+  {
+    "id": "0be268e452e454ea6a8acb18067a2c61",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074955886&to_app=hwbrowser&dy_scenario=topicinside&tn=40506de74a927d4a8cdab9755aab4eeef67da7de0e510d2d262e5712bb9558eb&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "继OpenAI后 Claude AI也解出这道80年数学难题",
+    "summary": "近日，Anthropic工程师Sholto Douglas宣布其Claude Mythos AI系统，成功解决了保罗・埃尔德什1946年提出的“平面单位距离猜想”。该团队通过多实例协作系统完成证明，数学家Daniel Litt评价其成果略逊于OpenAI此前公布的GPT 5.5解决方案。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/dba1c6701efe48f3940f006aab9b4fe1_1_0/hd.webp",
-    "realDate": "2026-05-26 08:35:33"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/Topic_44fddeda9b3e42e39cc93844eed5d228/45a396f8cd59486fa75b10337bda5826_1_0/hd.webp",
+    "realDate": "2026-05-27 14:29:23"
   },
   {
-    "id": "4d66ce4c377db7ef0e8ae90463dfc1bd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023731094&to_app=hwbrowser&dy_scenario=topicinside&tn=7230afa1d6e8b5c12cf5a28ad7ca3432350b35b736db839b728507bc7082508f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "滴滴“崩了” 公司致歉",
-    "summary": "5月26日17时许，滴滴出行App因云厂商网络专线故障导致系统异常，新疆、贵州、四川等多地用户反映无法开启行程、定位失效及订单无法取消等问题。当晚该公司声明服务已恢复，承诺处理故障期间的费用异常并向用户致歉。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/744598007d824eb0a8fcf77ca600cd80_1_0/hd.webp",
-    "realDate": "2026-05-26 22:13:35"
-  },
-  {
-    "id": "6da47128b524143b41db4b1618a27758",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074955623&to_app=hwbrowser&dy_scenario=topicinside&tn=36ef0476a852a771858b880fcd2e0af57403841626d5cdb02ab5ff03fdd386e2&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "华为“韬定律”公布 北大团队官宣“真3D”EDA工具原型",
-    "summary": "华为公布以逻辑折叠技术为核心的“韬定律”，推动芯片设计从2D优化转向3D重构。随后，北京大学团队宣布在面向“韬定律”3D逻辑折叠设计的“真3D”EDA方向取得关键进展。新工具支持标准单元在三维空间协同放置，相比传统“赝3D”流程实现线长缩减30%、温度下降3%等优化。该工具已通过工业级设计验证，覆盖百万至2470万实例规模。",
+    "id": "4c134fe3032da4f48bc812a6100ee9ad",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074955873&to_app=hwbrowser&dy_scenario=topicinside&tn=9f99970df80b608d1bc83e7bea3d2d4f042e93388604c90e392852f3f3c3c006&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "微软最强生图AI模型MAI-Image-2.5冲上Arena第三：具备更强文字生成能力",
+    "summary": "近日，微软研究院发布MAI-Image-2.5模型，在Arena文生图榜单排名第三。该模型强化文字渲染能力，可精准生成信息图、海报等商业素材，同时提升场景结构和视觉推理表现。用户现可通过Arena体验，未来两周将登陆MAI Playground与Foundry平台。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/5be106e83a044c31aaff5a809046fb22_1_0/hd.webp",
-    "realDate": "2026-05-26 23:52:30"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/Topic_44fddeda9b3e42e39cc93844eed5d228/d4910b6da1e147b2876ab32be74fd2b3_1_0/hd.webp",
+    "realDate": "2026-05-27 14:12:13"
   },
   {
-    "id": "4cb3b6785461e958444deead10632af4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511185a5d504b79d881e236177976b4b4f050&to_app=hwbrowser&dy_scenario=topicinside&tn=d58f95c4315e472eda7c9551964b7cb28a2bd5a69f94b6375b0e214623d9258a&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Code Arena放榜：阿里千问3.7编程能力排名全球第二",
-    "summary": "阿里最新旗舰模型Qwen3.7-Max在Code Arena编程榜单中以1541分排名全球第二，仅次于Claude系列。该榜单由LMArena平台推出，要求模型生成完整Web应用并由开发者盲测投票。Qwen3.7-Max是唯一突破1540分的国产模型，在编程、智能体等能力上实现突破，可独立完成复杂项目交付。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/fabfa676c6ea4d55b1daf26f5f9cd1b8_1_0/hd.webp",
-    "realDate": "2026-05-26 13:44:11"
-  },
-  {
-    "id": "f1111046a3fe53704e72ab191263c1c5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074955276&to_app=hwbrowser&dy_scenario=topicinside&tn=a47671d623507574bfb60c489b867f7329847d1f43287fc87f12ea12380135df&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "微软Copilot Cowork智能体AI被曝安全风险 机密文件恐外泄",
-    "summary": "报道称该漏洞可能因“间接提示词注入”导致SharePoint与One Drive文件外泄，它允许攻击者通过伪装成办公模板的文件操纵智能体，无需人工审批即可窃取用户可访问的数据。测试显示攻击成功率100%，且定时任务功能会放大风险。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/0f9f8aafc0f94ced9ea0ed0c504ff1e8_1_0/hd.webp",
-    "realDate": "2026-05-26 14:03:40"
-  },
-  {
-    "id": "94cb9c7c9cbb5aef801bfda62bdf566c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282381429&to_app=hwbrowser&dy_scenario=topicinside&tn=a0ebbbef4ebd217bb538c3bbaaea0dfcbd9b2e2c9712e13f31a01baf1a1382eb&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "三星劳资风波突生变数！非芯片部门工会试图阻止薪资协议投票",
-    "summary": "三星电子非芯片部门工会同行工会向法院申请禁令，试图阻止半导体部门员工就绩效奖金上调进行投票。该工会由约13000名智能手机、电视和家电部门员工组成，认为被排除在投票之外。此前劳资双方达成临时薪资协议，包括平均工资上调6.2%及半导体部门特别奖金，但非存储业务员工奖金差距悬殊引发反对。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/8608b65a78384f9597c1d166150be228_1_0/hd.webp",
-    "realDate": "2026-05-26 11:50:44"
-  },
-  {
-    "id": "8b3002b27ccd22f20855a85bac9d4a71",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514481ac4b894ea8c51bfa6642eea07b6c568&to_app=hwbrowser&dy_scenario=topicinside&tn=489b1760ca6f7575cfafdad76f1ca9f21aa43ca9b1fb0cb14234bd87dccf47a6&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "ComputeX 2026即将开幕 黄仁勋、苏姿丰和陈立武先后抵台“密访”供应链",
-    "summary": "近日，全球AI芯片三巨头黄仁勋、苏姿丰、陈立武密集抵台，为ComputeX 2026开幕前锁定AI基建产能。黄仁勋23日抵台将拜访台积电等企业；苏姿丰随后到访；陈立武本周末抵台并计划三场供应链密会。三巨头均指出CPU需求爆发，AI基建正从GPU向全链条扩张。黄仁勋称AI数据中心CPU市场规模或达2000亿美元，同时强调GPU仍是核心。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/cd64a5dc1fbb4c419db596a2ffc6d757_1_0/hd.webp",
-    "realDate": "2026-05-26 08:43:17"
-  },
-  {
-    "id": "be6ed24fffd94fdcb0bf39c708f507b3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511044e6493b7fad4f2d2d39415afb07031ac&to_app=hwbrowser&dy_scenario=topicinside&tn=d958f19db051591b2ad9cea0391c0df29d14037b56aaf5a2bb95e09cfb97615b&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "里程碑！我国5G基站突破500万大关",
-    "summary": "工信部数据显示，截至4月末全国5G基站总数达500.9万个，占移动基站38.7%，较年初新增17.1万个。同时5G用户达12.62亿户，占比68.7%，年内净增5750万户。4月户均流量23.17GB，同比增13.5%，传统通话和短信业务持续下滑。",
+    "id": "df584167ae1978c785cf9070eec08c45",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511046e0e8bfe02f8930d07eb47d8c1050ae2&to_app=hwbrowser&dy_scenario=topicinside&tn=c18fe768eaebce9e27b8b493e82e3478885ac5762432e6c523524a5a576aec1e&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "超越AMD、英伟达、英特尔 腾讯自研沧海芯片夺冠",
+    "summary": "近日，腾讯自研编解码芯片“沧海”在莫斯科国立大学硬件视频编码比赛中，以30至240fps全档位SSIM、PSNR、VMAF指标第一的成绩超越AMD等40余款产品，多项指标领先超30%。该芯片采用“全链路软硬件协同”设计，V1版本已部署超10万片，单芯片处理能力翻倍，计划2026年下半年量产。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/45ac88ec21b640d3b807520e6f1461ed_1_0/hd.webp",
-    "realDate": "2026-05-26 10:49:47"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/Topic_44fddeda9b3e42e39cc93844eed5d228/c46f24a5301d4ecca47dd309f985f62c_1_0/hd.webp",
+    "realDate": "2026-05-27 14:29:58"
   },
   {
-    "id": "3fe9358227e87d7e41ccd73c27e512b5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282381297&to_app=hwbrowser&dy_scenario=topicinside&tn=fe31f6513ffc5d6d1afbd78335ca12e83622c31480a12c6b6c8f1a2a1d5350c1&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "存储散热新技术！SK海力士发布i HBM冷却方案 可降低热阻超30%",
-    "summary": "近日，SK海力士发布i HBM冷却方案，通过在HBM封装内集成硅基材料ICE元件，构建专用散热通道，使热阻降低超30%。该技术将用于HBM5等产品，兼容现有SiP封装设计。同时，三星、微软等企业也推出HPB冷却、微流体冷却等芯片散热技术。",
+    "id": "8c2c81f7e53471fff30c788d122a35d5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BKDMFG92QG8C&to_app=hwbrowser&dy_scenario=topicinside&tn=fc16afee71ff5f634cab8a3f51837e15a0086969aa8e524410f1049dec5a926d&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "OpenAI挖来一个F1级别车手搞公关",
+    "summary": "近日，OpenAI任命前F1车手Colin Fleming为CMO，他曾在Salesforce任职13年，主导将复杂技术转化为市场语言，后任ServiceNow CMO并入选福布斯最具影响力CMO榜单。此前OpenAI面试过优步总裁等多名高管候选人。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/Topic_44fddeda9b3e42e39cc93844eed5d228/6699cfc710a44ade9a871fa521e08d99_1_0/hd.webp",
+    "realDate": "2026-05-27 12:26:00"
+  },
+  {
+    "id": "97b483942ab4406d296815525744d964",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074955692&to_app=hwbrowser&dy_scenario=topicinside&tn=16ee084f8e7586cf326b11319574569ebddfdd5a058ad86f1fc7c7c7c3f0e2a0&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "消息称SK海力士拒绝美国科技巨头资金支持提议 保持供应策略独立性",
+    "summary": "近日，韩媒报道SK海力士拒绝了Alphabet、微软、Meta等美国科技巨头对其龙仁半导体集群一期项目及EUV光刻机采购的资金支持提议。该公司表示，当前资金充足且需保持供应策略独立性，避免因股权投资或设备投资影响其在DRAM及HBM市场的主导地位。这些合作可能要求SK海力士保障特定内存供给或受限价格出货。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/48/v3/1051074955692/59da994874864a9fa3591027cc3970af_1_0/hd.webp",
+    "realDate": "2026-05-27 09:53:25"
+  },
+  {
+    "id": "184c97588601778f2c3787090bb73a08",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282382639&to_app=hwbrowser&dy_scenario=topicinside&tn=7c6d309a5c8d72346fac87732640e43506e5d8a57f3b5332dcfc80f45f372f37&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "三星拟投资百亿元在越南建芯片测试厂 计划明年开始运营",
+    "summary": "三星电子计划在越南投资39万亿越南盾（约合人民币100亿元）建设半导体测试工厂，以缓解AI需求激增导致的内存芯片短缺。该工厂已于4月提交文件，预计2027年11月运营，将专注传统芯片测试，年处理1533亿Gb DRAM及2556亿Gb NAND芯片。三星3月获越南批准投资，并计划收益再投25亿美元建第二座工厂。目前已有200名员工在当地施工，选址邻近三星现有智能设备工厂。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/9b/v3/10510282381297/dc58c1fad6d148d3816501d67503b947_1_2/hd.webp",
-    "realDate": "2026-05-26 09:59:45"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/Topic_44fddeda9b3e42e39cc93844eed5d228/9e5141c2b7d14113af2658dabed3b0fc_1_0/hd.webp",
+    "realDate": "2026-05-27 12:58:10"
   },
   {
-    "id": "c9c7a7756725291ba08392a21b6c0e57",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144809d03325b51128753ef87fef3e3bec70&to_app=hwbrowser&dy_scenario=topicinside&tn=143757248018037e3ba25326d45c19570bf44ba56c22a643f421245927f4429f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "玻璃基板竞赛升温 英特尔争夺全球首个量产席位",
-    "summary": "英特尔拟以新墨西哥州里奥兰乔工厂为首个玻璃基板量产基地，目标2030年实现商业化。韩国Absolics预计年底量产，三星电机计划2027年后跟进，中国京东方与康宁合作布局。玻璃基板因表面平坦、热膨胀系数接近硅材料，成为AI时代先进封装的重要替代方案。",
+    "id": "09dc5641be9432d7578d97415e53a83c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282382602&to_app=hwbrowser&dy_scenario=topicinside&tn=f77381fa805bf00d3fb439ce90990955584a343eceb693a7fc3d4c0fd4e56a24&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "“AI微短剧沪8条”来了：单项最高支持1000万",
+    "summary": "近日，《上海加快推进AI赋能微短剧产业高质量发展的若干措施》发布，提出构建技术支撑体系、优化要素供给，对自主研发项目给予最高1000万元支持。同时，徐汇区计划三年内引育超40家相关企业，孵化200个团队，推动产业规模占全市20%以上。",
+    "author": "科创板日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/10510282382602/e9b450f942104713b80733f0393e1703_1_6/hd.webp",
+    "realDate": "2026-05-27 11:47:53"
+  },
+  {
+    "id": "8088d1ab64c8391170fa4c2b0edd9a50",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448dbb392d21cd592dbc837a9261f62f674&to_app=hwbrowser&dy_scenario=topicinside&tn=42daf54f2d3fdac99b1cabd863753a6e855bed633911b3ea2ecf3756efbb1479&channel=-1&ctype=news&cpid=666&r=CN",
+    "title": "AI热潮蔓延至电源芯片 英飞凌宣布7月起再度提价",
+    "summary": "英飞凌宣布7月1日起对部分电源芯片产品再度提价，这是其2026年内第二轮调价，因AI数据中心需求超预期增长及供应链成本上升。同时，德州仪器及中国厂商麦克微半导体、江苏捷捷微电子也计划上调MOSFET、IGBT等产品价格。英飞凌预计第三财季营收41亿欧元，并上调全年销售预期至“同比显著增长”。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/335aacd038f14be198ee9ef21788975f_1_0/hd.webp",
-    "realDate": "2026-05-26 13:56:33"
-  },
-  {
-    "id": "71a7c67c1a565e930523c9eb29a23663",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133234636&to_app=hwbrowser&dy_scenario=topicinside&tn=4ef44acfc44c2a4f63359334316f79e5c7b33a0e33be98fb7026aaaf24437e32&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "“韦布”发现温度接近地球的罕见巨行星",
-    "summary": "天文学家利用詹姆斯·韦布空间望远镜观测到罕见巨行星TOI-199b，其温度约79.4摄氏度，与地球相近。这颗土星大小的行星大气含甲烷，属于“温带”巨行星，介于“热木星”与冰冻气态行星之间。研究团队首次对系外巨行星大气进行详细分析，采用透射光谱法发现其大气组成，有助于完善行星形成模型。该行星距地球330多光年，公转周期约100天。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4a/v3/Topic_e4b41e7d26b8412ea90f202159ad8cf7/8181e7add4a24b8d80cfe1ff9a94d5e8_1_0/hd.webp",
-    "realDate": "2026-05-26 10:27:17"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/Topic_44fddeda9b3e42e39cc93844eed5d228/c6bd9f74d8a145bc9ef9a78337ee4435_1_0/hd.webp",
+    "realDate": "2026-05-27 20:05:33"
   }
 ]
