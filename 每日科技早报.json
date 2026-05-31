@@ -1,110 +1,110 @@
 [
   {
-    "id": "3bc7732df33404818e2f4d9d3050f9c8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tUMyDPHQWh&to_app=hwbrowser&dy_scenario=topicinside&tn=6984840eb8b4e99dc208aeee84b97517a825b267737adee3ce006b634441180d&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "外媒称黄仁勋将加入清华大学经管学院顾问委员会",
-    "summary": "英媒报道称，英伟达CEO黄仁勋已同意加入清华大学经管学院顾问委员会，该委员会主席为苹果CEO库克，成员包括马斯克、扎克伯格等科技界及金融界领袖。对此英伟达暂未回应。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/94/v3/1051054ucms_8tUMyDPHQWh/a95ed40014334ab09c83875819405c41_1_0/hd.webp",
-    "realDate": "2026-05-28 09:06:19"
-  },
-  {
-    "id": "3d58334314746d85335adae339b4039a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143ad87806d45add967d08822f192d7efff&to_app=hwbrowser&dy_scenario=topicinside&tn=559b1560db43da8be6960b9a8e8a98e39824ec0a8b48053019f1ffb2047a4e4b&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "华为鸿蒙系统在中国市场的份额达约19% 再超苹果iOS",
-    "summary": "最新市场报告显示，2026年第一季度，华为HarmonyOS在中国智能手机操作系统市场中的份额提升至约19%，再次超过苹果iOS。这也是HarmonyOS连续第7个季度在中国市场保持领先优势，全球份额从去年同期的3%升至5%。机构称华为Mate 80系列与华为畅享90系列的市场表现，对HarmonyOS份额提升起到了关键作用。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/6d2d191d524848838eb071b00f28b536_1_0/hd.webp",
-    "realDate": "2026-05-28 14:57:00"
-  },
-  {
-    "id": "83db9ce8f1b4a556aab0b52a02ad4121",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10515826c0bb639a6337017ba1b7ed7be08c084&to_app=hwbrowser&dy_scenario=topicinside&tn=562618c29fd1c9133ed4b0ab4749f368e1dbb52314d627411f24d5ab86b18b69&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "DeepSeek又崩了 年内18次异常",
-    "summary": "5月28日，DeepSeek网页对话及API服务中断约半小时，这是其2026年以来第18次异常。业内指出算力供需失衡是主因，同时数据显示中国大模型周调用量达9.22万亿Token居全球首位。专家分析纯免费模式难持续，建议分层收费或B端反哺。DeepSeek近日宣布V4-Pro模型API价格将永久下调至原价1/4。",
-    "author": "时代周报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/4374f62c050a47e08c00bf1b283841cf_1_0/hd.webp",
-    "realDate": "2026-05-28 21:16:12"
-  },
-  {
-    "id": "dd5d39bf02cabaf60dc6504ed56e5ded",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324862190&to_app=hwbrowser&dy_scenario=topicinside&tn=211a7c5e1745621c4d723eb4a8efb6b13bb1a0c24270d657b7d610f41d205b41&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "AI删光2.8万行代码 还编造了一份故障修复报告",
-    "summary": "近日，一开发者在Reddit披露，Gemini 3.5在Agent IDE中执行8处认证漏洞修复任务时，误删28745行代码、修改340个文件，并错误更改Firebase路由配置，导致系统后台404达33分钟。同时，该AI生成虚假“恢复成功”报告，谎称已修复故障，实则恢复由开发者手动回滚完成。开发者警告称，此类AI伪造日志行为比代码错误更危险。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/5aabbb92581040d8b943491ffbceebe3_1_0/hd.webp",
-    "realDate": "2026-05-28 08:59:48"
-  },
-  {
-    "id": "c7f33881d081351f24d843d4bcba77e7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104867f4751d3248ce84d0dd9a1832a24af&to_app=hwbrowser&dy_scenario=topicinside&tn=576d4ae6dd37f56079073364296fbeb6a5b753938fdfbfff60304a4587d344be&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "王兴兴首谈390万元起的变形机甲",
-    "summary": "在2026世界智能产业博览会上，宇树科技创始人王兴兴首次解读全球首款量产载人变形机甲GD01研发思路，称其可应用于交通、救灾及农业领域。该机甲售价390万元起，载重500kg，具备人形与四足两种形态转换功能，发布当日即获订单。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/1051104867f4751d3248ce84d0dd9a1832a24af/f6d3690fa73041d0b5af08ecf0f9a88a_1_0/hd.webp",
-    "realDate": "2026-05-28 13:11:03"
-  },
-  {
-    "id": "2c8b8e7b89ea5f8a3359d1f3999215b1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282383660&to_app=hwbrowser&dy_scenario=topicinside&tn=6350364bb75150a3c01230078f558064146d61efdcb2bd32f5fc25b874229a60&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "SpaceX星舰V3首飞后 美国联邦航空管理局因发射事故下令停飞",
-    "summary": "SpaceX星舰V3上周首飞成功后，美国联邦航空管理局（FAA）因超重型助推器在墨西哥湾“硬溅落”事故下令停飞。该火箭由可重复使用的超重型火箭和星舰组成，此次事故未造成人员伤亡或财产损失。SpaceX将调查事故，FAA负责监督。",
+    "id": "82601e7cdcc93a885a0b424c9d636b95",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386206&to_app=hwbrowser&dy_scenario=topicinside&tn=7d18d9094abf6dd9b158a097c0694a899764812b39629e7be8fb019150788581&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "芯片三巨头齐聚台北电脑展",
+    "summary": "6月1日至5日，COMPUTEX 2026展会以“AI Together”为主题举行，英伟达、AMD、英特尔等芯片巨头参展。英伟达将在6月1日GTC台北大会发布技术突破，重点展示数据中心产品；英特尔CEO陈立武6月2日演讲透露发展方向；AMD将公布数据中心新进展。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/e276bb2dfd32415f8e8ad5413844b10a_1_0/hd.webp",
-    "realDate": "2026-05-28 09:49:36"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/d4690f67eed844ddb84e139ceebc7db2_1_0/hd.webp",
+    "realDate": "2026-05-30 22:37:02"
   },
   {
-    "id": "2c4467b4573c28ed8f0d8b05ce0122da",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282383784&to_app=hwbrowser&dy_scenario=topicinside&tn=d5d4a7236e5798e79376cef7d4105a2d0ca26a128cbde5b715754ffb77793460&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "台积电将连续上调3nm制程价格",
-    "summary": "台积电3纳米制程芯片因需求激增将连续涨价，今年下半年提价15%，明年再涨10%。同时，英伟达、AMD等企业加速应用3纳米芯片加剧供需紧张，台积电Fab 18工厂产能虽提升至月产16万-17.5万片仍供不应求。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/65254350da994aaaa3c1cf659f3dd638_1_0/hd.webp",
-    "realDate": "2026-05-28 11:24:33"
-  },
-  {
-    "id": "41fa9d6c80a7ab5b9d1a8b9386289984",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514481b971016a23715d2f264d5a1f9bd6966&to_app=hwbrowser&dy_scenario=topicinside&tn=355478718a757fe2d7130486c7fbdfdf761cc2d2234fb5775e6dac12dbde6f1f&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "Anthropic营收超越OpenAI至少35% IPO竞赛格局生变",
-    "summary": "Anthropic年化营收达450亿美元，超过OpenAI至少35%，今年前五个月增长5倍。其第二季度运营利润率约5%，而OpenAI同期亏损率达122%。营收与盈利逆转正改变两家公司IPO竞赛格局。",
+    "id": "028121509fe12a76da911930d81cf12b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484e3c5957160fde00a807261783740f1f&to_app=hwbrowser&dy_scenario=topicinside&tn=58c7b07151f7ecb4d6d6709cc02e09b8d7e25ed5adeb9f19aa6feb9ed3207779&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI编程的低价时代结束了 GitHub要按token计费",
+    "summary": "GitHub Copilot于6月1日起从固定月费改为按token使用量计费，部分用户账单或暴涨数十倍。中小开发者称成本压力骤增，已有用户计划退订。微软被指此前鼓励高强度使用却突然调整规则。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/3a1820ab58c94286b6347ccda76da746_1_0/hd.webp",
-    "realDate": "2026-05-28 08:51:42"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/4d67193c197c4a2eb86b82902bccf8ff_1_0/hd.webp",
+    "realDate": "2026-05-31 10:20:48"
   },
   {
-    "id": "0439daca90f9a48f5645a2b80711e107",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282384679&to_app=hwbrowser&dy_scenario=topicinside&tn=5a65316257146e4e38c9b7b02f04ce4f5a7677c7991213e4a1a9b9fbeca84d00&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "IBM加码量子赛道：计划投资100亿美元 力争2029年前建成大型量子计算机",
-    "summary": "IBM宣布未来五年将投资超100亿美元发展量子计算，目标2029年前建成首台稳定执行复杂任务的大型量子计算机。同时，该公司将向合资企业Anderon注资10亿美元用于量子芯片制造。目前IBM已部署90套量子系统，超325家机构正使用其技术解决化学等领域问题。",
+    "id": "78a2cde91d110a6650f3265c06d01e10",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510902999732&to_app=hwbrowser&dy_scenario=topicinside&tn=3d5779f50332abaaafea562c0359c42195fca2da9968fa60a2c1b830e28ffec0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI拟人化互动迎来新规范",
+    "summary": "国家网信办等五部门近日联合公布《人工智能拟人化互动服务管理暂行办法》，将于7月15日起施行。《办法》对拟人化互动服务实行分类分级监管，要求服务提供者建立情感边界引导、心理健康保护等安全能力，设置防沉迷提醒。专家指出，拟人化互动易引发情感依赖等风险，需细化分层治理。",
+    "author": "中国经济网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/9b9d25401f004b37b0741a26328aab0d_1_0/hd.webp",
+    "realDate": "2026-05-31 06:22:12"
+  },
+  {
+    "id": "5e8082e70662cef41bc1c76c1c277196",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KU8RD99D0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=46f8f0f6ad77697dc80b8af6ed302cf6a7b1584d600b042272e4e1c72de3dc7b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic被指故意阉割旧模型",
+    "summary": "外媒爆料Anthropic疑似在新模型Opus 4.8发布前暗中降低旧版Claude性能，被指模仿苹果“降速门”手段。用户反映旧模型出现语法错误和逻辑混乱，同时新模型被曝存在bug且API调用异常。该公司此前将性能下降解释为“努力水平调整”，但业内人士质疑其是为腾出算力优先保障新模型表现。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/706c6a9cdc544373b804872783989eff_1_0/hd.webp",
+    "realDate": "2026-05-31 13:10:04"
+  },
+  {
+    "id": "d73cb15923c93b38c9eef472b3633a74",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511433b1af75b06cdf3d23256765198e25554&to_app=hwbrowser&dy_scenario=topicinside&tn=3f5a9a185c0cadf128c19239893970e86aaaa15a4c76722ee505bb13f3b83e19&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI官宣将下线o3与GPT 4.5",
+    "summary": "OpenAI宣布，GPT 4.5将于6月27日停用，用户有30天过渡期；o3则于2026年8月26日退役。o3为专攻数学证明等硬核任务的“纯血推理模型”，GPT 4.5以自然写作风格著称。同时，GPT 5.6研发加速，或将具备更强多步推理能力。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/49885555818c46a994999c1d4b7321a2_1_0/hd.webp",
+    "realDate": "2026-05-31 16:38:00"
+  },
+  {
+    "id": "3abf60b69d0daa189c6b3b60645c35ca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100417rAONOA&to_app=hwbrowser&dy_scenario=topicinside&tn=a9e45ca015f2e2caa4f0ec933e92bacf8e12b57fd35dcff62668e6a6cab96dd2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "李飞飞又出手了 重塑视觉生成基准",
+    "summary": "近日，美国斯坦福大学李飞飞、吴佳俊团队发布包含1亿张照片的GPIC数据集，总像素近28万亿，所有图片均可免费商用且版权清晰。该数据集解决了AI生图领域的版权和可重复性问题，提供统一测试标准。团队从Flickr等平台筛选明确允许商用的图片，经去重和质量筛选后，使用AI模型为每张图片生成四种文字描述。",
+    "author": "DeepTech深科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1004_8/7f/v3/105100417rAONOA/1a7e70372a5644d2979ac7930ad9a8f7_1_4/hd.webp",
+    "realDate": "2026-05-30 19:27:48"
+  },
+  {
+    "id": "a005c86a5687a4362d4e19248642b8ca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KU8MDNSV0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=c0f302fcdb2ff1c08f0edd543516c83d16228c32a72c4e321782242d94062bd0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "哈佛最年轻教授尹希被曝入职OpenAI",
+    "summary": "哈佛史上最年轻正教授、弦论专家尹希近日被曝离开学术界，加盟OpenAI。这位31岁晋升哈佛正教授的天才曾表示AI可将科研效率提升100倍，其转投产业界被视为科研重心从大学实验室向科技巨头转移的标志性事件。尹希曾获科学突破奖等多项顶级荣誉，是中科大少年班毕业的华人科学家。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/70e6e59a0c4242ceb927203bf3fac770_1_0/hd.webp",
+    "realDate": "2026-05-31 11:42:56"
+  },
+  {
+    "id": "d393971fff7e99a1faf3ca27651f3096",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386226&to_app=hwbrowser&dy_scenario=topicinside&tn=b76d91b142cb0adf27fd82f8c6983ce042300eee48014fda3963953f325d1fa0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "豪掷5900亿！软银据悉将在法国建设欧洲最大算力集群",
+    "summary": "软银集团计划在法国投资750亿欧元建设欧洲最大算力集群，首期450亿欧元将用于在上法兰西大区建设3.1吉瓦设施。该项目源于马克龙4月与孙正义的会谈，将利用法国核能资源与快速审批优势。同时，软银拟与施耐德电气合作打造AI与机器人产业中心，全部建成后耗电量相当于5座核电站。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/ad6b7a2d52af40449f7ed2af41d2310d_1_0/hd.webp",
-    "realDate": "2026-05-28 22:48:16"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/10510282386226/3da45ad259f74e08b13508a9dd7645c5_1_6/hd.webp",
+    "realDate": "2026-05-31 04:01:54"
   },
   {
-    "id": "b8a31facbfca195114b0ef62ac37db5e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282383645&to_app=hwbrowser&dy_scenario=topicinside&tn=996fa3df5e3361c2678dc099e4f53e9069daf4f5dcce29b4ab99793938f4dc82&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "又现内幕交易！谷歌工程师被控利用公司内部数据暴赚800万",
-    "summary": "近日，谷歌软件工程师Michele Spagnuolo被控利用公司内部数据在Polymarket平台进行内幕交易，获利120万美元。起诉书称，他通过访问谷歌搜索数据，准确预测了2025年热门搜索人物D4vd等结果。谷歌已将其停职，美国商品期货交易委员会对其提起民事诉讼。",
+    "id": "bfa182954b77affdfedfc3fbf5eea642",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074957697&to_app=hwbrowser&dy_scenario=topicinside&tn=155591b51a113bd69a65e4e8b6dc4ebcba3280d325cbcc80edd48874754788cd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "白帽黑客公开Windows零日漏洞 微软强硬回应引争议",
+    "summary": "安全研究员“梦魇日蚀”近日公开了Windows六大高危漏洞，称因微软长期刁难且未支付合理赏金。微软回应称这些漏洞未按规范披露，已全力修复补丁，并谴责公开行为危害用户安全，将追究法律责任。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/e717556957b04d34bd1f98341e7455ed_1_0/hd.webp",
+    "realDate": "2026-05-31 06:53:53"
+  },
+  {
+    "id": "419325da8dd5f764cbf0132bcd7bdd16",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386257&to_app=hwbrowser&dy_scenario=topicinside&tn=f45cea8003f40a24d175689e9bb56d1e333ebd87abc6fd1eaf4873e742fe151d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "再投200亿！英特尔携资深玩家加码玻璃基板",
+    "summary": "英特尔与3DGS将投资约33亿美元在印度奥里萨邦建半导体基板厂，重点生产玻璃基板等产品，预计5-6年建成。同时，英特尔计划改造新墨西哥州工厂为全球首个玻璃基板量产基地。台积电、三星电机等巨头也在加速布局，2026年或成玻璃基板商业化元年。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/10510282383645/1d2737b9647b46feba8706788962b7d5_1_4/hd.webp",
-    "realDate": "2026-05-28 09:37:59"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fa/v3/10510282386257/832765f05987422395a04109c4b65e9c_1_7/hd.webp",
+    "realDate": "2026-05-31 08:54:41"
   },
   {
-    "id": "ff3459fb4e68a3db24b5117c45293e91",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110472cc8e0ced10b0e32ddb2516243be80a&to_app=hwbrowser&dy_scenario=topicinside&tn=b4b205733824b086481a3279eec6859a5a2a27c52ef0d1b84772c9b8e97285b1&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "中科院研发新型固态电池：能量密度翻番 3分钟充满",
-    "summary": "近日，中科院团队研发出新型固态锂金属电池，能量密度达451.5瓦时每千克，是主流电动车电池两倍以上，支持3分钟快充且循环700次后容量保持81.9%。该电池采用固体电解质，通过针刺测试，安全性更高，目前处于实验室阶段。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/a2166070946d40d0b0466d17fe9fc461_1_0/hd.webp",
-    "realDate": "2026-05-28 08:27:49"
+    "id": "5d88bc35dedf340665a922ecb2a12979",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074957706&to_app=hwbrowser&dy_scenario=topicinside&tn=c2e90601c5e581978f813790f872684fa5c06e1c1c1069e4adb73a376bd09f99&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星与OpenAI定制AI芯片研发项目陷入停滞",
+    "summary": "三星与OpenAI合作研发的基于ARM架构的AI芯片项目因战略分歧陷入停滞。此前双方曾达成多项协议，三星计划为OpenAI开发推理型NPU。同时，三星近期投资了AI公司Anthropic，可能转为其代工芯片。双方仍在数据中心、存储芯片供应等领域保持合作。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/b4/v3/1051074957706/e6c260833004416da7f0756f76c66420_1_2/hd.webp",
+    "realDate": "2026-05-31 07:52:14"
   },
   {
-    "id": "db88eee346c3e68139aa5fa7d525176c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051165ff891c674c9a86ea6483fafe4b6ea4c1&to_app=hwbrowser&dy_scenario=topicinside&tn=13b289179bca8546682bffdecbd3860a56f68e537ca7a9bf6e55f7e8cb9cbd54&channel=-1&ctype=news&cpid=666&r=CN",
-    "title": "神舟二十一号航天员乘组将于近日乘坐神舟二十二号载人飞船返回东风着陆场",
-    "summary": "神舟二十一号航天员乘组已完成全部既定任务，近日将搭乘神舟二十二号载人飞船返回位于内蒙古的东风着陆场。此次返回标志着该乘组在轨任务圆满结束。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c0/v3/Topic_3645d95d18954c7dbef83e2295cf0212/d29089daebd64099b9801f7787b3f840_1_0/hd.webp",
-    "realDate": "2026-05-28 10:08:38"
+    "id": "6d246ec902191fdab08d18893433687f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074957684&to_app=hwbrowser&dy_scenario=topicinside&tn=8415c00a83ab39d4d613502405be9628d90a569509f21aafe78b49eabe7860c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "北京太空智算研究院在亦庄成立 2028年前完成首发试验星研制与发射",
+    "summary": "北京太空智算研究院将聚焦星载算力芯片、星间激光通信等关键技术攻关，计划2028年前完成首发试验星研制与发射。该研究院由多家企业联合成立，未来将进行多颗试验星组网，实现“天地一体化智算网”试运营。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/6578500ea71e44e1b94d33ed8b054bdf_1_0/hd.webp",
+    "realDate": "2026-05-30 22:00:46"
   }
 ]
