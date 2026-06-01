@@ -1,110 +1,92 @@
 [
   {
-    "id": "82601e7cdcc93a885a0b424c9d636b95",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386206&to_app=hwbrowser&dy_scenario=topicinside&tn=7d18d9094abf6dd9b158a097c0694a899764812b39629e7be8fb019150788581&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "芯片三巨头齐聚台北电脑展",
-    "summary": "6月1日至5日，COMPUTEX 2026展会以“AI Together”为主题举行，英伟达、AMD、英特尔等芯片巨头参展。英伟达将在6月1日GTC台北大会发布技术突破，重点展示数据中心产品；英特尔CEO陈立武6月2日演讲透露发展方向；AMD将公布数据中心新进展。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/d4690f67eed844ddb84e139ceebc7db2_1_0/hd.webp",
-    "realDate": "2026-05-30 22:37:02"
+    "id": "a58f5b0337ebcea919575d904999690f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048e0a98073852c5c420bc9508da3d97bcf&to_app=hwbrowser&dy_scenario=topicinside&tn=d8aa5845a2c3c01a4d6f3ef86e529ed5a2b4d95f01b52eba6a57df6fd56fe4c0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI要进军机器人赛道 招聘机器人专家",
+    "summary": "美国人工智能公司OpenAI首席执行官山姆·阿尔特曼宣布，公司正招聘全栈硬件、运营及机器学习工程师，以研发“对社会有用的机器人”。其“世界模拟研究项目”已升级为机器人项目，专注于硬件与机器学习的协同设计。此举标志着OpenAI正式进军机器人领域。",
+    "author": "北京日报客户端",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/2282e9a9de3048e5960a54c4d1e7d549_1_0/hd.webp",
+    "realDate": "2026-06-01 17:16:47"
   },
   {
-    "id": "028121509fe12a76da911930d81cf12b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484e3c5957160fde00a807261783740f1f&to_app=hwbrowser&dy_scenario=topicinside&tn=58c7b07151f7ecb4d6d6709cc02e09b8d7e25ed5adeb9f19aa6feb9ed3207779&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI编程的低价时代结束了 GitHub要按token计费",
-    "summary": "GitHub Copilot于6月1日起从固定月费改为按token使用量计费，部分用户账单或暴涨数十倍。中小开发者称成本压力骤增，已有用户计划退订。微软被指此前鼓励高强度使用却突然调整规则。",
+    "id": "3a92a34d8061e011640170274e7b3135",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105141014749070634596368&to_app=hwbrowser&dy_scenario=topicinside&tn=fca8e5b1de61cd8af1b44d407e0190ab00c042043a730492e7dd23f980cc373e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "将用户手机相册内博物馆“镇馆之宝”上架售卖 闲鱼致歉",
+    "summary": "近日，江苏网友顾女士发现闲鱼APP自动将其手机相册中的，陕西历史博物馆镇馆之宝“唐鎏金舞马衔杯纹皮囊式银壶”照片上架售卖，标价6000元。对此，闲鱼回应称系AI误识别为普通文玩商品生成信息，相关链接已下架，同时平台已接入国家文物局数据系统并提升72类高敏藏品发布门槛，后续将尽快加强商品上架提醒和用户确认，避免类似误解再次发生。",
+    "author": "极光新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/f229aa48da3f443284dea89ee30ceb0f_1_0/hd.webp",
+    "realDate": "2026-06-01 16:04:15"
+  },
+  {
+    "id": "df09acde8d7a689f0562f7a90ac905dc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051110205c9f85abe748ca1f8beef05f46e090&to_app=hwbrowser&dy_scenario=topicinside&tn=a008644090b2763339934f46c29ae06a41ff9464f8a65d5a32dfe72d11b8222b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "天涯社区回归首日“崩了” 客服回应",
+    "summary": "6月1日天涯社区恢复访问，但因访问人数剧增导致网页卡顿。公司表示数据迁移待审批，6月内将逐步恢复精华帖浏览及互动功能。该平台自2023年4月因欠费暂停服务，新天涯工作组已落实资金和团队支持。目前仅网页版和小程序可用，APP仍在开发中。",
+    "author": "海报新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/be2a54e2e3984f21a9cf5dc11c1724b9_1_0/hd.webp",
+    "realDate": "2026-06-01 13:58:37"
+  },
+  {
+    "id": "bd92e5f00ade018f1c2c7c82346e52fd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tb4RhHvtIJ&to_app=hwbrowser&dy_scenario=topicinside&tn=adf315d4bedbeb0a9f90ec517c57798321a59f868a99610970a9c392617dbea3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "MiniMax发布M3模型 编程能力超GPT 5.5",
+    "summary": "该模型支持1兆上下文原生多模态及电脑桌面操作，编程能力在SWE-Bench Pro评测中得分59.0%，超GPT 5.5和Gemini 3.1 Pro。该模型采用MSA架构，计算效率提升显著，同时推出MiniMax Code及订阅服务，API即日开放。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/a1282f82e9984716a85cecfde656fe19_1_0/hd.webp",
+    "realDate": "2026-06-01 10:04:57"
+  },
+  {
+    "id": "5b49abe42d71eaa3329e2d8c5a938948",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tbV2ia4Qit&to_app=hwbrowser&dy_scenario=topicinside&tn=79ec607bfab95a5fe81bbb4035302162bafeda62bd46a64843457673ff04210d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为MatePad Pro Max发布：内置10400mAh电池 5999元起",
+    "summary": "6月1日，华为旗舰平板MatePad Pro Max发布，该机首次在平板上搭载红枫原色摄像头与麒麟T93 Pro处理器，去除了此前大屏平板上的刘海设计，性能提升45%，配备10400mAh电池，支持PC级应用，售价5999元起。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/84a67da9a2b34a548c0c98ea4886bf3e_1_0/hd.webp",
+    "realDate": "2026-06-01 16:44:14"
+  },
+  {
+    "id": "bc0a76e11f2cf3bd3e6c49449d8f0840",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514485a7d6c45224e2e2ff805fdceac62da4b&to_app=hwbrowser&dy_scenario=topicinside&tn=26962b69357bacc9332eb91c265ec7d16ed02e9fe1d5c50fc610502e734146f0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic秘密递交IPO招股书 最快今秋上市",
+    "summary": "Anthropic已向美国证券交易委员会秘密递交IPO招股书，估值近万亿美元。该公司5月披露年化收入达470亿美元，上周融资后估值升至9650亿美元。其核心产品为Claude系列AI模型，近期与SpaceX签署算力协议。同时，OpenAI CEO奥特曼称将择机上市。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/4d67193c197c4a2eb86b82902bccf8ff_1_0/hd.webp",
-    "realDate": "2026-05-31 10:20:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/7e81872013524d438d121348a1eb0061_1_0/hd.webp",
+    "realDate": "2026-06-02 06:39:26"
   },
   {
-    "id": "78a2cde91d110a6650f3265c06d01e10",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510902999732&to_app=hwbrowser&dy_scenario=topicinside&tn=3d5779f50332abaaafea562c0359c42195fca2da9968fa60a2c1b830e28ffec0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI拟人化互动迎来新规范",
-    "summary": "国家网信办等五部门近日联合公布《人工智能拟人化互动服务管理暂行办法》，将于7月15日起施行。《办法》对拟人化互动服务实行分类分级监管，要求服务提供者建立情感边界引导、心理健康保护等安全能力，设置防沉迷提醒。专家指出，拟人化互动易引发情感依赖等风险，需细化分层治理。",
-    "author": "中国经济网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/9b9d25401f004b37b0741a26328aab0d_1_0/hd.webp",
-    "realDate": "2026-05-31 06:22:12"
+    "id": "e00a121f59525b0fea8d76d183c7877d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774413701&to_app=hwbrowser&dy_scenario=topicinside&tn=fb220a5342a558bf5bf5e693ebf9fb52437d351b48f57c1f8b1b8abe8d224ad7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达官宣“打进”CPU后 英特尔发布首款数据中心CPU至强6+",
+    "summary": "6月1日，英伟达发布专为代理式AI设计的CPU Vera，英特尔同时推出至强6+处理器，后者采用Intel 18A制程，针对云原生和AI工作负载优化。英特尔高管表示，CPU仍是AI基础设施控制核心，至强6+将提升智能体工作流效率。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/820fb892bdfc4adc9115c0a96ecf077f_1_0/hd.webp",
+    "realDate": "2026-06-01 13:21:25"
   },
   {
-    "id": "5e8082e70662cef41bc1c76c1c277196",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KU8RD99D0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=46f8f0f6ad77697dc80b8af6ed302cf6a7b1584d600b042272e4e1c72de3dc7b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic被指故意阉割旧模型",
-    "summary": "外媒爆料Anthropic疑似在新模型Opus 4.8发布前暗中降低旧版Claude性能，被指模仿苹果“降速门”手段。用户反映旧模型出现语法错误和逻辑混乱，同时新模型被曝存在bug且API调用异常。该公司此前将性能下降解释为“努力水平调整”，但业内人士质疑其是为腾出算力优先保障新模型表现。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/706c6a9cdc544373b804872783989eff_1_0/hd.webp",
-    "realDate": "2026-05-31 13:10:04"
+    "id": "bd0d58d6abf75024f5e524e902b3b3fe",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074958429&to_app=hwbrowser&dy_scenario=topicinside&tn=091c85fd806ca1d5c81c5f0f0d88606e63594bf46a5648bd1af9fb2fcbb8ac40&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软恐面临新一轮反垄断调查 云服务与AI业务成焦点",
+    "summary": "近日，美国联邦贸易委员会或对微软展开新一轮反垄断调查，重点关注其Azure云服务排他行为及AI产业影响力。该机构已向6家竞争企业发出调查令，审查微软商业协议与产品互操作性。微软2019年修改授权条款提高非Azure平台成本，同时谷歌指控其利用市场地位锁定用户。微软回应称配合调查并坚持自身做法促进竞争。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/2df42ff1f9b547cca619d3b8986a4b28_1_0/hd.webp",
+    "realDate": "2026-06-01 22:14:05"
   },
   {
-    "id": "d73cb15923c93b38c9eef472b3633a74",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511433b1af75b06cdf3d23256765198e25554&to_app=hwbrowser&dy_scenario=topicinside&tn=3f5a9a185c0cadf128c19239893970e86aaaa15a4c76722ee505bb13f3b83e19&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI官宣将下线o3与GPT 4.5",
-    "summary": "OpenAI宣布，GPT 4.5将于6月27日停用，用户有30天过渡期；o3则于2026年8月26日退役。o3为专攻数学证明等硬核任务的“纯血推理模型”，GPT 4.5以自然写作风格著称。同时，GPT 5.6研发加速，或将具备更强多步推理能力。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/49885555818c46a994999c1d4b7321a2_1_0/hd.webp",
-    "realDate": "2026-05-31 16:38:00"
+    "id": "daeb76ee41a51138a096d1be0f009922",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023731688&to_app=hwbrowser&dy_scenario=topicinside&tn=4a4a715a07c28f27ebb33d754e451eeef61ed81fca2e80aa3d9a75456bf4796d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "韩国SK海力士清州工厂发生火灾、有毒气体泄漏",
+    "summary": "6月1日，韩国清州市SK海力士第四厂区6层气体间上午10时32分发生火灾，氟气泄漏达5ppm，7人送医检查。厂方紧急疏散3600名员工，火势由自动喷淋系统控制，初步调查显示事故源于气体管道故障，未影响设备运转。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/de4c5f09013745a5b08be6ef0a7a2085_1_0/hd.webp",
+    "realDate": "2026-06-01 15:12:19"
   },
   {
-    "id": "3abf60b69d0daa189c6b3b60645c35ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100417rAONOA&to_app=hwbrowser&dy_scenario=topicinside&tn=a9e45ca015f2e2caa4f0ec933e92bacf8e12b57fd35dcff62668e6a6cab96dd2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "李飞飞又出手了 重塑视觉生成基准",
-    "summary": "近日，美国斯坦福大学李飞飞、吴佳俊团队发布包含1亿张照片的GPIC数据集，总像素近28万亿，所有图片均可免费商用且版权清晰。该数据集解决了AI生图领域的版权和可重复性问题，提供统一测试标准。团队从Flickr等平台筛选明确允许商用的图片，经去重和质量筛选后，使用AI模型为每张图片生成四种文字描述。",
-    "author": "DeepTech深科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1004_8/7f/v3/105100417rAONOA/1a7e70372a5644d2979ac7930ad9a8f7_1_4/hd.webp",
-    "realDate": "2026-05-30 19:27:48"
-  },
-  {
-    "id": "a005c86a5687a4362d4e19248642b8ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KU8MDNSV0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=c0f302fcdb2ff1c08f0edd543516c83d16228c32a72c4e321782242d94062bd0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "哈佛最年轻教授尹希被曝入职OpenAI",
-    "summary": "哈佛史上最年轻正教授、弦论专家尹希近日被曝离开学术界，加盟OpenAI。这位31岁晋升哈佛正教授的天才曾表示AI可将科研效率提升100倍，其转投产业界被视为科研重心从大学实验室向科技巨头转移的标志性事件。尹希曾获科学突破奖等多项顶级荣誉，是中科大少年班毕业的华人科学家。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/70e6e59a0c4242ceb927203bf3fac770_1_0/hd.webp",
-    "realDate": "2026-05-31 11:42:56"
-  },
-  {
-    "id": "d393971fff7e99a1faf3ca27651f3096",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386226&to_app=hwbrowser&dy_scenario=topicinside&tn=b76d91b142cb0adf27fd82f8c6983ce042300eee48014fda3963953f325d1fa0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "豪掷5900亿！软银据悉将在法国建设欧洲最大算力集群",
-    "summary": "软银集团计划在法国投资750亿欧元建设欧洲最大算力集群，首期450亿欧元将用于在上法兰西大区建设3.1吉瓦设施。该项目源于马克龙4月与孙正义的会谈，将利用法国核能资源与快速审批优势。同时，软银拟与施耐德电气合作打造AI与机器人产业中心，全部建成后耗电量相当于5座核电站。",
+    "id": "a9f9bbae5d647da355edc361bbe514c9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386934&to_app=hwbrowser&dy_scenario=topicinside&tn=dba9cf23459555151f3d68c064994df09036997214a9f1b3ac3e2c6dfb7fcede&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "高盛表示 存储市场供应短缺情况将持续至2028年",
+    "summary": "高盛预测称，存储市场DRAM、NAND和HBM供应短缺将持续至2028年，主因服务器与AI需求增长、产能扩张放缓及客户长期协议推动。机构上调存储芯片定价预期，预计三星DRAM价格2026年同比涨326%，HBM市场规模2028年或达1680亿美元。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/10510282386226/3da45ad259f74e08b13508a9dd7645c5_1_6/hd.webp",
-    "realDate": "2026-05-31 04:01:54"
-  },
-  {
-    "id": "bfa182954b77affdfedfc3fbf5eea642",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074957697&to_app=hwbrowser&dy_scenario=topicinside&tn=155591b51a113bd69a65e4e8b6dc4ebcba3280d325cbcc80edd48874754788cd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "白帽黑客公开Windows零日漏洞 微软强硬回应引争议",
-    "summary": "安全研究员“梦魇日蚀”近日公开了Windows六大高危漏洞，称因微软长期刁难且未支付合理赏金。微软回应称这些漏洞未按规范披露，已全力修复补丁，并谴责公开行为危害用户安全，将追究法律责任。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/e717556957b04d34bd1f98341e7455ed_1_0/hd.webp",
-    "realDate": "2026-05-31 06:53:53"
-  },
-  {
-    "id": "419325da8dd5f764cbf0132bcd7bdd16",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386257&to_app=hwbrowser&dy_scenario=topicinside&tn=f45cea8003f40a24d175689e9bb56d1e333ebd87abc6fd1eaf4873e742fe151d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "再投200亿！英特尔携资深玩家加码玻璃基板",
-    "summary": "英特尔与3DGS将投资约33亿美元在印度奥里萨邦建半导体基板厂，重点生产玻璃基板等产品，预计5-6年建成。同时，英特尔计划改造新墨西哥州工厂为全球首个玻璃基板量产基地。台积电、三星电机等巨头也在加速布局，2026年或成玻璃基板商业化元年。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fa/v3/10510282386257/832765f05987422395a04109c4b65e9c_1_7/hd.webp",
-    "realDate": "2026-05-31 08:54:41"
-  },
-  {
-    "id": "5d88bc35dedf340665a922ecb2a12979",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074957706&to_app=hwbrowser&dy_scenario=topicinside&tn=c2e90601c5e581978f813790f872684fa5c06e1c1c1069e4adb73a376bd09f99&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三星与OpenAI定制AI芯片研发项目陷入停滞",
-    "summary": "三星与OpenAI合作研发的基于ARM架构的AI芯片项目因战略分歧陷入停滞。此前双方曾达成多项协议，三星计划为OpenAI开发推理型NPU。同时，三星近期投资了AI公司Anthropic，可能转为其代工芯片。双方仍在数据中心、存储芯片供应等领域保持合作。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/b4/v3/1051074957706/e6c260833004416da7f0756f76c66420_1_2/hd.webp",
-    "realDate": "2026-05-31 07:52:14"
-  },
-  {
-    "id": "6d246ec902191fdab08d18893433687f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074957684&to_app=hwbrowser&dy_scenario=topicinside&tn=8415c00a83ab39d4d613502405be9628d90a569509f21aafe78b49eabe7860c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "北京太空智算研究院在亦庄成立 2028年前完成首发试验星研制与发射",
-    "summary": "北京太空智算研究院将聚焦星载算力芯片、星间激光通信等关键技术攻关，计划2028年前完成首发试验星研制与发射。该研究院由多家企业联合成立，未来将进行多颗试验星组网，实现“天地一体化智算网”试运营。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/Topic_e54b042e6427477cabbeda50a52de3d0/6578500ea71e44e1b94d33ed8b054bdf_1_0/hd.webp",
-    "realDate": "2026-05-30 22:00:46"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/cfe817454eb14999bcc61861de79e7f2_1_0/hd.webp",
+    "realDate": "2026-06-01 14:15:45"
   }
 ]
