@@ -1,92 +1,110 @@
 [
   {
-    "id": "a58f5b0337ebcea919575d904999690f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048e0a98073852c5c420bc9508da3d97bcf&to_app=hwbrowser&dy_scenario=topicinside&tn=d8aa5845a2c3c01a4d6f3ef86e529ed5a2b4d95f01b52eba6a57df6fd56fe4c0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI要进军机器人赛道 招聘机器人专家",
-    "summary": "美国人工智能公司OpenAI首席执行官山姆·阿尔特曼宣布，公司正招聘全栈硬件、运营及机器学习工程师，以研发“对社会有用的机器人”。其“世界模拟研究项目”已升级为机器人项目，专注于硬件与机器学习的协同设计。此举标志着OpenAI正式进军机器人领域。",
-    "author": "北京日报客户端",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/2282e9a9de3048e5960a54c4d1e7d549_1_0/hd.webp",
-    "realDate": "2026-06-01 17:16:47"
-  },
-  {
-    "id": "3a92a34d8061e011640170274e7b3135",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105141014749070634596368&to_app=hwbrowser&dy_scenario=topicinside&tn=fca8e5b1de61cd8af1b44d407e0190ab00c042043a730492e7dd23f980cc373e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "将用户手机相册内博物馆“镇馆之宝”上架售卖 闲鱼致歉",
-    "summary": "近日，江苏网友顾女士发现闲鱼APP自动将其手机相册中的，陕西历史博物馆镇馆之宝“唐鎏金舞马衔杯纹皮囊式银壶”照片上架售卖，标价6000元。对此，闲鱼回应称系AI误识别为普通文玩商品生成信息，相关链接已下架，同时平台已接入国家文物局数据系统并提升72类高敏藏品发布门槛，后续将尽快加强商品上架提醒和用户确认，避免类似误解再次发生。",
-    "author": "极光新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/f229aa48da3f443284dea89ee30ceb0f_1_0/hd.webp",
-    "realDate": "2026-06-01 16:04:15"
-  },
-  {
-    "id": "df09acde8d7a689f0562f7a90ac905dc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051110205c9f85abe748ca1f8beef05f46e090&to_app=hwbrowser&dy_scenario=topicinside&tn=a008644090b2763339934f46c29ae06a41ff9464f8a65d5a32dfe72d11b8222b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "天涯社区回归首日“崩了” 客服回应",
-    "summary": "6月1日天涯社区恢复访问，但因访问人数剧增导致网页卡顿。公司表示数据迁移待审批，6月内将逐步恢复精华帖浏览及互动功能。该平台自2023年4月因欠费暂停服务，新天涯工作组已落实资金和团队支持。目前仅网页版和小程序可用，APP仍在开发中。",
-    "author": "海报新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/be2a54e2e3984f21a9cf5dc11c1724b9_1_0/hd.webp",
-    "realDate": "2026-06-01 13:58:37"
-  },
-  {
-    "id": "bd92e5f00ade018f1c2c7c82346e52fd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tb4RhHvtIJ&to_app=hwbrowser&dy_scenario=topicinside&tn=adf315d4bedbeb0a9f90ec517c57798321a59f868a99610970a9c392617dbea3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "MiniMax发布M3模型 编程能力超GPT 5.5",
-    "summary": "该模型支持1兆上下文原生多模态及电脑桌面操作，编程能力在SWE-Bench Pro评测中得分59.0%，超GPT 5.5和Gemini 3.1 Pro。该模型采用MSA架构，计算效率提升显著，同时推出MiniMax Code及订阅服务，API即日开放。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/a1282f82e9984716a85cecfde656fe19_1_0/hd.webp",
-    "realDate": "2026-06-01 10:04:57"
-  },
-  {
-    "id": "5b49abe42d71eaa3329e2d8c5a938948",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8tbV2ia4Qit&to_app=hwbrowser&dy_scenario=topicinside&tn=79ec607bfab95a5fe81bbb4035302162bafeda62bd46a64843457673ff04210d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为MatePad Pro Max发布：内置10400mAh电池 5999元起",
-    "summary": "6月1日，华为旗舰平板MatePad Pro Max发布，该机首次在平板上搭载红枫原色摄像头与麒麟T93 Pro处理器，去除了此前大屏平板上的刘海设计，性能提升45%，配备10400mAh电池，支持PC级应用，售价5999元起。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/84a67da9a2b34a548c0c98ea4886bf3e_1_0/hd.webp",
-    "realDate": "2026-06-01 16:44:14"
-  },
-  {
-    "id": "bc0a76e11f2cf3bd3e6c49449d8f0840",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514485a7d6c45224e2e2ff805fdceac62da4b&to_app=hwbrowser&dy_scenario=topicinside&tn=26962b69357bacc9332eb91c265ec7d16ed02e9fe1d5c50fc610502e734146f0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic秘密递交IPO招股书 最快今秋上市",
-    "summary": "Anthropic已向美国证券交易委员会秘密递交IPO招股书，估值近万亿美元。该公司5月披露年化收入达470亿美元，上周融资后估值升至9650亿美元。其核心产品为Claude系列AI模型，近期与SpaceX签署算力协议。同时，OpenAI CEO奥特曼称将择机上市。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/7e81872013524d438d121348a1eb0061_1_0/hd.webp",
-    "realDate": "2026-06-02 06:39:26"
-  },
-  {
-    "id": "e00a121f59525b0fea8d76d183c7877d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774413701&to_app=hwbrowser&dy_scenario=topicinside&tn=fb220a5342a558bf5bf5e693ebf9fb52437d351b48f57c1f8b1b8abe8d224ad7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达官宣“打进”CPU后 英特尔发布首款数据中心CPU至强6+",
-    "summary": "6月1日，英伟达发布专为代理式AI设计的CPU Vera，英特尔同时推出至强6+处理器，后者采用Intel 18A制程，针对云原生和AI工作负载优化。英特尔高管表示，CPU仍是AI基础设施控制核心，至强6+将提升智能体工作流效率。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/820fb892bdfc4adc9115c0a96ecf077f_1_0/hd.webp",
-    "realDate": "2026-06-01 13:21:25"
-  },
-  {
-    "id": "bd0d58d6abf75024f5e524e902b3b3fe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074958429&to_app=hwbrowser&dy_scenario=topicinside&tn=091c85fd806ca1d5c81c5f0f0d88606e63594bf46a5648bd1af9fb2fcbb8ac40&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软恐面临新一轮反垄断调查 云服务与AI业务成焦点",
-    "summary": "近日，美国联邦贸易委员会或对微软展开新一轮反垄断调查，重点关注其Azure云服务排他行为及AI产业影响力。该机构已向6家竞争企业发出调查令，审查微软商业协议与产品互操作性。微软2019年修改授权条款提高非Azure平台成本，同时谷歌指控其利用市场地位锁定用户。微软回应称配合调查并坚持自身做法促进竞争。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/2df42ff1f9b547cca619d3b8986a4b28_1_0/hd.webp",
-    "realDate": "2026-06-01 22:14:05"
-  },
-  {
-    "id": "daeb76ee41a51138a096d1be0f009922",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023731688&to_app=hwbrowser&dy_scenario=topicinside&tn=4a4a715a07c28f27ebb33d754e451eeef61ed81fca2e80aa3d9a75456bf4796d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "韩国SK海力士清州工厂发生火灾、有毒气体泄漏",
-    "summary": "6月1日，韩国清州市SK海力士第四厂区6层气体间上午10时32分发生火灾，氟气泄漏达5ppm，7人送医检查。厂方紧急疏散3600名员工，火势由自动喷淋系统控制，初步调查显示事故源于气体管道故障，未影响设备运转。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/de4c5f09013745a5b08be6ef0a7a2085_1_0/hd.webp",
-    "realDate": "2026-06-01 15:12:19"
-  },
-  {
-    "id": "a9f9bbae5d647da355edc361bbe514c9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282386934&to_app=hwbrowser&dy_scenario=topicinside&tn=dba9cf23459555151f3d68c064994df09036997214a9f1b3ac3e2c6dfb7fcede&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "高盛表示 存储市场供应短缺情况将持续至2028年",
-    "summary": "高盛预测称，存储市场DRAM、NAND和HBM供应短缺将持续至2028年，主因服务器与AI需求增长、产能扩张放缓及客户长期协议推动。机构上调存储芯片定价预期，预计三星DRAM价格2026年同比涨326%，HBM市场规模2028年或达1680亿美元。",
+    "id": "045fcdc317b00b5a731cb5b680f11abe",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388956&to_app=hwbrowser&dy_scenario=topicinside&tn=9be04a04390d6122de807b5ef8b53fc375452baea944c968df6b801fe1cd32f8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软全面押注智能体时代：发布新模型、展示新终端",
+    "summary": "微软在Build开发者大会上发布自研代码生成模型MAI-Code-1-Flash和推理模型MAI-Thinking-1，前者已集成至GitHub Copilot，后者通过Foundry平台开放私人预览。微软CEO纳德拉称企业应参与模型生态建设，其AI业务负责人表示优化后模型性能超GPT-5.5且成本效率提升10倍。同时微软持续投资OpenAI和Anthropic，两家公司正推进IPO。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/Topic_337b1fac9dae42839dca68fd451e87a3/cfe817454eb14999bcc61861de79e7f2_1_0/hd.webp",
-    "realDate": "2026-06-01 14:15:45"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/6ed1df2b108846de97ea752448229bc4_1_0/hd.webp",
+    "realDate": "2026-06-03 04:08:26"
+  },
+  {
+    "id": "33842a4f6d58262d05c885bc12fda7f8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105105300d6e94a016f3ec697102d251df1f260&to_app=hwbrowser&dy_scenario=topicinside&tn=e2b96cbeea31782f66e68319826da0ecd548add641be314817cc07f50fde24c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国光通信重要突破！全球首条三波段超低损耗多芯光缆线路开通",
+    "summary": "近日，全球首条S+C+L三波段超低损多芯光缆线路在青岛开通，采用四芯光纤结构实现三波段并行传输，单芯带宽提升50%，容量达传统光纤5倍以上。该技术由中国移动等自主设计，突破传统光纤容量瓶颈，为AI算力及未来超高速传输提供新方案。",
+    "author": "科技日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/fb15c21a6fa246cdb02c6b0a88448076_1_0/hd.webp",
+    "realDate": "2026-06-02 20:37:39"
+  },
+  {
+    "id": "8ca1672a9a45cc2f768f9938bb718e83",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388142&to_app=hwbrowser&dy_scenario=topicinside&tn=bc8a5d3a2721d6630796147c425062ae0a57fddf16b49c4ce2229fd1e52d148d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节跳动Seed旗下AI 4S团队核心成员顾全全自曝将离职",
+    "summary": "顾全全2023年加入该团队，主导了药物发现领域的AI研究，开发了SeedFold、SeedProteo及DPLM系列蛋白质语言模型等项目。他拥有清华大学自动化专业学士、控制科学与工程硕士学位，以及伊利诺伊大学香槟分校计算机科学博士学位。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/bcf34720786943b68da1b3242c66b171_1_0/hd.webp",
+    "realDate": "2026-06-02 13:36:21"
+  },
+  {
+    "id": "43ace1100833b9e48031af99303d5e33",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388950&to_app=hwbrowser&dy_scenario=topicinside&tn=242e586d508c7c718bfb1c7eefc9b7afbc9ab3d4b1258c2e66e501c075ca6687&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+    "summary": "6月3日，OpenAI发布6款Codex角色插件，覆盖股票投资、创意设计等6大领域，包含110项技能并支持62个外部应用。其首席营收官透露Codex周活跃用户达500万，20%为非程序员，企业营收占比40%年底或达50%。这些插件将整合至ChatGPT供10亿用户使用。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/f8/v3/10510282388950/0fe60806d87448c58c6f1b2e3f6322ee_1_8/hd.webp",
+    "realDate": "2026-06-03 03:00:54"
+  },
+  {
+    "id": "3bfb9d7b6d326c16377deadb65cdf904",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510531e877b97399533ffbdcc4f64f7746371&to_app=hwbrowser&dy_scenario=topicinside&tn=b1274c5b34bd5a96813835dcfa3f1e6385fe111e4c9e82386635de2c841115fa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里发布Qwen3.7-Plus：可一键复刻手机App",
+    "summary": "该模型文本和视觉能力显著提升，支持自主编程、工具调用及任务闭环执行，可一键复刻手机App。该模型在Vision Arena榜单位列全球前五、国内第一，编程与Agent能力评测分数较上代提升最高10.2分，视觉推理得分达64.7，超越Gemini3.1-Pro。",
+    "author": "新浪科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/7685bdf583d54e16b39a220aa5e8e7dc_1_0/hd.webp",
+    "realDate": "2026-06-02 10:47:47"
+  },
+  {
+    "id": "238b4d1db21d8211725db2845d364bdd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KUEL8U6105318XR6&to_app=hwbrowser&dy_scenario=topicinside&tn=ad1f0fae48b997e78112839a045f35f8e5619d3f507c4c6b86cdc179b278c16e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "陈立武Computex演讲放大招：1.8nm、288核CPU、掌机芯片 帮谷歌造芯",
+    "summary": "英特尔CEO陈立武在Computex 2026演讲中宣布，Intel 18A制程已全面投产，推出288核至强6+数据中心CPU及锐炫G3掌机芯片，后者性能领先竞品40%。同时联合富士康等推出机架级蓝图计划，第三代酷睿Ultra处理器已应用于325款设计方案。",
+    "author": "芯东西",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1057_8/42/v3/1051057d_KUEL8U6105318XR6/96462328d17d4ee683875d6d9b8e63dc_1_6/hd.webp",
+    "realDate": "2026-06-02 19:18:17"
+  },
+  {
+    "id": "05f66097d7b33e71a9d42729c6a65dc8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614521482&to_app=hwbrowser&dy_scenario=topicinside&tn=3d517c6f0a2c06b245d2a2847fb15219177abe970a539bbcef91f57ecf1d0b22&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SK集团会长会见黄仁勋 讨论AI存储芯片领域潜在合作",
+    "summary": "据报道，SK集团会长崔泰源6月1日在台北会见英伟达CEO黄仁勋，讨论AI存储芯片领域潜在合作。据报道，黄仁勋表示，高带宽内存（HBM）供应链最关键的要素为性能、品质、可靠性和供应能力，因此英伟达正与SK紧密合作。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/0a5ccf9afd7440d38fcc42680b968874_1_0/hd.webp",
+    "realDate": "2026-06-02 15:49:29"
+  },
+  {
+    "id": "dce9002c3af8b5eb174da5276d835a99",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110429f0352553aa0f1292eec883def21a19&to_app=hwbrowser&dy_scenario=topicinside&tn=7eaa2bd4409dbe78ab58bb0cab9e970c587f4e9c40071dba3fd4c51c3398c2f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球运动相机鼻祖GoPro发布破产风险预警",
+    "summary": "全球运动相机品牌GoPro在2026年一季度财报中发布持续经营警示，坦言面临破产风险。其营收同比下滑26%，可用现金仅剩5000万美元，同时受存储芯片价格飙升影响成本激增。2025年其市场份额降至18%，目前公司已启动裁员23%、评估出售合并等自救措施。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/a62ca93d100644f2af02ad30200e1eac_1_0/hd.webp",
+    "realDate": "2026-06-02 15:20:44"
+  },
+  {
+    "id": "8fb9799153adee318849bd7378d9133b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114315946fa1c94be1fdf9b1fb587a77e8b6&to_app=hwbrowser&dy_scenario=topicinside&tn=af6385a372e36511cc41b6402dfbf1abba4cc48c5d38f434c7b58aa12e0e405d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "苹果与OpenAI的官司反转 新加坡法院打回xAI四项取证要求",
+    "summary": "近日，新加坡驳回马斯克旗下xAI公司要求当地企业Gojek、Grab等提供文件的取证请求，理由包括案件不适用《海牙取证公约》、公司名称不符及请求范围过宽。xAI此前指控苹果与OpenAI合谋使ChatGPT获得App Store优势，同时称苹果规则阻碍X成为超级应用。韩国最高法院也曾驳回其类似请求。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/b5e18d8ebb7049f883f7f9b1b830c607_1_0/hd.webp",
+    "realDate": "2026-06-02 10:15:00"
+  },
+  {
+    "id": "2f69b043246d6cd7e3a812543271fc59",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388254&to_app=hwbrowser&dy_scenario=topicinside&tn=c31ee47ec35a9e1c6ddabb1f1ca336f7f07df771ff5daec213cca75ee42b36aa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "算力、存储之后是光连接 黄仁勋“钦点”下一家万亿美元公司",
+    "summary": "近日，光互连巨头迈威尔科技CEO墨菲与英伟达CEO黄仁勋指出，AI基础设施瓶颈已转向连接能力。黄仁勋称迈威尔为“下一家万亿美元公司”，双方将深化合作扩展AI数据中心网络。迈威尔数据中心业务占比从10%升至75%，预计2027财年光互连业务增长超70%。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/d7c7530ef5f8459ba9136aa3c0e33f8a_1_0/hd.webp",
+    "realDate": "2026-06-02 15:11:02"
+  },
+  {
+    "id": "9123aae16c56d9008c34ed31e00e5156",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105122185ceb7b17284a63a4a534573626272e4&to_app=hwbrowser&dy_scenario=topicinside&tn=3db6083ce3f2c89fcbdf23f650b28aca7facd4920bffc5929b9dca1c798d2ac3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "暴涨414%！全球存储芯片迎“暴利”周期 中国企业终“上牌桌”",
+    "summary": "全球存储芯片价格一年暴涨414%，AI算力需求推动行业进入超级周期。中国企业长鑫存储和长江存储凭借DDR5高端芯片和3D堆叠闪存技术打破外企垄断，分别跻身全球DRAM第四和闪存第五。同时，国产存储产业链全面爆发，广东前4月存储芯片产量增长50.8%。但AI存储HBM市场仍被美韩巨头主导。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/381b793cef5147aa92dcdaaafd74be3c_1_0/hd.webp",
+    "realDate": "2026-06-02 19:38:00"
+  },
+  {
+    "id": "09e2be8b26cb33d4c1d23655299047f4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614518654&to_app=hwbrowser&dy_scenario=topicinside&tn=758e94e7a3801baf52d93149a545d63270c4416549ae98ffb8a821b86064fcf1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国“新格伦”火箭爆炸致发射台瘫痪 修复或需到2028年",
+    "summary": "美国蓝色起源公司5月28日在肯尼迪航天中心测试“新格伦”重型火箭时发生爆炸，导致发射台严重损毁。NASA局长6月1日表示，修复工作可能持续至2028年。该事故或影响美国“阿耳忒弥斯”载人登月计划进程，包括原定今年使用该火箭发射的“蓝月”着陆器任务。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/36f79dac29164b949af39ca9a5ce5444_1_0/hd.webp",
+    "realDate": "2026-06-02 09:52:09"
   }
 ]
