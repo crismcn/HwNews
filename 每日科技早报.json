@@ -1,110 +1,101 @@
 [
   {
-    "id": "045fcdc317b00b5a731cb5b680f11abe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388956&to_app=hwbrowser&dy_scenario=topicinside&tn=9be04a04390d6122de807b5ef8b53fc375452baea944c968df6b801fe1cd32f8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软全面押注智能体时代：发布新模型、展示新终端",
-    "summary": "微软在Build开发者大会上发布自研代码生成模型MAI-Code-1-Flash和推理模型MAI-Thinking-1，前者已集成至GitHub Copilot，后者通过Foundry平台开放私人预览。微软CEO纳德拉称企业应参与模型生态建设，其AI业务负责人表示优化后模型性能超GPT-5.5且成本效率提升10倍。同时微软持续投资OpenAI和Anthropic，两家公司正推进IPO。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/6ed1df2b108846de97ea752448229bc4_1_0/hd.webp",
-    "realDate": "2026-06-03 04:08:26"
-  },
-  {
-    "id": "33842a4f6d58262d05c885bc12fda7f8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105105300d6e94a016f3ec697102d251df1f260&to_app=hwbrowser&dy_scenario=topicinside&tn=e2b96cbeea31782f66e68319826da0ecd548add641be314817cc07f50fde24c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国光通信重要突破！全球首条三波段超低损耗多芯光缆线路开通",
-    "summary": "近日，全球首条S+C+L三波段超低损多芯光缆线路在青岛开通，采用四芯光纤结构实现三波段并行传输，单芯带宽提升50%，容量达传统光纤5倍以上。该技术由中国移动等自主设计，突破传统光纤容量瓶颈，为AI算力及未来超高速传输提供新方案。",
-    "author": "科技日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/fb15c21a6fa246cdb02c6b0a88448076_1_0/hd.webp",
-    "realDate": "2026-06-02 20:37:39"
-  },
-  {
-    "id": "8ca1672a9a45cc2f768f9938bb718e83",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388142&to_app=hwbrowser&dy_scenario=topicinside&tn=bc8a5d3a2721d6630796147c425062ae0a57fddf16b49c4ce2229fd1e52d148d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "字节跳动Seed旗下AI 4S团队核心成员顾全全自曝将离职",
-    "summary": "顾全全2023年加入该团队，主导了药物发现领域的AI研究，开发了SeedFold、SeedProteo及DPLM系列蛋白质语言模型等项目。他拥有清华大学自动化专业学士、控制科学与工程硕士学位，以及伊利诺伊大学香槟分校计算机科学博士学位。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/bcf34720786943b68da1b3242c66b171_1_0/hd.webp",
-    "realDate": "2026-06-02 13:36:21"
-  },
-  {
-    "id": "43ace1100833b9e48031af99303d5e33",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388950&to_app=hwbrowser&dy_scenario=topicinside&tn=242e586d508c7c718bfb1c7eefc9b7afbc9ab3d4b1258c2e66e501c075ca6687&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-    "summary": "6月3日，OpenAI发布6款Codex角色插件，覆盖股票投资、创意设计等6大领域，包含110项技能并支持62个外部应用。其首席营收官透露Codex周活跃用户达500万，20%为非程序员，企业营收占比40%年底或达50%。这些插件将整合至ChatGPT供10亿用户使用。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/f8/v3/10510282388950/0fe60806d87448c58c6f1b2e3f6322ee_1_8/hd.webp",
-    "realDate": "2026-06-03 03:00:54"
-  },
-  {
-    "id": "3bfb9d7b6d326c16377deadb65cdf904",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510531e877b97399533ffbdcc4f64f7746371&to_app=hwbrowser&dy_scenario=topicinside&tn=b1274c5b34bd5a96813835dcfa3f1e6385fe111e4c9e82386635de2c841115fa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里发布Qwen3.7-Plus：可一键复刻手机App",
-    "summary": "该模型文本和视觉能力显著提升，支持自主编程、工具调用及任务闭环执行，可一键复刻手机App。该模型在Vision Arena榜单位列全球前五、国内第一，编程与Agent能力评测分数较上代提升最高10.2分，视觉推理得分达64.7，超越Gemini3.1-Pro。",
-    "author": "新浪科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/7685bdf583d54e16b39a220aa5e8e7dc_1_0/hd.webp",
-    "realDate": "2026-06-02 10:47:47"
-  },
-  {
-    "id": "238b4d1db21d8211725db2845d364bdd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KUEL8U6105318XR6&to_app=hwbrowser&dy_scenario=topicinside&tn=ad1f0fae48b997e78112839a045f35f8e5619d3f507c4c6b86cdc179b278c16e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "陈立武Computex演讲放大招：1.8nm、288核CPU、掌机芯片 帮谷歌造芯",
-    "summary": "英特尔CEO陈立武在Computex 2026演讲中宣布，Intel 18A制程已全面投产，推出288核至强6+数据中心CPU及锐炫G3掌机芯片，后者性能领先竞品40%。同时联合富士康等推出机架级蓝图计划，第三代酷睿Ultra处理器已应用于325款设计方案。",
-    "author": "芯东西",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1057_8/42/v3/1051057d_KUEL8U6105318XR6/96462328d17d4ee683875d6d9b8e63dc_1_6/hd.webp",
-    "realDate": "2026-06-02 19:18:17"
-  },
-  {
-    "id": "05f66097d7b33e71a9d42729c6a65dc8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614521482&to_app=hwbrowser&dy_scenario=topicinside&tn=3d517c6f0a2c06b245d2a2847fb15219177abe970a539bbcef91f57ecf1d0b22&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SK集团会长会见黄仁勋 讨论AI存储芯片领域潜在合作",
-    "summary": "据报道，SK集团会长崔泰源6月1日在台北会见英伟达CEO黄仁勋，讨论AI存储芯片领域潜在合作。据报道，黄仁勋表示，高带宽内存（HBM）供应链最关键的要素为性能、品质、可靠性和供应能力，因此英伟达正与SK紧密合作。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/0a5ccf9afd7440d38fcc42680b968874_1_0/hd.webp",
-    "realDate": "2026-06-02 15:49:29"
-  },
-  {
-    "id": "dce9002c3af8b5eb174da5276d835a99",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110429f0352553aa0f1292eec883def21a19&to_app=hwbrowser&dy_scenario=topicinside&tn=7eaa2bd4409dbe78ab58bb0cab9e970c587f4e9c40071dba3fd4c51c3398c2f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球运动相机鼻祖GoPro发布破产风险预警",
-    "summary": "全球运动相机品牌GoPro在2026年一季度财报中发布持续经营警示，坦言面临破产风险。其营收同比下滑26%，可用现金仅剩5000万美元，同时受存储芯片价格飙升影响成本激增。2025年其市场份额降至18%，目前公司已启动裁员23%、评估出售合并等自救措施。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/a62ca93d100644f2af02ad30200e1eac_1_0/hd.webp",
-    "realDate": "2026-06-02 15:20:44"
-  },
-  {
-    "id": "8fb9799153adee318849bd7378d9133b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114315946fa1c94be1fdf9b1fb587a77e8b6&to_app=hwbrowser&dy_scenario=topicinside&tn=af6385a372e36511cc41b6402dfbf1abba4cc48c5d38f434c7b58aa12e0e405d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "苹果与OpenAI的官司反转 新加坡法院打回xAI四项取证要求",
-    "summary": "近日，新加坡驳回马斯克旗下xAI公司要求当地企业Gojek、Grab等提供文件的取证请求，理由包括案件不适用《海牙取证公约》、公司名称不符及请求范围过宽。xAI此前指控苹果与OpenAI合谋使ChatGPT获得App Store优势，同时称苹果规则阻碍X成为超级应用。韩国最高法院也曾驳回其类似请求。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/b5e18d8ebb7049f883f7f9b1b830c607_1_0/hd.webp",
-    "realDate": "2026-06-02 10:15:00"
-  },
-  {
-    "id": "2f69b043246d6cd7e3a812543271fc59",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282388254&to_app=hwbrowser&dy_scenario=topicinside&tn=c31ee47ec35a9e1c6ddabb1f1ca336f7f07df771ff5daec213cca75ee42b36aa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "算力、存储之后是光连接 黄仁勋“钦点”下一家万亿美元公司",
-    "summary": "近日，光互连巨头迈威尔科技CEO墨菲与英伟达CEO黄仁勋指出，AI基础设施瓶颈已转向连接能力。黄仁勋称迈威尔为“下一家万亿美元公司”，双方将深化合作扩展AI数据中心网络。迈威尔数据中心业务占比从10%升至75%，预计2027财年光互连业务增长超70%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/d7c7530ef5f8459ba9136aa3c0e33f8a_1_0/hd.webp",
-    "realDate": "2026-06-02 15:11:02"
-  },
-  {
-    "id": "9123aae16c56d9008c34ed31e00e5156",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105122185ceb7b17284a63a4a534573626272e4&to_app=hwbrowser&dy_scenario=topicinside&tn=3db6083ce3f2c89fcbdf23f650b28aca7facd4920bffc5929b9dca1c798d2ac3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "暴涨414%！全球存储芯片迎“暴利”周期 中国企业终“上牌桌”",
-    "summary": "全球存储芯片价格一年暴涨414%，AI算力需求推动行业进入超级周期。中国企业长鑫存储和长江存储凭借DDR5高端芯片和3D堆叠闪存技术打破外企垄断，分别跻身全球DRAM第四和闪存第五。同时，国产存储产业链全面爆发，广东前4月存储芯片产量增长50.8%。但AI存储HBM市场仍被美韩巨头主导。",
+    "id": "6f6f4ba53afcabe2704d95b66b99efc6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512210a96580d424ffd7bc17b36a1d5d1364d&to_app=hwbrowser&dy_scenario=topicinside&tn=a682ec239e20e75d08a1b68734b6adca6179de38191f9900e6e6c06ce1da6561&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微信被曝将推出一款AI智能体 腾讯人士回应",
+    "summary": "消息称微信计划最快本月启动AI智能体合规审批流程，腾讯人士称上线时间取决于监管进度。该智能体被视为腾讯AI战略“底牌”，可接入小程序生态，目前微信已通过QClaw等产品测试AI功能。腾讯总裁刘炽平表示智能体具备突破性应用价值，但具体落地节点尚未确定。",
     "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/381b793cef5147aa92dcdaaafd74be3c_1_0/hd.webp",
-    "realDate": "2026-06-02 19:38:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/0889577ea4724d51aa3ed045c449eccd_1_0/hd.webp",
+    "realDate": "2026-06-03 14:25:00"
   },
   {
-    "id": "09e2be8b26cb33d4c1d23655299047f4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614518654&to_app=hwbrowser&dy_scenario=topicinside&tn=758e94e7a3801baf52d93149a545d63270c4416549ae98ffb8a821b86064fcf1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国“新格伦”火箭爆炸致发射台瘫痪 修复或需到2028年",
-    "summary": "美国蓝色起源公司5月28日在肯尼迪航天中心测试“新格伦”重型火箭时发生爆炸，导致发射台严重损毁。NASA局长6月1日表示，修复工作可能持续至2028年。该事故或影响美国“阿耳忒弥斯”载人登月计划进程，包括原定今年使用该火箭发射的“蓝月”着陆器任务。",
+    "id": "cbe1b7d2d929fd659e5cadabb976eb9c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614526356&to_app=hwbrowser&dy_scenario=topicinside&tn=0de0d98284f9712ce3203b2224c90b0631ea31755162581d1a7d787ad2abe773&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "ChatGPT全球月活用户突破10亿",
+    "summary": "OpenAI旗下ChatGPT全球月活用户数在推出约三年后的5月份突破10亿，创下App最快纪录。同时，Anthropic旗下Claude全球月活达5600万，年增长640%，远超ChatGPT的62%。研究显示部分美国用户在安装Claude后减少ChatGPT使用时间5%。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/Topic_f01d05301bc74b7e8fd7c85f79844615/36f79dac29164b949af39ca9a5ce5444_1_0/hd.webp",
-    "realDate": "2026-06-02 09:52:09"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fb/v3/105120614526356/130d7384413544f0b3cd55d15b9098b0_1_0/hd.webp",
+    "realDate": "2026-06-03 11:26:03"
+  },
+  {
+    "id": "53f0ab970c6ce9c422ea7b79e11a49be",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282389226&to_app=hwbrowser&dy_scenario=topicinside&tn=09d5566498562e6a582918a170da6ac81836e0c765f2f1ff987ed7b069b85ec6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "从12毫秒到20秒！微软亮出全新量子芯片",
+    "summary": "微软在Build开发者大会上发布新型量子芯片Majorana 2，其量子比特存续时间从上一代的12毫秒提升至20秒，可靠性提高逾1000倍。该芯片采用铅材料，目前搭载12个量子比特。微软预计2029年推出商用量子计算机，但需突破百万级量子比特技术瓶颈。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b9/v3/10510282389226/1ad04b7f35574abfb8ffc39a2583814c_1_5/hd.webp",
+    "realDate": "2026-06-03 10:47:07"
+  },
+  {
+    "id": "e36483b67ea24c2c423fd6e18ef60242",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511049cb8501b0a7c963937579fe33a03ce71&to_app=hwbrowser&dy_scenario=topicinside&tn=08b7d69581ec2e1e0febc2af201affc561adb5391951b69414e08b28d31bb16f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "月之暗面宣布Kimi Work内测：知识工作者的通用型本地Agent来了",
+    "summary": "据悉，该产品将随Kimi最新测试版客户端上线。其内核Kimi Code支持安装技能、定时任务等功能，同时集成在线版建站、PPT等专业Skills及多领域数据库，并内置浏览器方案。Kimi Work可自主创建最多300个子Agent集群，通过自然语言指令自动拆解任务、调用工具，最终生成文档等成果，实现从对话到执行的升级。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/a425895f88a54b7cab1da252e7adf23f_1_0/hd.webp",
+    "realDate": "2026-06-03 21:49:48"
+  },
+  {
+    "id": "b636a79bbb297f2e32fcb5522c40264b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511184e64bf3160707a0a52048cc30ea4bfbc&to_app=hwbrowser&dy_scenario=topicinside&tn=766bb26e1b820974909550b249cc269af4b0ff8a363bd53bd78ab1b614900c59&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "千问向第三方Agent、Skill全面开放",
+    "summary": "6月3日，阿里巴巴旗下千问App宣布全面开放第三方Agent和Skill接入权限，允许企业自主运营品牌Agent。瑞幸咖啡、肯德基等首批企业已开始测试相关服务，并将逐步推出。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/af5eba7f94f94933a789bffe0a35dd8f_1_0/hd.webp",
+    "realDate": "2026-06-03 15:21:45"
+  },
+  {
+    "id": "36d1ffe5aa920772f4e07ffd4f34c072",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282389018&to_app=hwbrowser&dy_scenario=topicinside&tn=2a898b4a96d2eedb50b0f33c71f6fdd6f63ca9e10db1acc59c13eca4b19043de&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节跳动AI Agent平台上线3.0全新版本",
+    "summary": "字节跳动AI Agent平台扣子（Coze）3.0版本上线，新增多人多Agent协作功能，支持金融、医疗等行业技能包及Claude Code等工具接入。分析师称2026年AI Agent技术将进入新拐点，B端商业化路径清晰，C端竞争激烈。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/add9b46ec45c435d840cd79b215f59af_1_0/hd.webp",
+    "realDate": "2026-06-03 07:46:53"
+  },
+  {
+    "id": "3fe05f230cab08be092bfb49cf2c18a8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143872dbaf7783cda548d2386cde0341dc8&to_app=hwbrowser&dy_scenario=topicinside&tn=cfe24f3e2e52318ee1832950b9ed9a5f67260d47c3cf3471eda47307713127b3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节火山引擎被曝提升MaaS营收目标至150亿元 几乎每月都上调",
+    "summary": "近日，字节跳动火山引擎4月将MaaS业务营收目标上调至150亿元，较2025年底的100亿元目标大幅提升。2025年该业务实际收入约15亿元，2026年目标为去年10倍。其Seedance 2.0模型在短剧行业渗透率达95%，单月收入超10亿元且持续增长，目前全球市场份额第二，正加速拓展海外市场。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/2dda64bcedc34486a989f18158bece88_1_0/hd.webp",
+    "realDate": "2026-06-03 13:23:00"
+  },
+  {
+    "id": "fc149ecd5c907a59df490a5a8cb430ba",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074959338&to_app=hwbrowser&dy_scenario=topicinside&tn=289e12cb2c00c68ece3d019fd55b1ee3bbc88b2a02fac8a112dc112deae14514&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "弃用谷歌！欧洲议会因隐私考量改用法国Qwant为默认搜索引擎",
+    "summary": "近日，欧洲议会将内部电脑默认搜索引擎从谷歌更换为法国Qwant，称此举符合维护数字主权和保护用户数据的承诺。Qwant被描述为注重隐私的欧洲搜索引擎，避免追踪用户。此前38名跨党派议员曾敦促减少对美国技术的依赖。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/2cf5d8cd28c6414da20a773edfcb8f1d_1_0/hd.webp",
+    "realDate": "2026-06-03 15:39:36"
+  },
+  {
+    "id": "b9a7ab279868e9ab8b717c74c91b9e58",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048afb56a51ab89879c20cd6a46732b02ef&to_app=hwbrowser&dy_scenario=topicinside&tn=4ba703e35272de52c32dc003b7014e9ab32a1deb589a20736f8dff8ee812cbc7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球首台套！入选央企十大国之重器",
+    "summary": "近日，全球首台千米级竖井硬岩全断面掘进机“钢铁脊梁号”在西鞍山铁矿完成示范工程，建成世界首条全断面掘进机法施工千米深立井。该设备由中国铁建重工等10家单位联合攻关，攻克硬岩破碎等三大技术难关，填补了国际空白，入选2025年度央企十大国之重器。",
+    "author": "北京日报客户端",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1048_8/be/v3/1051048afb56a51ab89879c20cd6a46732b02ef/62cb8d6502514933b49b91ae56023c81_1_6/hd.webp",
+    "realDate": "2026-06-03 22:23:53"
+  },
+  {
+    "id": "2143fe8edd153d37477dff8e8a741322",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e004c8bcc3dd09e377ee03c74fd217c4&to_app=hwbrowser&dy_scenario=topicinside&tn=59b5b72de8993095f0a46ee53c4d67ebe1d99f45e8d9ead89981d213088a6c86&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "打破国外巨头垄断！国产航空涂料首获民航适航认证",
+    "summary": "近日，由国内公司自主研发的Aeroep 452环氧底漆和Aeropu 900聚氨酯面漆获民航适航认证，两款产品历经6年研发，通过50余项测试，可适配C909等主流机型。同时，其核心技术已应用于军用领域，计划年底用于C909维修。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/c63d1dbf57874896b085025c9fe52862_1_0/hd.webp",
+    "realDate": "2026-06-03 10:40:23"
+  },
+  {
+    "id": "530b67a9afbac86d0f8c7b8e81f84d0e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448d660fdfa64c0805fa931fb455a202f03&to_app=hwbrowser&dy_scenario=topicinside&tn=513f1104f134499e1572c7594e7f92a7e448530655533c5e663a0c059283a345&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "要求内存增产！美国行业团体致函特朗普政府",
+    "summary": "6月3日，美国汽车创新联盟等九大贸易协会联名致函财政部长和商务部长，警告内存芯片短缺威胁供应链稳定并可能推高消费价格，指出AI数据中心扩张导致芯片价格飙升。这些团体呼吁政府与制造商协作扩大产能，建议通过贸易协定或《芯片法案》保障供应。美光等企业正扩建产能，但多数新增产能需数年才能投产。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/Topic_4ae2cb080aca429f888038e97595a5f2/13b50285fa754d4581dc9f5cb138b7af_1_0/hd.webp",
+    "realDate": "2026-06-04 06:19:01"
   }
 ]
