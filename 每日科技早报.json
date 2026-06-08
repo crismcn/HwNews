@@ -1,101 +1,119 @@
 [
   {
-    "id": "f3708f03be804ffce42f4ed2ef5262fc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512472821462581381748019&to_app=hwbrowser&dy_scenario=topicinside&tn=26eb934bd1a506dc2347bb737eb3ae1ec4a5fa53cf3fdf36c1f4ad017b1794b1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "关于美国滥用半导体出口管制 商务部发声",
-    "summary": "对于美国商务部封堵所谓芯片“监管漏洞”的有关问题，商务部新闻发言人何咏前表示，近年来美方不断以国家安全为由滥用出口管制，严重损害中国企业正当权益，严重破坏国际经贸秩序，严重冲击全球半导体产业链供应链稳定，中方对此一贯反对。中方敦促美方尽快纠正错误做法，停止对华歧视性措施，维护全球产业链供应链稳定。",
+    "id": "3a8d19c0d1be7ff4e6fa42c2d09373cb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282393023&to_app=hwbrowser&dy_scenario=topicinside&tn=69eb98afe07f049b0404485fa8b55f6337063834836e5addfc43e9dee537e6c5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达与SK海力士宣布多年期合作 共同开发下一代AI内存",
+    "summary": "英伟达与SK海力士达成多年技术合作，重点研发下一代AI内存，以支持全球AI工厂建设。根据协议，SK海力士将为英伟达的Vera Rubin AI超级计算机、Vera CPU等平台开发专用内存，并利用英伟达的CUDA-X库和PhysicsNeMo框架优化芯片设计与制造流程。双方还将通过数字孪生技术提升晶圆厂运营效率。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/cc2f8aaba54642239413e9b203c92359_1_0/hd.webp",
+    "realDate": "2026-06-08 07:02:49"
+  },
+  {
+    "id": "b2435d4caf0b12b15b47c297b479ad02",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961146&to_app=hwbrowser&dy_scenario=topicinside&tn=205eea7121963f9b994f80f93711282775843d2464a03801d5f3e5c6037a1a9b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称京东、腾讯联手 将围绕AI Agent展开合作",
+    "summary": "据悉，京东与腾讯合作开发AI Agent，将京东供应链与腾讯入口资源对接。同时，京东AI Agent已与华为等终端厂商对接，支持用户通过A2A模式完成购物闭环。腾讯微信也正与多家手机厂商合作推进A2A助手能力，其AI智能体计划本月启动合规审批。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/d01ebe8fa48445aa9c03f445533c9c55_1_0/hd.webp",
+    "realDate": "2026-06-07 18:23:15"
+  },
+  {
+    "id": "95f477d62e45dfef5d9cd2c98a47295d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023732300&to_app=hwbrowser&dy_scenario=topicinside&tn=6ed495227b6f323e7b722fa8e76bf75a1e22a0706deb1b4cb2961338ff21a424&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "又一位！“杰出天体物理学者自美归国”",
+    "summary": "近日，曾获斯隆研究奖的宇宙学专家戴亮放弃美国教职，回国出任复旦大学教授。他长期研究引力透镜效应，开发程序识别双黑洞系统并推断暗物质分布。目前，越来越多的海外科学家选择回国任职，中国高校和科研机构涌现一股世界顶尖科学家的加盟潮。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f3/v3/1051023732300/e5e4d777bff2497ca69b3be6add13cca_1_3/hd.webp",
+    "realDate": "2026-06-07 08:45:40"
+  },
+  {
+    "id": "a5020e42edbc28c50b632d3143b78e13",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282392919&to_app=hwbrowser&dy_scenario=topicinside&tn=fd3c249554f9746945989c16c000954663cb526918f5d70111f78223115a8d1c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中外六大AI出战上海高考作文！DeepSeek与谷歌Gemini夺魁",
+    "summary": "6月7日，媒体对DeepSeek、谷歌Gemini等6款AI模型进行上海高考作文测评。测评从审题、逻辑、文采等5个维度评分，结果显示DeepSeek与谷歌Gemini以66分并列第一，Kimi获63分，OpenAI GPT得分最低仅53分。所有模型均使用统一提示词一次性生成文章。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/5f97123b77634228be221f6718493fd3_1_0/hd.webp",
+    "realDate": "2026-06-07 20:26:55"
+  },
+  {
+    "id": "454f2b806a02d10fd43af73986cd9bf5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KUR31DUU0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=9742ea50d3e848908e7c656fecfd8f4525d86733d0c5156f3e2b5f3c37ba787f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic偷跑代码又秒删 GPT 5.6震撼升级决战Mythos",
+    "summary": "Anthropic的Claude Mythos 5模型在API中短暂出现后被撤下，同时OpenAI内部测试GPT 5.6的kepler和kindle版本，选定kindle-alpha为候选版本。GPT 5.6前端生成和视觉能力显著提升，UI输出质量进步明显。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/039a0f74c9ed4d0cb7b817c2339a2c87_1_0/hd.webp",
+    "realDate": "2026-06-07 15:09:44"
+  },
+  {
+    "id": "5f120085398327f3c1375347592bffc9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074960994&to_app=hwbrowser&dy_scenario=topicinside&tn=7abd57e4e6a3d977efcac9dc6d17eebc6aa413e6a9bcb8fd72634b6a3ef477bf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软警告称ClaudeCode存在漏洞 可能导致GitHub账号凭证泄露",
+    "summary": "微软研究人员发现Anthropic旗下Claude Code的GitHub自动化流程存在漏洞，攻击者可通过提示词注入攻击窃取CI/CD工作流中的敏感凭证。该漏洞利用HTML注释隐藏恶意指令，诱骗AI模型读取系统文件。Anthropic已于5月5日发布修复版本，限制对敏感文件的访问。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/2d881f55237e431598b2604190bdbe4f_1_0/hd.webp",
+    "realDate": "2026-06-07 07:20:46"
+  },
+  {
+    "id": "1f5a57442476c5e037c1d68ca3ea9b4c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133325056&to_app=hwbrowser&dy_scenario=topicinside&tn=9d52d7e88af5faa786ca5e78e49dae3a63addaefa02faa328e381637cda23dfe&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+    "summary": "近年来AI技术发展冲击亚洲外包产业，印度和菲律宾数百万岗位面临转型。印度BPO从业者近600万人，贡献GDP约7%；菲律宾从业者约200万人，年收入400亿美元，占GDP超8%。AI可替代重复性工作，如法律合同审阅、数据录入等，印度IT从业者200万至300万人面临风险。甲骨文和塔塔咨询服务公司已裁员上万人，同时IT行业招聘大幅下滑。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/4f/v3/105102133325056/a15182254c604c338d9ae6b6cce987ff_1_2/hd.webp",
+    "realDate": "2026-06-07 07:35:41"
+  },
+  {
+    "id": "b643c92b8bf7893c64f37336ec98d275",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105155167c08f1235aaae06c45ff7f2b6ea8e00&to_app=hwbrowser&dy_scenario=topicinside&tn=fb6211487f6895782cf7d0319d876212023e35dd15971ca662d8aef21ddd8dd2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI芯片元老“002号员工”转投Anthropic",
+    "summary": "近日，OpenAI自研芯片项目核心成员Clive Chan宣布离职并加入竞争对手Anthropic。Chan曾任职特斯拉Autopilot团队，2024年1月加入OpenAI参与AI芯片研发，其转投被视为行业竞争向算力基础设施延伸的标志。该工程师毕业于加拿大滑铁卢大学，具有谷歌、SpaceX等多家科技公司从业背景。",
+    "author": "金融界",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/63d64b9ff98a4203b894cc260e2475ac_1_0/hd.webp",
+    "realDate": "2026-06-07 11:38:55"
+  },
+  {
+    "id": "0faebb4b160a85db6b08224d984c7296",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324865144&to_app=hwbrowser&dy_scenario=topicinside&tn=81417ae6c62b675ec7f31dbb24d14fa2ad82944cfebf147e4d93b6dff7548d6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“重返Web2.0” 扎克伯格重做了一个“百度贴吧”",
+    "summary": "Meta近日推出复古风格论坛应用Forum，主打兴趣群组讨论，去除了算法推荐和实名制，用户可匿名参与话题。该产品剥离自Facebook群组功能，同时引入AI提问助手和内容生成工具，旨在回归Web2.0式纯净社交体验。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/a6f33660d33e470ebbbf7a0c3e5d914c_1_0/hd.webp",
+    "realDate": "2026-06-07 18:16:54"
+  },
+  {
+    "id": "4d0485fcb035f6a00b8fb4fc7a64a506",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961181&to_app=hwbrowser&dy_scenario=topicinside&tn=5e3de57f9e92502a8e3cc9ac562face029b462151fd320f181a7f0e29191d252&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软让步 撤回对白帽黑客“梦魇日蚀”的法律威胁",
+    "summary": "据了解，此前该黑客因公开Windows高危漏洞代码遭微软封禁GitHub账号。微软称无意对合法漏洞研究者采取法律行动，并回归传统漏洞披露框架。同时，“梦魇日蚀”表示将公开新漏洞利用代码，可绕过BitLocker硬件加密保护。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/7c1cfb8da6784c259cad0c411fde1891_1_0/hd.webp",
+    "realDate": "2026-06-07 21:53:05"
+  },
+  {
+    "id": "ebbbccd2f79013441010dbfa7e577b4b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961069&to_app=hwbrowser&dy_scenario=topicinside&tn=f4ed1bc9e7a8c8d83fe622aa6effd32eb069f34ee6b76bddb9dbf46fd80d0e22&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "京东方A回应“存储涨价对显示行业影响”",
+    "summary": "京东方A在投资者调研中表示，存储涨价或对笔记本电脑和智能手机需求产生一定影响，但对电视需求影响有限。同时，2026年1-4月TV产品价格全面上涨，5月持稳；OLED手机需求承压，但高端产品占比预计提升。该公司第8.6代AMOLED生产线预计今年年中量产，将推动中尺寸OLED发展。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/906825d789b243c0a91ff90c199ea662_1_0/hd.webp",
+    "realDate": "2026-06-07 14:04:20"
+  },
+  {
+    "id": "7c29810ee6990d3521847a2e8956070c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124717894142660097091079&to_app=hwbrowser&dy_scenario=topicinside&tn=8c326a7ccfc2f60ecba94eea7bf8a011279d3e1b754d2fbafdd4bb6a264f2c64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国清洁低碳氢煤混烧技术取得重大突破",
+    "summary": "6月7日，国家能源集团宣布，我国自主研发的氢煤混燃低氮燃烧器首次实现50%绿氢掺烧及100%纯氢燃烧，构建了从输氢到燃烧的全流程安全系统。该技术使煤粉锅炉掺氢燃烧热量比达50%，节煤减碳幅度达50%并有效控制氮氧化物排放，为全球最大煤电装机国家的绿色转型提供了关键技术路径。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/da51d59e023242bc8a19d2396c2a77c0_1_0/hd.webp",
-    "realDate": "2026-06-04 15:07:58"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/64/v3/105124717894142660097091079/5ccdd4f76e5b45709a34a47c5a19fbc5_1_0/hd.webp",
+    "realDate": "2026-06-07 07:05:06"
   },
   {
-    "id": "72b72a79fe88dca94b7eb2e522a3da06",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120635b57519557f4b26a08954b352dde1a1&to_app=hwbrowser&dy_scenario=topicinside&tn=7337ac66000146dbd1c78df3dc15b456d4c25e130ef58e69dedea357127eb9fc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "不到一万即可入手 人形机器人价格大跳水",
-    "summary": "今年以来，国内人形机器人价格大幅下降，松延动力发布首款万元级消费机器人“Bumi（小布米）”，电商平台补贴后售价低至9418.1元。同时，宇树科技人形机器人单价从2023年的59.34万元降至2025年前三季度的16.76万元。价格下降得益于国产核心零部件成熟、复用新能源汽车供应链及企业控制毛利率等因素。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1206_8/52/v3/105120635b57519557f4b26a08954b352dde1a1/45ad83a6aa214b54adeec6a5299efe80_1_1/hd.webp",
-    "realDate": "2026-06-04 20:35:13"
-  },
-  {
-    "id": "3771e9615c63f13973783be1aa2e46f4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510538e1a9b23b5e136568807be77a70b3245&to_app=hwbrowser&dy_scenario=topicinside&tn=80deec1295443b8077a8837b372db5c4a3236b43aa2370d91b357674b4382ef4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "事关6G发展 工信部有新方案",
-    "summary": "6月4日，工信部印发通知，启动6G创新发展部省协同试点专项行动，计划到2029年形成自主技术方案，培育新型应用场景和终端产品。行动将推动通信与AI、卫星互联网等技术融合研究，加强基站、芯片等设备研发，并开展沉浸式通信、低空经济等场景培育。同时组织推进组开展6G技术试验，支持试点地区参与测试环境建设。",
-    "author": "科技日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/8edc7c0f171f4dc985d36058dc4e26c7_1_0/hd.webp",
-    "realDate": "2026-06-04 20:45:55"
-  },
-  {
-    "id": "62cf7f97b7823c2c41e0af2c025620d2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282391164&to_app=hwbrowser&dy_scenario=topicinside&tn=152b182827be70ffbea2abe4b25196cf97dd1326948b96b6169f5006ddcfb902&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI神秘AI硬件预定年底亮相",
-    "summary": "OpenAI首席财务官萨拉·弗里亚尔近日透露，已体验公司神秘AI硬件设备，称其“感觉自然且令人喜爱”，但拒绝透露具体形态。该设备由OpenAI与前苹果设计官乔尼·艾夫团队合作开发，定位便携智能产品，计划2026年底发布。同时，CEO奥尔特曼强调该产品并非手机。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/4ff0b54531ad430a9d2c3739b3f5a0f5_1_0/hd.webp",
-    "realDate": "2026-06-04 22:47:31"
-  },
-  {
-    "id": "a032d704d0a34155181fc94a013abef4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282391250&to_app=hwbrowser&dy_scenario=topicinside&tn=f75e9eaaf63cf944d8078295a1ae093fb33b597116260f388958d8b0e6c0d52d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
-    "summary": "美国AI公司Anthropic呼吁全球顶级实验室放缓前沿AI研发，警告系统可能实现“递归式自我改进”并构成重大风险。该公司周四发布博客称，社会需时间适应技术进步，提议建立全球核查机制确保协议执行。Anthropic估值近1万亿美元，其安全主张被部分人士质疑为限制竞争的手段。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/a0ebfb90f3814b2081413566476104af_1_0/hd.webp",
-    "realDate": "2026-06-05 06:11:15"
-  },
-  {
-    "id": "fb2039903b7a6e73305d83760fc7f352",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221bbeefe0b45b5cc4f3df93cb5ff878902&to_app=hwbrowser&dy_scenario=topicinside&tn=1ffd5dc0bcfefc11a1756406f2c4bdec783affc49a272c42b9dd6d80242082a3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中文在线称：AI短剧成为第一大Token消耗场景",
-    "summary": "中文在线6月3日披露数据显示，AI短剧与视频生成占国内Token消耗总量的55%，远超电商营销（24%）和软件开发（15%）。其Token消耗量达软件开发领域两倍以上，现为Token经济学中最大核心应用场景。",
-    "author": "21快讯",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/56f72230bcaa449f82617513b35ef983_1_0/hd.webp",
-    "realDate": "2026-06-04 11:04:00"
-  },
-  {
-    "id": "f06b39cc9ce2bef2a2491579e538ce27",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074959644&to_app=hwbrowser&dy_scenario=topicinside&tn=03779740cd1310f52297b61a0eedee747436d8aae6c88624209845b5671a013c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "奥尔特曼表示：OpenAI内部有人每月用掉约1000亿个词元",
-    "summary": "OpenAI CEO奥尔特曼近日透露，公司内部词元消耗冠军每月使用约1000亿个词元，远超六年前全球最高水平。同时，一位外部用户消耗量更高，令其感到难堪。员工常在社交平台炫耀高额使用记录，如有人30天消耗6030亿词元。其他企业如亚马逊、Uber则开始限制词元使用。奥尔特曼称正优化模型并寻求降本方案。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/0addaa5751504b1984e3ba209d2031d9_1_0/hd.webp",
-    "realDate": "2026-06-04 10:47:26"
-  },
-  {
-    "id": "d8120ac182d15b398d3d789de0561f3e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282390489&to_app=hwbrowser&dy_scenario=topicinside&tn=fc6aee8c57bc12cb049a26ddaf183bd44b72e22b9819a3b011c7508189e6827d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI需求猛如虎！台积电CEO称：数年内都无法满足芯片需求",
-    "summary": "台积电CEO魏哲家表示，受AI应用推动，全球对先进半导体芯片需求强劲，预计未来数年仍无法满足。台积电2025年晶圆出货量将达1500万片，先进制程贡献74%收入，今年营收预计增长超30%。同时，自动驾驶和机器人被视为长期增长动力。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/22/v3/10510282390489/d65bcd5e3139419ea747a4c3ad2b6ae4_1_0/hd.webp",
-    "realDate": "2026-06-04 12:47:58"
-  },
-  {
-    "id": "70f4f3ba0d187196e9de77e426c504ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074959600&to_app=hwbrowser&dy_scenario=topicinside&tn=f80a6f6f99daf2a9d13d836c4c5be96822fba0a7eb66b02c1588c68ef99dfb9c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta推出商业智能体 欲借AI开拓广告之外的新营收渠道",
-    "summary": "该功能可自动处理客户咨询、商品推荐等任务，将纳入付费订阅套餐Meta One。该功能支持WhatsApp等应用，旨在帮助企业提升服务效率。CEO扎克伯格称，智能体未来可代管企业全链路运营。目前Meta 98%营收依赖广告，此举是其拓展AI商业化的重要尝试。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/ab/v3/1051074959600/8cd5d8b12ddb4710b0787e6f5eaa4272_1_2/hd.webp",
-    "realDate": "2026-06-04 08:04:55"
-  },
-  {
-    "id": "1a34ab696c455a7d01169e04e51d5a6e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614530279&to_app=hwbrowser&dy_scenario=topicinside&tn=68bdedd07b9965587f6ca43503bbd6c685c0b16d89121dbfd4d1deb937a283ec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "世界半导体贸易统计组织预计：2026年全球半导体市场规模或超10万亿元",
-    "summary": "报告称，2026年全球半导体市场规模预计达1.511万亿美元（约10.2万亿元人民币），较2025年增长近90%。其中存储芯片同比增幅将达249.5%，规模突破8000亿美元；逻辑芯片预计增长37.3%，规模为4100亿美元。2027年市场规模或进一步升至1.914万亿美元。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_64131c3969cd48b09158de4ec70f6391/fa9937d2fd9c437eb941c1beb9c0c3c1_1_0/hd.webp",
-    "realDate": "2026-06-04 07:15:37"
-  },
-  {
-    "id": "bebf0855b75fe87f9f795ed6cedfe93a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051253f32002543b2fb1b195d649970e2ea502&to_app=hwbrowser&dy_scenario=topicinside&tn=5f77b28dc6c816d1900f9b715c2b6edafaf7fbc46075e9aef873120ce728eefe&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "外媒称 “星链”每天都在损失卫星",
-    "summary": "近日，德媒报道称马斯克旗下“星链”卫星星座每天损失多枚卫星，价值数百万美元。专家警告这将引发环境问题，天体物理学家预测全面运营后每日将有23颗卫星坠毁。同时，SpaceX计划发射超4.2万颗卫星并申请百万颗新卫星许可。",
-    "author": "券商中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f1/v3/1051253f32002543b2fb1b195d649970e2ea502/d5cc46c4c2a24c7e9aecd5b561afe2aa_1_1/hd.webp",
-    "realDate": "2026-06-04 13:27:03"
+    "id": "a854eb4d3ab6e585fd5a651c769941cf",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124710861019745220166561&to_app=hwbrowser&dy_scenario=topicinside&tn=628545d45a5ef9bc4fe1e73662d27fd7a2357466815a76941df773f3dac2eb0d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国际空间站俄舱段维修 业内人士称漏气问题加剧",
+    "summary": "近日，两名俄宇航员对此展开维修，同时5名宇航员一度进入“龙”飞船避险。专家称漏气自2019年持续至今，近期恶化但未危及安全，俄方正寻求改善。该舱段已运行近30年，预计2030年前将由商业空间站替代。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/7626aedaaaeb4a9fa03eeba50428783d_1_0/hd.webp",
+    "realDate": "2026-06-07 07:31:26"
   }
 ]
