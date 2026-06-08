@@ -1,119 +1,101 @@
 [
   {
-    "id": "3a8d19c0d1be7ff4e6fa42c2d09373cb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282393023&to_app=hwbrowser&dy_scenario=topicinside&tn=69eb98afe07f049b0404485fa8b55f6337063834836e5addfc43e9dee537e6c5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达与SK海力士宣布多年期合作 共同开发下一代AI内存",
-    "summary": "英伟达与SK海力士达成多年技术合作，重点研发下一代AI内存，以支持全球AI工厂建设。根据协议，SK海力士将为英伟达的Vera Rubin AI超级计算机、Vera CPU等平台开发专用内存，并利用英伟达的CUDA-X库和PhysicsNeMo框架优化芯片设计与制造流程。双方还将通过数字孪生技术提升晶圆厂运营效率。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/cc2f8aaba54642239413e9b203c92359_1_0/hd.webp",
-    "realDate": "2026-06-08 07:02:49"
-  },
-  {
-    "id": "b2435d4caf0b12b15b47c297b479ad02",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961146&to_app=hwbrowser&dy_scenario=topicinside&tn=205eea7121963f9b994f80f93711282775843d2464a03801d5f3e5c6037a1a9b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称京东、腾讯联手 将围绕AI Agent展开合作",
-    "summary": "据悉，京东与腾讯合作开发AI Agent，将京东供应链与腾讯入口资源对接。同时，京东AI Agent已与华为等终端厂商对接，支持用户通过A2A模式完成购物闭环。腾讯微信也正与多家手机厂商合作推进A2A助手能力，其AI智能体计划本月启动合规审批。",
+    "id": "fe95c8c3e8d03c9edf6ae6ae80a3eab7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961401&to_app=hwbrowser&dy_scenario=topicinside&tn=3d5e093bcfe322fa61a982681628dbd1df6cec3ee186d1788fd1a9cb107f4b31&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称阶跃星辰将申请赴港IPO 估值或达120亿美元",
+    "summary": "该公司总部位于上海，由前微软副总裁姜大昕创立，若上市成功将成为香港近年最大IPO之一。同时，其竞争对手智谱AI与MiniMax已先后登陆港交所，近期股价大幅上涨。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/d01ebe8fa48445aa9c03f445533c9c55_1_0/hd.webp",
-    "realDate": "2026-06-07 18:23:15"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/afc6b2cb2395420494e3a835cbee66b3_1_0/hd.webp",
+    "realDate": "2026-06-08 14:48:41"
   },
   {
-    "id": "95f477d62e45dfef5d9cd2c98a47295d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023732300&to_app=hwbrowser&dy_scenario=topicinside&tn=6ed495227b6f323e7b722fa8e76bf75a1e22a0706deb1b4cb2961338ff21a424&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "又一位！“杰出天体物理学者自美归国”",
-    "summary": "近日，曾获斯隆研究奖的宇宙学专家戴亮放弃美国教职，回国出任复旦大学教授。他长期研究引力透镜效应，开发程序识别双黑洞系统并推断暗物质分布。目前，越来越多的海外科学家选择回国任职，中国高校和科研机构涌现一股世界顶尖科学家的加盟潮。",
+    "id": "6b211ed20fbd17bfece2628ee0333cb3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023732437&to_app=hwbrowser&dy_scenario=topicinside&tn=8f2ab3fb0317495252b2282d55a16698b2de8786a2e6cffed4f2af74ba145720&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球首次！我国科学家给量子计算机装上了“超高速内存”",
+    "summary": "浙江大学与宁波国际科创中心联合团队在超导量子计算平台实现全球首个量子随机存储器（QRAM）真机运行，可同时处理4位和8位数据，准确率达81%和60%。该技术能高效读取经典数据，解决量子计算机处理海量信息时的速度瓶颈，在药物模拟、金融分析等领域具备应用潜力。",
     "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f3/v3/1051023732300/e5e4d777bff2497ca69b3be6add13cca_1_3/hd.webp",
-    "realDate": "2026-06-07 08:45:40"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/6ae894524f094bb489055637e03160af_1_0/hd.webp",
+    "realDate": "2026-06-08 15:23:10"
   },
   {
-    "id": "a5020e42edbc28c50b632d3143b78e13",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282392919&to_app=hwbrowser&dy_scenario=topicinside&tn=fd3c249554f9746945989c16c000954663cb526918f5d70111f78223115a8d1c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中外六大AI出战上海高考作文！DeepSeek与谷歌Gemini夺魁",
-    "summary": "6月7日，媒体对DeepSeek、谷歌Gemini等6款AI模型进行上海高考作文测评。测评从审题、逻辑、文采等5个维度评分，结果显示DeepSeek与谷歌Gemini以66分并列第一，Kimi获63分，OpenAI GPT得分最低仅53分。所有模型均使用统一提示词一次性生成文章。",
+    "id": "2824bba8bcf39371306418502bdb2aaa",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143d6f96dc0753b225d416ac14413e88cab&to_app=hwbrowser&dy_scenario=topicinside&tn=1bcfb15f8b1dbbeaf8361a73c94416eae4061d060d43a6b3b084c1bfa3b3c6d6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国AI大模型周调用量连续6周居全球首位 前四均为国产模型",
+    "summary": "最新数据显示，中国AI大模型周调用量达14.19万亿Token，连续6周全球第一。前五名中前四均为国产模型，DeepSeek-V4-Flash以3.69万亿Token居首，MiniMax M3首周即进前三。同时，Claude系列跌出前五，DeepSeek连续四周位居厂商榜首。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/88a69231f645446ea011d0bafbe40c68_1_0/hd.webp",
+    "realDate": "2026-06-08 13:03:00"
+  },
+  {
+    "id": "466c5a6e534bcf1c41ace7d0c6f4a286",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051062d45a846a03b9bf8202b022caa288bf20&to_app=hwbrowser&dy_scenario=topicinside&tn=3c0189d54cdfb451e104249b6bf4f2ab4f2663c8742f0c416b4197e8d77f62a5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "偷下电子书、被罚15亿美元后 Claude又毁掉了百万本实体书",
+    "summary": "Anthropic公司因盗用近20万册图书训练AI被作家集体诉讼，最终以15亿美元达成和解。法庭文件显示，其联合创始人2021年从盗版网站批量下载数百万本书籍，CEO邮件承认规避正版授权。原告作家每部作品仅获赔约3000美元，而律师费争议成焦点。",
+    "author": "果壳",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/dbba6f8dabde4228b79b4b84183684ea_1_0/hd.webp",
+    "realDate": "2026-06-08 12:15:08"
+  },
+  {
+    "id": "c33d18ae4fe21a5e0dc1b4174c8356f1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614550705&to_app=hwbrowser&dy_scenario=topicinside&tn=8b5931d046350562a22114844e82a161721fda1f2aaa7d83543ac62cc43de89d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节Seed相关人士回应顾全全离职传闻",
+    "summary": "近日，针对顾全全离职创业传闻，字节Seed相关人士澄清表示，他虽参与过生物分子结构预测及大模型预训练工作，但并非团队AI制药及预训练业务负责人，对其创业计划不予置评。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ac/v3/105120614550705/2077403cbc3840ba8902c78a4787eba4_1_3/hd.webp",
+    "realDate": "2026-06-08 12:56:06"
+  },
+  {
+    "id": "a78df5e3adc9fab79119c308a7cb3402",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206e1834f910eeee9a1744219c58f4b28fd&to_app=hwbrowser&dy_scenario=topicinside&tn=843136d42fff74bca3c59b6fe05075ffd886d9ccfe2777ac37fcf9fee03722f3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "罗马仕两位创始人退出股东行列 公司近165万元股权被冻结",
+    "summary": "深圳罗马仕科技有限公司近日发生工商变更，创始人雷桂斌、雷灿伙退出股东行列，两人持股比例分别降至4.9%和5%。同时，该公司新增近165万元股权冻结信息。罗马仕曾因充电宝召回事件被罚124万元，目前正推进“重生计划”重组方案，拟引入资金并恢复销售体系。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/e102a19c87e842199efde6532fd81da7_1_0/hd.webp",
+    "realDate": "2026-06-08 13:40:43"
+  },
+  {
+    "id": "082d5b261207aa5f72003e45f9c16d63",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282393263&to_app=hwbrowser&dy_scenario=topicinside&tn=671f712c4509b3815da02414e07da5b2240631c8591a331231f9e076f47f008d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+    "summary": "双方合作涉及物理AI、机器人及AI工厂基础设施领域，包括斗山机器人、斗山山猫等业务部门。双方将整合英伟达Isaac Sim等开源框架推进工业自动化，同时斗山能源将为AI工厂提供电力支持，电子材料事业部将供应PCB关键材料铜覆层板。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/5f97123b77634228be221f6718493fd3_1_0/hd.webp",
-    "realDate": "2026-06-07 20:26:55"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/79/v3/10510282393263/3390048eb4394cb7a35c2441a4d4e2ec_1_2/hd.webp",
+    "realDate": "2026-06-08 11:13:53"
   },
   {
-    "id": "454f2b806a02d10fd43af73986cd9bf5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_KUR31DUU0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=9742ea50d3e848908e7c656fecfd8f4525d86733d0c5156f3e2b5f3c37ba787f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic偷跑代码又秒删 GPT 5.6震撼升级决战Mythos",
-    "summary": "Anthropic的Claude Mythos 5模型在API中短暂出现后被撤下，同时OpenAI内部测试GPT 5.6的kepler和kindle版本，选定kindle-alpha为候选版本。GPT 5.6前端生成和视觉能力显著提升，UI输出质量进步明显。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/039a0f74c9ed4d0cb7b817c2339a2c87_1_0/hd.webp",
-    "realDate": "2026-06-07 15:09:44"
+    "id": "cac75f24819b9c87597fe7aa266ac5a9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282393125&to_app=hwbrowser&dy_scenario=topicinside&tn=b7a5dd2e20accc70efc30507233dea6c5c13ac0e25fc481bccf45a86a09cd221&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称三星晶圆代工事业部最快Q3扭亏为盈",
+    "summary": "三星电子晶圆代工事业部因良率提升及大型订单推动，原定年底至明年的扭亏目标或提前至今年第三季度。若实现，这将是该部门自2022年出现万亿韩元级亏损后，时隔约4年首次业绩复苏。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/6cefca9c298b471a958ff79f6ace7616_1_0/hd.webp",
+    "realDate": "2026-06-08 09:13:48"
   },
   {
-    "id": "5f120085398327f3c1375347592bffc9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074960994&to_app=hwbrowser&dy_scenario=topicinside&tn=7abd57e4e6a3d977efcac9dc6d17eebc6aa413e6a9bcb8fd72634b6a3ef477bf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软警告称ClaudeCode存在漏洞 可能导致GitHub账号凭证泄露",
-    "summary": "微软研究人员发现Anthropic旗下Claude Code的GitHub自动化流程存在漏洞，攻击者可通过提示词注入攻击窃取CI/CD工作流中的敏感凭证。该漏洞利用HTML注释隐藏恶意指令，诱骗AI模型读取系统文件。Anthropic已于5月5日发布修复版本，限制对敏感文件的访问。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/2d881f55237e431598b2604190bdbe4f_1_0/hd.webp",
-    "realDate": "2026-06-07 07:20:46"
+    "id": "27fe4488da1df41bc48c966b9cc717cc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023732493&to_app=hwbrowser&dy_scenario=topicinside&tn=dcba12b62aed0cb55abe5cb1a17d3389bd638ebb42b86acc254969d6042d5294&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "新型晶体管研制成功！刷新世界纪录",
+    "summary": "中国科学院金属研究所联合团队近日研制出高频硅-石墨烯-锗势垒晶体管，其电流增益达1.8×10⁷创世界纪录，本征截止频率132GHz突破垂直二维基区晶体管性能极限。该成果发表于《自然·通讯》，通过石墨烯量子电容调控实现不对称肖特基势垒，解决了界面缺陷导致的载流子散射难题。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ce/v3/1051023732493/091d5a7facde47dcaca8f943abfaacb0_1_6/hd.webp",
+    "realDate": "2026-06-08 20:14:42"
   },
   {
-    "id": "1f5a57442476c5e037c1d68ca3ea9b4c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133325056&to_app=hwbrowser&dy_scenario=topicinside&tn=9d52d7e88af5faa786ca5e78e49dae3a63addaefa02faa328e381637cda23dfe&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-    "summary": "近年来AI技术发展冲击亚洲外包产业，印度和菲律宾数百万岗位面临转型。印度BPO从业者近600万人，贡献GDP约7%；菲律宾从业者约200万人，年收入400亿美元，占GDP超8%。AI可替代重复性工作，如法律合同审阅、数据录入等，印度IT从业者200万至300万人面临风险。甲骨文和塔塔咨询服务公司已裁员上万人，同时IT行业招聘大幅下滑。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/4f/v3/105102133325056/a15182254c604c338d9ae6b6cce987ff_1_2/hd.webp",
-    "realDate": "2026-06-07 07:35:41"
+    "id": "2a9fa4e22d1bf30b3a2813b1af4843a3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143d4f83f0bada60a2fca6dd450891f37e4&to_app=hwbrowser&dy_scenario=topicinside&tn=399d3de9c5e6b170beaf2c378466f8ecbb5aca207a9c095d39e7ce0dc114ea0b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI人才争夺战持续升温 月薪超13万元",
+    "summary": "近日，互联网大厂对AI人才争夺加剧，阿里、腾讯、字节跳动等企业不计成本招聘大模型、Agent开发方向人才。脉脉数据显示，2026年1月至4月AI科学家岗位平均月薪达132796元，部分优秀毕业生年薪达数百万元。同时，Agent技术使行业经验丰富者价值被重估。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/7f3ef1a39b524c39a19ce26ac4b6d207_1_0/hd.webp",
+    "realDate": "2026-06-08 08:28:00"
   },
   {
-    "id": "b643c92b8bf7893c64f37336ec98d275",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105155167c08f1235aaae06c45ff7f2b6ea8e00&to_app=hwbrowser&dy_scenario=topicinside&tn=fb6211487f6895782cf7d0319d876212023e35dd15971ca662d8aef21ddd8dd2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI芯片元老“002号员工”转投Anthropic",
-    "summary": "近日，OpenAI自研芯片项目核心成员Clive Chan宣布离职并加入竞争对手Anthropic。Chan曾任职特斯拉Autopilot团队，2024年1月加入OpenAI参与AI芯片研发，其转投被视为行业竞争向算力基础设施延伸的标志。该工程师毕业于加拿大滑铁卢大学，具有谷歌、SpaceX等多家科技公司从业背景。",
-    "author": "金融界",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/63d64b9ff98a4203b894cc260e2475ac_1_0/hd.webp",
-    "realDate": "2026-06-07 11:38:55"
-  },
-  {
-    "id": "0faebb4b160a85db6b08224d984c7296",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324865144&to_app=hwbrowser&dy_scenario=topicinside&tn=81417ae6c62b675ec7f31dbb24d14fa2ad82944cfebf147e4d93b6dff7548d6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“重返Web2.0” 扎克伯格重做了一个“百度贴吧”",
-    "summary": "Meta近日推出复古风格论坛应用Forum，主打兴趣群组讨论，去除了算法推荐和实名制，用户可匿名参与话题。该产品剥离自Facebook群组功能，同时引入AI提问助手和内容生成工具，旨在回归Web2.0式纯净社交体验。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/a6f33660d33e470ebbbf7a0c3e5d914c_1_0/hd.webp",
-    "realDate": "2026-06-07 18:16:54"
-  },
-  {
-    "id": "4d0485fcb035f6a00b8fb4fc7a64a506",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961181&to_app=hwbrowser&dy_scenario=topicinside&tn=5e3de57f9e92502a8e3cc9ac562face029b462151fd320f181a7f0e29191d252&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软让步 撤回对白帽黑客“梦魇日蚀”的法律威胁",
-    "summary": "据了解，此前该黑客因公开Windows高危漏洞代码遭微软封禁GitHub账号。微软称无意对合法漏洞研究者采取法律行动，并回归传统漏洞披露框架。同时，“梦魇日蚀”表示将公开新漏洞利用代码，可绕过BitLocker硬件加密保护。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/7c1cfb8da6784c259cad0c411fde1891_1_0/hd.webp",
-    "realDate": "2026-06-07 21:53:05"
-  },
-  {
-    "id": "ebbbccd2f79013441010dbfa7e577b4b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961069&to_app=hwbrowser&dy_scenario=topicinside&tn=f4ed1bc9e7a8c8d83fe622aa6effd32eb069f34ee6b76bddb9dbf46fd80d0e22&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "京东方A回应“存储涨价对显示行业影响”",
-    "summary": "京东方A在投资者调研中表示，存储涨价或对笔记本电脑和智能手机需求产生一定影响，但对电视需求影响有限。同时，2026年1-4月TV产品价格全面上涨，5月持稳；OLED手机需求承压，但高端产品占比预计提升。该公司第8.6代AMOLED生产线预计今年年中量产，将推动中尺寸OLED发展。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/906825d789b243c0a91ff90c199ea662_1_0/hd.webp",
-    "realDate": "2026-06-07 14:04:20"
-  },
-  {
-    "id": "7c29810ee6990d3521847a2e8956070c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124717894142660097091079&to_app=hwbrowser&dy_scenario=topicinside&tn=8c326a7ccfc2f60ecba94eea7bf8a011279d3e1b754d2fbafdd4bb6a264f2c64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国清洁低碳氢煤混烧技术取得重大突破",
-    "summary": "6月7日，国家能源集团宣布，我国自主研发的氢煤混燃低氮燃烧器首次实现50%绿氢掺烧及100%纯氢燃烧，构建了从输氢到燃烧的全流程安全系统。该技术使煤粉锅炉掺氢燃烧热量比达50%，节煤减碳幅度达50%并有效控制氮氧化物排放，为全球最大煤电装机国家的绿色转型提供了关键技术路径。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/64/v3/105124717894142660097091079/5ccdd4f76e5b45709a34a47c5a19fbc5_1_0/hd.webp",
-    "realDate": "2026-06-07 07:05:06"
-  },
-  {
-    "id": "a854eb4d3ab6e585fd5a651c769941cf",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124710861019745220166561&to_app=hwbrowser&dy_scenario=topicinside&tn=628545d45a5ef9bc4fe1e73662d27fd7a2357466815a76941df773f3dac2eb0d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国际空间站俄舱段维修 业内人士称漏气问题加剧",
-    "summary": "近日，两名俄宇航员对此展开维修，同时5名宇航员一度进入“龙”飞船避险。专家称漏气自2019年持续至今，近期恶化但未危及安全，俄方正寻求改善。该舱段已运行近30年，预计2030年前将由商业空间站替代。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/34/v3/Topic_ec74fbeda0b44ee2aa3bc6d36a522fce/7626aedaaaeb4a9fa03eeba50428783d_1_0/hd.webp",
-    "realDate": "2026-06-07 07:31:26"
+    "id": "1b90ac6e9bc249b413571ddaa16a5c0e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282393434&to_app=hwbrowser&dy_scenario=topicinside&tn=3985273b79e68d707469a7d299bd63b55efa7b73590552104b372aeb0318e06f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "明年1月发射！轻舟货运飞船招标公示 四家商业火箭公司候选",
+    "summary": "近日，中国采招网公示轻舟货运飞船发射服务中标候选名单，北京星河动力、中科宇航等四家商业火箭企业入围。该飞船计划2027年1月发射，重约5吨，上行运力1.8吨，将承担空间站低成本货运任务。中科院专家称其采用单舱构型，可与天舟、昊龙形成互补。此次招标标志着商业航天首次参与国家空间站货运任务。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c4/v3/Topic_bc8aaa5a77d64d65a84f94306bf41630/3e4e0b2750b04ffbae90b0d407944d13_1_0/hd.webp",
+    "realDate": "2026-06-08 14:33:09"
   }
 ]
