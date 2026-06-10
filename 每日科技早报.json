@@ -1,101 +1,110 @@
 [
   {
-    "id": "52a8192711ef2831c7e6c934901d4ff4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133345013&to_app=hwbrowser&dy_scenario=topicinside&tn=ea81bd1870a70b8552f66933378c7d3cec6c30abfc7d11a91733455023a53b6f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "被指经营“全面失控” 哈啰回应",
-    "summary": "近日，有报道称哈啰存在超量投放、数据不实等问题，指其经营“全面失控”。哈啰回应称该文使用匿名信源和片面材料，涉嫌污名化企业，已向主管部门举报。公司强调目前经营、纳税、用工正常，持续配合行业规范治理。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/3cb4dbaea78a44249ea607c0f91b2219_1_0/hd.webp",
-    "realDate": "2026-06-09 22:21:04"
+    "id": "4dc73f064c0fb5f17fba7c1eb6b9a2b2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023732718&to_app=hwbrowser&dy_scenario=topicinside&tn=f69a84f786b33676a97e45eab2fcb139f2751b9f0fed13108825f6e671ed30bd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里内网发文严厉批评钉钉管理方式",
+    "summary": "6月10日，阿里巴巴合伙人委员会回应钉钉产品经理滕雅辛内网长文《置身钉内》，称文中提到的管理方式“不是阿里文化该有的样子”，强调“相互尊重、视人为人”是文化底色。同时指出团队氛围由各级管理者负责。该文此前曝光了钉钉“ONE”项目存在向上迎合、恶性内卷等。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1e/v3/1051023732718/f89a9325d774442a90eb9f5d9e973d0a_1_8/hd.webp",
+    "realDate": "2026-06-10 14:39:53"
   },
   {
-    "id": "30d2af9dffa96dd6dfcfb0507a0ff225",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514106a5f34a2c4c3e0a30b3836fbd3bca3b5&to_app=hwbrowser&dy_scenario=topicinside&tn=751bec8b9c8989eff24688d7d61a107ccff65132f023ec142ae466eeff961013&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "整治APP乱跳转 工信部出手",
-    "summary": "近日，部分APP存在开屏广告乱跳转问题，诱导用户点击或通过“摇一摇”误导触发跳转。此前工信部通报31款App及SDK侵害用户权益，要求相关企业自查整改。6月9日，工信部召开会议，强调规范信息窗口管理，严禁违规行为，后续将加强监测并依法处置违规APP。",
-    "author": "极光新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/601083960ccd40b6b6370dd54b20a0e9_1_0/hd.webp",
-    "realDate": "2026-06-09 14:08:57"
+    "id": "6501b3d54913e77855b32fa5b5923256",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051642ID3FV43VLA57VG3&to_app=hwbrowser&dy_scenario=topicinside&tn=04916c2008bd9d0dd87975aa16d624409c8d936b8bf5a67ec0124a27cf3722fc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "事关AI算力！工信部最新印发",
+    "summary": "6月10日，工信部印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，提出到2028年城域算力1毫秒时延圈覆盖率不低于75%，形成30个以上高价值典型场景，同时加强移动通信空口智能化等关键技术攻关，发展人工智能手机等产品，优化WLAN接入时延不大于5ms。",
+    "author": "中国基金报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/e851a99ca6b6497c87246a48ae468727_1_0/hd.webp",
+    "realDate": "2026-06-10 18:07:00"
   },
   {
-    "id": "1d18669a329a264c3d37428c02c302ae",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448b4ef356b1b5c317276febd39b6342d10&to_app=hwbrowser&dy_scenario=topicinside&tn=ae267454fed58f3359c912d88cc0867dbb8a734672d0ed1dae0a4ba0c0124f34&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI跟进Anthropic：称必要时将放缓前沿AI开发",
-    "summary": "近日，OpenAI发布文件支持必要时放缓前沿AI开发，并倡议建立国际协调机制。此前Anthropic警告AI自主改进风险，称“递归自我改进”或两年内出现。两家公司均承认单边减速效果有限，需全球协作。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/60477cdd44ed468991fa44e459bc6cd3_1_0/hd.webp",
-    "realDate": "2026-06-09 13:28:36"
+    "id": "2cc3905fa532d0ef20e9cf66dee0e1ee",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511239761089b084fb3d0a7544ca167f3bce2&to_app=hwbrowser&dy_scenario=topicinside&tn=e0b4c62812c6b80978b8a8c18e22cc62281fd785e850453b11760a5abc5d5c36&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "柜机频繁弹出诱导广告难以取件 丰巢回应",
+    "summary": "近日，部分网友反映丰巢智能柜取件时频繁弹出诱导广告，关闭按钮隐蔽且含“摇一摇”跳转功能。对此，丰巢回应称广告可关闭，不影响取件，已优化操作流程并强化App内广告设置入口。同时，有用户投诉其广告涉虚假宣传。",
+    "author": "北京商报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/edf9f9aaa216413bb2d424f9facc3ee9_1_0/hd.webp",
+    "realDate": "2026-06-10 14:01:09"
   },
   {
-    "id": "0ba728446905b6ecbd77b73495b1544f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074962081&to_app=hwbrowser&dy_scenario=topicinside&tn=9c65123970de127b5f82143fb305056afcc872cd6665bc7ce63594cf8c3b44a3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "欧盟回应Siri AI“缺席”：称苹果未达互操作性要求",
-    "summary": "6月9日，欧盟委员会发言人雷尼耶表示，苹果因未能满足欧盟隐私与安全标准，且未尝试开发合规方案，仅申请豁免互操作性义务遭拒后，决定不在欧盟推出新版Siri AI工具。欧盟强调该决定由苹果单方面作出。",
+    "id": "3eae7d93d9556ae5d3e32409cced5d6d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053d3db3ac32d29385ab809673dc32859f1&to_app=hwbrowser&dy_scenario=topicinside&tn=722dddd4a30dd650904906a6fc9082bd9fcf296b75c49f14e6415e447245d72f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude把病毒起源算错90年",
+    "summary": "近日，Anthropic研究显示顶级AI模型在生物学数据检索中表现不稳定。Claude Sonnet 4对同一埃博拉病毒序列查询三次，分别返回106条、15条和5条结果，而实际应为266条。问题根源在于生物数据库缺乏标准化接口，现有系统设计未考虑AI需求，导致准确率波动在16.9%至91.3%之间。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/e0f8390737cd4dbdb04bbf8607062a91_1_0/hd.webp",
+    "realDate": "2026-06-10 12:49:36"
+  },
+  {
+    "id": "633acb79039279a0a23ee29aa9aea485",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074962421&to_app=hwbrowser&dy_scenario=topicinside&tn=d94921de71dc7c1a6be33aab354201b17f40eaab6249e3bdafb09d55838bbc89&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI奥尔特曼搁置完全自动化愿景",
+    "summary": "近日，奥尔特曼表示，公司已放弃2025年提出的完全自主AI系统计划，转向人机协同模式。他称完全自动化“既令人沮丧又危险”，强调人类在设定方向和权衡利弊中的关键作用。同时，OpenAI提出成立国际组织协调AI发展，以降低风险。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/e7c6161f2985492f8489b267ba1634e7_1_0/hd.webp",
-    "realDate": "2026-06-09 19:22:37"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/3cdacdd6613047a1814d58867cbffa72_1_0/hd.webp",
+    "realDate": "2026-06-10 14:46:58"
   },
   {
-    "id": "c445013d8905e5d215f5afbfd308a107",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074961965&to_app=hwbrowser&dy_scenario=topicinside&tn=43f20342b79f26d3af0d180c8c5cef27a7483ff84406594c0e4d7fc9ea2d6641&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌AI Plus订阅计划降价：月费8美元降至5美元",
-    "summary": "谷歌Gemini AI订阅产品负责人宣布，Google AI Plus套餐月费降价的同时，存储空间从200GB增至400GB。该套餐包含Gemini 3 Pro等功能，并新增AI邮件工具等权益。现有用户将在近日获得存储升级，下期账单按新价格计费。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/583f7dde95b64ba58667912f4c736302_1_0/hd.webp",
-    "realDate": "2026-06-09 15:22:45"
-  },
-  {
-    "id": "4f3ffaa095752aa85c94eda003ab1134",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514489c0bb3009b3497b3e89b18997aaee02f&to_app=hwbrowser&dy_scenario=topicinside&tn=be2b8ea1175af68532f58247b401c4a0b536ed7151543bbf83383c6a4b49e976&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SpaceX IPO前夜遇阻：印度因安全担忧叫停星链审批",
-    "summary": "近日，印度以国家安全为由冻结星链商业运营审批，因发现未获伊朗授权的星链终端出现在中东冲突中，引发对美运营商管控能力的担忧。同时，印度卫星频谱定价方案也因此停滞。SpaceX计划6月12日上市，估值1.75万亿美元，星链作为核心业务在印度受阻凸显扩张风险。",
+    "id": "115aec09e26fb039052134025018b4f2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448355caab6a8726dfa2007771868e93a84&to_app=hwbrowser&dy_scenario=topicinside&tn=13e5478b51953b6d9fcf90f6244bb4d93b8029803643c3eeb9ea8fe05faad1e8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电5月营收同比增长30% AI芯片需求旺盛支撑全年展望",
+    "summary": "台积电5月营收4169.8亿新台币，同比增长30.1%，前五月累计销售额同比增30%。CEO魏哲家称全球芯片短缺将持续数年，英伟达等客户面临供应瓶颈。公司上调2026年资本支出至560亿美元上限，以应对AI芯片需求激增，同时消费电子业务承压。四大科技巨头计划今年投入7250亿美元用于AI投资。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/324ccb57ff924f8a9d4c0156accc3c58_1_0/hd.webp",
-    "realDate": "2026-06-09 23:43:33"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/eb1b7464fc7840e385816b6a6e384612_1_0/hd.webp",
+    "realDate": "2026-06-10 13:31:31"
   },
   {
-    "id": "e6e779bcba1b2b4529e0a556049c3624",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133339630&to_app=hwbrowser&dy_scenario=topicinside&tn=cac235d00e7fbee6484224431619782dc4ac72c0c44e5dbc4e444475578f3d2d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "钉钉副总裁马锐拉离职",
-    "summary": "6月8日，钉钉副总裁马锐拉宣布他已于5月15日离职，其发文称因高压管理、项目失败等问题选择离开。此前钉钉产品经理滕雅辛发表7.5万字长文，详述AI项目“ONE”从日活300万到收缩的全过程。马锐拉表示“心疼”团队努力无果，质疑阿里“员工第二”理念执行。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/4f3d56c3256545e4a2f6785f2247402f_1_0/hd.webp",
-    "realDate": "2026-06-09 11:00:22"
+    "id": "cbb1242aeec68d03134fb9b647d2ac09",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074962437&to_app=hwbrowser&dy_scenario=topicinside&tn=a947e269865401a02bdffbcf643202153f4763d40d2b927b253692861665a601&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称字节跳动AI制药业务线启动拆分与独立融资进程",
+    "summary": "据悉，新公司仍由字节控股，核心团队、算法及技术平台将整体转入。同时，该业务将继续获得火山引擎算力支持。团队负责人刘凯表示，此举旨在提升决策灵活性，探索中国AI4S产业路径。该团队专注于生物领域基础模型等方向研究。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/bf1d21c08bcd4b8098d9980a363e1bea_1_0/hd.webp",
+    "realDate": "2026-06-10 14:57:05"
   },
   {
-    "id": "7a90c1e603ed841e48b5c345ff05db82",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282394772&to_app=hwbrowser&dy_scenario=topicinside&tn=8f31d21e5838ef7b40b64c23ce7c4005e34a794cf7933ce58e8680b4f7e068d3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI驱动数据中心用电激增 阿里有望探索小型核反应堆供电",
-    "summary": "阿里巴巴因数据中心电力需求激增，正探索小型核反应堆供电方案，已投资诺瓦聚变等核能企业。国际能源署数据显示，我国数据中心用电量2025年将达1960亿千瓦时。Meta、亚马逊等美国科技巨头也纷纷布局小型模块化反应堆项目。",
+    "id": "cb36a292dc87a82fe4054a379c53e10b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511439a8db5727d2a90c076e9a0e41d0a2a2b&to_app=hwbrowser&dy_scenario=topicinside&tn=408ead93e7b914397c27513dd591a7dd279c20e764357374dd8a92c0e23c0f15&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "德国法院裁定谷歌需为AI搜索摘要负责 可能影响全行业",
+    "summary": "近日，德国慕尼黑地区法院裁定，谷歌需对其AI搜索摘要功能生成的不实内容负责，不能以用户可核查来源为由免责。案件源于该功能错误关联两家出版企业与诈骗信息，法院认定AI摘要属平台自身发布内容。同时强调受害者难向原始网站追责，裁决或影响生成式AI行业责任认定。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/f3fcf9203a8445929ffcab40f74a9c9c_1_0/hd.webp",
+    "realDate": "2026-06-10 12:29:00"
+  },
+  {
+    "id": "fa28551efc90921c4a90adbf4596c67c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074962206&to_app=hwbrowser&dy_scenario=topicinside&tn=697908ee0f1666b30082441ec4a0668c5ad254b34ee01c6cec1d63a715fb233d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "欧盟发布临时措施 要求Meta向第三方AI助手免费开放WhatsApp",
+    "summary": "欧盟委员会责令Meta向第三方AI助手免费开放WhatsApp，直至反垄断调查结束。此前Meta曾禁止第三方调用其商业API，后改为付费使用，欧盟认为此举仍损害竞争，尤其在小型企业挑战大公司的关键阶段。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/28010dfe3d1b4719baf2e598ec7e0b67_1_0/hd.webp",
+    "realDate": "2026-06-10 09:41:12"
+  },
+  {
+    "id": "22e7dce354366b68e57faf235b0a831d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282395630&to_app=hwbrowser&dy_scenario=topicinside&tn=dfe760ccb2c5a7eac1350aa12001fa6011d4f9a07c0cc8fe89ee92fa4459e03b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI热潮催生芯片需求 三星考虑新建先进芯片封装厂",
+    "summary": "三星电子考虑在韩国光州新建先进芯片封装厂，或于6月29日公布投资计划。此举旨在应对AI热潮推动的芯片需求，加强HBM等先进封装能力。同时，SK海力士也正评估在韩投资方案。三星已开始交付12层HBM4E样品，与英伟达、AMD等客户合作应对市场增长。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/01c1cd637fa047c0a27605c6cb593909_1_0/hd.webp",
-    "realDate": "2026-06-09 15:51:29"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/1a4d3918e0dd487cab196b974c330f56_1_0/hd.webp",
+    "realDate": "2026-06-10 10:59:46"
   },
   {
-    "id": "3928507c576fa71561a0456376abe231",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282394341&to_app=hwbrowser&dy_scenario=topicinside&tn=43cb8f72ba795c781589b1a1c37bf613cc3008c70e135c1871840dffbfa46ba1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "曹操出行计划组建独立AI事业部 拟全面转型为AI原生公司",
-    "summary": "近日，曹操出行计划成立独立AI事业部，推进公司向AI原生企业转型。据报道，该公司已在招聘平台发布“首席AI官”职位，负责制定AI战略、构建技术体系及推动业务全链路AI应用。这一举措标志着该网约车平台将全面升级技术架构。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/cc6208aeeba8417c8853310e446c31ff_1_0/hd.webp",
-    "realDate": "2026-06-09 09:27:45"
-  },
-  {
-    "id": "07a987ea8e6684dc57b58e4982c7e9f7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511041731f4d85cc5ede0b5858f13e52c1c34&to_app=hwbrowser&dy_scenario=topicinside&tn=1ea140fcfa1ba56a136d99a7a236f33ad2eff8354a4ed132e3c5dbc6243ed9a0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "算力芯片告急！英伟达Blackwell一芯难求",
-    "summary": "英伟达Blackwell芯片因全球AI基建需求激增及HBM内存、先进封装产能不足导致供应紧张，交货周期延长。分析师称其紧张程度超过前两代架构，预计今年该系列将占英伟达高端GPU出货量的71%。黄仁勋指出AI驱动的内存短缺非短期波动，三星等三家企业2026年HBM产能已被预订。",
+    "id": "5c24090607455e04ed23f04af48f0dc7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104df7ab45fb996fda2f664c207849c58ab&to_app=hwbrowser&dy_scenario=topicinside&tn=700dc3a07bd90fcf18e7463ba0c3cc515ded2a56a3cb971e1b6a194fce8634fd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "机构称 硬盘降价不可能 NAND将一直缺货到2029年",
+    "summary": "多家机构研报显示，NAND闪存供需失衡将持续至2028或2029年，AI需求推动企业级SSD份额达40%，预计年底超60%。瑞穗与美银分别上调闪迪目标价至2200美元和2100美元，消费级存储因产能调配面临成本上升压力，PC等硬件供应链承压。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_9a230205db4f4d0fa91036a24013824d/cb44b63cd2bf412a976fd95b8db2c2f8_1_0/hd.webp",
-    "realDate": "2026-06-09 14:28:43"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/baebb8fa8cea43e397d63f22a4ffcddf_1_0/hd.webp",
+    "realDate": "2026-06-10 10:12:57"
   },
   {
-    "id": "057b8592b313a374b63d805244f27775",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512211cda1610161875d13b9c515fdc46891b&to_app=hwbrowser&dy_scenario=topicinside&tn=4d66112c857d8ef4acf0c7ff008ed0d46981c28bb5ff56d5f4f9de75dffa25e8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "推动人形机器人“干活” 两部门联合开展实景实训专项行动",
-    "summary": "近日，工信部与国务院国资委联合印发通知，部署2026年度人形机器人实景实训专项行动，目标在工业制造、民生服务等领域形成百个高价值场景，实现万台级规模落地。行动覆盖北京等10省市及央企，通过真实工况优化算法性能，推动从实验室演示转向常态化作业。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1221_8/79/v3/10512211cda1610161875d13b9c515fdc46891b/5fdaf72431f5482cb9563fcd60fe39f0_1_1/hd.webp",
-    "realDate": "2026-06-09 13:40:00"
+    "id": "1bbc273fe5aa5d5ffcb458badb46c440",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282396259&to_app=hwbrowser&dy_scenario=topicinside&tn=5fc3fd38e78c85dae72fc119316849dc2a265be277ecaac124363384a701a982&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国量子纠缠加速生成研究取得进展",
+    "summary": "近日，中国科学院精密测量科学与技术创新研究院等团队在《物理评论快报》发表研究成果，通过囚禁离子实验平台实现非厄米体系中的量子纠缠加速生成，将制备速度提升1.52倍，突破了传统厄米量子速度极限。该成果为量子计算、通信及传感等领域的核心资源开发提供了新路径。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/49/v3/Topic_bc22ef789c3b4228830aa282caa9d220/c0890988dc0e4607b947657967d36b18_1_0/hd.webp",
+    "realDate": "2026-06-10 19:03:30"
   }
 ]
