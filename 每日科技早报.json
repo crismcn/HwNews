@@ -1,110 +1,101 @@
 [
   {
-    "id": "61b540b0bad3d00cd6d469a79b0c9c99",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514485234f11e053e6604b79f74610d779622&to_app=hwbrowser&dy_scenario=topicinside&tn=df2ab05c9158342dee3ceee597756f40756c92b96914306b2a46c310a3d034be&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "先进制程需求供不应求 台积电考虑涨价最高15%",
-    "summary": "台积电因先进制程产能紧张，计划下半年上调3纳米代工价格约15%。公司首席财务官黄仁昭表示通胀推高成本，不排除调价但否认暴涨。同时，台积电5月营收达4169.75亿元新台币，年增30.1%，连续三月超4000亿元。董事长魏哲家称希望提价，因竞争对手已行动。AI需求持续旺盛，带动先进制程与封装需求增长。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/c8b8326d5d684073829cd36a991654b5_1_0/hd.webp",
-    "realDate": "2026-06-11 21:39:37"
+    "id": "8303a07b23c66d0f5fdc5bd60d0735fc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051657d219a5faf268ba96e901ba946c6f7773&to_app=hwbrowser&dy_scenario=topicinside&tn=e5913971c6078954ccb6c183f5c2b2d6943311cd7785acf55306ce8788a142fe&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里集团辟谣首席科学家周靖人将离职",
+    "summary": "近日，业内传言称阿里巴巴首席科学家周靖人提出离职。对此，阿里回应称该报道纯属谣言。周靖人2016年加入阿里，现任集团首席科学家，牵头成立AI未来研究院，此前负责通义千问大模型研发，并担任集团技术委员会首席AI架构师。",
+    "author": "南方都市报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/12e81248ff8c4d5bb6554d4c68b072b0_1_0/hd.webp",
+    "realDate": "2026-06-14 16:54:25"
   },
   {
-    "id": "3f555682af9f4bef8b19899a9082e07b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282396891&to_app=hwbrowser&dy_scenario=topicinside&tn=6b793d7fc67ce4ab9b579d816279131e2dcf8a127674b8e1118c1f8cc4593887&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "钉钉换帅！90后技术极客陈宇森接任CEO",
-    "summary": "6月11日，阿里巴巴宣布钉钉管理层调整，92年技术极客陈宇森接任CEO，原CEO陈航卸任。陈宇森曾创办长亭科技，其研发的AI产品MuleRun覆盖43国付费用户。此前阿里合伙人委员会批评钉钉管理方式“非阿里文化”。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/10510282396891/e3285cefd41e4b529730314f99cb0bfb_1_5/hd.webp",
-    "realDate": "2026-06-11 11:50:26"
-  },
-  {
-    "id": "2d598c5be58b11481f6d73d501cc0dcb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144882b50ecd4740c9500b3b04476e7b75c8&to_app=hwbrowser&dy_scenario=topicinside&tn=20eb3dbcc07d04d5fe89565f0ce8861cb972c84429bcb696b4b8cc7168372e4f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI正考虑大幅降价 降低Token收费",
-    "summary": "OpenAI正评估大幅降低Token收费方案，以应对竞争对手Anthropic的市场竞争。两家公司因高昂算力成本已亏损数十亿美元，降价或进一步压缩利润空间。同时，OpenAI将编程工具Codex列为重点发展方向，而企业客户AI支出呈现降温趋势。两家公司均处于IPO筹备阶段，价格战或影响其上市估值。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/105144882b50ecd4740c9500b3b04476e7b75c8/b5ae6817d203410a84200dc89e41df65_1_2/hd.webp",
-    "realDate": "2026-06-11 10:11:53"
-  },
-  {
-    "id": "dbd252a636136c5a05c11f396e5fb639",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103224706&to_app=hwbrowser&dy_scenario=topicinside&tn=cb1d14f8e84776d2f75422b0820d8f624e0cb5db08d6d385fc58f850d434112f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“自家模型也很危险” Anthropic CEO再次“喊话”警惕AI风险",
-    "summary": "近日，Anthropic CEO达里奥・阿莫迪警告称，AI发展速度远超政策制定，其最新发布的Mythos模型已展示出对网络安全等领域的潜在威胁。他预测未来两年可能出现强人工智能，呼吁全球建立政策机制应对五大领域的长期挑战，同时提出前沿模型测试立法提案。此前行业对其“暂停开发”建议反应冷淡。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/2fc2a1e16fba483f8f7adad8039768c7_1_0/hd.webp",
-    "realDate": "2026-06-11 08:49:33"
-  },
-  {
-    "id": "c6caa3b73ed227e7589f4a3dbb473f91",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133357505&to_app=hwbrowser&dy_scenario=topicinside&tn=5d1fa132528ce06a323c6574f84ec84037ac4eb652bd244f38de034621838b88&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团、淘宝闪购、京东外卖等签约 建立“黑名单”共享机制",
-    "summary": "近日，广东省市场监管局组织美团、淘宝闪购、京东外卖签署自律公约，首次建立跨平台“黑名单”共享机制，对严重违法商户实施联合约束。同时签订协同共治协议，明确八项政企联动机制，包括准入把关、数据报送等，共同维护网络餐饮食品安全。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/d2f0bc8569b84893990e657da052cc35_1_0/hd.webp",
-    "realDate": "2026-06-11 14:29:32"
-  },
-  {
-    "id": "e27d845ee17cf44b88a2b8ba594100c9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448141019b63ba1aa23a66a255ee678bdbb&to_app=hwbrowser&dy_scenario=topicinside&tn=7e7775a94c3a3ddc97779d5c6a05394f010aecf0a2a7a84c3ce08fe323fa5e6f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌TPU被曝首次引入三星代工",
-    "summary": "谷歌因台积电产能紧张，首次将第十代TPU的I/O芯片交由三星2纳米工艺代工，核心计算引擎仍由台积电1.4纳米生产。此举或推动AI芯片供应链多元化，三星有望借此突破高端代工市场。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/ba6ce3c6cf8c485aa4cc8a19c340edaf_1_0/hd.webp",
-    "realDate": "2026-06-11 21:22:38"
-  },
-  {
-    "id": "c325dba382f4a3c07b6224bac0090838",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133359658&to_app=hwbrowser&dy_scenario=topicinside&tn=e6d9f864b51da92e6734418478dd608bce7f2effbe0945c176693b808485280d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "泄露超3千万用户数据 韩国电商巨头酷澎被罚4亿美元",
-    "summary": "6月11日，韩国个人信息保护委员会对电商巨头酷澎处以约6247亿韩元罚款，因其泄露3320万会员及430万非会员数据，并违规收集1117万用户网络活动记录。该公司安全漏洞致数据外泄后未及时通知用户，同时其物流子公司因违规被罚2.48亿韩元。酷澎已致歉并承诺加强数据保护。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/83a1df8f374a4c99a64532a521e17392_1_0/hd.webp",
-    "realDate": "2026-06-11 19:38:24"
-  },
-  {
-    "id": "4b1bc1ccf101675f9199ac1b0f32aed9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104a21b601a5733b6a3e63cf45721ea18f8&to_app=hwbrowser&dy_scenario=topicinside&tn=e08d3104b3c03221e940ef432a4343a9d594e517df73261f92dd3f8090c57614&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "400层工艺受阻 SK海力士被迫年底量产375层NAND",
-    "summary": "SK海力士将量产375层NAND闪存，原计划400层因工艺限制被迫调整。该产品首次采用钼替代部分钨材料，以解决高层堆叠导致的电阻问题，提升性能。量产计划于2026年底前在清州M15工厂实现。同时，三星电子已在其286层产品中应用钼材料，并计划2026年下半年推出400层以上NAND。",
+    "id": "62089c1d096d495d5d6a0a3bba31eff6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110478ec78acbe56fc8111dbbdb0d4ef6212&to_app=hwbrowser&dy_scenario=topicinside&tn=e26b392957580e34dde5438a357196cb6c2ee21f8d27c65065ea4ea3a5d925e4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英飞凌氮化镓产品在中国禁售",
+    "summary": "最高人民法院6月12日维持苏州中院判决，禁止英飞凌在华销售涉侵权氮化镓产品，驳回其复议请求。该案始于2025年初英诺赛科起诉英飞凌侵犯两项专利，2026年5月苏州中院一审判决侵权成立并赔偿1000万元。双方近年在中德美展开专利战，此次裁决被视为英诺赛科的关键胜利。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/7858e40309584c1981e5ea4c1aac92b9_1_0/hd.webp",
-    "realDate": "2026-06-11 11:56:39"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/f6f6edd867ac473293370f238de59163_1_0/hd.webp",
+    "realDate": "2026-06-13 11:47:22"
   },
   {
-    "id": "33c33b786908ce33c3658a6a88115af7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282396945&to_app=hwbrowser&dy_scenario=topicinside&tn=94f6b91d61674a20a907bd1f14c4eccf95f7335bccc78f3e930251cb48685d13&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "脑机接口再突破！高位截瘫患者完成千里对弈",
-    "summary": "近日，脑虎科技披露临床进展，两名高位截瘫患者通过“全植入、全无线、全功能”脑机接口系统完成800公里象棋对弈。上海患者小张脑控虚拟棋盘选子，指令实时驱动南昌机器人落子；南昌患者邓老师通过脑控外骨骼抓棋。术后两人分别实现脑控光标、书写及绘画。系统采用柔性电极和胸部皮下供电设计，全链路延时控制在50毫秒。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/a1/v3/10510282396945/2575e309a2d34866b3e98716eecdfae9_1_3/hd.webp",
-    "realDate": "2026-06-11 13:05:03"
+    "id": "de777cb98ff44081f66eeea28e13f4e0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051121bf4a01b621874f4284dd428b3f75ed5b&to_app=hwbrowser&dy_scenario=topicinside&tn=1b8ffb5903f13311f312dc7befcd9549b821a4012ebc7bbe47024c810b328318&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SK海力士拟将芯片晶圆产能提高到3倍 并计划年内赴美上市",
+    "summary": "SK海力士宣布，计划至2034年将芯片晶圆产能提升至当前三倍，以应对人工智能领域激增的需求。此外，SK海力士确认将于年内通过发行美国存托凭证在美上市，旨在扩大投资者基础。",
+    "author": "九派新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/94b6c5bbaeb747f287fcbe649935fa7e_1_0/hd.webp",
+    "realDate": "2026-06-14 17:54:55"
   },
   {
-    "id": "24cc11a4157f7543e5722391994d0587",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514488a2ac271e094006f811f0d109b7e4d87&to_app=hwbrowser&dy_scenario=topicinside&tn=f34b236196c858ee6686e839ce513eef15259fbf47b554ea22468ec5d076977b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达Rubin放量 云大厂已预订2027年所有长期协议",
-    "summary": "英伟达下一代AI加速器Vera Rubin即将放量，全球存储市场供应危机加剧。云服务巨头已锁定2027年全部长期协议产能，并提前启动2028年供货谈判。OEM通知模组厂商无额外产能可调，DRAM与NAND短缺预计2026年下半年起扩大，2027年短缺程度或超2026年，存储价格强势周期或延续至2028年。",
+    "id": "2ab0a3534f866fb317518e8650e66134",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8twpEcgPM9Y&to_app=hwbrowser&dy_scenario=topicinside&tn=15e1eb5ff88efcdd75c74149ad5121667e9cf6583c75a36a5059a9f031a70aa8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "仅一行代码 Fable 5复活了",
+    "summary": "就在Fable 5诞生24小时后，头号越狱玩家Pliny the Liberator在GitHub上甩出一份重磅文件：12万字符的Claude Fable 5系统提示词。这成为Fable 5突遭下架后，用户复活该系统的关键资源。开发者Jamieson O‘Reilly通过一行高危代码将Fable 5核心参数注入Opus 4.8模型，成功复现其功能。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/272b878f4aed4125998818f01ac1fd4a_1_0/hd.webp",
+    "realDate": "2026-06-14 12:42:56"
+  },
+  {
+    "id": "6e3586bfb45ce4ace39c149af85867ec",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074963995&to_app=hwbrowser&dy_scenario=topicinside&tn=930e34d749ce32b3a28bc97d73ce2ad717636bc2da10ac3e4909c4c9db03b18d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "强制抽调员工组建AI团队 Meta内部怨声载道",
+    "summary": "约6500名Meta工程师与产品经理被突然调入新成立的应用人工智能团队，部分员工称被迫加入且工作繁重。同时，公司因监控员工行为收集AI训练数据遭1600人联名抗议。CEO扎克伯格解释称内部员工能力优于外包人员，但团队士气持续低迷，首席产品官已召开会议应对恶劣工作环境。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/fd83bfc709b44ee1b658373d75b45ba1_1_0/hd.webp",
+    "realDate": "2026-06-14 07:13:58"
+  },
+  {
+    "id": "42692425724d076439938e90cb494f51",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144885438ccf7a10303545a5e012c8aa74dd&to_app=hwbrowser&dy_scenario=topicinside&tn=2335ab7b5591f76a20d47cdc6f32ea73bced866dc7445c20cbfbc838e8ff9250&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SpaceX刚上市 马斯克就喊话黄仁勋合作升级",
+    "summary": "马斯克宣布将与英伟达深化合作，同时SpaceX推出首款AI计算卫星AI1，单颗峰值算力150千瓦。该公司已与谷歌、Anthropic签订每月超21亿美元的算力合同，均采用英伟达GPU。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/173a156c7f1d44c79f97574094961781_1_0/hd.webp",
-    "realDate": "2026-06-11 08:52:45"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/f7fa1d9b481f45e2afff50d6e23a7955_1_0/hd.webp",
+    "realDate": "2026-06-13 09:22:47"
   },
   {
-    "id": "590bd1005984d7837a39bcdbcbfa0cf2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105103444e18520f5e3333cfa3d9a06e7cf8bb8&to_app=hwbrowser&dy_scenario=topicinside&tn=052939f60bcdf5f2a68473d0338fdac5aa9ee136df051fd975139f910f15e687&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "4月全球芯片销售额同比激增93.9%",
-    "summary": "美国半导体行业协会数据显示，4月全球芯片销售额达1105亿美元，同比激增93.9%，环比增长11%。其中北美和南美地区同比飙升115.8%，中国增长78.6%。该机构称这得益于人工智能基础设施需求增长，预计今年行业规模将达1.5万亿美元。",
-    "author": "参考消息网",
-    "image": "https://feeds-drcn.dbankcdn.cn/web/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/image/d800ef4aca834f4b889dc87d8027e373.jpeg",
-    "realDate": "2026-06-11 10:16:00"
+    "id": "2e572b10d3021c4354bc39d808b07803",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110476605eac5d068bb3e1e74cb2c3c4977b&to_app=hwbrowser&dy_scenario=topicinside&tn=23501025a3d8d4f63a82b2e2312f65dc1b811aca47970734631726aad6f97558&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软再遭噩梦！黑帽研究员连发两枚零日漏洞",
+    "summary": "近日，化名Nightmare Eclipse的黑帽研究员发布RoguePlanet与GreatXML两枚Windows零日漏洞，分别针对微软Defender权限提升和BitLocker加密绕过。该研究员自称前微软员工，因赏金纠纷自4月起持续发布漏洞。微软上周修复了其此前披露的六枚漏洞中的三枚，但这两枚漏洞目前尚无官方补丁。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/3cf5e15d32904ee3ad8cf4de03194697_1_0/hd.webp",
+    "realDate": "2026-06-13 21:45:02"
   },
   {
-    "id": "68ba32ac4a73abebdc0d5dd728989ae7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105103812516250&to_app=hwbrowser&dy_scenario=topicinside&tn=5e273bd8ad92f0d1bfe059e4a7aa9bc6d1b9dfd27150d306f092ab906850e2c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "登上Nature 封面！江门中微子实验首个物理成果正式刊发",
-    "summary": "江门中微子实验首个物理成果近日以封面文章形式在《Nature》刊发，基于2025年8月26日至11月2日59天数据完成两项中微子振荡参数高精度测量，精度较过去提高1.6倍。该实验装置位于地下700米，由中科院主导、17国700余名科研人员参与，已实现四大核心技术突破。《Nature》评价其“标志着中微子振荡精确测量时代的到来”。",
-    "author": "南方Plus客户端",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4f/v3/Topic_aad8e05d13b84aecb4a9fd9b5c1af7e3/68648671a4db4a588e67380f1f916a92_1_0/hd.webp",
-    "realDate": "2026-06-11 10:42:37"
+    "id": "b92de200e163d61e37fa82ec1cf23b45",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511045946291688225420&to_app=hwbrowser&dy_scenario=topicinside&tn=b8de5429585273063af826b459b5dac22c4405bd561a96089bb02c9b072d791d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国音数协敖然表示：鸿蒙成游戏产业高质量发展新选择",
+    "summary": "6月13日，中国音像与数字出版协会常务副理事长敖然在HDC 2026游戏服务论坛上表示，鸿蒙系统在操作系统创新、跨终端协同等方面取得突破，推动游戏服务向智能化、场景化升级，为游戏产业拓展应用场景创造了新空间。他同时指出，AI在游戏研发领域应用率达86.36%，强调需加强技术创新与生态协同。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/b38b5a5b15e8413fb79e6afd7045e6c9_1_0/hd.webp",
+    "realDate": "2026-06-13 18:44:16"
+  },
+  {
+    "id": "0be23bbc289781b9c390f6f0301f51be",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282398593&to_app=hwbrowser&dy_scenario=topicinside&tn=038a075c9c85cc71edaeb3b9826308e1969ffe8b0c9767e5df9050705132a449&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国成功研制出三维多层片上电容",
+    "summary": "湖北江城实验室近期在电容关键技术上取得重大突破，成功研制出三维多层片上电容，其电容密度达每平方毫米1000纳法。该技术可直接应用于AI/GPU芯片及高性能处理器，为高算力、低功耗芯片研发提供支撑。目前正进行工艺流片及小批量试产，未来将在先进封装领域实现规模化应用。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_40470688625742df9990526bc94eaec2/75a25edd5f1444699348e3a0caa2f60d_1_0/hd.webp",
+    "realDate": "2026-06-12 19:04:55"
+  },
+  {
+    "id": "47a537f6c2b58484fceccdb3f675c468",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169bd90b9d37f5e74215eb8948a2683df57&to_app=hwbrowser&dy_scenario=topicinside&tn=ec4eac67cd0af6d231272a46a8e44010d58b085ee70249d69e29ef2bd2ce72f8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国对全球通讯命脉海底光缆“卡脖子”",
+    "summary": "美国联邦通信委员会近日公布海底光缆监管新规，首次要求设备运营商申领许可证并将来源与“国家安全审查”挂钩，同时设立“快速审批通道”供美企及盟国使用。此举将大幅提高中企参与美国海缆项目的门槛，亨通光电等中企可能被排除在外。这可能使美国新建海缆项目成本抬升，最终买单的是美国本土云服务商和宽带消费者。",
+    "author": "中新经纬",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/20/v3/1051169bd90b9d37f5e74215eb8948a2683df57/1b16167f7bee431580fe76c515023a70_1_7/hd.webp",
+    "realDate": "2026-06-13 14:02:55"
+  },
+  {
+    "id": "62e674b7912212d75279983b4a2f994e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282399188&to_app=hwbrowser&dy_scenario=topicinside&tn=cce80c41d76c55e4b1176771eb04e07d37800936f382d407eac46855c31e98d0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“白菜价”的人形机器人 没法进厂“打螺丝”",
+    "summary": "消费级人形机器人价格大幅下降，京东热卖榜首款的一款人形机器人，到手价只要9000元出头。宇树一款全新的人形机器人，价格也已下探到2.99万元。而工业级机器人因技术要求高价格稳定，轮式机器人更受工厂青睐。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/10510282399188/7b1c225596134fa8b183be4d5184c065_1_3/hd.webp",
+    "realDate": "2026-06-14 10:53:53"
   }
 ]
