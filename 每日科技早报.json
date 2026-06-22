@@ -1,119 +1,128 @@
 [
   {
-    "id": "76e0cff7a353ce32d952de08eccbe438",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8u8bxXynf96&to_app=hwbrowser&dy_scenario=topicinside&tn=747ba8e8710e63ee7883c27b6ab9d7d741c6af15dafc1fc4b8f75b2a13a577db&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Fable 5疑似复活 Anthropic联创发声",
-    "summary": "Claude安卓版模型选择器中消失一周的Fable 5重新出现，系统报错信息从“模型不可用”变为“服务器暂时限制请求”。Anthropic联创Jack Clark在播客中提及行业“只有油门没有刹车”，并反思低估了“苦涩的教训”，即通用神经网络通过算力扩张会超越专用系统。押注Fable 5于7月1日前回归的胜率已升至79%。",
+    "id": "e0072c355843da81e621b7f58331d3f1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774433380&to_app=hwbrowser&dy_scenario=topicinside&tn=6ec46bbb954f97dcc2724534588cce9999741c3d801e7da6c6103b8477858315&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“苹果税”争议再起：48名中国开发者联名举报",
+    "summary": "近日，48名中国iOS开发者联名举报苹果公司滥用中国市场垄断地位，指控其限定交易、差别待遇等行为，要求开放第三方应用分发及支付渠道。此举源于苹果在巴西等海外市场已调整政策，但中国市场仅下调佣金费率，未开放其他渠道。举报人称中国开发者实际承担的综合费率高于海外，质疑苹果“全球最低费率”承诺未兑现。苹果暂未回应。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/cad9204f02934bfaaf7bbd448a3c62fb_1_0/hd.webp",
+    "realDate": "2026-06-22 20:37:01"
+  },
+  {
+    "id": "fc9205bc6fed67bd62311b7875ded1ab",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774432995&to_app=hwbrowser&dy_scenario=topicinside&tn=344eabba617c76eded73e4f927c74f485817fc0406be632792b736dcd9b694d2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "黄仁勋最新涉华表态",
+    "summary": "6月22日，英伟达CEO黄仁勋在链博会视频致辞中，称中国为“重要科技与产业中心”，赞扬中国工程师和开发者表现卓越。他5月随特朗普访华时表示中国是“最了不起的经济体之一”，并肯定中国在人工智能领域的领先地位。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/f17ea2a682cb4f0bb639fe8d56fff47e_1_0/hd.webp",
+    "realDate": "2026-06-22 15:18:26"
+  },
+  {
+    "id": "f59c29bb04048e10f69802d8fa74e018",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100418HcO1Fe&to_app=hwbrowser&dy_scenario=topicinside&tn=2aebb5555ca6d28ec1950fc8a9af75c51dcc081b45dc036b15a5479caec8a7ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "百度开源拿下全球第一！作者疑似DeepSeek出走大神",
+    "summary": "百度近日开源Unlimited OCR模型，3B参数500M激活，在OmniDocBench测试中刷新SOTA，综合分达93.92%。该模型首次实现40页文档连续解析不失忆，核心技术为R-SWA注意力机制。作者疑似来自DeepSeek的OCR专家，代码已同步发布至GitHub和HuggingFace。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/416f204ecbfd47b4b7b838cb8238f493_1_0/hd.webp",
-    "realDate": "2026-06-21 15:00:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/058cf987961a4943ac2850f2d6fe838c_1_0/hd.webp",
+    "realDate": "2026-06-22 19:48:21"
   },
   {
-    "id": "715df936859cae9aac41a7f627f909c2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966726&to_app=hwbrowser&dy_scenario=topicinside&tn=ec43309b5d60ca6b77f5b032c899282e37789c0732fb0611d6509f224ad6431b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为发布HarmonyOS 7 (API 26) 新能力一览",
-    "summary": "相关功能包括空间化设计、多形态服务窗口等。具体新增智能化Skill开发工具、视觉AI控件、3DGS端侧重建技术，同时优化全场景分享、空间音频及安全功能如星盾引擎。该系统于6月12日HDC 2026大会发布，开发者Beta 1版已开放，正式版计划秋季推出。",
+    "id": "f8043bc503b8fa53529c11108a2ac7ca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BNC82ICSXTM7&to_app=hwbrowser&dy_scenario=topicinside&tn=c28c2ae9c06e6091101c9c42cf2e312e952dd6616a2c98bf2d60d1c15c9e9017&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "陶哲轩表示：几周前 AI突破数学形式化临界点",
+    "summary": "陶哲轩在IEANTN项目中表示，AI几周前突破数学形式化临界点，原本需数周完成的任务现仅需数小时。但AI生成的证明冗长臃肿，增加了项目总构建时间，且无法进行全局重构。陶哲轩称此为“阻抗失配”，即证明生成与验证、消化环节速度差距拉大。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/df39bdc02fce4079b918fbddc930bcc0_1_0/hd.webp",
+    "realDate": "2026-06-22 16:27:00"
+  },
+  {
+    "id": "0e1c1eda53d9548955c2b6994c0d9b50",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510532c6b42e2ce3a33cfa8efa598fd664a0a&to_app=hwbrowser&dy_scenario=topicinside&tn=16da516c6ba220be25a9335c75d2b6d6f9205c8d56ce9ea7ba5dc1e1802c2db5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude Code破解3500年前死语言 74年来最大考古语言学迎突破",
+    "summary": "近日，业余语言学家Tom Di Mino借助Claude Code编写的Python脚本，成功破译了3500年前的米诺斯文明“线形文字A”，确认了40个音值并编纂408个词条词典。该文字自1952年线形文字B被破译后已沉寂70年，因其语言系统无已知对照而长期未被破解。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/e7ae003bd8c745b4b04c15317779ae94_1_0/hd.webp",
+    "realDate": "2026-06-22 20:00:29"
+  },
+  {
+    "id": "23e284e4dd3d298de19903f3765fb928",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324869140&to_app=hwbrowser&dy_scenario=topicinside&tn=cb187b0cc7301c5b39bf9f60fd133fa67078902b65d6b83e5e137e313398dc7f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Nature重磅！AI智能体医生MIRA 首次在完整诊疗流程中超越人类医生",
+    "summary": "海德堡大学医院研发的AI智能体医生MIRA在Nature发表的研究中，首次在574个真实急诊病例模拟测试中完整执行问诊、检查、诊断及治疗全流程，其表现超越人类医生。该系统可调用超85000种临床工具，严格遵循国际医疗标准，实现电子健康记录系统内的自主操作。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/8bd7fa859db0443ca7e3fc9cdaab4541_1_0/hd.webp",
+    "realDate": "2026-06-22 12:38:31"
+  },
+  {
+    "id": "bde139d11294b925c5074897ed53c4b1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100418HP1baW&to_app=hwbrowser&dy_scenario=topicinside&tn=67df8eaba7a165ef94f5394ccefd48cb3571df28630e2d3f4a2e2ba487cd1c8d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "天涯回归近一个月 老牌论坛接不住新流量",
+    "summary": "6月1日，天涯社区正式重启，但近一个月来用户热情明显降温。平台目前仅开放部分精华帖静态浏览，发帖、回复等核心功能尚未恢复，服务器多次因访问量过大而卡顿。停摆三年期间，天涯团队尝试直播筹款、出售域名等自救手段均未成功。目前平台被执行债务近1.4亿元，尚未形成成熟商业模式。",
+    "author": "锌刻度",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/aa1f5836448c409da585a1ef9b3b771a_1_0/hd.webp",
+    "realDate": "2026-06-22 17:20:41"
+  },
+  {
+    "id": "352bec60bd8d535c973996260fd94bb2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966789&to_app=hwbrowser&dy_scenario=topicinside&tn=0eda775422f922af25ff493f38ca3dc4c15848de9a2b7c7562c52164d4b57668&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为HarmonyOS 7.0开发者Beta 1将相机拍照默认格式从JPG切换为HEIF",
+    "summary": "华为表示，如今照片越来越清晰，文件也越来越大。HEIF是高效图像文件格式，主流HEIF图片通常采用HEVC（H.265）编码，在典型照片场景下可在保持良好画质体验的同时降低文件体积。相机拍照默认格式从JPG切换到HEIF后，同样的相册记录更不容易快速占满空间，长期拍照、备份和分享也更轻。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/c7339d8605c142d5ae7b67d604f8f261_1_0/hd.webp",
-    "realDate": "2026-06-21 21:23:08"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/1051074966789/78b327d46b224cb68c4d941103666273_1_1/hd.webp",
+    "realDate": "2026-06-22 09:43:13"
   },
   {
-    "id": "4a86a6605ad0a75121e8a5188eeec77e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048b15263059e2d66f4d0532fbb03933cc4&to_app=hwbrowser&dy_scenario=topicinside&tn=cca3f082f3b8a6e13830f288f675a753d8d380a1c9d1304d7d16dabe2b4238a5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "蔡磊真人出镜 用AI复原声音发布《倒计时》演讲",
-    "summary": "6月21日世界渐冻人日，渐冻症患者蔡磊发布《倒计时》公益演讲视频。尽管全身瘫痪、无法说话，他仍真人出镜，借助AI技术复原嗓音，呼吁全球共同攻克渐冻症。在视频中，蔡磊重新定义了“倒计时”，他称这并非自己生命的尾音，而是人类攻克渐冻症的冲刺号角，“我一定会亲眼见证，这个给全球50多万家庭带来痛苦的杀手，被我们亲手终结。”",
-    "author": "长安街知事",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/8f/v3/1051048b15263059e2d66f4d0532fbb03933cc4/7c4579aa80ad490a9aecec6022f0a095_1_0/hd.webp",
-    "realDate": "2026-06-21 15:09:22"
+    "id": "70eb69039b5b060daf261e18fce80864",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023733983&to_app=hwbrowser&dy_scenario=topicinside&tn=e5df6e368f652fc3ac951bc596bb87f4ef791df5d5b519b7b28fc4dd8e0ff73e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软CEO炮轰AI巨头：不能一边恐吓大众 一边又索要资源",
+    "summary": "近日，微软CEO纳德拉批评少数AI巨头渲染安全风险以索要资源，同时独吞技术价值。他称公众不会容忍少数公司垄断AI训练，微软推出低成本模型并评估接入DeepSeek服务，倡导行业非零和博弈。Anthropic和OpenAI高管曾预测AI引发失业潮，但奥特曼近期承认判断有误。微软计划推动AI普惠化，避免技术由头部模型主导。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1023_8/d3/v3/1051023733983/28725a4f71ed45dc84d3c8b9e2f22616_1_2/hd.webp",
+    "realDate": "2026-06-22 21:41:25"
   },
   {
-    "id": "e1fcb480000c9edb53937146f7cbcbfe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448baaf65d1c88f074acad43bbc4881c2eb&to_app=hwbrowser&dy_scenario=topicinside&tn=d781db5109d2cb9143b04fc6afcec69ada021a52a69de8a0d775e26edbd73abd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "GPT 5.6有望将下周问世 定价约仅为竞品1/3",
-    "summary": "据报道，OpenAI或于6月22日至28日推出GPT 5.6系列，含mini、标准版及Pro版。该模型上下文窗口扩展至150万tokens，具备视觉复刻、SVG 3D生成及浏览器自动化等能力，词元定价约为Claude三分之一。内部称其为对GPT 5.5的“有意义改进”，但部分用户认为其仅为小版本迭代。预测市场显示发布概率波动较大，合约交易量超100万美元。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/7ef5c563ad9047ba9ae3e71e2b5f2850_1_0/hd.webp",
-    "realDate": "2026-06-21 12:07:00"
-  },
-  {
-    "id": "ac8a3b0fdbd0d06f726bdfd3de0fa5c5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143769bccb0d59abd5d45415246ae259333&to_app=hwbrowser&dy_scenario=topicinside&tn=3fecfcc6fcbf98044081a8c3e5b89df874d4c8879cbd4ed925c3814a74c1b045&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "被指被刺用户 WPS回应",
-    "summary": "近日，大量用户反映WPS默认存储占用C盘导致系统卡顿，同时部分基础功能被划入会员区引发不满。对此，WPS客服回应称已关注问题，将把意见提交产品部门优化体验，建议用户重装指定存储路径或手动更改设置。",
+    "id": "77977cb168cd4aec6e81ff63548a2a0d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143fcd73767d944158a62509df9b9da918a&to_app=hwbrowser&dy_scenario=topicinside&tn=81cf0097efa8e53470fc36ebe39c4d051091b4ca8a79409e0ebf8029a612c270&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI拿下史上最大企业订单：三星电子为国内外超12万名员工部署ChatGPT企业版",
+    "summary": "据报道，其中覆盖软件开发、市场营销等业务领域。企业版强化了数据保护与权限管理。同时，OpenAI透露Codex在韩国周活跃用户数自2月增长近800%。三星电子计划借此推动全面AI转型，并与OpenAI深化存储半导体合作。",
     "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/c4a83ae5159c4582a159642da0511cf3_1_0/hd.webp",
-    "realDate": "2026-06-21 15:15:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/7d44f97927d04a7f8a0f671c8659bef9_1_0/hd.webp",
+    "realDate": "2026-06-22 10:58:00"
   },
   {
-    "id": "fc1c0ec0409a903bda4fdce142720843",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e403404f3a46f02792fa1c1f0e4c8eaf&to_app=hwbrowser&dy_scenario=topicinside&tn=8bd4db867059461295af08e4b70a50cdcedb29ec209c395c051e7196f5d6c0b7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌学英伟达融资换芯片：216亿元担保换取TPU订单",
-    "summary": "谷歌为纽约州西部Lake Mariner AI数据中心提供32亿美元（约216亿元人民币）财务担保，该站点将向Anthropic租赁数千颗TPU。同时，谷歌还为路易斯安那州70亿美元项目及德克萨斯州14亿美元项目提供担保，并与黑石成立50亿美元云服务公司。谷歌5月宣布直接销售TPU，早期用户称其成本降30%、速度提升4倍。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/d190fadbfc6d4eccb97d154f4ab79052_1_0/hd.webp",
-    "realDate": "2026-06-20 18:17:46"
+    "id": "b27ba62a4b3fd244b79d16d7c1f6c5f5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051410e91b8425cf6250542945ab4ea2c9fb76&to_app=hwbrowser&dy_scenario=topicinside&tn=64979fb5b06b88ac97cb867eceb9b0d09f0a4293237759854c6135fc2cb9d090&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "法国游戏公司育碧联合创始人因飞机失事遇难",
+    "summary": "6月19日，法国游戏公司育碧联合创始人克劳德·吉勒莫在法国西部拉博勒附近，因小型飞机失事遇难，终年69岁，同机飞行教练亦不幸身亡。育碧公司已确认消息，法国民航部门正调查事故原因。克劳德1986年与四兄弟共同创立育碧，曾参与开发《刺客信条》等知名游戏系列。",
+    "author": "极光新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/e1d55f61a14245bb90bd73d774f285f7_1_0/hd.webp",
+    "realDate": "2026-06-22 07:39:10"
   },
   {
-    "id": "0dc57dd3eac8fbe881411e31cf38cefd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133420661&to_app=hwbrowser&dy_scenario=topicinside&tn=79e86aedde3ffb7c257d0e5306fdd8a9ed1b883deae82002e3298cb14d12525b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "未来5-10年要实现十倍回报 英特尔陈立武最新发声",
-    "summary": "英特尔CEO陈立武近日透露，正为公司制定5-10年发展路线，目标实现十倍回报。他上任14个月来推动文化改革，要求工程团队直接汇报，全面采用AI管理。陈立武表示，PC业务需提升性能，代工领域与台积电仍有差距，但预计2030-2032年将显现潜力。同时，他坦言接手英特尔是为“拯救”这家标志性企业，曾克服特朗普要求其辞职的危机。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/b3/v3/105102133420661/894b522af0c045c49763f71eb690739c_1_0/hd.webp",
-    "realDate": "2026-06-20 18:23:16"
-  },
-  {
-    "id": "a16d89d8dc9803fe18320a4ac6ef83f6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966605&to_app=hwbrowser&dy_scenario=topicinside&tn=85075cdad95978b4d780156f8ee9fed8c5d94eb7e4d7b058b61eccb83f696bcb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "被印度政府临时封禁 Telegram上诉失败",
-    "summary": "印度法院驳回Telegram上诉，支持政府6月16日至22日临时封禁该应用的决定，旨在维护医学院入学考试公平。政府称Telegram因频道易重建、用户可隐匿身份给监管带来难题。对此，平台创始人批评封禁措施，称泄题渠道已转移。Telegram表示已删除900余条涉泄题链接。",
+    "id": "995f7a9a1f7245682c24b7cf3e99a0fb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966806&to_app=hwbrowser&dy_scenario=topicinside&tn=4d51877930eeaaaf663c407874087fe4a5f3b36cc167287795794cc983f783c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "蚂蚁集团新一届董事会完成换届 何小鹏出任独立董事",
+    "summary": "蚂蚁集团官网显示，新一届董事会完成换届，新增独立董事包括清华大学经管学院院长白重恩、小鹏汽车CEO何小鹏及德勤中国原CEO曾顺福，史美伦、张宏江留任。董事会保持9人规模，独董占比超50%。同时，集团正推进AI转型，2025年研发投入达350.3亿元。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/5719d065b0a246e4ae8ec5963e3f57e8_1_0/hd.webp",
-    "realDate": "2026-06-21 09:20:38"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/16f11a47af8d4259a65db35f6f541648_1_0/hd.webp",
+    "realDate": "2026-06-22 10:32:34"
   },
   {
-    "id": "2a7785a7afc574a9c87bf7b975fde1dd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511950447783ede97a4005c138de968a12743&to_app=hwbrowser&dy_scenario=topicinside&tn=7a9c1407965883f3d1a7f6ae2cac3df11b322c5e47635aefa9cb7bc98fcbedbc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "超600天！中国异种移植取得新突破",
-    "summary": "近日，中科奥格联合华中科技大学同济医学院附属同济医院等单位在异种肾移植临床前试验中取得进展，基因编辑猪肾脏移植的受体猴已稳定存活超600天，肾功能指标正常。该成果由三方协同攻关完成，中科奥格提供基因编辑供体猪，同济医院负责手术及随访，宝济药业搭建免疫干预方案。专家表示，这证明我国基因编辑猪达国际领先水平，为未来临床转化奠定基础。",
-    "author": "红星新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/fdc7a60d3c6845728a91436d75181a74_1_0/hd.webp",
-    "realDate": "2026-06-21 22:49:29"
+    "id": "79383c341684e5beb3eab5e3282b3600",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282405571&to_app=hwbrowser&dy_scenario=topicinside&tn=3fff1aabdd1692c9950107d77d853e779220d125ab4a7b7b4604182d7d361562&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全面液冷时代要来了 英伟达发文详解自家核心技术",
+    "summary": "近日，英伟达发布文章详解其45℃全面液冷技术，称该技术为“数据中心历史上最重要的能效突破之一”。其Rubin平台是全球首个100%液冷AI计算平台，所有芯片和网络组件均采用液冷散热。该技术可使机架密度提升3倍，同时大幅降低能耗和用水需求。Vera Rubin平台预计今年秋季量产，云服务商和数据中心运营商正推动相关转型。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/10510282405571/402b5880bf1244458012deb17ab3300b_1_2/hd.webp",
+    "realDate": "2026-06-22 15:59:48"
   },
   {
-    "id": "b8458be4b61427f78eaca822bc55d11e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512471128872804783572368&to_app=hwbrowser&dy_scenario=topicinside&tn=2b4ba7a60834e0739ca5dd359c3d759d5a934f963f0c405afd6dcec02067d08c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "标着CCC认证却查无此证 央视起底廉价充电宝安全隐患",
-    "summary": "近日，央视调查发现部分廉价充电宝存在安全隐患，标有CCC认证却查无此证。记者在北京批发市场随机调查7家商户，4家销售无认证产品；电商平台也存在证书注销、暂停或冒用情况。实验室检测显示，部分无认证充电宝电芯未标注厂家信息。我国自2024年起将充电宝纳入CCC认证，未认证产品不得销售。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/733f3c6b9b1342b8b56bca4330a2c49a_1_0/hd.webp",
-    "realDate": "2026-06-21 14:07:39"
-  },
-  {
-    "id": "81b58ed1a13e6084aab5d44964b50c60",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104b12c1c28f1fc2491db6c0cd58471b770&to_app=hwbrowser&dy_scenario=topicinside&tn=89eab6c4cf251b2d3965e3e339b47711978ba4322fc2081ca18397a2d28f379a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国产3D DRAM新突破！中科院微电子所实现4层堆叠IGZO存储",
-    "summary": "近日，中国科学院微电子所联合北京超弦存储器研究院在3D DRAM领域取得突破，首次实现4层堆叠IGZO 2T0C存储单元。该技术采用垂直字线架构和双栅设计，具有高读取裕度、低制备成本等优势，可实现多值存储并提升密度。",
+    "id": "9f8d89098a8691e4aabf41b473bc68ed",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104113928a68d9f246f79cebbda7e95d71d&to_app=hwbrowser&dy_scenario=topicinside&tn=f3ccd0ecc8fcd3f1386caafb4969e76993aa3b7f8f412317387a123088262d2d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "白菜价AI服务器成现实！AMD联手韩国企业推开放方案：成本暴降90%",
+    "summary": "AMD与韩国MangoBoost合作推出开放生态系统异构计算方案，可将AI服务器成本降至竞品十分之一。该方案支持多品牌硬件混合部署，MangoBoost提供芯片加速和软件优化技术。MangoBoost今年目标营收100亿韩元，并计划帮助客户降低自研投入。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/ef20797bd2ba45e9a518ca68f7e0163c_1_0/hd.webp",
-    "realDate": "2026-06-20 16:50:52"
-  },
-  {
-    "id": "8ae0eb0bc7c3c5f51ae747c58b2f9a5d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104579939c5883a2884fec40a8981b92c11&to_app=hwbrowser&dy_scenario=topicinside&tn=7683e49db7a63f6de0b0c66737fa29695209ba526e9c3dcc970987a96d256ad4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国全固态电池关键材料取得新进展 循环350次容量保持率仍达84.2%",
-    "summary": "中国科学院大连化学物理研究所研发出新型有机—无机复合固态电解质材料，采用聚偏氟乙烯-氯氧化锂复合固态电解质的NCA三元固态电池在1C倍率下循环350次容量保持率达84.2%，解决了固态电解质界面结合弱等问题，相关成果发表于《胶体与界面科学》。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/7ac53d1114324f93b8fce2f6ed97bb2f_1_0/hd.webp",
-    "realDate": "2026-06-20 23:39:45"
-  },
-  {
-    "id": "ae06338802c6bbf5ab82a8b59b8599a4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966626&to_app=hwbrowser&dy_scenario=topicinside&tn=a753dcd29043fd2c4edc4d7bc3c56cf545bc2db9bab85d86f279ead4307f6d86&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "NASA启动史无前例太空救援 拯救即将坠落的Swift空间天文台",
-    "summary": "NASA计划6月27日发射“链路号”航天器，尝试将因轨道衰减即将坠毁的“雨燕”空间天文台抬升至安全轨道。该天文台2004年升空，已探测超2000个伽马射线暴，但设计时未考虑对接功能。亚利桑那州加泰利斯特公司耗时9个月完成救援航天器研制，搭载机械臂和推进器，将搭乘飞马座XL火箭从南太平洋发射。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c7/v3/Topic_9c47cd5580924471bd0923872f70a73c/d815cbd1d2d543a8a7ae002f81811a29_1_0/hd.webp",
-    "realDate": "2026-06-21 11:10:34"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/f45cf2e988df4f238a5dac6957e3fe1b_1_0/hd.webp",
+    "realDate": "2026-06-22 15:28:32"
   }
 ]
