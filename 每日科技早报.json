@@ -1,128 +1,101 @@
 [
   {
-    "id": "e0072c355843da81e621b7f58331d3f1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774433380&to_app=hwbrowser&dy_scenario=topicinside&tn=6ec46bbb954f97dcc2724534588cce9999741c3d801e7da6c6103b8477858315&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“苹果税”争议再起：48名中国开发者联名举报",
-    "summary": "近日，48名中国iOS开发者联名举报苹果公司滥用中国市场垄断地位，指控其限定交易、差别待遇等行为，要求开放第三方应用分发及支付渠道。此举源于苹果在巴西等海外市场已调整政策，但中国市场仅下调佣金费率，未开放其他渠道。举报人称中国开发者实际承担的综合费率高于海外，质疑苹果“全球最低费率”承诺未兑现。苹果暂未回应。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/cad9204f02934bfaaf7bbd448a3c62fb_1_0/hd.webp",
-    "realDate": "2026-06-22 20:37:01"
+    "id": "3ce93d40ad5a239455f751abebe8b7b2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133438798&to_app=hwbrowser&dy_scenario=topicinside&tn=272f8472c1c717bbd6a7b2c4e73ec9e3bba1142d1df7ab7c5f025e5235715193&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "C盘空间被大幅占用 WPS回应",
+    "summary": "近日，WPS因占用C盘空间过多引发用户热议，相关话题登上微博热搜。金山办公回应称，本地缓存是为多终端同步文件设计，用户可通过修改存储位置、清理缓存或自定义安装路径免费优化空间。同时，WPS将推出更显眼的缓存管理入口及自动清理功能。财报显示，其办公软件业务一季度收入16.13亿元，同比增长24%。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/2a808579966643899be87a6e81f1f21e_1_0/hd.webp",
+    "realDate": "2026-06-23 22:34:39"
   },
   {
-    "id": "fc9205bc6fed67bd62311b7875ded1ab",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774432995&to_app=hwbrowser&dy_scenario=topicinside&tn=344eabba617c76eded73e4f927c74f485817fc0406be632792b736dcd9b694d2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "黄仁勋最新涉华表态",
-    "summary": "6月22日，英伟达CEO黄仁勋在链博会视频致辞中，称中国为“重要科技与产业中心”，赞扬中国工程师和开发者表现卓越。他5月随特朗普访华时表示中国是“最了不起的经济体之一”，并肯定中国在人工智能领域的领先地位。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/f17ea2a682cb4f0bb639fe8d56fff47e_1_0/hd.webp",
-    "realDate": "2026-06-22 15:18:26"
+    "id": "a41be39876592c9c46333cdbaf8b3813",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206aee17b36e5732f1350b2775e0779e726&to_app=hwbrowser&dy_scenario=topicinside&tn=530fe3c0d72b4d2091c2217d870110f303c391a10fdc38d254af3be513230dcf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "媒体实测微信AI助手 微信迎来史上最大更新",
+    "summary": "微信AI助手“小微”6月20日开启小范围测试，支持语音或文字指令完成转账、发消息、管理朋友圈等操作，同时可总结聊天内容、推荐个性化信息。其调用小程序实现点餐、打车等服务，并支持自定义工具开发，主模型采用腾讯自研大语言模型WeLM。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/1051206aee17b36e5732f1350b2775e0779e726/cdfbcd43c4904c11b54df2a87339fb7e_1_4/hd.webp",
+    "realDate": "2026-06-23 10:31:27"
   },
   {
-    "id": "f59c29bb04048e10f69802d8fa74e018",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100418HcO1Fe&to_app=hwbrowser&dy_scenario=topicinside&tn=2aebb5555ca6d28ec1950fc8a9af75c51dcc081b45dc036b15a5479caec8a7ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "百度开源拿下全球第一！作者疑似DeepSeek出走大神",
-    "summary": "百度近日开源Unlimited OCR模型，3B参数500M激活，在OmniDocBench测试中刷新SOTA，综合分达93.92%。该模型首次实现40页文档连续解析不失忆，核心技术为R-SWA注意力机制。作者疑似来自DeepSeek的OCR专家，代码已同步发布至GitHub和HuggingFace。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/058cf987961a4943ac2850f2d6fe838c_1_0/hd.webp",
-    "realDate": "2026-06-22 19:48:21"
-  },
-  {
-    "id": "f8043bc503b8fa53529c11108a2ac7ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BNC82ICSXTM7&to_app=hwbrowser&dy_scenario=topicinside&tn=c28c2ae9c06e6091101c9c42cf2e312e952dd6616a2c98bf2d60d1c15c9e9017&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "陶哲轩表示：几周前 AI突破数学形式化临界点",
-    "summary": "陶哲轩在IEANTN项目中表示，AI几周前突破数学形式化临界点，原本需数周完成的任务现仅需数小时。但AI生成的证明冗长臃肿，增加了项目总构建时间，且无法进行全局重构。陶哲轩称此为“阻抗失配”，即证明生成与验证、消化环节速度差距拉大。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/df39bdc02fce4079b918fbddc930bcc0_1_0/hd.webp",
-    "realDate": "2026-06-22 16:27:00"
-  },
-  {
-    "id": "0e1c1eda53d9548955c2b6994c0d9b50",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510532c6b42e2ce3a33cfa8efa598fd664a0a&to_app=hwbrowser&dy_scenario=topicinside&tn=16da516c6ba220be25a9335c75d2b6d6f9205c8d56ce9ea7ba5dc1e1802c2db5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude Code破解3500年前死语言 74年来最大考古语言学迎突破",
-    "summary": "近日，业余语言学家Tom Di Mino借助Claude Code编写的Python脚本，成功破译了3500年前的米诺斯文明“线形文字A”，确认了40个音值并编纂408个词条词典。该文字自1952年线形文字B被破译后已沉寂70年，因其语言系统无已知对照而长期未被破解。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/e7ae003bd8c745b4b04c15317779ae94_1_0/hd.webp",
-    "realDate": "2026-06-22 20:00:29"
-  },
-  {
-    "id": "23e284e4dd3d298de19903f3765fb928",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324869140&to_app=hwbrowser&dy_scenario=topicinside&tn=cb187b0cc7301c5b39bf9f60fd133fa67078902b65d6b83e5e137e313398dc7f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Nature重磅！AI智能体医生MIRA 首次在完整诊疗流程中超越人类医生",
-    "summary": "海德堡大学医院研发的AI智能体医生MIRA在Nature发表的研究中，首次在574个真实急诊病例模拟测试中完整执行问诊、检查、诊断及治疗全流程，其表现超越人类医生。该系统可调用超85000种临床工具，严格遵循国际医疗标准，实现电子健康记录系统内的自主操作。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/8bd7fa859db0443ca7e3fc9cdaab4541_1_0/hd.webp",
-    "realDate": "2026-06-22 12:38:31"
-  },
-  {
-    "id": "bde139d11294b925c5074897ed53c4b1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100418HP1baW&to_app=hwbrowser&dy_scenario=topicinside&tn=67df8eaba7a165ef94f5394ccefd48cb3571df28630e2d3f4a2e2ba487cd1c8d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "天涯回归近一个月 老牌论坛接不住新流量",
-    "summary": "6月1日，天涯社区正式重启，但近一个月来用户热情明显降温。平台目前仅开放部分精华帖静态浏览，发帖、回复等核心功能尚未恢复，服务器多次因访问量过大而卡顿。停摆三年期间，天涯团队尝试直播筹款、出售域名等自救手段均未成功。目前平台被执行债务近1.4亿元，尚未形成成熟商业模式。",
-    "author": "锌刻度",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/aa1f5836448c409da585a1ef9b3b771a_1_0/hd.webp",
-    "realDate": "2026-06-22 17:20:41"
-  },
-  {
-    "id": "352bec60bd8d535c973996260fd94bb2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966789&to_app=hwbrowser&dy_scenario=topicinside&tn=0eda775422f922af25ff493f38ca3dc4c15848de9a2b7c7562c52164d4b57668&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为HarmonyOS 7.0开发者Beta 1将相机拍照默认格式从JPG切换为HEIF",
-    "summary": "华为表示，如今照片越来越清晰，文件也越来越大。HEIF是高效图像文件格式，主流HEIF图片通常采用HEVC（H.265）编码，在典型照片场景下可在保持良好画质体验的同时降低文件体积。相机拍照默认格式从JPG切换到HEIF后，同样的相册记录更不容易快速占满空间，长期拍照、备份和分享也更轻。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/1051074966789/78b327d46b224cb68c4d941103666273_1_1/hd.webp",
-    "realDate": "2026-06-22 09:43:13"
-  },
-  {
-    "id": "70eb69039b5b060daf261e18fce80864",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023733983&to_app=hwbrowser&dy_scenario=topicinside&tn=e5df6e368f652fc3ac951bc596bb87f4ef791df5d5b519b7b28fc4dd8e0ff73e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软CEO炮轰AI巨头：不能一边恐吓大众 一边又索要资源",
-    "summary": "近日，微软CEO纳德拉批评少数AI巨头渲染安全风险以索要资源，同时独吞技术价值。他称公众不会容忍少数公司垄断AI训练，微软推出低成本模型并评估接入DeepSeek服务，倡导行业非零和博弈。Anthropic和OpenAI高管曾预测AI引发失业潮，但奥特曼近期承认判断有误。微软计划推动AI普惠化，避免技术由头部模型主导。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1023_8/d3/v3/1051023733983/28725a4f71ed45dc84d3c8b9e2f22616_1_2/hd.webp",
-    "realDate": "2026-06-22 21:41:25"
-  },
-  {
-    "id": "77977cb168cd4aec6e81ff63548a2a0d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143fcd73767d944158a62509df9b9da918a&to_app=hwbrowser&dy_scenario=topicinside&tn=81cf0097efa8e53470fc36ebe39c4d051091b4ca8a79409e0ebf8029a612c270&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI拿下史上最大企业订单：三星电子为国内外超12万名员工部署ChatGPT企业版",
-    "summary": "据报道，其中覆盖软件开发、市场营销等业务领域。企业版强化了数据保护与权限管理。同时，OpenAI透露Codex在韩国周活跃用户数自2月增长近800%。三星电子计划借此推动全面AI转型，并与OpenAI深化存储半导体合作。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/7d44f97927d04a7f8a0f671c8659bef9_1_0/hd.webp",
-    "realDate": "2026-06-22 10:58:00"
-  },
-  {
-    "id": "b27ba62a4b3fd244b79d16d7c1f6c5f5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051410e91b8425cf6250542945ab4ea2c9fb76&to_app=hwbrowser&dy_scenario=topicinside&tn=64979fb5b06b88ac97cb867eceb9b0d09f0a4293237759854c6135fc2cb9d090&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "法国游戏公司育碧联合创始人因飞机失事遇难",
-    "summary": "6月19日，法国游戏公司育碧联合创始人克劳德·吉勒莫在法国西部拉博勒附近，因小型飞机失事遇难，终年69岁，同机飞行教练亦不幸身亡。育碧公司已确认消息，法国民航部门正调查事故原因。克劳德1986年与四兄弟共同创立育碧，曾参与开发《刺客信条》等知名游戏系列。",
-    "author": "极光新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/e1d55f61a14245bb90bd73d774f285f7_1_0/hd.webp",
-    "realDate": "2026-06-22 07:39:10"
-  },
-  {
-    "id": "995f7a9a1f7245682c24b7cf3e99a0fb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074966806&to_app=hwbrowser&dy_scenario=topicinside&tn=4d51877930eeaaaf663c407874087fe4a5f3b36cc167287795794cc983f783c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "蚂蚁集团新一届董事会完成换届 何小鹏出任独立董事",
-    "summary": "蚂蚁集团官网显示，新一届董事会完成换届，新增独立董事包括清华大学经管学院院长白重恩、小鹏汽车CEO何小鹏及德勤中国原CEO曾顺福，史美伦、张宏江留任。董事会保持9人规模，独董占比超50%。同时，集团正推进AI转型，2025年研发投入达350.3亿元。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/16f11a47af8d4259a65db35f6f541648_1_0/hd.webp",
-    "realDate": "2026-06-22 10:32:34"
-  },
-  {
-    "id": "79383c341684e5beb3eab5e3282b3600",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282405571&to_app=hwbrowser&dy_scenario=topicinside&tn=3fff1aabdd1692c9950107d77d853e779220d125ab4a7b7b4604182d7d361562&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全面液冷时代要来了 英伟达发文详解自家核心技术",
-    "summary": "近日，英伟达发布文章详解其45℃全面液冷技术，称该技术为“数据中心历史上最重要的能效突破之一”。其Rubin平台是全球首个100%液冷AI计算平台，所有芯片和网络组件均采用液冷散热。该技术可使机架密度提升3倍，同时大幅降低能耗和用水需求。Vera Rubin平台预计今年秋季量产，云服务商和数据中心运营商正推动相关转型。",
+    "id": "5563b05245099daf22762fca4d44cc1d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282406730&to_app=hwbrowser&dy_scenario=topicinside&tn=8db0b6e2d944434eae8b372c9bfa4197a18b8a47d051a61aa4787063eeef85bc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "关于AI大模型 “五眼联盟”警告",
+    "summary": "近日，“五眼联盟”情报机构警告称，强大AI模型或将在数月内出现，可能发动毁灭性网络攻击。该联盟由美、英、澳、加、新五国组成，指出AI虽提升防御能力，但也加速了网络威胁。专家称新型AI擅长生成漏洞利用程序，中小型企业尤其脆弱。联盟呼吁企业投资网络防御并升级旧系统。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/10510282405571/402b5880bf1244458012deb17ab3300b_1_2/hd.webp",
-    "realDate": "2026-06-22 15:59:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/b0744e259ce24e0fa9e9975a4408447d_1_0/hd.webp",
+    "realDate": "2026-06-23 15:47:22"
   },
   {
-    "id": "9f8d89098a8691e4aabf41b473bc68ed",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104113928a68d9f246f79cebbda7e95d71d&to_app=hwbrowser&dy_scenario=topicinside&tn=f3ccd0ecc8fcd3f1386caafb4969e76993aa3b7f8f412317387a123088262d2d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "白菜价AI服务器成现实！AMD联手韩国企业推开放方案：成本暴降90%",
-    "summary": "AMD与韩国MangoBoost合作推出开放生态系统异构计算方案，可将AI服务器成本降至竞品十分之一。该方案支持多品牌硬件混合部署，MangoBoost提供芯片加速和软件优化技术。MangoBoost今年目标营收100亿韩元，并计划帮助客户降低自研投入。",
+    "id": "86a2e24b8dc3dd6b4a04c9da68cffaa2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L040B14B0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=f0cf970107c3fd6eb06999c27488cd97460ef22ceb06f0fefdd6bd77db836cf7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "94毫秒延迟、监控胜率100%！国产视频模型打败Gemini",
+    "summary": "近日，京东正式开源视频多模态模型JoyAI-VL-Interaction，在监控预警、实时翻译、直播解说等6类58个流式交互场景中，以8B参数量对阵Gemini和豆包，整体胜率达87.9%，监控预警场景更是100%胜出。该模型将延迟压至94毫秒，支持自主判断何时开口、何时静默、何时将复杂任务委派给后台Agent，已获vLLM-Omni day-0原生支持，代码、模型、数据集全部开源，可直接部署运行。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/5d0f6d4ab1a44b848858c63cb90a6801_1_0/hd.webp",
+    "realDate": "2026-06-23 12:31:25"
+  },
+  {
+    "id": "ae93ebed7d1bf1252650ee11d2f42797",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282407336&to_app=hwbrowser&dy_scenario=topicinside&tn=a6934850f3619c662016e9a281abef9ac4f55f9732a7ec5a92277a29bddd2891&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Meta盯上预测市场 扎克伯格新App曝光",
+    "summary": "Meta近日被曝正开发独立预测市场应用“Arena”，用户可通过积分系统押注各类事件结果，未来或支持真钱下注。该应用将独立于现有社交平台，但会利用Meta流量入口导流。此前Meta曾推出预测应用Forecast但于2022年下架。目前预测市场发展迅猛，头部平台Kalshi和Polymarket今年交易额已超1300亿美元。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/b906bedc5aca4ffe9743fcfdcc1fd99b_1_0/hd.webp",
+    "realDate": "2026-06-24 03:01:15"
+  },
+  {
+    "id": "42048aa96f209774d8f8c99d0d7f0568",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512068b1acb97247d6214916f233a0b1ac6ce&to_app=hwbrowser&dy_scenario=topicinside&tn=ad8aedb70c62f16d21519d60b696ac722d5d9a08a00db6ac8724567c0c5a770a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "成立不到90天 阿里前高管创立的昆仑行机器人获数十亿元融资",
+    "summary": "6月23日，具身智能赛道创企昆仑行机器人宣布，公司于近日完成3轮系列融资。自注册成立不到3个月，该公司累计融资规模达数十亿元。3轮融资后，昆仑行刷新2026年国内具身智能0致1初创企业最快融资纪录。有消息称，其估值已超十亿美元，成为具身行业独角兽。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1206_8/30/v3/10512068b1acb97247d6214916f233a0b1ac6ce/67103ca3ab4440afb382cae114be2261_1_0/hd.webp",
+    "realDate": "2026-06-23 18:03:10"
+  },
+  {
+    "id": "31858be06c754e6842e4bfd4f0bf1a24",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051366ID2BNEE4E9BK3RB&to_app=hwbrowser&dy_scenario=topicinside&tn=0abaecfb62b7c42e90954b06291ff7b3f502289a1aee38d5367cbf80b34f36d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美团员工发千字长文谈公司困境",
+    "summary": "近日，美团到餐基层产品员工在社交平台发布两千字长文《置身团内》，剖析公司管理问题。文章指出，美团强管控模式导致产品人员缺乏独立判断能力，数据资产化不足，仅以转化率评估套餐价值，AI应用流于形式。作者认为，公司依赖的极致执行文化难以应对抖音等平台竞争，组织固化阻碍创新。该文引发业内广泛讨论。",
+    "author": "Tech星球",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/ac3e2fbf4c3e4cdcb4d716e6709d827a_1_0/hd.webp",
+    "realDate": "2026-06-23 08:33:45"
+  },
+  {
+    "id": "a6d70c692181f2a92dce15b8e30b1d49",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124713438311109487373102&to_app=hwbrowser&dy_scenario=topicinside&tn=56ba8695496dbf9e5cc4784695ea6c49c9bd27134d6283fa9b73f96e1a595f8f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "刷新世界算力新高度 “灵晟”问鼎全球超算TOP500",
+    "summary": "6月23日，我国自主研制的“灵晟”超级计算机以2.19EFlops持续性能登顶全球超算TOP500，成为首台突破2EFlops的超算系统。该系统采用自研LX2 CPU和灵启高速互连网络，首创全液冷散热，已支撑大气海洋、脑科学等多领域应用，平均扩展效率84.4%。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/4b7b7275eaed415fb64f44b59489562d_1_0/hd.webp",
+    "realDate": "2026-06-23 18:44:53"
+  },
+  {
+    "id": "2a08c286ee6252116e6f72f5cb5756ed",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104855d3d4dfeef9f771e0f32a2f710c774&to_app=hwbrowser&dy_scenario=topicinside&tn=cd83a0d5b48d321adfbaefc0bc563008e967f91e645120c30dbee696293259f3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国产半导体材料实现突破！方形硅片量产交付",
+    "summary": "上海超硅半导体今年5月向核心客户量产交付方形硅片，配套AI芯片CoPoS封装工艺。该产品采用矩形设计，材料利用率超90%，单位封装成本降20%-30%，解决了传统圆形硅片边缘浪费问题。公司突破多项工艺技术，产品已通过可靠性验证。行业预计CoPoS工艺未来两三年将规模化放量。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2d/v3/Topic_21cf8daed40e4b3d8d5c118989aacb6b/f45cf2e988df4f238a5dac6957e3fe1b_1_0/hd.webp",
-    "realDate": "2026-06-22 15:28:32"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/ef033a0283fd48ab8321bbfd2fd27a02_1_0/hd.webp",
+    "realDate": "2026-06-23 15:06:55"
+  },
+  {
+    "id": "911492491d475bdc05130108c900aa48",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510286495576324047410&to_app=hwbrowser&dy_scenario=topicinside&tn=6b44cf32cac974df18d797f62a9209136553c3b8e95e5a642e94bb1e6ebae90a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达突然不香了 GPU租赁价格持续回落",
+    "summary": "英伟达B200芯片租赁价格持续下跌，5月30日创下每小时6.11美元高点后，截至上周末已降至4.22美元。Kalshi交易员对其价格能否重返高点持悲观态度。同时，AI算力需求不确定性增加，高盛指出租赁价格走低或挑战“算力短缺”论调。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/10510286495576324047410/c5689c5c0b8d40b98961d8c880ec854d_1_2/hd.webp",
+    "realDate": "2026-06-23 10:30:57"
+  },
+  {
+    "id": "5a83c364c5a32a17180133233d82485b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734050&to_app=hwbrowser&dy_scenario=topicinside&tn=bc7d51d1bfb3183f5b52f73cdfb63080ac9b14b8e824682a707af456b2dbd47f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "天文卫星即将坠落 NASA将尝试开展“太空救援”",
+    "summary": "受太阳风暴影响，美国、英国和意大利联合研制的尼尔·格雷尔斯雨燕天文台轨道高度已降至370公里，预计年底前坠入大气层。NASA将联合凯塔利斯特太空科技公司于6月27日发射LINK航天器，尝试用机械臂抓取并提升其轨道至600公里。若成功，这将是人类首次利用无人航天器挽救科学卫星。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/8342c7bf58264430805ac3371e59f2c6_1_0/hd.webp",
+    "realDate": "2026-06-23 14:57:39"
   }
 ]
