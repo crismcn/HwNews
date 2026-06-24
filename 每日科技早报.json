@@ -1,101 +1,146 @@
 [
   {
-    "id": "3ce93d40ad5a239455f751abebe8b7b2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133438798&to_app=hwbrowser&dy_scenario=topicinside&tn=272f8472c1c717bbd6a7b2c4e73ec9e3bba1142d1df7ab7c5f025e5235715193&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "C盘空间被大幅占用 WPS回应",
-    "summary": "近日，WPS因占用C盘空间过多引发用户热议，相关话题登上微博热搜。金山办公回应称，本地缓存是为多终端同步文件设计，用户可通过修改存储位置、清理缓存或自定义安装路径免费优化空间。同时，WPS将推出更显眼的缓存管理入口及自动清理功能。财报显示，其办公软件业务一季度收入16.13亿元，同比增长24%。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/2a808579966643899be87a6e81f1f21e_1_0/hd.webp",
-    "realDate": "2026-06-23 22:34:39"
+    "id": "de1cfdeae9a62bb598da47c4f74affca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514101704943599398088&to_app=hwbrowser&dy_scenario=topicinside&tn=287f6654e54069e1f5992b976df8ee148e17f8d226e66a609d7d25bae14179cb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "豆包推出分级付费专业版 用户看法不一",
+    "summary": "6月24日，字节跳动旗下AI助手豆包推出三档分级付费专业版，月费68元至500元不等，基础功能仍免费。对此，社交平台上，用户抱怨声占据主流，争议焦点集中在三方面：一是68元起的三档定价被认为不亲民，二是担心未来免费版额度被缩减、响应速度下降，三是500元档的高阶功能仍存bug，体验未达预期。而认可声音则集中在职场重度用户、自媒体及数据从业者群体。此外，同类产品替代选择等问题也引发网友热议。",
+    "author": "极光新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/6cfd1a4a13c740568239dd74d21556d8_1_0/hd.webp",
+    "realDate": "2026-06-24 14:11:30"
   },
   {
-    "id": "a41be39876592c9c46333cdbaf8b3813",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206aee17b36e5732f1350b2775e0779e726&to_app=hwbrowser&dy_scenario=topicinside&tn=530fe3c0d72b4d2091c2217d870110f303c391a10fdc38d254af3be513230dcf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "媒体实测微信AI助手 微信迎来史上最大更新",
-    "summary": "微信AI助手“小微”6月20日开启小范围测试，支持语音或文字指令完成转账、发消息、管理朋友圈等操作，同时可总结聊天内容、推荐个性化信息。其调用小程序实现点餐、打车等服务，并支持自定义工具开发，主模型采用腾讯自研大语言模型WeLM。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/1051206aee17b36e5732f1350b2775e0779e726/cdfbcd43c4904c11b54df2a87339fb7e_1_4/hd.webp",
-    "realDate": "2026-06-23 10:31:27"
+    "id": "dc03e02479b20805ba161c07d92d321e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uD1v25JXtm&to_app=hwbrowser&dy_scenario=topicinside&tn=601fbf091718e7ef4a0bc59856ec935503a21746d147b88f212486e9fc6b77da&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里巴巴起诉美国政府：称涉军标签“武断任性”",
+    "summary": "阿里巴巴6月24日向加州圣何塞联邦法院起诉美国政府，反对将其列入涉军企业清单。阿里称该决定“武断任性”，损害其声誉及合作关系，强调公司无军方背景且业务不涉国防领域。6月8日美方将阿里等中企列入该清单，中方外交部表示反对并敦促美方纠正错误。阿里要求从名单中移除。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/8b292de2aa9147e5ba0d08a251a98f48_1_0/hd.webp",
+    "realDate": "2026-06-24 06:45:03"
   },
   {
-    "id": "5563b05245099daf22762fca4d44cc1d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282406730&to_app=hwbrowser&dy_scenario=topicinside&tn=8db0b6e2d944434eae8b372c9bfa4197a18b8a47d051a61aa4787063eeef85bc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "关于AI大模型 “五眼联盟”警告",
-    "summary": "近日，“五眼联盟”情报机构警告称，强大AI模型或将在数月内出现，可能发动毁灭性网络攻击。该联盟由美、英、澳、加、新五国组成，指出AI虽提升防御能力，但也加速了网络威胁。专家称新型AI擅长生成漏洞利用程序，中小型企业尤其脆弱。联盟呼吁企业投资网络防御并升级旧系统。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/b0744e259ce24e0fa9e9975a4408447d_1_0/hd.webp",
-    "realDate": "2026-06-23 15:47:22"
-  },
-  {
-    "id": "86a2e24b8dc3dd6b4a04c9da68cffaa2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L040B14B0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=f0cf970107c3fd6eb06999c27488cd97460ef22ceb06f0fefdd6bd77db836cf7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "94毫秒延迟、监控胜率100%！国产视频模型打败Gemini",
-    "summary": "近日，京东正式开源视频多模态模型JoyAI-VL-Interaction，在监控预警、实时翻译、直播解说等6类58个流式交互场景中，以8B参数量对阵Gemini和豆包，整体胜率达87.9%，监控预警场景更是100%胜出。该模型将延迟压至94毫秒，支持自主判断何时开口、何时静默、何时将复杂任务委派给后台Agent，已获vLLM-Omni day-0原生支持，代码、模型、数据集全部开源，可直接部署运行。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/5d0f6d4ab1a44b848858c63cb90a6801_1_0/hd.webp",
-    "realDate": "2026-06-23 12:31:25"
-  },
-  {
-    "id": "ae93ebed7d1bf1252650ee11d2f42797",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282407336&to_app=hwbrowser&dy_scenario=topicinside&tn=a6934850f3619c662016e9a281abef9ac4f55f9732a7ec5a92277a29bddd2891&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta盯上预测市场 扎克伯格新App曝光",
-    "summary": "Meta近日被曝正开发独立预测市场应用“Arena”，用户可通过积分系统押注各类事件结果，未来或支持真钱下注。该应用将独立于现有社交平台，但会利用Meta流量入口导流。此前Meta曾推出预测应用Forecast但于2022年下架。目前预测市场发展迅猛，头部平台Kalshi和Polymarket今年交易额已超1300亿美元。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/b906bedc5aca4ffe9743fcfdcc1fd99b_1_0/hd.webp",
-    "realDate": "2026-06-24 03:01:15"
-  },
-  {
-    "id": "42048aa96f209774d8f8c99d0d7f0568",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512068b1acb97247d6214916f233a0b1ac6ce&to_app=hwbrowser&dy_scenario=topicinside&tn=ad8aedb70c62f16d21519d60b696ac722d5d9a08a00db6ac8724567c0c5a770a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "成立不到90天 阿里前高管创立的昆仑行机器人获数十亿元融资",
-    "summary": "6月23日，具身智能赛道创企昆仑行机器人宣布，公司于近日完成3轮系列融资。自注册成立不到3个月，该公司累计融资规模达数十亿元。3轮融资后，昆仑行刷新2026年国内具身智能0致1初创企业最快融资纪录。有消息称，其估值已超十亿美元，成为具身行业独角兽。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1206_8/30/v3/10512068b1acb97247d6214916f233a0b1ac6ce/67103ca3ab4440afb382cae114be2261_1_0/hd.webp",
-    "realDate": "2026-06-23 18:03:10"
-  },
-  {
-    "id": "31858be06c754e6842e4bfd4f0bf1a24",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051366ID2BNEE4E9BK3RB&to_app=hwbrowser&dy_scenario=topicinside&tn=0abaecfb62b7c42e90954b06291ff7b3f502289a1aee38d5367cbf80b34f36d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团员工发千字长文谈公司困境",
-    "summary": "近日，美团到餐基层产品员工在社交平台发布两千字长文《置身团内》，剖析公司管理问题。文章指出，美团强管控模式导致产品人员缺乏独立判断能力，数据资产化不足，仅以转化率评估套餐价值，AI应用流于形式。作者认为，公司依赖的极致执行文化难以应对抖音等平台竞争，组织固化阻碍创新。该文引发业内广泛讨论。",
-    "author": "Tech星球",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/ac3e2fbf4c3e4cdcb4d716e6709d827a_1_0/hd.webp",
-    "realDate": "2026-06-23 08:33:45"
-  },
-  {
-    "id": "a6d70c692181f2a92dce15b8e30b1d49",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124713438311109487373102&to_app=hwbrowser&dy_scenario=topicinside&tn=56ba8695496dbf9e5cc4784695ea6c49c9bd27134d6283fa9b73f96e1a595f8f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "刷新世界算力新高度 “灵晟”问鼎全球超算TOP500",
-    "summary": "6月23日，我国自主研制的“灵晟”超级计算机以2.19EFlops持续性能登顶全球超算TOP500，成为首台突破2EFlops的超算系统。该系统采用自研LX2 CPU和灵启高速互连网络，首创全液冷散热，已支撑大气海洋、脑科学等多领域应用，平均扩展效率84.4%。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/4b7b7275eaed415fb64f44b59489562d_1_0/hd.webp",
-    "realDate": "2026-06-23 18:44:53"
-  },
-  {
-    "id": "2a08c286ee6252116e6f72f5cb5756ed",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104855d3d4dfeef9f771e0f32a2f710c774&to_app=hwbrowser&dy_scenario=topicinside&tn=cd83a0d5b48d321adfbaefc0bc563008e967f91e645120c30dbee696293259f3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国产半导体材料实现突破！方形硅片量产交付",
-    "summary": "上海超硅半导体今年5月向核心客户量产交付方形硅片，配套AI芯片CoPoS封装工艺。该产品采用矩形设计，材料利用率超90%，单位封装成本降20%-30%，解决了传统圆形硅片边缘浪费问题。公司突破多项工艺技术，产品已通过可靠性验证。行业预计CoPoS工艺未来两三年将规模化放量。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/ef033a0283fd48ab8321bbfd2fd27a02_1_0/hd.webp",
-    "realDate": "2026-06-23 15:06:55"
-  },
-  {
-    "id": "911492491d475bdc05130108c900aa48",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510286495576324047410&to_app=hwbrowser&dy_scenario=topicinside&tn=6b44cf32cac974df18d797f62a9209136553c3b8e95e5a642e94bb1e6ebae90a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达突然不香了 GPU租赁价格持续回落",
-    "summary": "英伟达B200芯片租赁价格持续下跌，5月30日创下每小时6.11美元高点后，截至上周末已降至4.22美元。Kalshi交易员对其价格能否重返高点持悲观态度。同时，AI算力需求不确定性增加，高盛指出租赁价格走低或挑战“算力短缺”论调。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/56/v3/10510286495576324047410/c5689c5c0b8d40b98961d8c880ec854d_1_2/hd.webp",
-    "realDate": "2026-06-23 10:30:57"
-  },
-  {
-    "id": "5a83c364c5a32a17180133233d82485b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734050&to_app=hwbrowser&dy_scenario=topicinside&tn=bc7d51d1bfb3183f5b52f73cdfb63080ac9b14b8e824682a707af456b2dbd47f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "天文卫星即将坠落 NASA将尝试开展“太空救援”",
-    "summary": "受太阳风暴影响，美国、英国和意大利联合研制的尼尔·格雷尔斯雨燕天文台轨道高度已降至370公里，预计年底前坠入大气层。NASA将联合凯塔利斯特太空科技公司于6月27日发射LINK航天器，尝试用机械臂抓取并提升其轨道至600公里。若成功，这将是人类首次利用无人航天器挽救科学卫星。",
+    "id": "573ab51dcf87e59fe82bb4bac2ef7b08",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734159&to_app=hwbrowser&dy_scenario=topicinside&tn=413a7d9c9c5bd58f189f33af86056b7e0f9cc1edeb8d9d4faeac419bfa77d271&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "盯上中国机器人 美国又准备下黑手",
+    "summary": "近日，美国商务部部长卢特尼克表示，正审查“获国家补贴的机器人产品”进口问题，暗示可能对中国产机器人实施新限制。美国政府和产业界人士认为，美国已经失去了制造下一代机器人所需的大量产业能力。他们担心，在美国尚未完成产业重建之前，中国已经凭借完整产业链进一步扩大领先优势。",
     "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d1/v3/Topic_ece3830ed06c4ce7afbb4c8b3831e252/8342c7bf58264430805ac3371e59f2c6_1_0/hd.webp",
-    "realDate": "2026-06-23 14:57:39"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d3/v3/1051023734159/57ddcf8c8d224e5bb62724986d5941c5_1_3/hd.webp",
+    "realDate": "2026-06-24 11:25:48"
+  },
+  {
+    "id": "eb65cd081dc0193595cae9e70c9b2b02",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324869743&to_app=hwbrowser&dy_scenario=topicinside&tn=95588a1fac00947f48e944300bf17fa1d09db486fb650b05ca969c5580db7fad&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "陶哲轩参赛 在一项极其严格的数学测试中 人类表现优于AI",
+    "summary": "近日，一项名为First Proof的数学测试项目公布结果，人类在10道研究级数学题上整体表现优于AI。测试中，四个AI系统有三个给出及格答案，但被评审发现高度借鉴专家论文未注明引用。项目发起人包括斯坦福、哈佛等高校学者，旨在通过独立实验评估AI数学能力。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/10510324869743/7efd9504e4384338879bdeba34c67abb_1_5/hd.webp",
+    "realDate": "2026-06-24 08:58:13"
+  },
+  {
+    "id": "ac3a76cbff4ddc94c60aab1b9925f257",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074968211&to_app=hwbrowser&dy_scenario=topicinside&tn=316f572d8fd44903de29fd307824b0cb77e3a2bc76386e5d53ad81daa2901b74&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为鸿蒙“龙虾”小艺Claw全机型开放 HarmonyOS 5.0及以上设备可用",
+    "summary": "小艺Claw全机型开放，HarmonyOS 5.0及以上设备升级小艺App至11.6.4.300版本即可使用。该服务提供49元体验包和199元标准包，后者可选四种基础大模型。同时，小艺Skills市场已支持500+精选Skills，覆盖多个领域。此前，小艺Claw获信通院首个终端厂商权威安全认证。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/79ad94e697a34f4ebda6d38aebf67b82_1_0/hd.webp",
+    "realDate": "2026-06-24 23:34:28"
+  },
+  {
+    "id": "812f0e63c9eee761b60cffc3be4fa397",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511187865d970c0aa070814b03c50ae7065df&to_app=hwbrowser&dy_scenario=topicinside&tn=ac35a63d6adacdbad4dfeb71bda008eb7964262dedd07d8acd6e842f056497e5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里Qoder Work推出“峰谷Token” 夜间使用Qwen3.7低至2折",
+    "summary": "据悉，用户在22:00至次日08:00使用Qwen3.7 Max模型可享2折优惠，成为国内首个提供分时定价的Agent产品。该机制支持用户通过定时任务或夜间提交指令降低使用成本，覆盖Qoder Work、Qoder Desktop等平台。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/e4e20e35e2cd4de189012f81c71612fb_1_0/hd.webp",
+    "realDate": "2026-06-24 14:00:46"
+  },
+  {
+    "id": "a5fc7a12ac2ec9fc7524ae172a3a991c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324869812&to_app=hwbrowser&dy_scenario=topicinside&tn=9f144aff7cb9bb3c5fba369ce10ae2f44e349d23f2fdd7aabebd649f379022b9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude上线“群聊Agent” 可拆解任务、调用工具",
+    "summary": "Anthropic近日上线群聊AI助手Claude Tag，企业接入Slack后员工可使用Claude拆解任务、调用工具并持续跟进。该功能能记忆群聊信息，主动发现遗漏事项，前OpenAI员工Karpathy称其代表交互新范式，实现与大语言模型“并肩工作”。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/b0e51a0bb3334f4da6760df02303b77d_1_0/hd.webp",
+    "realDate": "2026-06-24 12:34:54"
+  },
+  {
+    "id": "d00e1a01e16aa9dce474f3ef939ba0e6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105105009b07e2295d42eacfe713abf1d87f61d&to_app=hwbrowser&dy_scenario=topicinside&tn=32b2dd70833aa4d0f331e943e92982e3a6c4ddd656110c8d85611c7c1bd89eb5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称没有“阿里血脉”的灵犀将被出售",
+    "summary": "近日，阿里被曝计划以70亿-90亿元出售游戏业务灵犀互娱，已接触多家买家。灵犀前身为网易系团队创立的广州简悦，2017年被阿里收购后经历多次组织调整但未融入核心战略。其主力产品《三国志·战略版》虽表现优异，但阿里财报长期将其归入“其他分部”且未提及。",
+    "author": "钛媒体APP",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/105105009b07e2295d42eacfe713abf1d87f61d/8f5127705e4a4e3e95a773b1f5ed7687_1_5/hd.webp",
+    "realDate": "2026-06-24 10:15:27"
+  },
+  {
+    "id": "6d64dbc9551026dbd4de1c54d81d917a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074967873&to_app=hwbrowser&dy_scenario=topicinside&tn=d618150db947c9ae97235211630ada4c612b56dc4718849f7e209c75eaadb955&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "高通被曝正洽谈为字节跳动提供芯片设计服务",
+    "summary": "高通与字节跳动就芯片设计服务展开洽谈，若合作达成，后者将成为高通该业务首批客户。消息人士称，双方商讨定制专用芯片，可能涉及视频处理单元研发，目标年底量产。同时，高通正拓展数据中心芯片业务以降低对智能手机市场的依赖。谈判结果尚不确定，字节跳动或另寻合作方。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/eac7ebe286ad460c9aed3e27a821d2af_1_0/hd.webp",
+    "realDate": "2026-06-24 14:15:28"
+  },
+  {
+    "id": "93c319ef46dc3b5a68eacd2dd26fbe52",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448c06f6fc058849257b0dd33c05897fc50&to_app=hwbrowser&dy_scenario=topicinside&tn=bd27ff482208fce4c71ef481975f66220433142a3c5306e464874c4d274f89d2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌AI人才外流压力加剧：再失两名核心研究员转投Anthropic",
+    "summary": "谷歌再失两名AI核心研究员Adler与Pritzel，两人曾参与Gemini开发并主导编程与训练工作，近日转投Anthropic。此前诺奖得主Jumper及Transformer发明者Shazeer已相继离职。目前Anthropic估值达9650亿美元拟年内上市，加剧科技业人才争夺。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/3c632885b86542088782fe21fdabf8a3_1_0/hd.webp",
+    "realDate": "2026-06-25 03:35:37"
+  },
+  {
+    "id": "448d2ac385fa5739818d8bffab584cc7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282408477&to_app=hwbrowser&dy_scenario=topicinside&tn=0b794c725c4725dd791a5cc0b7670720f8fdf749badf5efda1e74fd94e53fd99&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达股东大会召开：黄仁勋豪言称AI投资回报率的问题“已有答案”",
+    "summary": "英伟达年度股东大会上，CEO黄仁勋强调AI数据中心是生产利润单位“词元”的工厂。公司全年营收增长65%至2160亿美元，数据中心收入达1940亿美元。同时，他透露Vera Rubin架构已量产，并预测“物理AI”将成新增长点。股东批准了高管薪酬方案及董事会连任等议案。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/f/v3/10510282408477/f9f7d87f5faa48ce83744e7d896d80ad_1_0/hd.webp",
+    "realDate": "2026-06-25 03:30:50"
+  },
+  {
+    "id": "831d6237fc7e6f0d911b7ef42125ed8b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124710900048693453299593&to_app=hwbrowser&dy_scenario=topicinside&tn=214039427aa88dbd1d0564524b4fb7629c0ec3aef4f0fc685c6947baf79cc488&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国自研全闪存储系统斩获IO500双料冠军",
+    "summary": "在德国汉堡ISC 2026大会上，我国中科曙光ParaStor F9000全闪存储系统斩获IO500生产型全节点和10节点双榜冠军。该系统专为AI训练设计，支持千亿级参数大模型部署时间缩短1倍，已在数万卡集群稳定运行超一年，为大规模计算提供高吞吐、低时延数据支撑。IO500榜单是衡量存储系统实际应用价值的权威标准。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/7f2afc133070404ea360c22fd87f3bea_1_0/hd.webp",
+    "realDate": "2026-06-24 19:41:06"
+  },
+  {
+    "id": "c1998d182129ceff8050c078267e1f32",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734218&to_app=hwbrowser&dy_scenario=topicinside&tn=09fa2acd6f0c3a9d75bf8a76850695c815bb9db4bea470f082c8ad6659c8af12&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国5G连接数占全球比重已超40%",
+    "summary": "GSMA报告显示，中国5G连接数占全球40%以上，5G-A已在330多座城市商用，用户超1000万。2025年移动技术将为中国创造1.5万亿美元经济价值，占GDP7.2%。同时，MWC26上海将展示人形机器人点球大战等创新成果，华为、中兴等企业将探讨AI与数智未来。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/fc227208b12b43b5be58c791b3f0d377_1_0/hd.webp",
+    "realDate": "2026-06-25 00:06:27"
+  },
+  {
+    "id": "a1255b71836397b52814e4c16bc9d27e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100418K1fAEy&to_app=hwbrowser&dy_scenario=topicinside&tn=1e5113b88ed36890932a9fe11a80afbf7f1e7bf7217ce426c0e208e1f776305c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "ChinaJoy将于7月31日举办 外资参展企业占三成",
+    "summary": "2026年ChinaJoy将于7月31日至8月3日在上海新国际博览中心举办，主题定为“与AI同游”。截至目前已有近900家企业参展，其中外资企业275家，来自39个国家和地区。",
+    "author": "新浪财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/bcf9d8de026049c7ada11f9cffe91cf4_1_0/hd.webp",
+    "realDate": "2026-06-24 15:54:15"
+  },
+  {
+    "id": "80c47540624ea688a662af04f1462d1c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074967746&to_app=hwbrowser&dy_scenario=topicinside&tn=f2c6cbc84f1129b8d1837e86bd69f75af2c270b926d20c635e60e14551e764c4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称台积电先进制程代工将全线涨价 涨幅5%-10%",
+    "summary": "近日，科技分析师蒂姆·库尔潘透露，台积电计划对所有7nm及以下先进制程代工服务涨价5%至10%，涵盖其75%的晶圆营收。管理层称此举是为效仿存储芯片行业涨价趋势。预计2026年台积电营收将突破1600亿美元，其中80%来自先进节点。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/172fea8f39ec4719bfde17b385441fe3_1_0/hd.webp",
+    "realDate": "2026-06-24 09:32:17"
+  },
+  {
+    "id": "8e1f53eb0ba5417838cb0ed1258710f9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074967717&to_app=hwbrowser&dy_scenario=topicinside&tn=fec6a73e1521788b073a09eca8a50bb78bd628f681fdbb0bba98448240b17c8d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SpaceX星落返回舱完成首飞 可运载1000公斤太空实验载荷",
+    "summary": "6月23日，SpaceX全新货运返回舱“星落”从佛罗里达州卡纳维拉尔角升空，完成首飞。该舱体可搭载猎鹰9号火箭运送1000公斤科研载荷至近地轨道并安全返回，专为太空制药等微重力实验设计。同时，其碳纤维防热大底采用氮气姿态控制系统，确保再入安全。试飞验证了该货运返回舱穿越大气层及精准着陆能力，溅落区位于太平洋海域。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_fbad287767ea4b2689d9941790732c85/b20546fe658b4d7395db69975c9f6477_1_0/hd.webp",
+    "realDate": "2026-06-24 07:39:16"
   }
 ]
