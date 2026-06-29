@@ -1,119 +1,101 @@
 [
   {
-    "id": "8a91bab7cca94120a28b4b77c2884ad5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774439812&to_app=hwbrowser&dy_scenario=topicinside&tn=db90f8d7036777aff77280cd842ca908af02e4ace0b2ef29c98f127512f49a04&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团股东会 王兴回应“两大失误”等问题",
-    "summary": "在近日的美团年度股东大会上，CEO王兴回应股价低迷称无减持计划，承认出海滞后及美团优选战略失误，提出严守财务纪律。CFO陈少晖称公司价值被低估将重启股票回购，并披露对外投资超650亿元。王兴认为AI短期不会颠覆行业但会持续布局。美团2025年净亏损186.5亿元，主因外卖及即时零售赛道千亿补贴竞争。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_442774fd6db4443cb6ab18711e9bd8b7/cabfa420926d4d0b90e19a28c5f68cf0_1_0/hd.webp",
-    "realDate": "2026-06-28 22:14:38"
-  },
-  {
-    "id": "0510541158df159b9465d5d6e4e9817d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105122102a998fa3f4f81d322b041dab4c3c657&to_app=hwbrowser&dy_scenario=topicinside&tn=14ecf755763ff1a1e0b86160ecde507b45f186075e40a9fb1eb69ef6510834c7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "大疆辟谣产品全系涨价3%-8%",
-    "summary": "近日，网传大疆全系产品将于7月15日起涨价3%-8%，对此大疆回应称该消息不实，目前官方指导价稳定。同时，全球电子产业链正经历成本上涨，MLCC和存储芯片价格近期大幅攀升，市场研究机构近日发布数据显示，PC用DDR4 8Gb内存平均价格达到20美元，较4月上涨25%，创下该机构自2016年6月追踪以来的历史最高值。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_442774fd6db4443cb6ab18711e9bd8b7/d7e664116d8d415bb56d152d27131676_1_0/hd.webp",
-    "realDate": "2026-06-28 22:19:00"
-  },
-  {
-    "id": "306184de8ee9a4dfb08685bca263af8d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169e9ba0975ae7805900d8b7e1b0cb17f7c&to_app=hwbrowser&dy_scenario=topicinside&tn=583b7425814466053b335100000ed4ace76d775827901938218066e0e36bb827&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "外媒称：苹果寻求获准从长鑫存储购买内存芯片",
-    "summary": "消息显示，苹果公司正游说美国政府，希望获准采购中国长鑫存储的内存芯片，以应对内存芯片涨价压力。目前苹果DRAM内存主要依赖美光、三星和SK海力士供应。长鑫存储2026年第一季度营收508亿元，同比增长719.13%。",
-    "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_442774fd6db4443cb6ab18711e9bd8b7/7b549c2b25c3459c8c5d36e623493036_1_0/hd.webp",
-    "realDate": "2026-06-27 14:33:57"
-  },
-  {
-    "id": "77427efdb8276f0fc09c0bc67d1c0997",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051642ID3FX56RYL7508L&to_app=hwbrowser&dy_scenario=topicinside&tn=e6d13cc48cb6266a21b2872775aa7e11efc79f3e233acebe4134885750cdb932&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "智元第1.5万台具身机器人量产下线",
-    "summary": "据悉，该次量产距第1万台下线不足3个月。其机器人已交付合作方龙旗科技投入智能制造。智元高管称量产是行业落地核心，目前年度需求超10万台。龙旗科技表示合作旨在提升柔性生产等三项能力。",
-    "author": "中国基金报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_442774fd6db4443cb6ab18711e9bd8b7/5d6c24269c7a414a856ff59a801739ef_1_0/hd.webp",
-    "realDate": "2026-06-28 22:31:00"
-  },
-  {
-    "id": "9920387f7c85886d5ef725a964c1a334",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282410998&to_app=hwbrowser&dy_scenario=topicinside&tn=86b0f763a762011ee5abe260d163b8e5384d9e4e2315380942d23a81e21c8822&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "特朗普政府或为Anthropic最强大模型“松绑”",
-    "summary": "消息显示，特朗普政府或在一周内解除对Anthropic模型Fable5的使用限制，该模型此前因安全疑虑已被暂停15天。美国国防部和国家安全局尚未批准最终方案，现有用户恢复使用条件未明确。同时，Anthropic的Claude Mythos 5已获准向部分“可信合作伙伴”开放，100多家公司和机构可访问。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/10510282410998/7bc264e878ac4e838d4bbfd8af9821ed_1_6/hd.webp",
-    "realDate": "2026-06-28 08:49:36"
-  },
-  {
-    "id": "0d1ad39d96b595b7c27ae52f8bdf4aa7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051024570948&to_app=hwbrowser&dy_scenario=topicinside&tn=c64cb1b413c0dbc13fb412424b0e4e8a34e67a0c0afb24a93c95261b77ca4581&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "航空货运成人工智能热潮的意外受益者",
-    "summary": "人工智能热潮推动航空货运需求激增，AI硬件如服务器机架、精密设备等因高价值、时效敏感成为空运主力。国泰货运指出，2026年全球航空货运收益率预计增长6.5%，AI相关货物虽仅占货运总量7%，却贡献53.5%货值，成为行业利润关键增长点。",
-    "author": "财经杂志",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_442774fd6db4443cb6ab18711e9bd8b7/d2affd2f7c3547a9b094bfa603d99f3f_1_0/hd.webp",
-    "realDate": "2026-06-28 11:49:52"
-  },
-  {
-    "id": "1153dddf4d29d1eecd0bb1dfa4725997",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734539&to_app=hwbrowser&dy_scenario=topicinside&tn=76f10c78b3bb23d2a0b89b6e6cc7bb5aed71959b070f32a894e321059534b663&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“背刺用户”上热搜 WPS称7月开放安装路径自定义",
-    "summary": "金山办公表示，WPS Office将于7月新版本中增加安装路径自定义和存储管理功能，解决用户反映的默认占用C盘、清理入口不清晰等问题。此前有用户发现WPS缓存文件长期占用C盘空间，批量清理需付费引发争议。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/99/v3/1051023734539/4069e73bff8441b1b08c8a3280cbebcc_1_2/hd.webp",
-    "realDate": "2026-06-28 09:26:56"
-  },
-  {
-    "id": "287561b7c4ab24f06bdd0e91ee59dd5b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103249563&to_app=hwbrowser&dy_scenario=topicinside&tn=2d8839b2643ff0f5ef362f5e18135e4fb12f460869a213d23f48331ad705ab5b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克拟收购光模块公司",
-    "summary": "近日，马斯克获准收购光模块公司Mesh Optical Technologies Corp，该公司由前SpaceX工程师创立，专注于数据中心光学通信技术，其产品可为AI工作负载提供高效能光收发器。此次收购或助力SpaceX推进太空算力战略。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/da/v3/1051044103249563/299bcca95ae5467e9cfd71b81902ad58_1_0/hd.webp",
-    "realDate": "2026-06-28 07:27:03"
-  },
-  {
-    "id": "67e329782cbf42575df880ea9c67b2a5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324870985&to_app=hwbrowser&dy_scenario=topicinside&tn=48204ac672eeec9842d4420b08e93fd785bb77c8bbad63c3cbcf3aa7df44ab43&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "IBM宣布芯片制程突破0.7nm 工程师却集体“挑刺”",
-    "summary": "IBM于6月25日宣布推出全球首款0.7纳米芯片，采用“Nanostack”三维堆叠技术，宣称可在指甲盖大小面积集成近1000亿个晶体管。不过，多位工程师质疑其实际物理尺寸未达0.7纳米，指出纳米片厚度约5纳米，间距9纳米，认为该技术突破在于架构创新而非制程微缩。",
+    "id": "c9431aac77a203b9812423abeb3f932b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324871177&to_app=hwbrowser&dy_scenario=topicinside&tn=758e53d84ff780936c209870b5591683d7d1df2073d4f647189ed8337192e008&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "收购仅一年即“决裂” 贾扬清出走英伟达",
+    "summary": "英伟达系统软件副总裁贾扬清近日离职，距离其创立的LeptonAI被以7亿美元收购仅一年。SemiAnalysis称离职因DGX Lepton运营未达预期，同时双方在开源承诺等方面存在分歧。贾扬清已出任GPU云服务商Hyperbolic顾问，业务方向与英伟达原职高度重合。",
     "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/10510324870985/22aaeaaccb184ff684db3dac3d85b4ea_1_3/hd.webp",
-    "realDate": "2026-06-28 12:30:32"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/a22a27699da74a0e94aa6af25a2b60d0_1_0/hd.webp",
+    "realDate": "2026-06-29 13:07:04"
   },
   {
-    "id": "bd4a08037d47e67144fccf82d5d71465",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510863570546&to_app=hwbrowser&dy_scenario=topicinside&tn=01b1f5ea85bb07b3a73f7fbba9c682526e16d732caf2fbc8e45258432624e67e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三条世界级产线在我国投产",
-    "summary": "中国建材集团6月28日宣布，中复神鹰连云港基地三条世界级碳纤维产线投产，国产化率超95%。包括年产千吨级SYT70高强碳纤维线（全球首次4米宽幅量产T1100级）、5000吨SYT45S-48K大丝束线（应用风电/新能源车）及600吨高模SYM40线（适配深空/体育/3C领域），覆盖航空航天等主流需求，规模均为全球同类型最大。",
-    "author": "极目新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/29/v3/10510863570546/ba0e9f0a361f4833aad750e959615acd_1_8/hd.webp",
-    "realDate": "2026-06-28 22:24:53"
+    "id": "ee6a5610ebb340cd4a834fbff708092d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512062b391ba538c1322b4a7bce06ee5a5d13&to_app=hwbrowser&dy_scenario=topicinside&tn=e617a695d287525d2c7e4acb95fd4a9a6eb2fab35e12907c4104ed7573598ca9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "腾讯被曝将推出独立支付App 公司最新回应",
+    "summary": "腾讯旗下一款名为“TenPayGo”的支付应用已上架应用商店，但注册环节显示“处于内部测试”。腾讯回应称，该应用是面向境外来华人员的“生活便利助手”，提供移动支付等一站式服务，目前仍在小范围测试。其支付能力依托微信支付体系，覆盖购物、餐饮等多个消费场景。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/917baec49fec434ca7068e55904d92ff_1_0/hd.webp",
+    "realDate": "2026-06-29 12:20:54"
   },
   {
-    "id": "21a883854ad849009fdeb9b63f8f8124",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282410926&to_app=hwbrowser&dy_scenario=topicinside&tn=bec227e09e1c28cb5146cd0998b6ec287fb656cc5c8a1842ad6824e8ede5a558&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "高纯度二氧化碳陷入短缺 存储巨头全力加紧采购",
-    "summary": "因炼油及石化工厂开工率下降导致产量减少，半导体先进制程所需高纯度二氧化碳供应趋紧。三星电子和SK海力士库存已跌破一个月水平，正全力加紧采购但难确保供应。该气体用于芯片超临界清洗工艺，液态二氧化碳价格较年初上涨约20%，供应紧张或持续至年底。",
+    "id": "46d98aeb3e9eca0e32d9b17634c59ecc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734689&to_app=hwbrowser&dy_scenario=topicinside&tn=1e5319c8e9350fdbad6dc0cc9de207dbd671fbe805bf07f9f0d40b273713b2ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国加密货币交易所Coinbase等企业转向中国大模型",
+    "summary": "近日，美国加密货币交易所Coinbase将中国智谱的GLM 5.2和月之暗面的Kimi K2.7设为工程师默认大模型，CEO称此举使AI支出压缩近半。GLM 5.2在多项评测中超越GPT 5.5，价格仅为Opus 4.8几分之一。同时，美国AI公司Lindy等企业也转向中国开源模型以降低成本。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f5/v3/1051023734689/f627991417a34ede92216dfcfb965c38_1_3/hd.webp",
+    "realDate": "2026-06-29 18:11:29"
+  },
+  {
+    "id": "89fff83a2b16c1c40efc0414ab4ca61e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L0JHJQ7U0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=f777a130803c00421b2980e0ff1c46d284c0620cc1302e193539bb6d9adcb168&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "姚班传奇陈立杰苦思7年的计算几何核心难题 被ChatGPT推翻了",
+    "summary": "近日，GPT 5.5 Pro生成数学证明，解决了计算几何中“最远点对”等经典难题在超常数维度下的时间复杂性。该问题由清华姚班校友、OpenAI研究员陈立杰7年前推进至接近极限，而突破关键技术源自他上月参与的反证Erdős单位距离猜想工作。陈立杰在社交平台惊叹这一成果。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/0b25035690a245659284a0197daad818_1_0/hd.webp",
+    "realDate": "2026-06-29 13:21:55"
+  },
+  {
+    "id": "8330b146d7f67ca0a47c57128ae85555",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282411430&to_app=hwbrowser&dy_scenario=topicinside&tn=5916a478c00a752a8023a8fa6500f1f3ebce70cbb6b82a00f009d4853e6265e9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克称：Grok 4.5内测已比肩Opus 今年每月都发布一个全新大模型",
+    "summary": "马斯克宣布，Grok 4.5大模型已在SpaceX和特斯拉内部开启Beta测试，早期评测显示其性能接近或超越Anthropic的Claude Opus。同时，他透露SpaceX计划今年每月发布一个全新AI模型。Grok 4.5基于1.5万亿参数V9模型打造，并加入Cursor编程工具数据。此前SpaceX宣布以600亿美元收购Cursor开发商Anysphere，预计2026年第三季度完成交易。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c1/v3/10510282410926/3d566bc6664a4aa18fef500678c7df2d_1_0/hd.webp",
-    "realDate": "2026-06-27 20:07:18"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/f1518616d5054fc782b4d1682aa96e62_1_0/hd.webp",
+    "realDate": "2026-06-29 11:02:41"
   },
   {
-    "id": "bfb3d558fd0fc7ce06371181568567e9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282410994&to_app=hwbrowser&dy_scenario=topicinside&tn=0e9863821776d6eac8c0b4996f999ad5e2a5c2870be8068e5daff4d9fb5f273f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国内首个 第四代半导体材料全产业链项目落户郑州",
-    "summary": "该项目由中科粉研（河南）超硬材料有限公司投资建设，依托全球首条LPPHT微纳米金刚石产线技术，将实现第四代半导体核心材料的自主研发与规模量产，填补河南超硬材料产业链关键环节。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/10510282410994/f6ced0cc1e42435da7cad7cc1e0eec1d_1_6/hd.webp",
-    "realDate": "2026-06-28 08:16:57"
+    "id": "979e14860aba2515e09932792db76cf3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051657c83cd8f48bf86d8d49415e959f797815&to_app=hwbrowser&dy_scenario=topicinside&tn=a21dc8c2edcb4b0fd07ce9c8b55b1a8f569e50f73d8629a57c29ae4739ac215a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国移动回应成立Token办公室",
+    "summary": "近日，中国移动确认在集团层面成立Token办公室，行政层级高于算力办公室，由核心领导直接统筹。该机构对标阿里ATH模式，整合AI能力应对行业变局。一季度财报显示，其传统通信业务收入下降1.1%，而AI Token需求两年增长超千倍。董事长陈忠岳称Token是智能时代新计量单位。",
+    "author": "南方都市报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/abb45b595dfb44f5b6b4feb185752618_1_0/hd.webp",
+    "realDate": "2026-06-29 21:28:56"
   },
   {
-    "id": "3c8397259465f20638d34ae95413da4a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124717996905121461315672&to_app=hwbrowser&dy_scenario=topicinside&tn=d64f0d613eb67535fea8ff664dc86cb409577aa2432720a123f3211e5e28d896&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国核聚变堆超导磁体研发取得重要突破",
-    "summary": "我国“聚变堆主机关键系统综合研究设施”最大超导部件环向场磁体完成制备并通过验收，其长21米、重582吨，为国际最大聚变堆超导磁体。同时，高温超导中心螺管线圈磁体也通过满工况测试，两项技术均实现国产化，性能达国际领先水平，为核聚变堆建设奠定工程基础。",
+    "id": "ee0d3543622c81b3374579a619b03b1d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774440481&to_app=hwbrowser&dy_scenario=topicinside&tn=cc37a822479e422d68f37d721588dd7eb689ec8ffad1e67428d96cd4e692996d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "骑共享单车79分钟花费30元 哈啰单车回应",
+    "summary": "近日，有一上海市民骑哈啰“追风者”共享变速车79分钟被收费30元，其儿子骑普通小黄车同样时间仅6.5元。对此哈啰回应称，该车型因配置高端定价较高，前30分钟15元，之后每30分钟7.5元。部分车辆未悬挂价格提示牌，客服建议用户骑行前查看系统内展示的车型价格。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/c7195fe8c8e44320904f633284080fa3_1_0/hd.webp",
+    "realDate": "2026-06-29 15:23:32"
+  },
+  {
+    "id": "cdd1a3bc0b33065dfb5750f60a53f53d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512210214cc226a8bcb8a9732b7c15effd32c&to_app=hwbrowser&dy_scenario=topicinside&tn=c26948e73cb79eb06c29ef458a07c9383a7b8c6a76c54af858cc80dc83e4406b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "近20家半导体企业 开启新一轮涨价潮",
+    "summary": "近日，全球近20家模拟及功率半导体企业宣布7月1日起涨价，包括英飞凌、宏微科技、华润微等厂商年内已多次调价。涨价主因晶圆代工及原材料成本上升，同时AI数据中心建设推高功率芯片需求。部分产品涨幅达15%-25%，订单能见度最高达9个月。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/dc277dc9cb3840229645b95b0fd1d5f6_1_0/hd.webp",
+    "realDate": "2026-06-29 15:05:00"
+  },
+  {
+    "id": "60b6750b402f664bebd2b9a4b146d5ed",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473133265634218296743&to_app=hwbrowser&dy_scenario=topicinside&tn=a0b7f56358d61db4cc2ce96635cd4f761c0b3e94d497ee946285abafa682d331&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "游戏数据竟被用于军事目的 国安部门发布提示",
+    "summary": "近日，国家安全部披露某知名AR手游通过用户扫描环境获取近300亿份三维地理数据，可能被合作军工企业用于军事AI模型训练。该游戏以AR互动为名，实则采集高精度空间坐标、深度信息及用户行动轨迹，数据可精准复现实景。同时，国安部门提示此类数据滥用可能侵犯个人隐私、破坏行业信任并危害国家安全，建议用户谨慎授权定位及相机权限，避免在敏感区域使用相关功能。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/105124717996905121461315672/5a063a78ea8b44cb9cac6e46ac2a0028_1_5/hd.webp",
-    "realDate": "2026-06-27 10:00:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/02/v3/10512473133265634218296743/a97d75b2e5ba4ceea56d2e18536dd391_1_0/hd.webp",
+    "realDate": "2026-06-29 07:12:01"
+  },
+  {
+    "id": "5f0bceb51cdee93ef8203ae6f74edf26",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124716749824354875685040&to_app=hwbrowser&dy_scenario=topicinside&tn=33092bbeba7672292d62489635b3900042c4e474aaf43177fee8a7f1e6d855ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "破解代码迁移难题 国产“异算方舟”全栈计算平台正式发布",
+    "summary": "近日，中科院计算机网络信息中心等单位联合研发的“异算方舟”国产计算系统软件生态全栈平台正式上线。该平台通过算法库、代码转换大模型Bound X等三层核心能力，解决国产算力下软件适配难、代码迁移难等问题，实现算法性能十倍提速，助力科研代码快速适配国产设备。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/105124716749824354875685040/f473de565d8f4abf80c333a6cd95e794_1_4/hd.webp",
+    "realDate": "2026-06-29 10:00:00"
+  },
+  {
+    "id": "61095991e34d979b72228d85d9a8a839",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124715161466827470105134&to_app=hwbrowser&dy_scenario=topicinside&tn=34cd38b0512bd2bb3b042d04134a78fa2536d3ba931ef413ec0c19170a416f05&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "轻舟试验飞船第二批在轨试验成果发布",
+    "summary": "6月29日，中科院微小卫星创新研究院发布轻舟试验飞船第二批在轨试验成果，涉及太空精密检测、航天降本增效等领域。该飞船搭载的改进型空间制冷冰箱突破微重力运行难题，肌电检测仪实现肌肉信号连续采集，工业级生物保障舱完成在轨试验。飞船正样件预计2027年发射，将为中国空间站提供货运服务。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/52/v3/105124715161466827470105134/470fafad9ba646ac982bc203f0a7d9d8_1_3/hd.webp",
+    "realDate": "2026-06-29 13:00:00"
   }
 ]
