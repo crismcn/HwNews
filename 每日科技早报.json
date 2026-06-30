@@ -1,101 +1,101 @@
 [
   {
-    "id": "c9431aac77a203b9812423abeb3f932b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324871177&to_app=hwbrowser&dy_scenario=topicinside&tn=758e53d84ff780936c209870b5591683d7d1df2073d4f647189ed8337192e008&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "收购仅一年即“决裂” 贾扬清出走英伟达",
-    "summary": "英伟达系统软件副总裁贾扬清近日离职，距离其创立的LeptonAI被以7亿美元收购仅一年。SemiAnalysis称离职因DGX Lepton运营未达预期，同时双方在开源承诺等方面存在分歧。贾扬清已出任GPU云服务商Hyperbolic顾问，业务方向与英伟达原职高度重合。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/a22a27699da74a0e94aa6af25a2b60d0_1_0/hd.webp",
-    "realDate": "2026-06-29 13:07:04"
+    "id": "142c9aa22c1093e7b17e121ec3db8dc7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511184327c05c45f6a9eff6ed0c8c92ab2ffb&to_app=hwbrowser&dy_scenario=topicinside&tn=ff6ca0408e9220ba4a37c8836e036c907b66e1d215f87fbea0939e37bc2225ce&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "时隔四年 字节跳动新调整",
+    "summary": "6月29日，字节跳动CEO梁汝波宣布更新公司文化内容，首次提出“通过计算换智能”的AI战略路径，并将领导力原则调整为10条，新增“做有高度的事”等条目。邮件明确新版原则将作为2026年绩效评估依据，同时披露豆包大模型日均调用量达180万亿，火山引擎占中国MaaS市场49.5%份额。此次调整距上次文化更新已隔四年。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/ae7c47f89fd44af3b61880362c004c38_1_0/hd.webp",
+    "realDate": "2026-06-30 19:30:59"
   },
   {
-    "id": "ee6a5610ebb340cd4a834fbff708092d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512062b391ba538c1322b4a7bce06ee5a5d13&to_app=hwbrowser&dy_scenario=topicinside&tn=e617a695d287525d2c7e4acb95fd4a9a6eb2fab35e12907c4104ed7573598ca9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "腾讯被曝将推出独立支付App 公司最新回应",
-    "summary": "腾讯旗下一款名为“TenPayGo”的支付应用已上架应用商店，但注册环节显示“处于内部测试”。腾讯回应称，该应用是面向境外来华人员的“生活便利助手”，提供移动支付等一站式服务，目前仍在小范围测试。其支付能力依托微信支付体系，覆盖购物、餐饮等多个消费场景。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/917baec49fec434ca7068e55904d92ff_1_0/hd.webp",
-    "realDate": "2026-06-29 12:20:54"
+    "id": "45c7d08d6927b2d8cafeb9d11fcf5bc7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053dad56c0a243033b1b4f57682020b0fb4&to_app=hwbrowser&dy_scenario=topicinside&tn=75a7b03d8724b1e6fb931aadad20b55b857d763316c6376b03265c713c80c672&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全国首个！依靠国产算力完成训练推理 万亿参数大模型发布",
+    "summary": "6月30日，美团正式发布新一代基础大模型LongCat-2.0。据悉，LongCat-2.0采用MoE架构，总参数规模1.6万亿，每个Token激活参数约480亿，可一次处理百万字级输入。值得一提的是，LongCat-2.0全程在国产算力上完成训练，峰值规模超过5万张国产算力卡，是迄今为止国产算力上完成的最大训练任务。",
+    "author": "科技日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/d222e6a9315a46daafb59aa5b7fef11b_1_0/hd.webp",
+    "realDate": "2026-06-30 19:07:39"
   },
   {
-    "id": "46d98aeb3e9eca0e32d9b17634c59ecc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734689&to_app=hwbrowser&dy_scenario=topicinside&tn=1e5319c8e9350fdbad6dc0cc9de207dbd671fbe805bf07f9f0d40b273713b2ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国加密货币交易所Coinbase等企业转向中国大模型",
-    "summary": "近日，美国加密货币交易所Coinbase将中国智谱的GLM 5.2和月之暗面的Kimi K2.7设为工程师默认大模型，CEO称此举使AI支出压缩近半。GLM 5.2在多项评测中超越GPT 5.5，价格仅为Opus 4.8几分之一。同时，美国AI公司Lindy等企业也转向中国开源模型以降低成本。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f5/v3/1051023734689/f627991417a34ede92216dfcfb965c38_1_3/hd.webp",
-    "realDate": "2026-06-29 18:11:29"
+    "id": "dac755cce9d9aa01245023b523263c18",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104a42a677425a8b55a2db69dc757fd4ba2&to_app=hwbrowser&dy_scenario=topicinside&tn=b07eae6115cdf9299d77f6f6a257c0e99f2e1b2d66452793398b3e444fe24dbe&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI研发高效推理方案：模型运行成本降低50%",
+    "summary": "OpenAI近日通过优化技术和自研ASIC芯片“墨西哥胡椒”，成功将模型推理成本降低50%以上。该方案在ChatGPT访客使用场景中，将所需英伟达GPU数量压缩至数百个。专用芯片设计摆脱了通用GPU架构限制，使硬件突破带来实质性重构，同时减少了对英伟达GPU的依赖。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/1c2c20611e5744b19a7589be52a33e23_1_0/hd.webp",
+    "realDate": "2026-07-01 00:26:55"
   },
   {
-    "id": "89fff83a2b16c1c40efc0414ab4ca61e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L0JHJQ7U0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=f777a130803c00421b2980e0ff1c46d284c0620cc1302e193539bb6d9adcb168&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "姚班传奇陈立杰苦思7年的计算几何核心难题 被ChatGPT推翻了",
-    "summary": "近日，GPT 5.5 Pro生成数学证明，解决了计算几何中“最远点对”等经典难题在超常数维度下的时间复杂性。该问题由清华姚班校友、OpenAI研究员陈立杰7年前推进至接近极限，而突破关键技术源自他上月参与的反证Erdős单位距离猜想工作。陈立杰在社交平台惊叹这一成果。",
+    "id": "1588f8864b50c77e61f689d4b6d5b5a2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L0M43RGM0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=ff0c4d9bde285cb8e49377dde765e68d5643f590e21e2579b2c0a3264530cae9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“中国第一”直逼OpenAI！神秘“扫地僧”模型冲到全球前七",
+    "summary": "近日，中国AI模型MopMonk以73.1%胜率冲入CyberGym全球第七，创中国团队在该榜单最佳成绩。该基准由UC Berkeley团队打造，含1507个真实漏洞实例，被誉为“AI安全奥运会”。MopMonk基于MiniMax M3模型打造，但开发团队至今未公开身份。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/0b25035690a245659284a0197daad818_1_0/hd.webp",
-    "realDate": "2026-06-29 13:21:55"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/110ee196a65b4f92827be5a825ea3fcf_1_0/hd.webp",
+    "realDate": "2026-06-30 13:23:44"
   },
   {
-    "id": "8330b146d7f67ca0a47c57128ae85555",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282411430&to_app=hwbrowser&dy_scenario=topicinside&tn=5916a478c00a752a8023a8fa6500f1f3ebce70cbb6b82a00f009d4853e6265e9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克称：Grok 4.5内测已比肩Opus 今年每月都发布一个全新大模型",
-    "summary": "马斯克宣布，Grok 4.5大模型已在SpaceX和特斯拉内部开启Beta测试，早期评测显示其性能接近或超越Anthropic的Claude Opus。同时，他透露SpaceX计划今年每月发布一个全新AI模型。Grok 4.5基于1.5万亿参数V9模型打造，并加入Cursor编程工具数据。此前SpaceX宣布以600亿美元收购Cursor开发商Anysphere，预计2026年第三季度完成交易。",
+    "id": "93aabb2f383a67c52dc941f514b9270c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734840&to_app=hwbrowser&dy_scenario=topicinside&tn=c38c2c4bc26889eda9b39dadd10c0df98d0bf6cf7ba2ebb1da764048d4c60462&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "第一所！中国机器人学校开学了",
+    "summary": "中国首所机器人学校6月29日在杭州开学，首批30台机器人入学。它们将接受“无际大脑”硬件升级，分技校、卫校、艺校、体校四类专业培养，通过视觉处理、定位等能力训练后需考取《专项技能等级证书》方可上岗。该校采用人类职教体系，涵盖伦理安全等五维培育，机器人毕业后仍可持续学习。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/7df2442d3d6f4b60b3a0d1e5cde4a7ed_1_0/hd.webp",
+    "realDate": "2026-06-30 19:57:19"
+  },
+  {
+    "id": "ad5999ae0aef09ea621d1298ff443e5e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074970466&to_app=hwbrowser&dy_scenario=topicinside&tn=18911952c301cba1f91a06f8b4243a2aa5cc729792c44768ff3bf42a1ecaf4cd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为open Pangu-2.0-Flash模型正式开源上线",
+    "summary": "该模型参数达920亿，包含权重、推理代码及训推算子。同时，Pro版本将于7月开源。open Pangu是华为开源AI品牌，旨在为昇腾技术提供实践参考，推动AI生态发展。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/8a2d17bb7e804801b9f3bcff38708c29_1_0/hd.webp",
+    "realDate": "2026-06-30 12:27:05"
+  },
+  {
+    "id": "b2b650ada2d54249af2562b08eb6b5f3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074970345&to_app=hwbrowser&dy_scenario=topicinside&tn=9620efa1ccda020507651e682dad9a27f9b9142e3ad76a952fb6163cc9f9187b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称亚马逊AWS将按Token向Anthropic支付模型使用费",
+    "summary": "亚马逊与Anthropic近日达成新协议，AWS平台运行后者AI模型将按Token而非算力计费。目前亚马逊Alexa购物助手等多项业务依赖Anthropic技术，此举或为降低运营成本。该公司高级副总裁透露，计划2026年前推出自有前沿模型以减少对外部技术的依赖。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/dc00e37b6f1c47418497833ceaf811a5_1_0/hd.webp",
+    "realDate": "2026-06-30 11:07:20"
+  },
+  {
+    "id": "6c79eb6cd2eaa9b45608ba207ba8b589",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uNH6TApRHB&to_app=hwbrowser&dy_scenario=topicinside&tn=58ed07fa3183bfea7ddfa2cf7dee7dbe9337f27737a59639203a6a3fb1a5eb51&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称小红书启动“达尔文”创业孵化项目 核心人员有望出任产品负责人",
+    "summary": "近日，小红书内部启动“达尔文”创业孵化项目，面向员工开放报名。入选者将脱产参与孵化，由L3级别高管带队，对接平台资源，目标打造小红书级别新产品。项目成功后，核心成员有望直接出任产品负责人，职级从L1起步。公司尚未对此公开回应。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/962b627c764849cbac68f4109e6b4a0b_1_0/hd.webp",
+    "realDate": "2026-06-30 11:18:56"
+  },
+  {
+    "id": "a301dc1daf79a3cdcc6f86f781a29152",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074970260&to_app=hwbrowser&dy_scenario=topicinside&tn=e959e3aa369ba4407d2e480a145e7fb647b7e07b224b83d0d7f7b3a1dbfbdbaa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "XBOX下月新一轮大裁员在即 工会呼吁微软坐到谈判桌前",
+    "summary": "微软游戏部门或于7月启动大规模裁员，XBOX新任CEO承认业务扩张过度致收入下滑。美国通信工人工会要求高管公开裁员信息并提供就业保障，指出微软CEO去年薪酬达9600万美元，企业有能力保护员工。工会代表3500名员工，此前已促成多个团队成立工会并签订保障合同。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/dd7c00748bc041cbadc6f562f16a01a5_1_0/hd.webp",
+    "realDate": "2026-06-30 08:16:11"
+  },
+  {
+    "id": "e0c64036f5a5f00ecc594d977a8471db",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614667750&to_app=hwbrowser&dy_scenario=topicinside&tn=8619c27e77c7d322cc1e000637811196ae00711a7ef56a321ccccd6b127e34c9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "钙钛矿太空光伏电池明年有望量产",
+    "summary": "京津冀科研团队在钙钛矿太空光伏电池领域取得突破，陈棋团队通过三年上百次配方优化，研发出成本仅为砷化镓电池十分之一的新型电池。该团队已在昌平建设全球首条中试线，预计2027年量产，2028年商业化，以满足全球低轨卫星组网对太空电力的需求。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/5e633f658ac74d9c88e827104cd40d73_1_0/hd.webp",
+    "realDate": "2026-06-29 23:36:20"
+  },
+  {
+    "id": "4f785a8a5819a94805bb5ee24701726b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282412385&to_app=hwbrowser&dy_scenario=topicinside&tn=e89170381472557cc3cd6b3b95d408fae41da65f66a8c351ab6cebb209a35c2e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智能体互联国标来了：50家企业已试点 业内预计下半年见影响",
+    "summary": "近日，国家市场监督管理总局发布《人工智能 智能体互联》系列国家标准，解决智能体间通信接口不统一、身份管理体系缺失等问题。目前已有50多家企业开展试点应用，业内预计下半年将显现影响。该标准旨在建立覆盖身份标识到工具调用的闭环规范体系，打破厂商间“信息孤岛”现象。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/f1518616d5054fc782b4d1682aa96e62_1_0/hd.webp",
-    "realDate": "2026-06-29 11:02:41"
-  },
-  {
-    "id": "979e14860aba2515e09932792db76cf3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051657c83cd8f48bf86d8d49415e959f797815&to_app=hwbrowser&dy_scenario=topicinside&tn=a21dc8c2edcb4b0fd07ce9c8b55b1a8f569e50f73d8629a57c29ae4739ac215a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国移动回应成立Token办公室",
-    "summary": "近日，中国移动确认在集团层面成立Token办公室，行政层级高于算力办公室，由核心领导直接统筹。该机构对标阿里ATH模式，整合AI能力应对行业变局。一季度财报显示，其传统通信业务收入下降1.1%，而AI Token需求两年增长超千倍。董事长陈忠岳称Token是智能时代新计量单位。",
-    "author": "南方都市报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/abb45b595dfb44f5b6b4feb185752618_1_0/hd.webp",
-    "realDate": "2026-06-29 21:28:56"
-  },
-  {
-    "id": "ee0d3543622c81b3374579a619b03b1d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774440481&to_app=hwbrowser&dy_scenario=topicinside&tn=cc37a822479e422d68f37d721588dd7eb689ec8ffad1e67428d96cd4e692996d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "骑共享单车79分钟花费30元 哈啰单车回应",
-    "summary": "近日，有一上海市民骑哈啰“追风者”共享变速车79分钟被收费30元，其儿子骑普通小黄车同样时间仅6.5元。对此哈啰回应称，该车型因配置高端定价较高，前30分钟15元，之后每30分钟7.5元。部分车辆未悬挂价格提示牌，客服建议用户骑行前查看系统内展示的车型价格。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/c7195fe8c8e44320904f633284080fa3_1_0/hd.webp",
-    "realDate": "2026-06-29 15:23:32"
-  },
-  {
-    "id": "cdd1a3bc0b33065dfb5750f60a53f53d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512210214cc226a8bcb8a9732b7c15effd32c&to_app=hwbrowser&dy_scenario=topicinside&tn=c26948e73cb79eb06c29ef458a07c9383a7b8c6a76c54af858cc80dc83e4406b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "近20家半导体企业 开启新一轮涨价潮",
-    "summary": "近日，全球近20家模拟及功率半导体企业宣布7月1日起涨价，包括英飞凌、宏微科技、华润微等厂商年内已多次调价。涨价主因晶圆代工及原材料成本上升，同时AI数据中心建设推高功率芯片需求。部分产品涨幅达15%-25%，订单能见度最高达9个月。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/Topic_ecc9383eb98f4235a1fed6e47bcc6e4c/dc277dc9cb3840229645b95b0fd1d5f6_1_0/hd.webp",
-    "realDate": "2026-06-29 15:05:00"
-  },
-  {
-    "id": "60b6750b402f664bebd2b9a4b146d5ed",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473133265634218296743&to_app=hwbrowser&dy_scenario=topicinside&tn=a0b7f56358d61db4cc2ce96635cd4f761c0b3e94d497ee946285abafa682d331&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "游戏数据竟被用于军事目的 国安部门发布提示",
-    "summary": "近日，国家安全部披露某知名AR手游通过用户扫描环境获取近300亿份三维地理数据，可能被合作军工企业用于军事AI模型训练。该游戏以AR互动为名，实则采集高精度空间坐标、深度信息及用户行动轨迹，数据可精准复现实景。同时，国安部门提示此类数据滥用可能侵犯个人隐私、破坏行业信任并危害国家安全，建议用户谨慎授权定位及相机权限，避免在敏感区域使用相关功能。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/02/v3/10512473133265634218296743/a97d75b2e5ba4ceea56d2e18536dd391_1_0/hd.webp",
-    "realDate": "2026-06-29 07:12:01"
-  },
-  {
-    "id": "5f0bceb51cdee93ef8203ae6f74edf26",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124716749824354875685040&to_app=hwbrowser&dy_scenario=topicinside&tn=33092bbeba7672292d62489635b3900042c4e474aaf43177fee8a7f1e6d855ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "破解代码迁移难题 国产“异算方舟”全栈计算平台正式发布",
-    "summary": "近日，中科院计算机网络信息中心等单位联合研发的“异算方舟”国产计算系统软件生态全栈平台正式上线。该平台通过算法库、代码转换大模型Bound X等三层核心能力，解决国产算力下软件适配难、代码迁移难等问题，实现算法性能十倍提速，助力科研代码快速适配国产设备。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1a/v3/105124716749824354875685040/f473de565d8f4abf80c333a6cd95e794_1_4/hd.webp",
-    "realDate": "2026-06-29 10:00:00"
-  },
-  {
-    "id": "61095991e34d979b72228d85d9a8a839",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124715161466827470105134&to_app=hwbrowser&dy_scenario=topicinside&tn=34cd38b0512bd2bb3b042d04134a78fa2536d3ba931ef413ec0c19170a416f05&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "轻舟试验飞船第二批在轨试验成果发布",
-    "summary": "6月29日，中科院微小卫星创新研究院发布轻舟试验飞船第二批在轨试验成果，涉及太空精密检测、航天降本增效等领域。该飞船搭载的改进型空间制冷冰箱突破微重力运行难题，肌电检测仪实现肌肉信号连续采集，工业级生物保障舱完成在轨试验。飞船正样件预计2027年发射，将为中国空间站提供货运服务。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/52/v3/105124715161466827470105134/470fafad9ba646ac982bc203f0a7d9d8_1_3/hd.webp",
-    "realDate": "2026-06-29 13:00:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/44b62972b38a4048bb1e635449a9ddf5_1_0/hd.webp",
+    "realDate": "2026-06-30 09:23:37"
   }
 ]
