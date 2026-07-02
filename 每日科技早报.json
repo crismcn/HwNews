@@ -1,101 +1,128 @@
 [
   {
-    "id": "142c9aa22c1093e7b17e121ec3db8dc7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511184327c05c45f6a9eff6ed0c8c92ab2ffb&to_app=hwbrowser&dy_scenario=topicinside&tn=ff6ca0408e9220ba4a37c8836e036c907b66e1d215f87fbea0939e37bc2225ce&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "时隔四年 字节跳动新调整",
-    "summary": "6月29日，字节跳动CEO梁汝波宣布更新公司文化内容，首次提出“通过计算换智能”的AI战略路径，并将领导力原则调整为10条，新增“做有高度的事”等条目。邮件明确新版原则将作为2026年绩效评估依据，同时披露豆包大模型日均调用量达180万亿，火山引擎占中国MaaS市场49.5%份额。此次调整距上次文化更新已隔四年。",
+    "id": "2b344ce1f584eb5ce7c0c520d8667df7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023735049&to_app=hwbrowser&dy_scenario=topicinside&tn=46e9a3025ce25f4177dd38ff0cfa5ee4090d59a4a63651a0b51386c02cd09b61&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌操纵购物搜索结果被判赔20亿美元",
+    "summary": "瑞典法院7月1日判决谷歌因操纵购物搜索结果需赔偿约20亿美元。案件由Klarna旗下Pricerunner提起，指控谷歌十余年来优先展示自有比价服务损害竞争。法院认定谷歌行为与市场损害相关，Klarna称裁决维护了消费者利益。谷歌表示将上诉，并称2017年已调整展示机制改善竞争。此前欧盟2017年对谷歌开出24亿欧元反垄断罚单，德国法院也裁定其赔偿5.73亿欧元。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/e77e98de4f0b46e1b07bd0eab7c541da_1_0/hd.webp",
+    "realDate": "2026-07-02 13:26:55"
+  },
+  {
+    "id": "8c6e36a20c7d13cc305e38c64aa28382",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118cb15b7eb3b01e4ec6f35ed6e29033f8f&to_app=hwbrowser&dy_scenario=topicinside&tn=8fb3c4be53bda3e1311f198cc071487759cb5d7402ed38eeea81fc58d6b480c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "先进封装巨头日月光宣布涨价20%",
+    "summary": "全球最大半导体封装测试供应商日月光7月1日起上调先进封装报价，最高涨幅超20%，涉及CoWoS、FoCoS等技术。公司COO称涨价因原材料成本上升及资本开支增加，其年度投资额将从20亿美元增至今年85亿美元。AI算力需求推动2.5D/3D封装市场快速增长，预计2031年规模达1090亿美元。",
     "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/ae7c47f89fd44af3b61880362c004c38_1_0/hd.webp",
-    "realDate": "2026-06-30 19:30:59"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ba/v3/1051118cb15b7eb3b01e4ec6f35ed6e29033f8f/1695888e5f7348e3a24560da49e12504_1_4/hd.webp",
+    "realDate": "2026-07-02 08:32:03"
   },
   {
-    "id": "45c7d08d6927b2d8cafeb9d11fcf5bc7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053dad56c0a243033b1b4f57682020b0fb4&to_app=hwbrowser&dy_scenario=topicinside&tn=75a7b03d8724b1e6fb931aadad20b55b857d763316c6376b03265c713c80c672&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全国首个！依靠国产算力完成训练推理 万亿参数大模型发布",
-    "summary": "6月30日，美团正式发布新一代基础大模型LongCat-2.0。据悉，LongCat-2.0采用MoE架构，总参数规模1.6万亿，每个Token激活参数约480亿，可一次处理百万字级输入。值得一提的是，LongCat-2.0全程在国产算力上完成训练，峰值规模超过5万张国产算力卡，是迄今为止国产算力上完成的最大训练任务。",
-    "author": "科技日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/d222e6a9315a46daafb59aa5b7fef11b_1_0/hd.webp",
-    "realDate": "2026-06-30 19:07:39"
+    "id": "5c9dfdeed6e2ddc63987d61514d34b67",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105121710237056059188697&to_app=hwbrowser&dy_scenario=topicinside&tn=5383a7ff1096b297c7f52726b29c9bc10f67f4db788bcd42a5e5ad6e6e99bde1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "HarmonyOS 6终端设备数突破7000万",
+    "summary": "7月2日，华为终端BG CEO何刚宣布，HarmonyOS 6终端设备数正式突破7000万台。截至2026年6月，全球鸿蒙开发者规模已超1100万，华为应用市场可获取的鸿蒙应用与服务突破38万款。",
+    "author": "花先锋队长",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/20/v3/105121710237056059188697/1c8341aa1fe94d80b458a03c9a0ddd05_1_5/hd.webp",
+    "realDate": "2026-07-02 09:32:44"
   },
   {
-    "id": "dac755cce9d9aa01245023b523263c18",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104a42a677425a8b55a2db69dc757fd4ba2&to_app=hwbrowser&dy_scenario=topicinside&tn=b07eae6115cdf9299d77f6f6a257c0e99f2e1b2d66452793398b3e444fe24dbe&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI研发高效推理方案：模型运行成本降低50%",
-    "summary": "OpenAI近日通过优化技术和自研ASIC芯片“墨西哥胡椒”，成功将模型推理成本降低50%以上。该方案在ChatGPT访客使用场景中，将所需英伟达GPU数量压缩至数百个。专用芯片设计摆脱了通用GPU架构限制，使硬件突破带来实质性重构，同时减少了对英伟达GPU的依赖。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/1c2c20611e5744b19a7589be52a33e23_1_0/hd.webp",
-    "realDate": "2026-07-01 00:26:55"
+    "id": "638aee7c8abce10d4aaca2b1a3af31d7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448f124ef4340a14fcb34a98940fdc04533&to_app=hwbrowser&dy_scenario=topicinside&tn=2d3b615bc944b0771138d8ab1ff0f1c783989f2c985c5f00f76f27555a95ab11&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "跨越安全红线后重启：Anthropic Fable 5全面接入GitHub Copilot",
+    "summary": "Anthropic旗下Claude Fable 5模型在经历此前因安全风险被GitHub Copilot下架后，于美东时间7月1日重新全面上线。该模型为Mythos系列首款产品，曾因网络安全测试中暴露潜在漏洞被暂停使用。此次回归标志着Anthropic完成安全修复，并通过GitHub Copilot这一核心渠道重新开放给开发者。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/c06a80ef88294d06a0b386f82adb6d51_1_0/hd.webp",
+    "realDate": "2026-07-02 06:52:50"
   },
   {
-    "id": "1588f8864b50c77e61f689d4b6d5b5a2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L0M43RGM0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=ff0c4d9bde285cb8e49377dde765e68d5643f590e21e2579b2c0a3264530cae9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“中国第一”直逼OpenAI！神秘“扫地僧”模型冲到全球前七",
-    "summary": "近日，中国AI模型MopMonk以73.1%胜率冲入CyberGym全球第七，创中国团队在该榜单最佳成绩。该基准由UC Berkeley团队打造，含1507个真实漏洞实例，被誉为“AI安全奥运会”。MopMonk基于MiniMax M3模型打造，但开发团队至今未公开身份。",
+    "id": "e37af04d37560ce0e4b275da0df361c2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L0R93GMD0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=6862347196021dea0c44c813e4f105b714327880d3abe527f4ead940bda7eb94&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球第一！中国模型登顶 首个可编辑AI语音来了",
+    "summary": "近日，中国AI语音模型ViiTorVoice在全球语音评测榜单Seed-TTS中登顶综合排名第一，其英文词错率1.32、中文词错率0.99创行业新纪录。该模型具备全球首个“局部编辑”功能，可像修改Word一样调整语音内容。实测显示，其生成的哈兰德、姆巴佩语音片段能完美保留原声特征并实现无缝拼接。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/110ee196a65b4f92827be5a825ea3fcf_1_0/hd.webp",
-    "realDate": "2026-06-30 13:23:44"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/8ba6cbcda50246d09981f381d3aace6c_1_0/hd.webp",
+    "realDate": "2026-07-02 13:27:07"
   },
   {
-    "id": "93aabb2f383a67c52dc941f514b9270c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023734840&to_app=hwbrowser&dy_scenario=topicinside&tn=c38c2c4bc26889eda9b39dadd10c0df98d0bf6cf7ba2ebb1da764048d4c60462&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "第一所！中国机器人学校开学了",
-    "summary": "中国首所机器人学校6月29日在杭州开学，首批30台机器人入学。它们将接受“无际大脑”硬件升级，分技校、卫校、艺校、体校四类专业培养，通过视觉处理、定位等能力训练后需考取《专项技能等级证书》方可上岗。该校采用人类职教体系，涵盖伦理安全等五维培育，机器人毕业后仍可持续学习。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/7df2442d3d6f4b60b3a0d1e5cde4a7ed_1_0/hd.webp",
-    "realDate": "2026-06-30 19:57:19"
+    "id": "a0538a33c97e12de6b3950e53396f6cb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048ac70da2e599c0935c5d4aea00e8547e7&to_app=hwbrowser&dy_scenario=topicinside&tn=9b74ea1c2b97eb4d24c026807dd3fcbcc6133022943d1198fe02b5a0fa76ebc3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "大模型能否辨善恶 38款主流大模型接受安全“体检”",
+    "summary": "近日，《全球大语言模型安全防范能力测评报告（2026）》在北京发布，对38款国内外主流大模型进行安全测试。报告显示，直接攻击总体成功率为7.6%，Anthropic旗下Claude模型实现100%拒答表现最佳。同时，国外闭源模型在恶意请求拦截上更优，但开源及国内部分模型在伪装攻击下易被诱导。该报告覆盖313条科技类高风险问题。",
+    "author": "北京日报客户端",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/2281837ea94e48ef9a201f7695119507_1_0/hd.webp",
+    "realDate": "2026-07-02 21:26:36"
   },
   {
-    "id": "ad5999ae0aef09ea621d1298ff443e5e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074970466&to_app=hwbrowser&dy_scenario=topicinside&tn=18911952c301cba1f91a06f8b4243a2aa5cc729792c44768ff3bf42a1ecaf4cd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为open Pangu-2.0-Flash模型正式开源上线",
-    "summary": "该模型参数达920亿，包含权重、推理代码及训推算子。同时，Pro版本将于7月开源。open Pangu是华为开源AI品牌，旨在为昇腾技术提供实践参考，推动AI生态发展。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/8a2d17bb7e804801b9f3bcff38708c29_1_0/hd.webp",
-    "realDate": "2026-06-30 12:27:05"
-  },
-  {
-    "id": "b2b650ada2d54249af2562b08eb6b5f3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074970345&to_app=hwbrowser&dy_scenario=topicinside&tn=9620efa1ccda020507651e682dad9a27f9b9142e3ad76a952fb6163cc9f9187b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称亚马逊AWS将按Token向Anthropic支付模型使用费",
-    "summary": "亚马逊与Anthropic近日达成新协议，AWS平台运行后者AI模型将按Token而非算力计费。目前亚马逊Alexa购物助手等多项业务依赖Anthropic技术，此举或为降低运营成本。该公司高级副总裁透露，计划2026年前推出自有前沿模型以减少对外部技术的依赖。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/dc00e37b6f1c47418497833ceaf811a5_1_0/hd.webp",
-    "realDate": "2026-06-30 11:07:20"
-  },
-  {
-    "id": "6c79eb6cd2eaa9b45608ba207ba8b589",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uNH6TApRHB&to_app=hwbrowser&dy_scenario=topicinside&tn=58ed07fa3183bfea7ddfa2cf7dee7dbe9337f27737a59639203a6a3fb1a5eb51&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称小红书启动“达尔文”创业孵化项目 核心人员有望出任产品负责人",
-    "summary": "近日，小红书内部启动“达尔文”创业孵化项目，面向员工开放报名。入选者将脱产参与孵化，由L3级别高管带队，对接平台资源，目标打造小红书级别新产品。项目成功后，核心成员有望直接出任产品负责人，职级从L1起步。公司尚未对此公开回应。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/962b627c764849cbac68f4109e6b4a0b_1_0/hd.webp",
-    "realDate": "2026-06-30 11:18:56"
-  },
-  {
-    "id": "a301dc1daf79a3cdcc6f86f781a29152",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074970260&to_app=hwbrowser&dy_scenario=topicinside&tn=e959e3aa369ba4407d2e480a145e7fb647b7e07b224b83d0d7f7b3a1dbfbdbaa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "XBOX下月新一轮大裁员在即 工会呼吁微软坐到谈判桌前",
-    "summary": "微软游戏部门或于7月启动大规模裁员，XBOX新任CEO承认业务扩张过度致收入下滑。美国通信工人工会要求高管公开裁员信息并提供就业保障，指出微软CEO去年薪酬达9600万美元，企业有能力保护员工。工会代表3500名员工，此前已促成多个团队成立工会并签订保障合同。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/dd7c00748bc041cbadc6f562f16a01a5_1_0/hd.webp",
-    "realDate": "2026-06-30 08:16:11"
-  },
-  {
-    "id": "e0c64036f5a5f00ecc594d977a8471db",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614667750&to_app=hwbrowser&dy_scenario=topicinside&tn=8619c27e77c7d322cc1e000637811196ae00711a7ef56a321ccccd6b127e34c9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "钙钛矿太空光伏电池明年有望量产",
-    "summary": "京津冀科研团队在钙钛矿太空光伏电池领域取得突破，陈棋团队通过三年上百次配方优化，研发出成本仅为砷化镓电池十分之一的新型电池。该团队已在昌平建设全球首条中试线，预计2027年量产，2028年商业化，以满足全球低轨卫星组网对太空电力的需求。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/5e633f658ac74d9c88e827104cd40d73_1_0/hd.webp",
-    "realDate": "2026-06-29 23:36:20"
-  },
-  {
-    "id": "4f785a8a5819a94805bb5ee24701726b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282412385&to_app=hwbrowser&dy_scenario=topicinside&tn=e89170381472557cc3cd6b3b95d408fae41da65f66a8c351ab6cebb209a35c2e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "智能体互联国标来了：50家企业已试点 业内预计下半年见影响",
-    "summary": "近日，国家市场监督管理总局发布《人工智能 智能体互联》系列国家标准，解决智能体间通信接口不统一、身份管理体系缺失等问题。目前已有50多家企业开展试点应用，业内预计下半年将显现影响。该标准旨在建立覆盖身份标识到工具调用的闭环规范体系，打破厂商间“信息孤岛”现象。",
+    "id": "cd3d935b5066e094eacc919d22ffb7c7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282415048&to_app=hwbrowser&dy_scenario=topicinside&tn=dfdd45a5d71aef611870b03197bfefa663f674e7dd5c296bfb516283e13efe7f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "事关AI监管！美政府正与AI公司协商自愿性安全标准",
+    "summary": "美国政府正与OpenAI、Anthropic等AI公司讨论自愿性安全标准框架，涉及前沿AI分类、安全评估时长及部署前标准等细节。同时，美国人工智能标准与创新中心及国家安全局将参与评估监督。此举或为落实上月特朗普政府发布的AI行政命令，此前已对部分模型实施临时出口限制。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/09/v3/Topic_59a0adc377d940aa804e15384166056d/44b62972b38a4048bb1e635449a9ddf5_1_0/hd.webp",
-    "realDate": "2026-06-30 09:23:37"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/78fc1fe8ea1b4fb7bf283aa0790ec261_1_0/hd.webp",
+    "realDate": "2026-07-02 11:24:08"
+  },
+  {
+    "id": "51d001bef27f5e26b51b246cbe6d1c71",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282414744&to_app=hwbrowser&dy_scenario=topicinside&tn=64ae3b6fc0a207f14f273c35aedcf8a602975a5a5b2e3ef633912ff854665d8f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力",
+    "summary": "联合国独立专家组警告，AI发展速度远超科学认知与监管能力，或引发灾难性风险。报告称AI已展现欺骗性行为，可能被恶意利用，且全球治理体系碎片化。同时，AI自主性增强或致人类失控，并加剧不平等。秘书长古特雷斯呼吁各国尽快行动。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/a4eed2151b594ab2bbee95cc39a09361_1_0/hd.webp",
+    "realDate": "2026-07-02 00:30:23"
+  },
+  {
+    "id": "a2f553729850773dc2dfe94d8b5a9e2f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282414971&to_app=hwbrowser&dy_scenario=topicinside&tn=e63273e5b3a8a116573f09da13ec2e768b0f8b1c0e47f8058d16e02c4b57e685&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美光CEO再次暗讽苹果：称低价采购是造成内存短缺的关键",
+    "summary": "美光科技CEO近日暗指部分客户低价采购导致内存短缺，称2023年价格降至三分之一致产能投资不足，预计短缺或持续至2027年。虽未点名，但外界普遍认为其针对苹果。同时，美光高管上周批评客户利用谈判地位压价，而苹果则称因供应链成本上涨上调了产品售价。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/6eb46d729a854eeb9e5e1cfadeb607d2_1_0/hd.webp",
+    "realDate": "2026-07-02 10:24:48"
+  },
+  {
+    "id": "e0749364bf4bdfe1713cf6a68089ee52",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074971937&to_app=hwbrowser&dy_scenario=topicinside&tn=eb0d2587ef0b683a077198a7b0e92ed7d7df70d28464fedeb13460a0936c5508&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "企业AI成本失控 消息称花旗、Adobe等纷纷限制员工使用大模型",
+    "summary": "泄露文件显示，部分企业月度AI支出增至三倍，超1500万美元。花旗已禁用Claude Opus 4.7等旗舰模型，要求员工按需选择低消耗版本。同时，Adobe取消Claude无限制权限，员工改用低推理能力模型节省词元。此举源于AI服务商改为按量计费，GitHub 6月调整收费模式后，花旗配套设置预算管控措施。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/3f410e23b4934d8ca3cbd36c0a7d07fe_1_0/hd.webp",
+    "realDate": "2026-07-02 22:22:49"
+  },
+  {
+    "id": "220fcca7729e81513fd1a48ba0e60dd5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051253dd5b26f06c098ce61c9e1aad0add47d8&to_app=hwbrowser&dy_scenario=topicinside&tn=0391efc627b0b94201f2971a676eb752bfcbb3c6c7cadd44fa4774f5f39c4c8c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达重大宣布 推出全新AI基础设施合作模式",
+    "summary": "英伟达7月1日推出AI基础设施合作模式，采用收入分成和信用支持机制，与云服务商共建AI工厂，助力初创企业等获取算力。首批合作伙伴Sharon AI计划部署4万块GB300 GPU，Firmus将在印尼巴淡岛建设园区并部署17万块GPU。",
+    "author": "证券时报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/a94d4787327b482188fcfac14a9015d9_1_0/hd.webp",
+    "realDate": "2026-07-02 14:18:24"
+  },
+  {
+    "id": "f467db51300f71016d1d907dd5190333",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282415009&to_app=hwbrowser&dy_scenario=topicinside&tn=67ceb72541a28753baef0c0c26152a09dadc8909cc7c9adbe61a57dc3f87c1c2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克发布大合照 特斯拉人形机器人迎新进展",
+    "summary": "近日，马斯克发布了一张大合照，并配文称，在弗里蒙特工厂参观Optimus机器人生产线。这一言论可能代表着特斯拉的人形机器人Optimus正进入关键的量产阶段。该生产线由Model S/X装配线改造而成，采用德国设备及模块化设计，目标年产100万台。Optimus含约1万个独特部件，初期产量将缓慢提升。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/46448717427a49edadb7f1114a48db34_1_0/hd.webp",
+    "realDate": "2026-07-02 10:57:29"
+  },
+  {
+    "id": "fc8fbc202b1b54c9c581a92b1c0071a2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053ca86822fa240330a915031ba844a3878&to_app=hwbrowser&dy_scenario=topicinside&tn=90d08411c66c01e56b773b2c6deaf6b3ece9a61d1f1768ab6c7f8a7caa4c66e1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "抢完诺奖得主又挖伯克利CS掌门 Anthropic两周揽四将",
+    "summary": "近日，UC伯克利EECS计算机科学系主任Jelani Nelson宣布加入Anthropic并保留教职，其研究方向为流式算法等理论计算机科学领域。此前5月OpenAI前研究员Karpathy已加盟该公司。Nelson曾任职哈佛，2019年转至伯克利并领导全球顶尖CS学部，其团队在近似计数问题内存下界研究中取得突破。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/ca72c77ffb434d96b266cea09ee78d51_1_0/hd.webp",
+    "realDate": "2026-07-02 12:41:56"
+  },
+  {
+    "id": "e2ede1b3bc850955e630dd86de56c5e2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133495747&to_app=hwbrowser&dy_scenario=topicinside&tn=614188b719b552a20993ab4aaacc0c7a7b8dd3442acf3a0a403b9a33ea806fda&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“圆梦”国产大飞机 C919大型客机工程项目获上海科技进步特等奖",
+    "summary": "2025年度上海市科学技术奖评选结果揭晓，中国商飞C919大型客机工程项目获科技进步特等奖。该机型是我国首款自主研制的大型喷气式干线客机，已交付39架并开通52条航线，载客超680万人次。项目联动千余家企业及科研机构，突破多项关键技术，获国内外专利1250项。同时，总设计师吴光辉曾获上海市科技功臣奖。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1b/v3/Topic_6aa3f2853df64c168f96737765f79431/6e6bf2cec6a34961b20d63778c91a787_1_0/hd.webp",
+    "realDate": "2026-07-02 09:46:49"
   }
 ]
