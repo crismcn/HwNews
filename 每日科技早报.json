@@ -1,119 +1,92 @@
 [
   {
-    "id": "7804c93900c696d54c1603e2322d0fc5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512067fb2e156f3f79bfa69c2f8df0d129ba6&to_app=hwbrowser&dy_scenario=topicinside&tn=0f965834437437ae18ac1b9d6871ead4ed94b080b4a21d37d9a2ab09cc482897&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "优必选回应99万元机器人“伴侣”续航撑不过一晚",
-    "summary": "近日，优必选发布全尺寸仿生机器人U1系列，其中顶配版U1 Ultra男款售价99万元但续航仅2-4小时。该公司回应称，全尺寸人形机器人续航普遍如此，U1 Ultra面向商业场景，强调产品定位是情感陪伴而非伴侣。同时，优必选表示已成立科技伦理委员会进行全流程治理。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/39f1bbc200cd4c659516756017e2dc4b_1_0/hd.webp",
-    "realDate": "2026-07-06 15:36:58"
+    "id": "29a67fb9e035e85905fedc9665ef5af5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uZUTOXemeS&to_app=hwbrowser&dy_scenario=topicinside&tn=b50001836c5b16a75c41fe849087b4e7f9ddd886bd9a3f5bf348431267d8f6d4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称DeepSeek自研AI推理芯片 一年前已启动",
+    "summary": "DeepSeek被曝正自研AI推理芯片，旨在减少对英伟达的依赖。知情人士透露，该项目一年前启动，目前处于早期阶段，已与芯片设计及制造企业展开合作。同时，该公司近月低调招聘芯片工程师。若成功，将助其提升硬件自主权。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/8d9f3503da0b4b5fa5f95180be8a98ca_1_0/hd.webp",
+    "realDate": "2026-07-07 19:49:56"
   },
   {
-    "id": "9c50f2330193c7d7910408e6fc6a510c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103261612&to_app=hwbrowser&dy_scenario=topicinside&tn=fabfc346037478a2d619555183fef3addcff8a0994e7b81f9c88bb8865b52d59&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英特尔确认CPU涨价 电脑整机进入提价周期",
-    "summary": "7月6日，英特尔确认对部分消费级Core Ultra及Xeon服务器处理器涨价，高端Xeon涨幅达7%-12%。业内称AI算力需求打破CPU“只降不升”惯例，上游成本压力传导至整机市场。部分游戏本涨价超3000元，热门机型年内最高成交价涨幅超40%。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9/v3/1051044103261612/3e95bc7b1005493984d13e592840c8e6_1_8/hd.webp",
-    "realDate": "2026-07-06 12:28:34"
+    "id": "9e9edd36b1848694e16f7e4079f34eda",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133533443&to_app=hwbrowser&dy_scenario=topicinside&tn=988a93927af65afe37c5a6368f80055bc6d689fd07409b839c75e6e473f4a2ae&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI也有“潜意识” Claude被指存在专属“思考空间”",
+    "summary": "近日，美国AI公司Anthropic发现其大模型Claude存在名为“J-空间”的内部工作区，该空间可激活与当前输出无关的概念。实验显示，当Claude执行抄写任务时，其J-空间仍能处理“金门大桥”等关联词。研究人员指出，该空间能灵活调用知识，同时发现被恶意训练的模型会在J-空间出现“欺诈”等异常词。J-空间并非人为设计，而是训练中自发形成，关闭后模型将丧失高阶认知能力。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/8b1961ae10f640c7919a4c8dd6bd5b5b_1_0/hd.webp",
+    "realDate": "2026-07-07 14:56:26"
   },
   {
-    "id": "938c03b057f2bdbbb4ece74e2fb7996e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282418507&to_app=hwbrowser&dy_scenario=topicinside&tn=2823be71eeefa6295888185ee6e92a990c2c555416007abc32930953cdb30d8b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软裁员4800人 Xbox部门大幅瘦身并重组业务",
-    "summary": "7月6日，微软宣布裁员4800人，占全球员工2.1%，其中Xbox部门裁减20%员工。Xbox CEO表示到2027年将累计裁员3200人，同时剥离Compulsion Games等四家工作室。微软CHRO称AI变革加速但未直接导致裁员，公司股价2026年以来已下跌19%。",
+    "id": "56d9ec913ed873901e5b88e96ca9b979",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282418905&to_app=hwbrowser&dy_scenario=topicinside&tn=e492f8efc3adfe93f58bd18dde51f19f467d3156232089500bd5b26b862f5cc1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "世界人工智能大会下周开幕！华为最大规模超节点真机等将迎来首秀",
+    "summary": "2026世界人工智能大会将于7月17日至20日在上海“三地四馆”举办，展览面积超10万平方米，1100余家企业参展。华为Atlas 950真机、MiniMax M3大模型、全球首款AI智能体手机等都将在大会展出。大会设140余场论坛，9位图灵奖及诺贝尔奖得主将参会。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/ac52743973cb41f9aa7451dcccaa9d02_1_0/hd.webp",
-    "realDate": "2026-07-06 23:52:30"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/001f09e7082f4457a602dbddc254f21f_1_0/hd.webp",
+    "realDate": "2026-07-07 12:22:27"
   },
   {
-    "id": "3c51515e7b73442431f45499fc9b5d60",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144819ad7eb9bd9711b24d14697c2b11636e&to_app=hwbrowser&dy_scenario=topicinside&tn=ea3f532056972edc01e3846c42974f7b935768ab642527d3374147e61e31a1a9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌要放大招 Gemini 3.5 Pro被曝即将发布 前端碾压Fable 5",
-    "summary": "报道称，谷歌Gemini 3.5 Pro将于7月17日发布，该模型因重新预训练推迟两月，前端与SVG视觉生成能力显著提升，在多项测试中压制Anthropic的Fable 5，但硬核推理仍落后。同时谷歌正基于该底座开发图像模型Nano Banana Pro，以应对OpenAI的GPT-Image 2。",
+    "id": "7b82a0b8a0a426c3e8fdee7709574956",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BP0JN1D5Y5FE&to_app=hwbrowser&dy_scenario=topicinside&tn=d8608acad3c4de344dcf05078f66eacd05ab4301d1109eca13d0e270ef92e2ba&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "首个空间原生的具身视觉基模开源！机器人更会看人类世界了",
+    "summary": "蚂蚁灵波发布LingBot-Vision和LingBot-Depth2.0，提升机器人对透明物体和复杂场景的视觉感知能力。新模型能清晰识别香槟塔的透明杯壁、细水柱及远处网球等小目标，解决传统深度图破碎问题，为抓取和移动任务提供精准空间骨架。网友评价其为“具身视觉重要里程碑”。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/125176efe4474ae9b62999a8e9f25522_1_0/hd.webp",
+    "realDate": "2026-07-07 12:30:00"
+  },
+  {
+    "id": "f20fe1bc03d1a466ba2a3e4466d30964",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448cbecb38addce6df6ce462d162b084656&to_app=hwbrowser&dy_scenario=topicinside&tn=bf7797477fbdcd3aedbda52b82674eaacf0961629525f64316de8ba371ef599c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国企业越来越爱用中国AI 数据显示使用占比一度达到46%",
+    "summary": "中国AI模型因价格优势快速渗透美国市场，OpenRouter数据显示美企使用占比从4.5%飙升至峰值46%。创业公司Lindy改用DeepSeek后预计数月可省数百万美元。中国模型成本比Anthropic、OpenAI低60%-90%，性能差距缩至6-9个月，智谱GLM 5.2部分测试表现已比肩美国顶尖产品。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/6054674ddf16423eabbddb40644e89f1_1_0/hd.webp",
-    "realDate": "2026-07-06 19:46:38"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/661f0523c44b4ac7bea6b8b2b747be7a_1_0/hd.webp",
+    "realDate": "2026-07-07 14:23:47"
   },
   {
-    "id": "28d8a8f5efdca87cd06826cb0f63e376",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614707560&to_app=hwbrowser&dy_scenario=topicinside&tn=da15317dd4122cdcb8cbe991a1e71546cbead72915d19943f74f488883904e9f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团LongCat 2.0正式开源 国产芯片厂商集体同步适配",
-    "summary": "7月6日，美团开源LongCat-2.0大模型全部技术资料，华为昇腾、摩尔线程、沐曦股份等国产芯片厂商同日宣布完成适配。该模型为全球首个完全基于国产算力训练的万亿参数大模型，其Agent、Coding能力达国际顶尖水平。过去3年团队攻克了国产化训练难题，行业认为此举将推动国产芯片与模型的协同规模化应用。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/6186080dfe53470499b514e50e50c1d7_1_0/hd.webp",
-    "realDate": "2026-07-06 14:37:35"
+    "id": "fe3ec6d53cc5200b81072491e7271c85",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282419718&to_app=hwbrowser&dy_scenario=topicinside&tn=4a5630317f727d82bf16166a987eca114de00149af658f7cb002d6f0ff82153e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软开始在部分软件中改用自研AI模型 减少对OpenAI和Anthropic依赖",
+    "summary": "近日，微软在Excel和Outlook等软件中逐步采用自研MAI人工智能模型，替代此前依赖的OpenAI和Anthropic技术。据知情人士透露，每周已有数万项AI任务由MAI处理，此举旨在降低人工智能应用成本。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/d3f8fb3021cb4ac8a978aa9fae57cb49_1_0/hd.webp",
+    "realDate": "2026-07-08 00:27:29"
   },
   {
-    "id": "bbd7829aefc15eda7de0e4a13d70a073",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023735483&to_app=hwbrowser&dy_scenario=topicinside&tn=b1d11739637934f19b7feafc657a05b2790cc38dac35112eaf225e187113d61e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "WPS滥收费、背刺用户 金山办公回应",
-    "summary": "7月6日，金山办公回应“WPS滥收费、背刺用户”质疑，声明免费基础功能绝不收费，会员权益未缩水，高成本服务按需购买。此前用户反映软件默认占用C盘空间且清理功能受限，公司此前宣布7月新版本将优化存储路径设置并新增“存储管理”模块，安装时可分项指定文件存放位置。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/1051023735483/72318e69a30c4d49be26bf44f12bbaf6_1_0/hd.webp",
-    "realDate": "2026-07-06 11:36:15"
+    "id": "3e7e9bef6f02a272b706004061702ee0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uYzeZ9ibJh&to_app=hwbrowser&dy_scenario=topicinside&tn=d0e6b8eb3c724fc1bf99ca7ed84d6fe9f85a0a2598e48e5fe59c67dcc57be4ec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星Q2利润超过英伟达成全球最赚钱公司",
+    "summary": "7月7日，三星电子公布二季度营业利润达89.4万亿韩元（约588亿美元），同比增长1810%，创单季利润新高。DRAM价格连续三季上涨，但开盘后其股价跳水6%，SK海力士跟跌。分析指出，存储芯片涨价幅度逐季收窄，市场已提前消化利好。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/846bf098c2c04c9188e384b39a3ca473_1_0/hd.webp",
+    "realDate": "2026-07-07 12:22:19"
   },
   {
-    "id": "4b9bf1c6ce6cd6f84ff4a795ca28115e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510535387bb48b7ae3e01882f25e6de5d0a5e&to_app=hwbrowser&dy_scenario=topicinside&tn=39f55f44d65be14e4c7563f1b86a4fc42e7cb8e9a0a74cd4db7e2f8da51fd996&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称网易云音乐人运营团队全员被裁 客服辟谣",
-    "summary": "网易云音乐近日被传原创音乐部音乐人平台运营组40余人遭整体裁撤，外包岗位亦不再续约。该公司客服回应称该消息不实，相关团队人员仍在岗，外包岗位调整属正常业务变动。",
-    "author": "新浪科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/d03aaef8bb49448f875000a58c89e87f_1_0/hd.webp",
-    "realDate": "2026-07-06 22:11:23"
+    "id": "fe0d96fa3284481ec54c4a68e53bd51d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324873332&to_app=hwbrowser&dy_scenario=topicinside&tn=43d55d0c25fae8b5b1fa7aa5ddaea9a8206bee669d6f56b90b57a22984b52161&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节已调集数百名员工做豆包导航",
+    "summary": "字节跳动内部人士透露，6月中旬起已调集数百名员工优化豆包App导航功能，包括评测体验、完善地图SDK及开发公交查询等。6月底该功能上线，支持步行、骑行路线内嵌导航及跳转高德地图，百度地图提供底层数据。豆包近期还接入了抖音电商、生活服务及打车功能，月活用户达3.45亿。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/9a05d1cdd45045bd8188029d64529093_1_0/hd.webp",
+    "realDate": "2026-07-07 19:57:04"
   },
   {
-    "id": "647484a56353f4b4e48035b2c14ed514",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448345c88c298af94a4f34b3bb9accf9266&to_app=hwbrowser&dy_scenario=topicinside&tn=623508e64b235798d863174ea0fbe4bbd1c60e9335f602b54638e7bd1be63fe6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta算力租赁首落印度：168兆瓦数据中心破局数据主权 加剧富豪基建暗战",
-    "summary": "Meta与印度信实工业合作在古吉拉特邦建设168兆瓦数据中心，首次在印开展算力租赁业务，为当地银行、医疗等监管行业提供本地化AI部署方案。此举加剧了印度富豪安巴尼与阿达尼的基建竞争，前者借Meta联盟强化优势，后者依托谷歌合作与清洁能源布局应对。Meta正将闲置算力转化为新收入来源，推动印度AI基础设施格局重组。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/b6c22ae1cfec4d19b31c0894bcceef92_1_0/hd.webp",
-    "realDate": "2026-07-07 05:57:00"
-  },
-  {
-    "id": "ede987ff8440427d04f338b72c0a0390",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074972970&to_app=hwbrowser&dy_scenario=topicinside&tn=5bc48a88a6d7c9865735c16046f7b76312cfb973e4844b64a3d5c5bf7828e49c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SpaceX半年内销毁260颗星链卫星 引环保担忧",
-    "summary": "SpaceX报告显示，2025年12月至2026年5月间销毁260颗星链卫星，其中176颗为第一代卫星。同时，349颗卫星已退役待销毁。公司采用大气层焚毁方式处理报废卫星，但科研人员担忧其对环境影响。美国联邦通信委员会提案主张太空作业不受环境法约束，目前尚未获批。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/681ac93dc6654f68b3ef94efc825b675_1_0/hd.webp",
-    "realDate": "2026-07-06 11:48:13"
-  },
-  {
-    "id": "e1c1cabf0a16356ff8a6c9ba555a08d9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074972960&to_app=hwbrowser&dy_scenario=topicinside&tn=1c70a3e31826f08c4dffdba60c390dfe637bb20aca64c9c1a7a1683ab5352b5b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "德国全球最大电子游戏典藏馆因资金断裂关停 6万款游戏档案面临危机",
-    "summary": "德国国际电子游戏典藏馆因150万欧元公共资助到期且未获得续资，股东全票通过闭馆决议。该馆自2012年起收集超6万款游戏及配套硬件，藏品由USK等机构共同整理。同时，索尼宣布将停产PlayStation实体光盘，加剧了游戏存档困境。典藏馆数据库未来去向仍待评估。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/2767421b22794e319d72dedcd2721bb4_1_0/hd.webp",
-    "realDate": "2026-07-06 11:29:18"
-  },
-  {
-    "id": "e86124c87dd04855d7196c8e41987f2d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448632c544313e9f2276f1f3ee9b1a96349&to_app=hwbrowser&dy_scenario=topicinside&tn=e3e280ec5e9b08cc12c46c51cfc96f459c9edde9c1aa834d0edfd1e6bc567047&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "HBM封装技术生变：三星、SK海力士双双推迟HBM混合键合导入",
-    "summary": "据悉，因厚度标准放宽及散热替代方案出现，该技术紧迫性降低。同时，HBM5E的I/O数量或增至4096个，混合键合技术仍在等待更合适时机。两家公司已开发不依赖混合键合的散热技术，如三星的HPB和SK海力士的i HBM。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/52683163fed84a0a899b6d96271ab93f_1_0/hd.webp",
-    "realDate": "2026-07-06 14:54:55"
-  },
-  {
-    "id": "d7697b3bbee96f7dd80a895c31ffe2f3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124717829955875576765052&to_app=hwbrowser&dy_scenario=topicinside&tn=8168cf85253ccc83ece7d7385cde24b518bd098d1c110e0aed742eb45f2cad1a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "历经约400天！天问二号探测器抵达目标小行星 开展科学探测",
-    "summary": "天问二号探测器近日与小行星2016HO3成功交会，抵达距其20千米处开始科学探测。任务团队利用抵近数据将小行星位置误差从上百千米降至千米级。该探测器于2025年5月29日发射，途中实施深空机动等任务，今年6月6日首次捕获小行星，后续将开展精细探测为采样做准备。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/0f/v3/105124717829955875576765052/672b35621227432b9b0f374280d5c73f_1_8/hd.webp",
-    "realDate": "2026-07-06 07:59:58"
-  },
-  {
-    "id": "833fa9eb7131dfcaf38a5c7b2aed84cc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104cea7cd2e2b6b867b537d757ad1038010&to_app=hwbrowser&dy_scenario=topicinside&tn=2d7c92c646bf223f7d0525d7cdedb862d6c07ca8ff798a44a059d40bd1696aab&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球首创“海上网系回收”技术 长征十号乙火箭首飞锁定7月10日-13日",
-    "summary": "长征十号乙火箭将于7月10日至13日在海南文昌首飞，验证全球首创“海上网系回收”技术。该火箭由航天科技集团一院研制，采用无着陆腿设计，由回收船“领航者”号通过网系装置捕获一子级。该船长144米，具备4米浪高下精准定位能力。若回收成功，我国将成为全球第二个掌握大运力可回收火箭技术的国家，并为载人登月任务积累数据。",
+    "id": "9545f34b4abfaca03bc4e4d465130f93",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047d5da813a5562154ca7bf0f3a4f3731e&to_app=hwbrowser&dy_scenario=topicinside&tn=088966af1ce2f2deed636cb38a0bc37d63055903784064ae11749973207d3275&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "存储暴涨285%！历史规律警告 这轮繁荣最晚或于2028年终结",
+    "summary": "存储芯片市场近期暴涨，今年5月出货金额达633亿美元，同比增长285%。DRAM和NAND价格飙升，主要因谷歌等四大云服务商巨额AI投资推动。TrendForce预测2026年全球存储市场产值将达5516亿美元。但历史规律显示，存储市场正增长周期最长不超5年，本轮繁荣或于2028年终结。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/26/v3/Topic_bfb2a3e40d3843d59b8e0459e3e48599/5577e9a9b9064a009e9fdae5e7099c4c_1_0/hd.webp",
-    "realDate": "2026-07-06 07:03:57"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/b090bde3a2ae4f7f834a804ffe9c9c45_1_0/hd.webp",
+    "realDate": "2026-07-07 15:13:49"
+  },
+  {
+    "id": "c3e60d2024c7bad0b7ebe74d36596761",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133532316&to_app=hwbrowser&dy_scenario=topicinside&tn=b9bcafaf34e47889a3b49fec1328066f8a88c41c0935450342ec9c0ab903670b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "去年我国人工智能相关产业规模超万亿 预测今年还有30％以上增速",
+    "summary": "7月7日，国家发改委表示2025年我国人工智能相关产业规模超万亿，预测2026年增速超30%。“人工智能+”行动实施一年来，建成30余个应用中试基地，重点行业AI渗透率达80%，AI手机等智能终端年出货量超1亿台。同时，我国将加快自主创新、强化应用牵引等五方面推进“十五五”AI工作。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/ccc3e053f118423cb9cc3255f794403e_1_0/hd.webp",
+    "realDate": "2026-07-07 12:25:18"
   }
 ]
