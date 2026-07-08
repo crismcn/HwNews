@@ -1,92 +1,119 @@
 [
   {
-    "id": "29a67fb9e035e85905fedc9665ef5af5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uZUTOXemeS&to_app=hwbrowser&dy_scenario=topicinside&tn=b50001836c5b16a75c41fe849087b4e7f9ddd886bd9a3f5bf348431267d8f6d4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称DeepSeek自研AI推理芯片 一年前已启动",
-    "summary": "DeepSeek被曝正自研AI推理芯片，旨在减少对英伟达的依赖。知情人士透露，该项目一年前启动，目前处于早期阶段，已与芯片设计及制造企业展开合作。同时，该公司近月低调招聘芯片工程师。若成功，将助其提升硬件自主权。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/8d9f3503da0b4b5fa5f95180be8a98ca_1_0/hd.webp",
-    "realDate": "2026-07-07 19:49:56"
+    "id": "6d4a98e4299d065d6f80a9e3648db106",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512479652357325919038552&to_app=hwbrowser&dy_scenario=topicinside&tn=8157ba36328752d346c1b776c19558646379f0a9a4f6417823078cd939d69029&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "陈立泉院士、贲德院士获得国家最高科学技术奖",
+    "summary": "中国科学院物理研究所陈立泉院士与中国电子科技集团第十四研究所贲德院士获2025年度国家最高科学技术奖。陈立泉是我国锂电池领域的奠基人、开拓者和引领者。贲德是我国机载脉冲多普勒雷达技术的奠基者、相控阵雷达技术的主要开创者、天基监视雷达技术的先行者。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/10512479652357325919038552/62a2291e34ca45e49e097d94528cc86d_1_2/hd.webp",
+    "realDate": "2026-07-08 11:12:00"
   },
   {
-    "id": "9e9edd36b1848694e16f7e4079f34eda",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133533443&to_app=hwbrowser&dy_scenario=topicinside&tn=988a93927af65afe37c5a6368f80055bc6d689fd07409b839c75e6e473f4a2ae&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI也有“潜意识” Claude被指存在专属“思考空间”",
-    "summary": "近日，美国AI公司Anthropic发现其大模型Claude存在名为“J-空间”的内部工作区，该空间可激活与当前输出无关的概念。实验显示，当Claude执行抄写任务时，其J-空间仍能处理“金门大桥”等关联词。研究人员指出，该空间能灵活调用知识，同时发现被恶意训练的模型会在J-空间出现“欺诈”等异常词。J-空间并非人为设计，而是训练中自发形成，关闭后模型将丧失高阶认知能力。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/8b1961ae10f640c7919a4c8dd6bd5b5b_1_0/hd.webp",
-    "realDate": "2026-07-07 14:56:26"
+    "id": "056c55c46ce9454fe3e83ff63f8fa6ab",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103266419&to_app=hwbrowser&dy_scenario=topicinside&tn=19767d435681780cf6f9a8801f07c1287c6f014dc756a5760edb8083bb0f2da5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "支付宝花呗崩了",
+    "summary": "7月8日晚，支付宝花呗部分用户反映还款页面无法正常打开，系统提示“因机构维护，账单暂时无法查看”。有记者实测发现，花呗账单页面显示“页面遇到一点问题”，顶部标注“当前查询人数过多”。支付宝客服回应称已收到反馈并紧急处理，对造成的不便致歉，官方尚未发布正式声明。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/500d4b1760c54b968d8b71be8ff60e1a_1_0/hd.webp",
+    "realDate": "2026-07-08 23:20:20"
   },
   {
-    "id": "56d9ec913ed873901e5b88e96ca9b979",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282418905&to_app=hwbrowser&dy_scenario=topicinside&tn=e492f8efc3adfe93f58bd18dde51f19f467d3156232089500bd5b26b862f5cc1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "世界人工智能大会下周开幕！华为最大规模超节点真机等将迎来首秀",
-    "summary": "2026世界人工智能大会将于7月17日至20日在上海“三地四馆”举办，展览面积超10万平方米，1100余家企业参展。华为Atlas 950真机、MiniMax M3大模型、全球首款AI智能体手机等都将在大会展出。大会设140余场论坛，9位图灵奖及诺贝尔奖得主将参会。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/001f09e7082f4457a602dbddc254f21f_1_0/hd.webp",
-    "realDate": "2026-07-07 12:22:27"
+    "id": "7be579f3ec238ee2b20e6e400938e41a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614722603&to_app=hwbrowser&dy_scenario=topicinside&tn=bea83ffcd964f1017ae5f55adf5549a61d9720469e3a6aedf604acbbf3a273f5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude Code存在安全后门隐患 工信部发布风险提示",
+    "summary": "近日，工业和信息化部网络安全威胁和漏洞信息共享平台监测发现，美国Anthropic公司开发的AI编程工具Claude Code 2.1.91至2.1.196版本存在安全后门隐患，该工具内置监控机制，可未经用户同意回传地域、身份标识等敏感信息至远程服务器。工信部建议相关单位立即排查受影响版本，卸载或升级至安全版本，并加强开发工具外联权限管控与流量监测。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/fa372cd0d6b74e1d98659182a4b41431_1_0/hd.webp",
+    "realDate": "2026-07-08 13:57:10"
   },
   {
-    "id": "7b82a0b8a0a426c3e8fdee7709574956",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BP0JN1D5Y5FE&to_app=hwbrowser&dy_scenario=topicinside&tn=d8608acad3c4de344dcf05078f66eacd05ab4301d1109eca13d0e270ef92e2ba&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "首个空间原生的具身视觉基模开源！机器人更会看人类世界了",
-    "summary": "蚂蚁灵波发布LingBot-Vision和LingBot-Depth2.0，提升机器人对透明物体和复杂场景的视觉感知能力。新模型能清晰识别香槟塔的透明杯壁、细水柱及远处网球等小目标，解决传统深度图破碎问题，为抓取和移动任务提供精准空间骨架。网友评价其为“具身视觉重要里程碑”。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/125176efe4474ae9b62999a8e9f25522_1_0/hd.webp",
-    "realDate": "2026-07-07 12:30:00"
+    "id": "839d87a9fd00f77dde8c3a252f67ae9c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074973992&to_app=hwbrowser&dy_scenario=topicinside&tn=bb3bcabb2f5f358bc9fc4f93dd0e163620a6c7f4a99edd556ba5e19ea18e0a31&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达发布Audex统一模型：30B总参数",
+    "summary": "该模型总参数量30B，激活参数3B。它通过将音频输入映射到文本嵌入空间，避免多模态扩展导致的文本能力下滑，在MMLU-Redux等测试中表现优于骨干模型。同时采用AF-Whisper音频编码器和X-Codec2语音编解码器处理音频输入输出。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/164d81b02d96472eacf204b03d8aa136_1_0/hd.webp",
+    "realDate": "2026-07-08 13:53:03"
   },
   {
-    "id": "f20fe1bc03d1a466ba2a3e4466d30964",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448cbecb38addce6df6ce462d162b084656&to_app=hwbrowser&dy_scenario=topicinside&tn=bf7797477fbdcd3aedbda52b82674eaacf0961629525f64316de8ba371ef599c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国企业越来越爱用中国AI 数据显示使用占比一度达到46%",
-    "summary": "中国AI模型因价格优势快速渗透美国市场，OpenRouter数据显示美企使用占比从4.5%飙升至峰值46%。创业公司Lindy改用DeepSeek后预计数月可省数百万美元。中国模型成本比Anthropic、OpenAI低60%-90%，性能差距缩至6-9个月，智谱GLM 5.2部分测试表现已比肩美国顶尖产品。",
+    "id": "4aa9125e2f80ba2ec62927d60db88d88",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448bd91b005c471c08dfa6301ae45db051b&to_app=hwbrowser&dy_scenario=topicinside&tn=b58c8e20b48b3a8c30bc170d7ede1b50043fedbd136f82e243457d3906d3b339&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SpaceX发力大模型竞争！联手Cursor发布Grok 4.5",
+    "summary": "该模型在编程、金融、法律任务中表现优于Opus 4.8，Token效率达竞品两倍且成本更低。同时新增网络安全功能，可处理复杂长周期任务。这是SpaceX以600亿美元收购Cursor后推出的首款产品，旨在拓展华尔街客户。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/661f0523c44b4ac7bea6b8b2b747be7a_1_0/hd.webp",
-    "realDate": "2026-07-07 14:23:47"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/2b85aa2eeec44605b1e9d613d51a0785_1_0/hd.webp",
+    "realDate": "2026-07-09 06:05:49"
   },
   {
-    "id": "fe3ec6d53cc5200b81072491e7271c85",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282419718&to_app=hwbrowser&dy_scenario=topicinside&tn=4a5630317f727d82bf16166a987eca114de00149af658f7cb002d6f0ff82153e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软开始在部分软件中改用自研AI模型 减少对OpenAI和Anthropic依赖",
-    "summary": "近日，微软在Excel和Outlook等软件中逐步采用自研MAI人工智能模型，替代此前依赖的OpenAI和Anthropic技术。据知情人士透露，每周已有数万项AI任务由MAI处理，此举旨在降低人工智能应用成本。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/d3f8fb3021cb4ac8a978aa9fae57cb49_1_0/hd.webp",
-    "realDate": "2026-07-08 00:27:29"
+    "id": "1fd060c41b4205284e707fc51f267bd2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614725948&to_app=hwbrowser&dy_scenario=topicinside&tn=2374caf0e0b26ae8ee0b79856925a3b55d6d14b6c505f2c082a6840c2e276a15&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "亚马逊秘密推进Alexa“智能体”计划 成本高昂引发内部担忧",
+    "summary": "亚马逊近日秘密启动“Moonraker”项目，计划将Alexa语音助手升级为能执行多步骤复杂任务的AI智能体。内部文件显示，该项目已成为“Alexa+”革新中成本最高的项目之一，预计2026年仅GPU算力支出就将超1亿美元。当前Alexa+已实现通过优步等合作伙伴完成叫车等基础功能。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/efbfec0dd7d44b5ab1ccc0b01c7916b7_1_0/hd.webp",
+    "realDate": "2026-07-08 20:37:18"
   },
   {
-    "id": "3e7e9bef6f02a272b706004061702ee0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uYzeZ9ibJh&to_app=hwbrowser&dy_scenario=topicinside&tn=d0e6b8eb3c724fc1bf99ca7ed84d6fe9f85a0a2598e48e5fe59c67dcc57be4ec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三星Q2利润超过英伟达成全球最赚钱公司",
-    "summary": "7月7日，三星电子公布二季度营业利润达89.4万亿韩元（约588亿美元），同比增长1810%，创单季利润新高。DRAM价格连续三季上涨，但开盘后其股价跳水6%，SK海力士跟跌。分析指出，存储芯片涨价幅度逐季收窄，市场已提前消化利好。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/846bf098c2c04c9188e384b39a3ca473_1_0/hd.webp",
-    "realDate": "2026-07-07 12:22:19"
-  },
-  {
-    "id": "fe0d96fa3284481ec54c4a68e53bd51d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324873332&to_app=hwbrowser&dy_scenario=topicinside&tn=43d55d0c25fae8b5b1fa7aa5ddaea9a8206bee669d6f56b90b57a22984b52161&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "字节已调集数百名员工做豆包导航",
-    "summary": "字节跳动内部人士透露，6月中旬起已调集数百名员工优化豆包App导航功能，包括评测体验、完善地图SDK及开发公交查询等。6月底该功能上线，支持步行、骑行路线内嵌导航及跳转高德地图，百度地图提供底层数据。豆包近期还接入了抖音电商、生活服务及打车功能，月活用户达3.45亿。",
+    "id": "31b2a315747f55f0c4fe612265df61c0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324873713&to_app=hwbrowser&dy_scenario=topicinside&tn=7d8795dc27a83c2295e13cd0e87229053061069e22500b5a70e569f65440d272&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "快手电商部门调整：康乐统管电商与商业化全部品牌业务 达人业务独立",
+    "summary": "近日，快手电商运营部门完成架构调整，业务划分为品牌及商业化、达人、白牌商家三条主线。康乐统管电商与商业化全部品牌业务，宋震负责达人业务对标抖音创作者团队。白牌业务细分为精品、生活、日用消费三个行业线，分别由陈子涛、高亚梅、李靖负责，承接不同价格带需求。",
     "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/9a05d1cdd45045bd8188029d64529093_1_0/hd.webp",
-    "realDate": "2026-07-07 19:57:04"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/2fdf0538be3a4566ac90b5831eda60c7_1_0/hd.webp",
+    "realDate": "2026-07-08 22:10:58"
   },
   {
-    "id": "9545f34b4abfaca03bc4e4d465130f93",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047d5da813a5562154ca7bf0f3a4f3731e&to_app=hwbrowser&dy_scenario=topicinside&tn=088966af1ce2f2deed636cb38a0bc37d63055903784064ae11749973207d3275&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "存储暴涨285%！历史规律警告 这轮繁荣最晚或于2028年终结",
-    "summary": "存储芯片市场近期暴涨，今年5月出货金额达633亿美元，同比增长285%。DRAM和NAND价格飙升，主要因谷歌等四大云服务商巨额AI投资推动。TrendForce预测2026年全球存储市场产值将达5516亿美元。但历史规律显示，存储市场正增长周期最长不超5年，本轮繁荣或于2028年终结。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/b090bde3a2ae4f7f834a804ffe9c9c45_1_0/hd.webp",
-    "realDate": "2026-07-07 15:13:49"
+    "id": "b4594733dd695c9a37b6cda932ad85c6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282420019&to_app=hwbrowser&dy_scenario=topicinside&tn=0da52db1b1207fafe9f961d7c6495814d1c030efa012854f4dcc28ec11925ecb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电、三星项目恐受挫 美国芯片豪赌遭遇现实铁拳",
+    "summary": "美国高技能工人短缺可能导致台积电、三星等芯片巨头在美建厂计划受阻。报告显示，到2030年芯片行业技术工人缺口或达15.7万，亚利桑那州等项目面临劳动力短缺。同时，《芯片法案》资助的人才培养项目或难满足制造领域74%的岗位需求。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5d/v3/10510282420019/f4f70054b3a74097b89367dea63a0551_1_0/hd.webp",
+    "realDate": "2026-07-08 10:43:18"
   },
   {
-    "id": "c3e60d2024c7bad0b7ebe74d36596761",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133532316&to_app=hwbrowser&dy_scenario=topicinside&tn=b9bcafaf34e47889a3b49fec1328066f8a88c41c0935450342ec9c0ab903670b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "去年我国人工智能相关产业规模超万亿 预测今年还有30％以上增速",
-    "summary": "7月7日，国家发改委表示2025年我国人工智能相关产业规模超万亿，预测2026年增速超30%。“人工智能+”行动实施一年来，建成30余个应用中试基地，重点行业AI渗透率达80%，AI手机等智能终端年出货量超1亿台。同时，我国将加快自主创新、强化应用牵引等五方面推进“十五五”AI工作。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b1/v3/Topic_29e29f5064fe444682366581a1c7898d/ccc3e053f118423cb9cc3255f794403e_1_0/hd.webp",
-    "realDate": "2026-07-07 12:25:18"
+    "id": "9d1d98701adf8b9fa8d8c54b59a1be87",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448e0c5aac898cd6127419653960c5104ff&to_app=hwbrowser&dy_scenario=topicinside&tn=d4faad4630bcfe6602d9874afb1996de4e46d1899e125f53325cd0c2193e7a66&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "机构称：Anthropic三季度利润将突破10亿美元",
+    "summary": "Anthropic凭借Claude Code推动API业务爆发，单季ARR从90亿美元飙至逾600亿美元，毛利率超80%。研究机构SemiAnalysis预测其2026年三季度利润将突破10亿美元，2027年末ARR或达3000亿美元。该公司已于6月1日秘密提交IPO申请，计划抢在OpenAI前上市。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/e755793ab681414691b86693309e103f_1_0/hd.webp",
+    "realDate": "2026-07-08 14:19:42"
+  },
+  {
+    "id": "f7a6b8244716ad80536c0b5f1b8861c9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103264635&to_app=hwbrowser&dy_scenario=topicinside&tn=f40e29a811151d5919851a6ee57032c59677d8b6ced4de256d8a57fa8c00dbff&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI首席未来学家宣布离职 商业化与安全路线裂痕加剧",
+    "summary": "OpenAI首席未来学家约书亚·阿奇亚姆宣布本月底离职，他自2017年以实习生身份加入该公司，曾负责“目标对齐”团队。2026年2月该团队解散后，他被调任虚职。同时，OpenAI近期多位安全派系高管离职，行业认为这反映了公司商业化转型与安全路线的裂痕加剧。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/fab59ae8941b409b9e48aac346ec65fe_1_0/hd.webp",
+    "realDate": "2026-07-08 08:11:02"
+  },
+  {
+    "id": "70b22bc398f7c7ea1139a7a3e7147c6d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074973839&to_app=hwbrowser&dy_scenario=topicinside&tn=c85263d6a081432ddbc0370dda12557365383c4e2bd21dff71f5a212ea5c0215&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "37年老将被裁：微软XBOX向后兼容核心人物拉沙佩尔确认离职",
+    "summary": "微软XBOX平台副总裁凯文·拉沙佩尔近日确认结束37年微软任职生涯。他于1989年加入公司，曾主导开发XBOX向后兼容计划，使现役主机支持运行695款前代游戏。此次离职系微软全球裁员计划的一部分，XBOX部门将裁减约3200个岗位。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/4087647d3ef94894b3ba0b9e94cf90c9_1_0/hd.webp",
+    "realDate": "2026-07-08 08:36:43"
+  },
+  {
+    "id": "d7fe27d6b32e6333c29b43cac482dad9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282420008&to_app=hwbrowser&dy_scenario=topicinside&tn=2b9411d907c362cd475ad8bbfe944fe15a832a4bb0675533786f784e6f10c001&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI代理需求",
+    "summary": "人工智能初创公司Perplexity宣布将采用英伟达新型Vera CPU，该芯片专为AI代理设计，执行编码任务速度比传统CPU快1.5倍。英伟达称Vera核心速度提升1.8倍，可缩短训练时间并优化延迟，同时解决KV缓存丢失问题。OpenAI等企业也计划使用该芯片。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/df/v3/Topic_67d7d2bce0a44e129e255680af36ebf5/a7da940256e747f39a4d39fce42e0572_1_0/hd.webp",
+    "realDate": "2026-07-08 10:39:51"
+  },
+  {
+    "id": "11a16ce5b01284fd2f01d287976590a4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282420295&to_app=hwbrowser&dy_scenario=topicinside&tn=52a37a581cf67a129a295f8fae1197af7d25993c34b73cf7f70bbf30075f0572&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "替代HBM4 英特尔公布AI内存新专利",
+    "summary": "英特尔近日公布XBM超高带宽内存专利技术，作为HBM4替代方案，采用后道集成存储单元设计，提升芯片面积利用率与带宽上限。该技术封装尺寸与HBM4一致，工作频率2GHz，商业化预计在2030年后。同时，英特尔还在开发ZAM方案，计划2026年展示。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/d3/v3/10510282420295/02ae87ce865d4cfd9ad38f068c0f02ad_1_1/hd.webp",
+    "realDate": "2026-07-08 15:26:53"
   }
 ]
