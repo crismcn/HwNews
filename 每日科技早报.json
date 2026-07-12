@@ -1,110 +1,101 @@
 [
   {
-    "id": "0eb359ddc102ecce67a5f8f9ba622021",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282421144&to_app=hwbrowser&dy_scenario=topicinside&tn=411e56d968426bb1b01bc0fd6d7b0acfdd952bc03bc330409231187da4b8a33f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "投资100亿美元！Meta拟建其美国以外最大数据中心",
-    "summary": "Meta计划投资100亿美元在加拿大艾伯塔省斯特金县建设其美国以外最大数据中心，电力容量达1GW，相当于75万户家庭用电量。该项目将创造300个全职岗位，同时采用节水型冷却系统。公司正与多家能源企业合作规划电网建设，并承担全部水费及污水处理费。分析机构指出，Meta持续扩大AI算力投资，对外出租算力业务已验证其变现能力。",
+    "id": "de184b704a20afbfc980b8d00ac10935",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282423568&to_app=hwbrowser&dy_scenario=topicinside&tn=9aa2c74ee93858a30a142616516f906d1f994e0ad8bff8c369acf18c49ca43f3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称腾讯洽购Manus 知情人士回应",
+    "summary": "近日，腾讯被曝正牵头中方资本以20亿美元估值，从Meta手中回购通用AI Agent公司Manus全部股权。知情人士称交易完成后腾讯将保留少数股东地位但不控股，目前腾讯未予置评。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d5/v3/10510282421144/7cb31b3bdd8a4639834d18ed059a2fea_1_5/hd.webp",
-    "realDate": "2026-07-09 09:28:28"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/509515564e43427ca9e79b8ed65bc3eb_1_0/hd.webp",
+    "realDate": "2026-07-11 16:18:13"
   },
   {
-    "id": "e229919f8785a263f0822eda90fb93e4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048b7aa50d1718a6b744bad7a706569464e&to_app=hwbrowser&dy_scenario=topicinside&tn=2aa95b3c9277c08e79946b4a75b48772e182c014b02456cdaf01b3cd125f4fc3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "花呗崩了 支付宝道歉",
-    "summary": "近日，支付宝花呗页面出现异常，还款、查账单等功能无法使用，相关话题登上热搜。支付宝客服回应称系统升级已完成，功能已恢复，并对用户致歉，同时提醒还款有三天宽限期不影响征信。平台崩溃具体原因未公布。",
-    "author": "北京日报客户端",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/eb/v3/1051048b7aa50d1718a6b744bad7a706569464e/ac3e3e4e44ef4eba804ca142df83c434_1_5/hd.webp",
-    "realDate": "2026-07-09 12:57:43"
-  },
-  {
-    "id": "1d0110ced00beafb8fd599c585953c3c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774462031&to_app=hwbrowser&dy_scenario=topicinside&tn=5bda888372f7ebfbe65248809ab5bdbc9574d00a40eaefc9302eb3f235bc2fd6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阶跃星辰即将推出全球首款AI智能体手机",
-    "summary": "国内大模型企业阶跃星辰将于近日推出全球首款AI智能体手机，董事长印奇强调AGI需与物理世界交互。该公司B+轮融资获华勤技术投资，5月再获龙旗科技、豪威集团等消费电子产业链企业注资。同时，国内外企业如OpenAI、Meta、字节、阿里等纷纷布局AI终端硬件。大模型行业面临商业化挑战，硬件被视为形成商业闭环的重要场景。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fd/v3/10510774462031/cdc218c836854c0e8c5cc4bb2027e998_1_7/hd.webp",
-    "realDate": "2026-07-09 09:22:12"
-  },
-  {
-    "id": "c0190a2070ff9583120e1eb027524b98",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8ucvYNImXQr&to_app=hwbrowser&dy_scenario=topicinside&tn=e20764c33a31157e4982a91afb9312c9cd5b385f732259a717378d8c2bef364b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球首次：人形机器人完成活体胆囊切除手术 宇树G1“操刀”",
-    "summary": "中国宇树科技G1人形机器人在美国加州大学圣迭戈分校团队主导下，成功完成全球首例活体胆囊切除手术。两台机器人通过医生远程操控，使用常规腹腔镜器械协同操作，其中一例完全由机器人团队完成。该技术具备体积小、成本低优势，未来或可应用于偏远地区医疗，但目前仍存在校准耗时、操控延迟等问题需优化。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1054_8/59/v3/1051054ucms_8ucvYNImXQr/924059c04f134127a665f15589bafa34_1_2/hd.webp",
-    "realDate": "2026-07-09 21:24:08"
-  },
-  {
-    "id": "9374e3f0b382fea378c3f7203808ade6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512069489282a2bf5d7289c9b627e5a011a41&to_app=hwbrowser&dy_scenario=topicinside&tn=b03e1ffd7bf344675c5d747c48f01157ca89dc5f2372fe28d44c95f38bf3d22d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "姚顺雨、林俊旸再将同台对谈",
-    "summary": "2026世界人工智能大会即将开幕，腾讯首席AI科学家姚顺雨与前阿里千问大模型负责人林俊旸将再度同台对谈。华为、中科曙光等企业将展示超节点集群等国产算力成果，东方算芯推出采用3D堆叠技术的DF1000芯片，实现全链路自主可控。同时，200余家企业将集中亮相，展示AI领域最新进展。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/3d/v3/10512069489282a2bf5d7289c9b627e5a011a41/8f8686d5da01426ca04f13ee9aea6df1_1_3/hd.webp",
-    "realDate": "2026-07-09 10:57:39"
-  },
-  {
-    "id": "fabecd1e98b5d4c10960e815b7581c11",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614726899&to_app=hwbrowser&dy_scenario=topicinside&tn=5930d17c6e54bb6f869b18bddf1374580af467fc7a5f4cfff2a267d03aa77e18&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "腾讯Hy3调用激增 WorkBuddy称已紧急扩容",
-    "summary": "腾讯混元Hy3在WorkBuddy平台上线后用户需求激增，7月8日上午10时算力资源消耗达峰值并出现排队，下午排队率超50%。团队紧急调度资源完成扩容，以保障服务稳定性。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/Topic_923691678d1643c19bbf24ac5f030ada/dead535ed5c54f01b6eefaebc3d300bf_1_0/hd.webp",
-    "realDate": "2026-07-09 08:54:18"
-  },
-  {
-    "id": "cf15f31926e23956fe03e570c17730f3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3FYAJB2VEC5ZV&to_app=hwbrowser&dy_scenario=topicinside&tn=dc9ebf0daef1dcf94b1b153cfc2ae6c20e9865ed4dadf39348590429a393a6be&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "大三本科生交出7.92倍加速的投机解码新答卷 DeepSeek和阶跃星辰双双引用",
-    "summary": "上海交大等机构提出的Domino算法获DeepSeek、阶跃星辰引用，其通过并行主干与轻量因果修正兼顾推理速度与准确性。该论文第一作者为上海交大大三本科生黄佳诺，其方案在7.92倍加速的投机解码任务中取得突破，解决了并行生成中因果依赖缺失的核心问题。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/Topic_923691678d1643c19bbf24ac5f030ada/95c20ee3ee614a33ae500794c56d9f4c_1_0/hd.webp",
-    "realDate": "2026-07-09 12:17:00"
-  },
-  {
-    "id": "5be98324bd1c85de20956637ed74bf34",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074974477&to_app=hwbrowser&dy_scenario=topicinside&tn=ab276f76eb2ee00c9d4f09f7774cffc3692d396141862682f5e04e2cd229b3a5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "毕马威调查显示：AI“按量计费”模式吓退企业高管 近1/3承认不懂经济账",
-    "summary": "报道称，AI“按量计费”模式令企业高管担忧，29%受访者不清楚成本上涨原因，近1/3承认不懂经济账影响AI部署。报告指出，许多组织缺乏预测和管理AI支出的能力，高管未想清如何有效使用AI。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/Topic_923691678d1643c19bbf24ac5f030ada/574cec9edc384f9b8739e684c02b6f8a_1_0/hd.webp",
-    "realDate": "2026-07-09 12:58:13"
-  },
-  {
-    "id": "53a1bac3c27a170cc921e71295354f41",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023735946&to_app=hwbrowser&dy_scenario=topicinside&tn=65aef0f177fb054dc003476dd674fc8b942abcfd5b7f811a52e639acaa43fdf5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "市值滑坡超60% 影石官宣造“机器人”",
-    "summary": "7月9日，影石创新宣布研发“摄影机器人Cameraman”，其示意图显示该机器人由公司现有产品模块组成：AI芯片为大脑、Nano相机为眼睛、Wave音频和Mic Pro为耳朵、Link摄像头为脖颈、影翎A1为躯干。创始人刘靖康称这是公司长期愿景，但未透露具体上市时间。同时，该消息发布正值公司成立11周年，市值已下滑超60%。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/Topic_923691678d1643c19bbf24ac5f030ada/ea5168b4b07d4edabc962ced64a03196_1_0/hd.webp",
-    "realDate": "2026-07-09 22:28:15"
-  },
-  {
-    "id": "66302bb6df6e30b1f1b4fb69d87f299d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282422153&to_app=hwbrowser&dy_scenario=topicinside&tn=ef447568d31ced6ac0490954cd126c519772dbddfeede9ff080c9b0394691835&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美光再次上调美国投资计划 拟2035年前投资2500亿美元",
-    "summary": "存储芯片巨头美光科技近日宣布，计划到2035年前在美国投资超2500亿美元，较去年6月公布的2000亿美元计划再度上调。投资将覆盖纽约州、爱达荷州和弗吉尼亚州等项目，目标实现美国本土生产40%的DRAM芯片。同时，美光将投入30亿美元加强半导体供应链，其中5亿美元用于支持环球晶圆得州工厂升级。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/Topic_923691678d1643c19bbf24ac5f030ada/f625125e4f9846b197973cd4ff7af776_1_0/hd.webp",
-    "realDate": "2026-07-09 22:34:30"
-  },
-  {
-    "id": "3352f8014fa636b957b9cd249093e325",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048292bf9b48594e74af4774ef13916492&to_app=hwbrowser&dy_scenario=topicinside&tn=25080031523671a10f9b75c26c97f6834cd59bc55a306c1ffd015a4c110b62d3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI芯片需求暴增！三星台积电齐涨价",
-    "summary": "AI芯片需求激增推动晶圆代工市场转向卖方主导，台积电近日通知英伟达、苹果等客户将上调5%-10%供货价格，涉及3纳米至7纳米制程。三星电子同步调高新客户4纳米、5纳米等先进制程价格约15%。分析师指出，AI投资扩张导致先进制程产能紧张，涨价或推高半导体产业链成本，终端产品价格可能受影响。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/Topic_923691678d1643c19bbf24ac5f030ada/15c30fd9518a44e4a796a4b294dca993_1_0/hd.webp",
-    "realDate": "2026-07-09 15:35:10"
-  },
-  {
-    "id": "a1385261177cc7ab7761c3494b532d58",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023735861&to_app=hwbrowser&dy_scenario=topicinside&tn=b4d891530d0d6d624dfa8becf238fa588b9a2be4317dd37cf2a6a550472a654f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "NASA前局长质疑美国登月计划",
-    "summary": "NASA前局长吉姆·布里登斯廷近日质疑“阿耳忒弥斯”登月计划，称方案过于复杂，两款着陆器研制进度滞后。他指出SpaceX的“星舰”和蓝色起源的“蓝月”需多次在轨加注燃料，目前均未成功入轨。同时，NASA已将原定2027年的登月任务调整为2028年执行。",
+    "id": "ee72493a170ef454632ed78fc62e8100",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023736188&to_app=hwbrowser&dy_scenario=topicinside&tn=cd2bc780c5d6b435fe99da223720172b250780a01d99130853b68042c4eac0fa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国公布迄今为止“最清晰”UFO视频",
+    "summary": "近日，美国国防部公布第四批UFO文件，包含14份文档、19个视频等资料。其中一段2020年拍摄的32秒视频被美媒称为“迄今最清晰”，显示大西洋上空约4米高的褐红色物体随风移动。文件来自美国国防部、中情局等机构，时间跨度1948至2025年。五角大楼表示将陆续发布更多不明空中现象文件。",
     "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/90/v3/1051023735861/dabf08da271a4a8d8924e403433b19c5_1_0/hd.webp",
-    "realDate": "2026-07-09 08:54:17"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/3af81a0798f04655a3ef1018a45169fb_1_0/hd.webp",
+    "realDate": "2026-07-11 22:25:18"
+  },
+  {
+    "id": "bc298f9abaf18f0390816071777a4b25",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206d3bc117a5dcb9f64ba7013fd29b51dd4&to_app=hwbrowser&dy_scenario=topicinside&tn=f10c0a4699e7f7cec3d207e7e39991a2634e809a166c0d6b200b282acd52ce99&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "百度搭子推出企业版Agent平台",
+    "summary": "百度近日推出企业版Agent平台“百度搭子”，新增企业知识资产沉淀、多人协作及业务系统打通等功能，同时发布首个企业级Skill接入标准。该平台可连接OA、CRM等内部系统，上线自动化安全审核机制。并支持员工身份透传、行级数据权限管理等企业级能力。试图建立统一的第三方技能接入体系。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1206_8/45/v3/1051206d3bc117a5dcb9f64ba7013fd29b51dd4/c5908f2c28b54df1a38f44bd83760a86_1_2/hd.webp",
+    "realDate": "2026-07-10 21:36:33"
+  },
+  {
+    "id": "6f28b1ed5a06126e93cd3a81ee441c2e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L1KM38VV0511CSAO&to_app=hwbrowser&dy_scenario=topicinside&tn=309ffe9371bc04a232c9946e3c2fa597a3f0877a7cdc93083372207681e1352d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "63道地狱级难题实测 GPT 5.6把其他AI甩开了一截",
+    "summary": "GPT 5.6发布后整合了ChatGPT Work和Codex功能，用户可自由切换场景。OpenAI测试中，该模型成功应对63道高难度3D提示词挑战，包括构建曼哈顿全景、梵高《星月夜》动态宇宙等复杂场景，同时实现尼亚加拉瀑布双瀑布动态效果及火山岛实时生成。开发者惊叹其通过代码精准转化空间坐标与交互逻辑的能力。",
+    "author": "AppSo",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1057_8/a1/v3/1051057d_L1KM38VV0511CSAO/e685e9be318c4b7e929c046496484ca2_1_0/hd.webp",
+    "realDate": "2026-07-12 10:15:12"
+  },
+  {
+    "id": "1a89d036d7dba1ca75cce841f6a5a221",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L1KIH6MJ0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=25184210c3705597d3e74992b2a604535e0b55c507b0350dd14f4cbab9c37b50&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全网骂Claude变笨 Anthropic下场揭秘",
+    "summary": "近日，Anthropic发文澄清Claude Code用户对模型选择和努力度的误解。此前，该公司将Effort默认档位从high降至medium以降低延迟，导致开发者抱怨模型性能下降67%。目前Anthropic恢复默认设置并重置用户额度，解释Model决定AI能力上限，Effort仅影响其投入程度。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/be5def7e852041e5acc8ab8fdb378d7f_1_0/hd.webp",
+    "realDate": "2026-07-12 09:12:54"
+  },
+  {
+    "id": "82212ceef8ec570bb9767b16ca774326",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074975733&to_app=hwbrowser&dy_scenario=topicinside&tn=1a5ea5d83f79e9eb2d321c1cb9409027c6386e3d471deefa9631342b2f798e98&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节旗下付费小说App红烛故事宣布将停止运营",
+    "summary": "字节跳动旗下付费小说App红烛故事，宣布将于今年7月9日至8月17日逐步停止运营。该App由字节间接全资控股的江西笔绘墨影科技开发，提供付费会员及书币购买服务。7月9日起平台停止会员充值，10日起停止内容更新并自动退款，8月17日服务器关闭。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/b55f50ccf6be4e0fbb29d7b817844aa8_1_0/hd.webp",
+    "realDate": "2026-07-12 15:23:08"
+  },
+  {
+    "id": "b09bcaa77edee4b7d613c6353586542b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047b33bdc84d1ff4a4c3405e249c806d36&to_app=hwbrowser&dy_scenario=topicinside&tn=c58390a5aef44a72288e9389d0bad89e19bf9b4df4e28ba62387d2058332ae14&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "WPS再回应C盘占用问题",
+    "summary": "7月12日，金山办公针对WPS系统盘占用问题推出体验版更新，整合磁盘查看、缓存清理等功能至统一页面，支持云文档缓存与备份路径自定义。正式版计划7月底推送，用户可自主调整文件存储位置以缓解C盘压力。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/201514a2bcd647cca5f84c2948e31ac8_1_0/hd.webp",
+    "realDate": "2026-07-12 16:25:55"
+  },
+  {
+    "id": "62760a28e6bf34e37e187fe927101d2e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144830e0e8db91206e200ec1314aa8ed80c3&to_app=hwbrowser&dy_scenario=topicinside&tn=309b84972e14f36d6dc37badb8cda391de230b42128a40627a938908754c183c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星电子将龙仁首座芯片厂投产提前至2029年 比原计划早1-2年",
+    "summary": "三星电子宣布将龙仁国家产业园区首座晶圆厂投产时间从原计划的2030-2031年提前至2029年，以应对全球AI芯片需求增长。该调整与韩国政府加快园区建设的政策相呼应，计划已在6月6日总统主持的会议上讨论。三星拟在平泽、龙仁等地投资2030万亿韩元，首座工厂如期投产将加速产能扩张及本土半导体生态形成。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/2b96468eac1e404faac1d6eeb708acd4_1_0/hd.webp",
+    "realDate": "2026-07-12 11:18:32"
+  },
+  {
+    "id": "bbb1b578728dc51b1f83c9714596640a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074975641&to_app=hwbrowser&dy_scenario=topicinside&tn=0e1d90a360edb975af8e8e7eab9e7909fea85324d5672efa8473bbe3db54100f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "GPT 5.6上线之际 马斯克再度和奥尔特曼隔空“掐架”",
+    "summary": "GPT 5.6模型发布期间，xAI CEO马斯克与OpenAI CEO奥尔特曼在X平台激烈交锋。马斯克转发帖文指责奥尔特曼“将诈骗提升到新高度”，并讽刺其听证会发言。奥尔特曼回击称马斯克炒作“太空数据中心”，同时炫耀GPT 5.6的基准测试表现。对此，马斯克反击称明年将试飞太空数据中心，并指控对方“窃取开源AI机构及苹果技术”。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ae/v3/1051074975641/b47e036997f34bcdae295ed4c486cd95_1_0/hd.webp",
+    "realDate": "2026-07-12 08:14:08"
+  },
+  {
+    "id": "8e78b543b7037592fd497acc465ba742",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074975640&to_app=hwbrowser&dy_scenario=topicinside&tn=a28c091ac28aed60b9e032ee960aa217dba40e1ef5fe7c89734e437bd140c667&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软回应Xbox裁员争议称：并非用外籍员工取代美国员工",
+    "summary": "公司传播负责人弗兰克·肖表示，近期人事调整是为重组不健康的Xbox业务，且裁员影响全球员工，包括加拿大、法国和德国工作室。同时，他驳斥了将裁员与H-1B签证申请关联的报道，并澄清Xbox首席执行官夏尔马出生于美国。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/f93287de6e224dc0aea0c7e5f7849c5d_1_0/hd.webp",
+    "realDate": "2026-07-12 07:59:30"
+  },
+  {
+    "id": "1c0596de6e38d236f4cf3c59269f5977",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511951bea3c8e07ec265bc93a3ebcd5ad7ce5&to_app=hwbrowser&dy_scenario=topicinside&tn=805febc3f3ba315d7a68230335f64bacea1aef3db429ef092a2821f8bca5fb64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI抢芯片要抢到2030年后！SK海力士预警：2027年将迎史上最严重缺货潮",
+    "summary": "近日，韩国存储芯片制造商SK海力士CEO郭鲁正警告称，全球存储芯片行业2027年将面临史上最严重短缺，AI基础设施需求激增导致高带宽内存和DRAM供应紧张，产能扩张难以匹配需求增长。同时，英伟达CEO黄仁勋和瑞银均预测AI芯片短缺将持续数年。尽管市场对AI投资增速存疑，美国银行预计今年全球云服务商资本支出将达8510亿美元。",
+    "author": "红星新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f9/v3/Topic_87de0f13fd254644b811b483b31fd50d/eb0845dbb86d44d9b040e75738cec9c1_1_0/hd.webp",
+    "realDate": "2026-07-12 16:22:36"
   }
 ]
