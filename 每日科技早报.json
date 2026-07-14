@@ -1,92 +1,119 @@
 [
   {
-    "id": "d6dcfd18f20a16f35cad98b3d1100f3b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BPM24J5RE19E&to_app=hwbrowser&dy_scenario=topicinside&tn=63c3a42919e518d385d89a5c18fe94cb2fa659f6cfd5b1da78a9bf8b7facd1f0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI移除Codex5小时使用限制 Fable 5订阅再延7天",
-    "summary": "Anthropic宣布将Claude Fable 5订阅期限延长7天至7月19日，同时OpenAI暂时移除Codex的5小时使用限制。用户此前因高额账单集体抗议，威胁转投GPT 5.6 Sol或Grok 4.5。行业数据显示当前AI推理业务毛利率达40%-50%，但算力供需失衡持续。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/883179495ef84429a2f5cb00c0b2e315_1_0/hd.webp",
-    "realDate": "2026-07-13 08:07:00"
-  },
-  {
-    "id": "e8ae74db4e5829deadd79c3d67ea7135",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512479004457436383015226&to_app=hwbrowser&dy_scenario=topicinside&tn=29941e5924e627b218b39628cb7686568f7f61115562bda9da7f6f75cf510757&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "28.04%！我国团队刷新钙钛矿-有机叠层太阳能电池效率纪录",
-    "summary": "中国科学院化学研究所李永舫院士、孟磊研究员团队研发的钙钛矿-有机叠层太阳能电池技术取得突破，认证稳态光电转换效率达28.04%，刷新世界纪录。该技术通过分层吸收阳光提升效率，同时具备轻薄柔性特点，稳定性表现优异，持续光照625小时后仍保留90%初始效率。成果7月13日发表于《自然》期刊，未来可应用于建筑光伏、可穿戴设备及航天领域。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/f49de1983d6e4fb283c6b9fc3c1a861d_1_0/hd.webp",
-    "realDate": "2026-07-13 23:00:00"
-  },
-  {
-    "id": "925590dbe227ba6674b86dc0b23e2878",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282424821&to_app=hwbrowser&dy_scenario=topicinside&tn=a460640eaccfaf4dd4464b08a9ec52dc72e1b63d9ae62efe65b36bae797aa48d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
-    "summary": "Meta宣布追加400亿美元投资其路易斯安那州数据中心项目，总投资预计达2500亿美元。该项目算力容量将达5吉瓦，园区总用电需求超7吉瓦。Meta已建成或开发33座数据中心，CEO扎克伯格称未来几年将在美基础设施投入至少6000亿美元，同时考虑出租部分算力资源。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/5c4c82cd32324d6e832363c4b330aeea_1_0/hd.webp",
-    "realDate": "2026-07-13 19:19:11"
-  },
-  {
-    "id": "bcfb06c812af5c6a5664c788f12e4cfe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512061b82659ba2c4f7afed675ae0479c7645&to_app=hwbrowser&dy_scenario=topicinside&tn=96a287bfd1014f669c084f15d1d2b5f75967bcf1bc37c30fc046c3e0794df6c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "蚂蚁灵波频发新成果 高管团队首谈技术路线和战略选择",
-    "summary": "近日，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0，其CEO朱兴与首席科学家沈宇军首次披露技术路线。该模型采用自回归架构预训练，在真机测试中实现不依赖外部设备的随机对打。公司定位为“通用大脑”，通过自研模型解决机器人泛化性问题。团队从数字世界模型筛选能力并升级架构，1月已发布视觉-动作模型LingBot-Depth 1.0。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/3d13cf866635416b9179a1ee796ad2fa_1_0/hd.webp",
-    "realDate": "2026-07-13 15:11:57"
-  },
-  {
-    "id": "20daf437768710fca79f84fc2743e1a7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105122197133dc4ee0d018587e7bb68d703fe9b&to_app=hwbrowser&dy_scenario=topicinside&tn=b78b3ad4c3e494bf4b8f948d10dcb9830258d31c0f6259cc0f2575f6ea7818d7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "内部人士称：菜鸟供应链定位独立公司 将继续加大投入",
-    "summary": "近日，菜鸟供应链被证实作为阿里电商事业群的独立公司与淘天并列，并非“上浮淘天”。阿里将继续加大对其投入，7月1日起该业务已融入电商事业群，运营平稳。内部人士称其定位类似闲鱼与淘天关系，未来将提升供应链履约能力，同时加强AI智能化。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/a0ea92dd9d52431daa43a875dc239c23_1_0/hd.webp",
-    "realDate": "2026-07-13 18:23:00"
-  },
-  {
-    "id": "7eb0d4afb9ced27ec325c3883a631e15",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282424506&to_app=hwbrowser&dy_scenario=topicinside&tn=0d14818fc04b671dd588eaf1348d9ce7d2df878679404e1e2f935a4fbe430b6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电6月营收同比增长68% 再显AI需求持续火热",
-    "summary": "台积电6月营收4426.8亿新台币，同比增67.9%，环比增6.2%，1至6月累计营收超2.4万亿新台币。作为英伟达和苹果主要代工厂，其3纳米和5纳米制程产能紧张，CEO魏哲家称未来数年难满足美国客户需求。同时，SK海力士预计存储芯片供应紧张或持续至2030年后。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/9d8d4ef958fc48d59d4e7d62f3bfb406_1_0/hd.webp",
-    "realDate": "2026-07-13 16:20:20"
-  },
-  {
-    "id": "96a444f9808535e9269ccc0e7aba26bc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510016c62e019c2fb8c17d83f27b54a42f253&to_app=hwbrowser&dy_scenario=topicinside&tn=ddd9226271689354c81d4c1dea27fb81336f6154573330c85d1be06fa2e66f70&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国AI五巨头5年间债务翻一番 新增约3500亿美元",
-    "summary": "美国五大AI巨头（Alphabet、亚马逊、Meta、微软、甲骨文）过去5年新增债务约3500亿美元，总债务翻番以支撑AI投资。亚马逊近期发债遇冷，认购倍数仅1.6倍，低于市场平均水平。同时，5家公司去年利息支出超100亿美元，较2019年增逾一倍。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/ae9212f141224ee5a80e4fe218adc65f_1_0/hd.webp",
-    "realDate": "2026-07-14 06:37:48"
-  },
-  {
-    "id": "fab18c3ce61802b97a548825e5a18cdb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110441aa30c61a6b0ddd709efaae5151af5d&to_app=hwbrowser&dy_scenario=topicinside&tn=0d24dff15a28fecef29be75579d0caec7293d448ae9dc2ee03ffd06782918205&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软曝光恶性后门！可擦除磁盘覆写系统盘 数据几乎无法恢复",
-    "summary": "微软安全团队近日曝光名为GigaWiper的破坏性后门，该程序可擦除磁盘、覆写系统盘并加密文件但不保留密钥，真实目的为间谍活动。其具备监视控制功能，收集信息后启动破坏组件使数据难以恢复。",
+    "id": "ace830919bf5e484e522e123d55f03e1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104c67e4e1f4dd8807afe4f3834de8b469e&to_app=hwbrowser&dy_scenario=topicinside&tn=336aae4bf8d2667682bdd9c0ea0154614e5deeb7f135a7033bf2275acd725d01&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepSeek梁文锋登顶全球AI圈新首富",
+    "summary": "DeepSeek创始人梁文锋净资产达360亿美元（约2440亿元人民币），成为全球AI圈新首富。其财富主要来自持有的DeepSeek股权，公司估值从4月的100亿美元升至500亿美元。今年6月，DeepSeek完成74亿美元融资，梁文锋持股78%并保持控制权。腾讯、宁德时代等参与本轮融资，投资方股份设五年锁定期。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/ec9d1c6b477c456e98d644ad981a58e4_1_0/hd.webp",
-    "realDate": "2026-07-13 15:42:46"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/3f022533fb76466382996e93810a834a_1_0/hd.webp",
+    "realDate": "2026-07-14 15:29:33"
   },
   {
-    "id": "a0c38c3882d488d9c136528a737eb156",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051034e45fbd8660f123bce89ef73bcdb695d7&to_app=hwbrowser&dy_scenario=topicinside&tn=62f408825885720c098ffa0b7bbd0f655e62640ff092b202d3aa33841335c0e4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "欧盟认定Meta社媒“成瘾性设计”违法",
-    "summary": "近日，欧盟委员会指控Meta旗下照片墙和脸书采用“成瘾性设计”，包括无限滚动、自动播放视频等功能，违反欧盟《数字服务法》。该机构指出这些设计危害用户身心健康，尤其影响未成年人和弱势群体，若Meta不整改或面临全球年营业额6%的罚款。同时，欧盟认为平台时间管理工具易被关闭，家长控制功能效果有限。这是继今年4月Meta被控未有效防止13岁以下儿童访问平台后的又一调查结论。",
-    "author": "参考消息网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/ab30833b26b24835b2bbb1591b121c19_1_0/hd.webp",
-    "realDate": "2026-07-13 10:14:23"
+    "id": "4f836dc617b5c89bd878ea74c876b749",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10516232c638586523c3fabb32ab065ca294f87&to_app=hwbrowser&dy_scenario=topicinside&tn=34e955f409876660dcd4ae2f230c2a5b427453503da9432428cb1cd72fbc3f67&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "起步价逼近2元 共享单车集体涨价",
+    "summary": "近日，哈啰、美团、滴滴青桔三大共享单车平台在北京调整计费规则，起步价全面上调至1.88-1.99元，起步骑行时长由30分钟延长至60分钟。平台称调价基于运营成本及服务质量考量，但短途用户单次支出增加，中长途用户费用降低。数据显示全国居民单次平均骑行仅2.7公里，多数用户骑行时间在15-20分钟间。",
+    "author": "封面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/10516232c638586523c3fabb32ab065ca294f87/fbc0b05f44da40539eb120b675d2edb3_1_5/hd.webp",
+    "realDate": "2026-07-14 14:50:58"
   },
   {
-    "id": "ff89cfab11b5ed4a08ffc6e2b67f0fa9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144854c93841924332f72dbdd09332bd2f14&to_app=hwbrowser&dy_scenario=topicinside&tn=3c597b55345125fd1c5ba39eb46985eb5e347a209285d6117224817ae027c249&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国顶尖教授批量离校加入OpenAI、Anthropic等AI巨头",
-    "summary": "报道称，今年已有斯坦福、伊利诺伊大学等多校学者离职。留守学者警告，人才外流将削弱开源AI竞争力，同时导致教职空缺破坏学术生态。伯克利教授Joey Gonzalez称，今年离职数量急剧上升，影响远超预期。",
+    "id": "fa5390a0dbaa3548274db78d80d9953b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100418gtdJqs&to_app=hwbrowser&dy_scenario=topicinside&tn=a361caf888790893cdece46056967d09246cbe47b8e4513035c7196a36dfbff3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "2026年菲尔兹奖提前泄露！北大校友王虹、邓煜或双双封神",
+    "summary": "2026年菲尔兹奖名单因官网代码漏洞提前泄露，北大校友王虹、邓煜与两名外国学者被标记为获奖者。若属实，这将是中国首次同届两人获此殊荣，王虹或成第三位女性得主。两人均毕业于北大，曾攻克挂谷猜想等百年难题。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/39ab1449621048718536a8e3193f4f4f_1_0/hd.webp",
+    "realDate": "2026-07-14 08:11:24"
+  },
+  {
+    "id": "d65c596569cb2bbcda864dfa394797d2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8uitzwbrroY&to_app=hwbrowser&dy_scenario=topicinside&tn=7bffe5182fbba6edb2d3d31a7017d46f90d9fa02c4bbfa303737bc3652db9387&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克亲口承认Grok Build上传用户代码 Space XAI承诺将彻底删除",
+    "summary": "近日，马斯克承认Grok Build上传用户代码属实，承诺彻底删除Space XAI所有历史数据。安全研究员通过钓鱼测试发现，该AI编程工具未经许可上传整个仓库文件至第三方服务器，传输量达正事流量的27800倍。Grok Build此前宣传“本地优先”，但实际关闭数据收集开关仍无效。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/332184e5fb7e47c9af9d904c3b1ea13b_1_0/hd.webp",
+    "realDate": "2026-07-14 13:43:25"
+  },
+  {
+    "id": "61e035cb9b8a25aa7465b513a4c9703b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051563ID2BPQEGYPOEV0V&to_app=hwbrowser&dy_scenario=topicinside&tn=2a77b590549fb0950733b330f1f092256ef4c991f39baa409508a4adf2cf71d1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "年近70 “强化学习之父”Sutton创业了",
+    "summary": "近日，年近70岁的图灵奖得主、“强化学习之父”理查德・萨顿宣布与Khurram Javed共同创立Oak Lab公司，致力于开发通过第一人称经验自主学习的AI智能体。其核心OaK架构旨在突破当前大语言模型的局限，让AI在运行中实时试错进化，最终实现低能耗下通过经验累积达成超级智能。此外，Sutton批评现有大模型依赖静态数据，缺乏探索能力。",
+    "author": "机器之心",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/5b51454c7c834297b9a0a5e754fabdc2_1_0/hd.webp",
+    "realDate": "2026-07-14 12:00:00"
+  },
+  {
+    "id": "418b11e143adecb4286e74fe50c55f09",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074976403&to_app=hwbrowser&dy_scenario=topicinside&tn=0f79f75ee1e27a73846689e1e7ce6077cb4989fa6a3da23e3169ead791c0b8c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "软银创始人孙正义称：核聚变能源将是AI未来发展的关键",
+    "summary": "他表示，AI数据中心电力需求激增将使核聚变成为未来关键能源。他预测到2040年全球数据中心需3太瓦电力，核聚变将因清洁安全取代天然气发电。同时指出日本若忽视AI潜力将错失发展机遇。美国能源部计划30年代中期扩大核聚变应用，但目前仅少数国家掌握基础技术。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/52fc4d55d9304b8dad20582bace564cd_1_0/hd.webp",
+    "realDate": "2026-07-14 11:40:57"
+  },
+  {
+    "id": "752e27c3397826f3141daeee912619bc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448259a71d05ed8d4ef371994add67012fb&to_app=hwbrowser&dy_scenario=topicinside&tn=713439360cb02bfce422ac1eafbcc758946d9595e171b7be8b3f3d926cf27f1a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DRAM价格三季涨四倍 三星被美国消费者提起反垄断诉讼",
+    "summary": "近日，美国消费者与小型PC制造商联合对三星电子提起反垄断诉讼，指控其将70%至90%先进产能转向HBM，导致通用DRAM供给压缩，价格三季涨四倍。原告认为此举超出正常产能分配，构成价格合谋。这是AI热潮中首例终端用户对存储原厂的集体诉讼。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/77/v3/Topic_381650754dd34b9590df0e838455491b/9346d9bdb4fe401f9ad06149deb7b07a_1_0/hd.webp",
-    "realDate": "2026-07-13 16:47:24"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/04147c5708964ca8a01d6cc704b15a6a_1_0/hd.webp",
+    "realDate": "2026-07-14 06:58:21"
+  },
+  {
+    "id": "de6255a1a62e3d992a84c69d1ac38ac8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074976262&to_app=hwbrowser&dy_scenario=topicinside&tn=c925c915f041cece607cd7b0bd0ee624ff68b08450482152fc559aebe3beddd6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI安全系统负责人海德克即将离职",
+    "summary": "报道称，这是继伊利亚·苏茨克维、扬·莱克等多名高管后又一安全团队核心成员离开。公司宣布米娅·格莱泽将接任研究与安全副总裁，并推动安全工作融入各研究团队。同时，离职员工莱克曾公开批评公司更重视产品推出而非安全保障。OpenAI表示确保AGI安全是其核心使命，但安全团队高层持续动荡引发外界质疑。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/b43b126d3ac7497f9e90748eb495b355_1_0/hd.webp",
+    "realDate": "2026-07-14 07:31:28"
+  },
+  {
+    "id": "1f1f22c764bd248c221f931f05f80a08",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L1PS8ETD05318XR6&to_app=hwbrowser&dy_scenario=topicinside&tn=154a425b8292f544be6ee222b6832902ca8b8e07d9580f39d5bf639659f10e9a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "比英伟达A100快478倍 北大、中科院造的芯片登上Science",
+    "summary": "北大与中科院团队研制的基于相变忆阻器的神经动力学系统芯片登上《科学》期刊，该芯片单步运算时延仅2.12毫秒，在执行相同任务时比英伟达A100 GPU快50.38至478.18倍，功耗降至7.8%至3.9%。研究突破了相变型忆阻器“可控存内计算”国际难题，被《科学》评价为“代表物理驱动计算的理念转变”。",
+    "author": "芯东西",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/b86d8ba770dc4487a9113945491fcd5f_1_0/hd.webp",
+    "realDate": "2026-07-14 10:39:05"
+  },
+  {
+    "id": "59ec0b10965853e5f890d978871a99b1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100154054f34e3dc4e64ae49db1c0e7fcd6c&to_app=hwbrowser&dy_scenario=topicinside&tn=13f16e4a642c13dddca1e5a3054dfa14d29ca693fdf86572deeed63f32f44791&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "机构称：今年第二季度全球智能手机出货量同比下滑4%",
+    "summary": "市场研究机构Omdia报告显示，存储器供应危机推高元器件成本，400美元以下市场受冲击最严重。厂商转向高端化策略应对，但内存成本已达一年前4-5倍，入门机型BOM成本超60%。分析师预计未来两季度下滑压力加剧，消费者换机选择将减少。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/367327ef4e314a648da8b6c093bca718_1_0/hd.webp",
+    "realDate": "2026-07-14 15:22:06"
+  },
+  {
+    "id": "a559ecd1280241ef6abd2c706dfedbd6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282426220&to_app=hwbrowser&dy_scenario=topicinside&tn=53d7e82847158a994c4c63c7772fc1f7a4110f3489a4acc0d798c4afacdefe09&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全美首例！纽约州暂停新建大型数据中心一年",
+    "summary": "近日，美国纽约州宣布实施为期一年的建设禁令，暂停新建用电规模达50兆瓦以上的大型数据中心，成为全美首个采取此类措施的州。州长霍楚尔表示，此举旨在应对数据中心发展推高公用事业费用、消耗自然资源等问题，同时将推动立法取消相关税收减免政策。数据显示，纽约州居民电价居全美第八，目前有超12吉瓦高耗能项目等待接入电网。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/2f/v3/10510282426220/c65d7387e52d4ba0b9e7772dce78fa73_1_2/hd.webp",
+    "realDate": "2026-07-14 19:41:43"
+  },
+  {
+    "id": "fab4f636e6e1040fe4f2a095bc3250ff",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514104615910195448029&to_app=hwbrowser&dy_scenario=topicinside&tn=fc9ab8570174364468c4a054dc1ed1a9cde038dad6719d0573cae2a56b2cf02e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“订单排到2031年”！燃气轮机3年涨价约300% 科技巨头大幅采购",
+    "summary": "微软等科技巨头加速建设AI数据中心，因电网供电不足转向采购燃气轮机。GE Vernova称其订单排至2031年，数据中心相关需求占20%。同时，美国研究机构指出过去三年燃气轮机价格上涨约300%，但环保争议随之而来。",
+    "author": "极光新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/92/v3/10514104615910195448029/7d2043ac18864c2584b1a431f538b43c_1_5/hd.webp",
+    "realDate": "2026-07-14 08:16:17"
+  },
+  {
+    "id": "b00d0e2f99e32e0c1636935008edd9f1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023736393&to_app=hwbrowser&dy_scenario=topicinside&tn=631714bb01418036bf1f685b702650da6952c035091ca38f580e815257f41c60&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "科学家首次在星际空间检测到糖类分子",
+    "summary": "近日，科学家在银河系中心附近尘埃云中首次检测到四碳糖赤藓酮糖，表明生命相关化合物可在星际空间形成。西班牙团队通过射电望远镜观测发现，该糖类由乙醇醛和乙二醇在-250℃下反应生成，或为地球早期生命提供化学原料。研究发表于《自然·天文学》，或解释RNA起源及生命演化过程。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/Topic_a59529be028846fab727d5d87203111d/f839716a17824b28bba699bf8d038ddb_1_0/hd.webp",
+    "realDate": "2026-07-14 08:07:59"
   }
 ]
