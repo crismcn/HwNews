@@ -1,101 +1,92 @@
 [
   {
-    "id": "695bc2afc7eea09aad10a648457792fe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110410902317462573531&to_app=hwbrowser&dy_scenario=topicinside&tn=e34853d385fc99d94856722534abedb7709c27e9ababc30e55341d774887df4b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为鸿蒙系统装机量突破7300万",
-    "summary": "华为鸿蒙操作系统装机量突破7300万台，日均新增17万台。数据显示，该系统自6月12日6600万台增长至7月2日7000万台仅用46天，目前占据中国智能手机市场19%份额，超过iOS成为第二大操作系统。华为手机市场份额也回升至20%，创2020年第四季度以来新高。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/ab262c518e924800a8e28949f7578486_1_0/hd.webp",
-    "realDate": "2026-07-15 11:57:26"
-  },
-  {
-    "id": "fea7b2dfda12fbc0399e2021b65ca34e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124713518280427081137180&to_app=hwbrowser&dy_scenario=topicinside&tn=84539ed553963a4df72c39042aa54ca733a21faa5c77301aaf12d8c12d0dc362&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "2026重大科学问题、工程技术难题和产业技术问题发布",
-    "summary": "7月15日，中国科协发布2026年30项重大科技问题，包括Hodge猜想、磁约束核聚变等10个前沿科学问题，深海环境智能感知等10个工程技术难题，以及新一代光谱找矿装备等10个产业技术问题。该活动自2018年起持续开展，旨在为原创性科技成果提供方向指引。",
+    "id": "e2dd7599dc5df8760c9f54502decc598",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124715318472014821281100&to_app=hwbrowser&dy_scenario=topicinside&tn=8fcfe620c15c8aaa505278b0d41868d0c772d57931cdabc6329f7ca53364c2e3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "商务部回应安世半导体问题进展",
+    "summary": "商务部新闻发言人何亚东表示，中荷建立开放务实的全面合作伙伴关系10多年来，双边经贸合作不断深化。7月7日，荷兰外贸与发展合作大臣舍尔茨玛访华，王文涛部长与其共同主持召开中荷经贸混委会第18次会议，就中荷、中欧经贸关系坦诚、深入交换意见。中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/341db5dbe3c7476cb0f9c48e79dfba27_1_0/hd.webp",
-    "realDate": "2026-07-15 10:20:55"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/9e686579c1954ca1a47ef77b48bc6014_1_0/hd.webp",
+    "realDate": "2026-07-16 15:04:45"
   },
   {
-    "id": "2aead3a5a9f6edd7b734f885d93e07e8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L1SQ3FS30511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=e68a9876f027f0fb76423620a9b991ee27952a6fbfe261aff0b730cbb604ebfc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "超越OpenAI！中国00后团队攻破“记忆”难题",
-    "summary": "中国00后团队近日研发出具备“情景记忆”能力的AI系统，突破现有模型仅依赖权重知识和临时上下文的局限。该系统模拟人类记忆的压缩与传递机制，能准确关联用户历史活动与当前语境，解决传统检索式记忆易受干扰、漏检关键信息的问题。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/8adc93a5d1e14a3a83566f1572794039_1_0/hd.webp",
-    "realDate": "2026-07-15 13:59:09"
-  },
-  {
-    "id": "54eb2bad1a9cf40da5a63423fe0e84c0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512531e5d29849635ab2fe22a96d85537ebdd&to_app=hwbrowser&dy_scenario=topicinside&tn=e01bfc9b2f7a979bcac5041edfd020acc74edfcf781de9c7ed031120152a4754&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里发布实时语音交互对话模型Qwen-Audio-3.0-Realtime",
-    "summary": "该模型在智商、工具调用、共情对话和双工交互流畅度四个方面实现升级，提供推理能力更强的Plus版和响应更快的Flash版，适用于客服、教育、娱乐及情感陪伴等场景。",
-    "author": "证券时报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/fd66c7e099464ceeaf90e013ef534960_1_0/hd.webp",
-    "realDate": "2026-07-15 10:52:17"
-  },
-  {
-    "id": "f4cb096ed957bffe9eb3478d430ba0fa",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448c29c9c0af4d9a7a71dad3726c2a628fa&to_app=hwbrowser&dy_scenario=topicinside&tn=a4f357453279efa732175df8c748a8724e8fbb3eb5e6452c15b52a7379b4b416&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "单周暴涨2.5倍、5个月涨了7倍！OpenAI的Codex用户已突破800万",
-    "summary": "OpenAI旗下AI编程工具Codex与ChatGPT Work合并后周活跃用户突破800万，5个月内增长逾7倍。7月9日GPT 5.6上线后单周使用量激增2.5倍，导致基础设施承压，OpenAI被迫优化推理容量并压缩上下文窗口。同时，公司宣布将Codex整合进ChatGPT桌面端，但使用额度瓶颈仍是挑战。",
+    "id": "36b6eaecd59eea6302e9f83e5cd51ead",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448edc5ce9a283ea842ec381cd1ea846b45&to_app=hwbrowser&dy_scenario=topicinside&tn=378253397e5144d0885feaaf982ffb901a4b0980e7b44af9242f4060b9681261&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Gemini旗舰模型发布延期 编程能力不及预期",
+    "summary": "谷歌旗舰AI模型Gemini 3.5 Pro因编程能力提升不及预期推迟发布数月，同时OpenAI与Meta新模型在代码生成领域已超越谷歌。该消息致谷歌股价盘中跌5%，收跌4.4%。内部员工担忧市场先机丧失，部分研究人员转投Anthropic等机构。谷歌发言人回应称正测试多款模型并与政府沟通行业规范。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/4f3ca88380d74028b85f0ed56fd44ed4_1_0/hd.webp",
-    "realDate": "2026-07-15 10:34:17"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/18744da896e64d1e9bdf4a28d0a741b9_1_0/hd.webp",
+    "realDate": "2026-07-17 06:25:25"
   },
   {
-    "id": "6732ea4f5b409d31541bdbf291e99b9e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144844c44c3186c43fe7133c5c406e2d53e4&to_app=hwbrowser&dy_scenario=topicinside&tn=73146c1daf5e8ca9603ec61c6b31a85624af4ba0f281aabeb1bb85c6d5b245c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "报道称ASML计划上调光刻机价格 台积电表示反对",
-    "summary": "近日，ASML计划上调光刻机价格，主要客户台积电表示反对。该公司CFO称，Low NA EUV设备生产效率提升为涨价提供空间，但台积电认为其High NA EUV设备成本过高仅适合研发。此外，ASML表示，其客户英特尔已开始使用公司最先进的光刻机进行芯片生产。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/3aa049297fbd494098945367f418b060_1_0/hd.webp",
-    "realDate": "2026-07-16 03:46:56"
+    "id": "437f208c0d3b2e929b831f5f4767e31c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774474460&to_app=hwbrowser&dy_scenario=topicinside&tn=1b0afcf6075624f133444ed032892ac09786f210d57ba3739d9f09622ec57a6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "澜起科技被曝遭韩国检方调查 公司方面回应",
+    "summary": "近日，韩国检方对澜起科技、日本瑞萨电子和美国Rambus在韩办公室展开突击搜查，调查三家企业涉嫌串通半导体零部件价格。澜起科技董秘办公室回应称正在了解情况，公司经营正常。作为全球内存接口芯片三大龙头之一，澜起科技2024年以36.8%的市场份额位居行业首位，与另两家企业合计占据93.4%的市场份额。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/10510774474460/2d70235377bc4306aff448c549a3f29c_1_6/hd.webp",
+    "realDate": "2026-07-16 11:34:06"
   },
   {
-    "id": "05226cbb0b531fde655c6c43ed35ba74",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001e7208db3c8934b8f3b631de6ff6cfda1&to_app=hwbrowser&dy_scenario=topicinside&tn=45ee3700d0272c5c64010aa7ccd6d07030f23970e6a8a29310591af31f403399&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI正式回应苹果诉讼 专利纠纷迎来新进展",
-    "summary": "7月15日，OpenAI否认苹果指控其窃取商业秘密的诉讼，称其缺乏事实依据。苹果此前指控OpenAI利用前员工获取机密技术研发AI音箱，涉及iPhone设计师等核心人员。OpenAI强调坚持自主创新，未发现侵权证据。",
+    "id": "7d423cf385bd37a0cd2e893c33821fe3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103277571&to_app=hwbrowser&dy_scenario=topicinside&tn=8589a415a4be54cde85d82aebd177ec33f8541ea20597a62b9c7c6f5b3d8b646&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达发布多款物理AI产品 两款机器人计算模组明年上市",
+    "summary": "此次英伟达发布的产品包括机器人计算模组Jetson T2000和T3000，前者40瓦功耗下算力400TFLOPS，后者70瓦功耗下865TFLOPS，将于明年第一季度上市。同时推出轻量级模型Cosmos 3 Edge，含40亿参数，用于具身系统感知与推理。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/af495508b3924777933656c0a6a1c36c_1_0/hd.webp",
+    "realDate": "2026-07-16 12:08:52"
+  },
+  {
+    "id": "e08a69601d5c8465c5a3ba6f9f8be5b2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001267da7fba96583a5458cfb53eb56d119&to_app=hwbrowser&dy_scenario=topicinside&tn=da11b089c403502455befcfc08a1c8d8a0778f924c4315917d0527558d2eeab9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克重磅动作：X将开放完整代码库 增设外部核验机制",
+    "summary": "社交媒体平台X将在完成内部安全审查后开源全部代码库，并设立第三方核验机制确保公开代码与实际运行代码一致。此前X曾开放“为你推荐”算法源代码，但范围有限。此次全代码开源覆盖所有系统模块，同时引入外部机构核验，旨在实现可信透明。业内分析认为，此举可能冲击去中心化社交产品的核心优势。",
     "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/85269c4f29d84e16b814b0e24af48cf4_1_0/hd.webp",
-    "realDate": "2026-07-15 14:58:33"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/4cffd970acf84c31947228978c2d86b7_1_0/hd.webp",
+    "realDate": "2026-07-16 14:53:04"
   },
   {
-    "id": "796cd5f53fb9524a14543634a0ae6d51",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282426895&to_app=hwbrowser&dy_scenario=topicinside&tn=80b8bea97d0d77df72a1b92b741cd614d8b861f213b5fde70d675ca66acb662e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "涨幅45%！力积电上调存储代工报价",
-    "summary": "晶圆代工厂力积电7月起将存储代工报价上调45%，8吋与12吋逻辑代工价格同步上调10%至15%，提价效应预计11月起反映在营收。2026年二季度其营收172.91亿新台币，环比增27%，毛利率28%创三年半新高。DRAM业务占比46%，3D AI晶圆代工占比升至5.4%。公司预计DRAM供需缺口延续至2027年，资本支出聚焦DRAM及先进封装产能建设。",
+    "id": "60326f97e23961c1443daa1ed19647c4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114358d61a320d4fa7f67a9ea9b65d8ab910&to_app=hwbrowser&dy_scenario=topicinside&tn=9d25b94163ad816255c4006100e8ba2221e43e743d16d68bcb60783eb80251da&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "GPT 5.6智商突破130天才线 超过Claude 5 Fable",
+    "summary": "近日，AI评测网站Tracking AI更新离线IQ测试榜单，GPT 5.6多个版本以136分成为首批突破130分的模型，Claude 5 Fable以130分排名第二。测试采用Mensa成员设计的未公开图形推理题，但网站强调该成绩仅反映特定题目表现，不能等同于综合智能水平。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/c5333e212b0c4d6e98d592a6e6ba7933_1_0/hd.webp",
+    "realDate": "2026-07-16 13:46:00"
+  },
+  {
+    "id": "00984be0efc4b16da1011392978f9491",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511438e87c88710c1ceca7b67c86fc220c611&to_app=hwbrowser&dy_scenario=topicinside&tn=19598fc9a462919ac7e2286ab543e3892df3cef2647ea9e1d079039fb7f8018d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电二季度净利润同比增长77.4% 合并营收同比增长36%",
+    "summary": "台积电公布2026年二季度财报，合并营收12703.8亿新台币，同比增36%；净利润7065.6亿新台币，同比增77.4%。7纳米及以下先进制程占晶圆营收77%，其中3纳米占比30%。分析师称AI需求抵消消费电子疲软，或推升毛利率至67.5%。同时市场关注科技巨头算力投资是否过度。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/6be1ce906f2143b8ab154815fca637ed_1_0/hd.webp",
+    "realDate": "2026-07-16 14:15:00"
+  },
+  {
+    "id": "3708d5469ee66ebe884d65d3ab31fb01",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282428607&to_app=hwbrowser&dy_scenario=topicinside&tn=db99da4a4855bc2c57d33a46b144eabdf093a926b55798c258390b6de50d89ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
+    "summary": "近日，台塑集团旗下电子级氢氟酸及电子级异丙醇两大半导体材料报价上涨。电子级氢氟酸因硫酸及萤石原料涨价，第三季度将调价；电子级异丙醇供应商胜一此前已涨价，第三季度或继续调整。这两种材料用于晶圆刻蚀、清洗等环节，直接影响芯片良率。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/e0b0fe7411fd448d84f29d0a4a6e32b6_1_0/hd.webp",
-    "realDate": "2026-07-15 12:21:31"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/097cd2dbbd6f4a28bf60f5be019d07c9_1_0/hd.webp",
+    "realDate": "2026-07-16 18:32:56"
   },
   {
-    "id": "971002620d5c172e1fbb7537cd663f3b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047302aac3d314e754f32e4dc38e8656a5&to_app=hwbrowser&dy_scenario=topicinside&tn=3bc13acbd388ffaf07136e62a18c333fcb8cd70d2cbf3a366e324406a59f764b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SK海力士扩产“画饼”被戳破！2028年产能仅六分之一",
-    "summary": "SK海力士扩产计划遇阻，美银报告显示其2028年实际新增存储芯片产能仅为原规划的六分之一。行业人士称光州和全罗厂区建设需超十年，大规模产能释放或延迟。同时，三星、SK海力士与美光因涉嫌操纵DRAM价格遭集体诉讼，Jefferies预计DRAM价格实质性放缓最早要到2028年。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/2f3bc438a1064e408f59f30675411964_1_0/hd.webp",
-    "realDate": "2026-07-15 09:37:59"
+    "id": "9868d3626bdca1733272a76070d7195d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511653bbbfa0b47fe8ea2a878f25bf9a5228b&to_app=hwbrowser&dy_scenario=topicinside&tn=f10173052edd1a8d8c01e2e12b32991a5f9296c3701da15592753bac8037841e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "新规为AI情感陪伴戴紧箍 豆包、千问切割智能体功能",
+    "summary": "7月15日，《人工智能拟人化互动服务管理暂行办法》实施，豆包、千问App下线智能体功能。新规明确禁止向未成年人提供虚拟亲属、伴侣等亲密关系服务，要求建立未成年人模式。业内人士称，新规将推动AI拟人化服务向工具型和合规情感类分化发展。",
+    "author": "新京报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/5f821a8861e54f0f96f8ce1e13e2689e_1_0/hd.webp",
+    "realDate": "2026-07-16 11:42:28"
   },
   {
-    "id": "a0beb7892189156a6752ed3e5302c6a5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282426861&to_app=hwbrowser&dy_scenario=topicinside&tn=d47f683a45be655d3a9d0010f2d48728913221ea93ce2a5350add4e3bab4735b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单",
-    "summary": "英特尔18A工艺良率从65%升至85%，已与英伟达、OpenAI等公司达成合作。同时，其EMIB封装良率达98%，应用于英伟达GPU等产品。KeyBanc将英特尔目标股价上调至155美元，预计AI需求将推动其CPU业务增长25%-30%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1c/v3/Topic_73b09389d1a74b23b299316a7b1552c3/fd5e7df3109f489f928fb1cf1615fcfd_1_0/hd.webp",
-    "realDate": "2026-07-15 11:37:27"
-  },
-  {
-    "id": "237d003d0a271d76ac3827112d774436",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023736511&to_app=hwbrowser&dy_scenario=topicinside&tn=ef937bfa81ced35e29b1d35e07e9324fad5dbc16093f586e6f0b27903fc4ae1e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "俄美定了 国际空间站拟于2030年停运",
-    "summary": "当地时间7月14日，俄罗斯第一副总理曼图罗夫秘书处称，俄美双方制定联合计划，国际空间站拟于2030年底停运。当天“联盟MS-29”载人飞船从拜科努尔发射升空，搭载俄美宇航员前往空间站。该站自1998年运行至今，俄舱段“星辰”号2019年起持续漏气，今年6月泄漏加剧曾导致宇航员避险。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/11/v3/1051023736511/24acae73d67a40f092cf60972b3100cd_1_2/hd.webp",
-    "realDate": "2026-07-15 09:19:01"
+    "id": "0fa96b6cc7b7d9934672bfbd3e7260e7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512472261819165068282963&to_app=hwbrowser&dy_scenario=topicinside&tn=9be743f202fa4af998d0e0f2c3b3612ddee6aa9935d59083602748b59e0cc686&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "关于侵权盗版出版物 淘宝、京东等12家网络平台发布声明",
+    "summary": "近日，淘宝、京东、拼多多等12家网络平台响应全国“扫黄打非”办公室要求，发布公告承诺强化平台责任，通过完善入驻审核、下架侵权商品、优化投诉机制等措施清理盗版出版物。各平台表示将配合监管部门，加大违规商家处置力度，接受社会监督。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/6e216c424c464d25b7ce5bebcb80281b_1_0/hd.webp",
+    "realDate": "2026-07-16 10:03:12"
   }
 ]
