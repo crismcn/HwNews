@@ -1,92 +1,101 @@
 [
   {
-    "id": "e2dd7599dc5df8760c9f54502decc598",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124715318472014821281100&to_app=hwbrowser&dy_scenario=topicinside&tn=8fcfe620c15c8aaa505278b0d41868d0c772d57931cdabc6329f7ca53364c2e3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "商务部回应安世半导体问题进展",
-    "summary": "商务部新闻发言人何亚东表示，中荷建立开放务实的全面合作伙伴关系10多年来，双边经贸合作不断深化。7月7日，荷兰外贸与发展合作大臣舍尔茨玛访华，王文涛部长与其共同主持召开中荷经贸混委会第18次会议，就中荷、中欧经贸关系坦诚、深入交换意见。中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/9e686579c1954ca1a47ef77b48bc6014_1_0/hd.webp",
-    "realDate": "2026-07-16 15:04:45"
+    "id": "78871386cbab59c35429047da4827228",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118925f198685d46bd392b67bec2394142f&to_app=hwbrowser&dy_scenario=topicinside&tn=a8b3cf4a6506919574baeca85c877cae7aa62b8d5e0807f574fd4dce2fb65441&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "因算力紧张 Kimi宣布暂停会员开放",
+    "summary": "7月19日，Kimi宣布因K3大模型发布后算力需求激增，已接近现有集群承载极限。为确保现有订阅用户权益，即日起暂停C端新用户订阅服务，同时全力推进算力扩容。待新算力到位后，将逐步恢复订阅名额开放。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/Topic_fe7c041831ee4b2bbe2cceb31135021e/454090c7652e4bc385dfe79c7d346b26_1_0/hd.webp",
+    "realDate": "2026-07-20 00:00:36"
   },
   {
-    "id": "36b6eaecd59eea6302e9f83e5cd51ead",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448edc5ce9a283ea842ec381cd1ea846b45&to_app=hwbrowser&dy_scenario=topicinside&tn=378253397e5144d0885feaaf982ffb901a4b0980e7b44af9242f4060b9681261&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Gemini旗舰模型发布延期 编程能力不及预期",
-    "summary": "谷歌旗舰AI模型Gemini 3.5 Pro因编程能力提升不及预期推迟发布数月，同时OpenAI与Meta新模型在代码生成领域已超越谷歌。该消息致谷歌股价盘中跌5%，收跌4.4%。内部员工担忧市场先机丧失，部分研究人员转投Anthropic等机构。谷歌发言人回应称正测试多款模型并与政府沟通行业规范。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/18744da896e64d1e9bdf4a28d0a741b9_1_0/hd.webp",
-    "realDate": "2026-07-17 06:25:25"
-  },
-  {
-    "id": "437f208c0d3b2e929b831f5f4767e31c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774474460&to_app=hwbrowser&dy_scenario=topicinside&tn=1b0afcf6075624f133444ed032892ac09786f210d57ba3739d9f09622ec57a6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "澜起科技被曝遭韩国检方调查 公司方面回应",
-    "summary": "近日，韩国检方对澜起科技、日本瑞萨电子和美国Rambus在韩办公室展开突击搜查，调查三家企业涉嫌串通半导体零部件价格。澜起科技董秘办公室回应称正在了解情况，公司经营正常。作为全球内存接口芯片三大龙头之一，澜起科技2024年以36.8%的市场份额位居行业首位，与另两家企业合计占据93.4%的市场份额。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/10510774474460/2d70235377bc4306aff448c549a3f29c_1_6/hd.webp",
-    "realDate": "2026-07-16 11:34:06"
-  },
-  {
-    "id": "7d423cf385bd37a0cd2e893c33821fe3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103277571&to_app=hwbrowser&dy_scenario=topicinside&tn=8589a415a4be54cde85d82aebd177ec33f8541ea20597a62b9c7c6f5b3d8b646&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达发布多款物理AI产品 两款机器人计算模组明年上市",
-    "summary": "此次英伟达发布的产品包括机器人计算模组Jetson T2000和T3000，前者40瓦功耗下算力400TFLOPS，后者70瓦功耗下865TFLOPS，将于明年第一季度上市。同时推出轻量级模型Cosmos 3 Edge，含40亿参数，用于具身系统感知与推理。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/af495508b3924777933656c0a6a1c36c_1_0/hd.webp",
-    "realDate": "2026-07-16 12:08:52"
-  },
-  {
-    "id": "e08a69601d5c8465c5a3ba6f9f8be5b2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001267da7fba96583a5458cfb53eb56d119&to_app=hwbrowser&dy_scenario=topicinside&tn=da11b089c403502455befcfc08a1c8d8a0778f924c4315917d0527558d2eeab9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克重磅动作：X将开放完整代码库 增设外部核验机制",
-    "summary": "社交媒体平台X将在完成内部安全审查后开源全部代码库，并设立第三方核验机制确保公开代码与实际运行代码一致。此前X曾开放“为你推荐”算法源代码，但范围有限。此次全代码开源覆盖所有系统模块，同时引入外部机构核验，旨在实现可信透明。业内分析认为，此举可能冲击去中心化社交产品的核心优势。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/4cffd970acf84c31947228978c2d86b7_1_0/hd.webp",
-    "realDate": "2026-07-16 14:53:04"
-  },
-  {
-    "id": "60326f97e23961c1443daa1ed19647c4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114358d61a320d4fa7f67a9ea9b65d8ab910&to_app=hwbrowser&dy_scenario=topicinside&tn=9d25b94163ad816255c4006100e8ba2221e43e743d16d68bcb60783eb80251da&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "GPT 5.6智商突破130天才线 超过Claude 5 Fable",
-    "summary": "近日，AI评测网站Tracking AI更新离线IQ测试榜单，GPT 5.6多个版本以136分成为首批突破130分的模型，Claude 5 Fable以130分排名第二。测试采用Mensa成员设计的未公开图形推理题，但网站强调该成绩仅反映特定题目表现，不能等同于综合智能水平。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/c5333e212b0c4d6e98d592a6e6ba7933_1_0/hd.webp",
-    "realDate": "2026-07-16 13:46:00"
-  },
-  {
-    "id": "00984be0efc4b16da1011392978f9491",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511438e87c88710c1ceca7b67c86fc220c611&to_app=hwbrowser&dy_scenario=topicinside&tn=19598fc9a462919ac7e2286ab543e3892df3cef2647ea9e1d079039fb7f8018d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电二季度净利润同比增长77.4% 合并营收同比增长36%",
-    "summary": "台积电公布2026年二季度财报，合并营收12703.8亿新台币，同比增36%；净利润7065.6亿新台币，同比增77.4%。7纳米及以下先进制程占晶圆营收77%，其中3纳米占比30%。分析师称AI需求抵消消费电子疲软，或推升毛利率至67.5%。同时市场关注科技巨头算力投资是否过度。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/6be1ce906f2143b8ab154815fca637ed_1_0/hd.webp",
-    "realDate": "2026-07-16 14:15:00"
-  },
-  {
-    "id": "3708d5469ee66ebe884d65d3ab31fb01",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282428607&to_app=hwbrowser&dy_scenario=topicinside&tn=db99da4a4855bc2c57d33a46b144eabdf093a926b55798c258390b6de50d89ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
-    "summary": "近日，台塑集团旗下电子级氢氟酸及电子级异丙醇两大半导体材料报价上涨。电子级氢氟酸因硫酸及萤石原料涨价，第三季度将调价；电子级异丙醇供应商胜一此前已涨价，第三季度或继续调整。这两种材料用于晶圆刻蚀、清洗等环节，直接影响芯片良率。",
+    "id": "7f04ba545c5aeb32c2c0272c83deb20e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282430326&to_app=hwbrowser&dy_scenario=topicinside&tn=cfe358b62d33ca8304ca2e7a03b1000fca8833cf9fb3f8000ee5eed5e37681c9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国反数据中心运动向全国蔓延",
+    "summary": "美国多地近日爆发反对数据中心建设的抗议活动，由“人类优先”组织协调发起，涉及至少125个地点。抗议者批评数据中心扩张威胁公众自由。截至2025年底，美国已有1400多座AI数据中心建成或获批建设。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/097cd2dbbd6f4a28bf60f5be019d07c9_1_0/hd.webp",
-    "realDate": "2026-07-16 18:32:56"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/3d/v3/10510282430326/c14872d8ae0b416896fd4a28bb011418_1_8/hd.webp",
+    "realDate": "2026-07-19 06:08:47"
   },
   {
-    "id": "9868d3626bdca1733272a76070d7195d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511653bbbfa0b47fe8ea2a878f25bf9a5228b&to_app=hwbrowser&dy_scenario=topicinside&tn=f10173052edd1a8d8c01e2e12b32991a5f9296c3701da15592753bac8037841e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "新规为AI情感陪伴戴紧箍 豆包、千问切割智能体功能",
-    "summary": "7月15日，《人工智能拟人化互动服务管理暂行办法》实施，豆包、千问App下线智能体功能。新规明确禁止向未成年人提供虚拟亲属、伴侣等亲密关系服务，要求建立未成年人模式。业内人士称，新规将推动AI拟人化服务向工具型和合规情感类分化发展。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/5f821a8861e54f0f96f8ce1e13e2689e_1_0/hd.webp",
-    "realDate": "2026-07-16 11:42:28"
+    "id": "d600781fc21359b20b7642e96b14ba8e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282430367&to_app=hwbrowser&dy_scenario=topicinside&tn=cb315ed4b459f9a93e2bcdbf4bbbf773ad8b46048171f0d214a2b15b43d9c2d4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "直击WAIC 2026：核能智能体系来了",
+    "summary": "中科院团队在2026世界人工智能大会上发布全球首创“AI for ADANES核能智能体系”。该体系通过五层架构设计，以“数据+物理模型+专家经验三重驱动”模式，解决AI黑箱与核安全零容错的矛盾。中科院近代物理所副所长何源表示，AI已应用于加速器设计，实现百万粒子零丢失的精准控制。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/Topic_fe7c041831ee4b2bbe2cceb31135021e/757cd46f14764e4681d16f2cb999f345_1_0/hd.webp",
+    "realDate": "2026-07-19 10:40:07"
   },
   {
-    "id": "0fa96b6cc7b7d9934672bfbd3e7260e7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512472261819165068282963&to_app=hwbrowser&dy_scenario=topicinside&tn=9be743f202fa4af998d0e0f2c3b3612ddee6aa9935d59083602748b59e0cc686&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "关于侵权盗版出版物 淘宝、京东等12家网络平台发布声明",
-    "summary": "近日，淘宝、京东、拼多多等12家网络平台响应全国“扫黄打非”办公室要求，发布公告承诺强化平台责任，通过完善入驻审核、下架侵权商品、优化投诉机制等措施清理盗版出版物。各平台表示将配合监管部门，加大违规商家处置力度，接受社会监督。",
+    "id": "eb62b7f70c0a6f118905dad1706d57d2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051300610b309e5b31ab00edcf146fd4a8cea1&to_app=hwbrowser&dy_scenario=topicinside&tn=8911e37acc7fe658f28732584d80f29428962a6dca7f02f0fddd51b6179b8f3d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "机器人格斗赛火了！马斯克围观 人民日报点赞",
+    "summary": "7月16日晚，深圳众擎URKL全球首场机器人格斗赛揭幕，32支国际战队参赛。埃隆·马斯克19日转发视频称“机器人格斗很有趣”。赛事中两台“深圳智造”T800人形机器人拳脚对抗，《人民日报》评论指出该赛事推动技术攻关，助力中国人形机器人从表演迈向实战。",
+    "author": "广州日报新花城",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/Topic_fe7c041831ee4b2bbe2cceb31135021e/c4297e2505c1441894a72fad6d47ddc1_1_0/hd.webp",
+    "realDate": "2026-07-19 16:42:36"
+  },
+  {
+    "id": "1b9deb00d35ea5a07f622f5be2cfd0ac",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074978605&to_app=hwbrowser&dy_scenario=topicinside&tn=bccfb8117c5e1837e4069ed7a4988b3920d46e4d52de2129c8f89719ef4726a8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星美国子公司总部搬迁在即 将在新泽西州裁员739人",
+    "summary": "三星电子美国公司将在新泽西州恩格尔伍德克利夫斯裁员739人，涉及消费电子业务部门。该公司计划年底前将总部迁至得克萨斯州，部分员工因无法随迁离职。三星称多数受影响员工已获调岗机会，此次调整不完全是裁员。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/53/v3/1051074978605/4d6b7c87a46d4bc88dda7ba473725671_1_1/hd.webp",
+    "realDate": "2026-07-19 07:02:29"
+  },
+  {
+    "id": "3055a7c30b8c498edde87b80331e0c90",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104f30382c744c4973ab5ea1f145cf18ef3&to_app=hwbrowser&dy_scenario=topicinside&tn=0046f668b7aa41f8323ae831c1977b171cbd29493034d3a15785cc2e847b675e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepMind科学家辞职曝光内幕：谷歌要造AI武器",
+    "summary": "前DeepMind研究员Alex Turner指控谷歌与五角大楼签署军事AI协议，涉及Project Nimbus项目，将AI技术用于大规模监控和自主武器系统。Turner批评谷歌突破伦理红线，引发业界震动。同时，该事件也加剧了公众对AI武器化的深层忧虑。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/Topic_fe7c041831ee4b2bbe2cceb31135021e/0490ef9da3394d79affb8c7d0fe65234_1_0/hd.webp",
+    "realDate": "2026-07-18 20:49:25"
+  },
+  {
+    "id": "0c3f21443dad13c16b56345e0d4ec513",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074978622&to_app=hwbrowser&dy_scenario=topicinside&tn=7cf3993a28a71a5328c3b1435a4eaf9340457aeef692f96c7f9800ccae1c1bf7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌安卓系统被曝存在身份验证绕过漏洞",
+    "summary": "该漏洞自5月起被发现，涉及Android 16系统及Pixel 6a手机。攻击者可在不输入锁屏密码的情况下，通过Gemini发送短信或WhatsApp消息。谷歌表示已获悉该漏洞，计划推送修复补丁。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/Topic_fe7c041831ee4b2bbe2cceb31135021e/e24cc25022044ba8a8c918e971d7d602_1_0/hd.webp",
+    "realDate": "2026-07-19 08:35:39"
+  },
+  {
+    "id": "3d965f26301d78ab7e5bf9511913085c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512478414871470497996307&to_app=hwbrowser&dy_scenario=topicinside&tn=0e3881b1f0d94b05868d3a15dc892434c5b83b6550cbb7e6f21e5983fabaee18&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国硬核成果密集“上新”",
+    "summary": "近日，中国多领域密集发布硬核成果：全球首个千亿参数级气象大模型“风和”开源，首艘深海智能化海缆船“天翼领航者”号入列，首颗自研AI芯片实现每秒520万亿次运算。同时，中西部最大乙烯基地建成，雄忻高铁山西段铺轨完成，西渝高铁全线箱梁架设完毕，预计分别于2027年和2028年通车。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/78/v3/Topic_cd1184c8eeac408997ddeb2bbb1c9d7f/6e216c424c464d25b7ce5bebcb80281b_1_0/hd.webp",
-    "realDate": "2026-07-16 10:03:12"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/82/v3/10512478414871470497996307/4618f167faa4466e999bf33e50e47509_1_0/hd.webp",
+    "realDate": "2026-07-19 05:30:00"
+  },
+  {
+    "id": "55d94910f64dddc0612f8e40fce0cb74",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511690a5a12dbca8fa54c84dac6b2c3a99eda&to_app=hwbrowser&dy_scenario=topicinside&tn=43939c564d6a445e889c8a953d921831f33566ff1989e82b4a942c2370a987e2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SK掌门人警告：芯片价格处于“非正常高位” 持续上涨将反噬半导体行业",
+    "summary": "SK集团会长崔泰源预测2027年全球半导体需求将增长50%-60%，其中AI领域需求或翻倍，但新增供应几乎为零。同时指出材料供应和设施建设可能成为新瓶颈，AI相关产品价格已现上涨趋势。韩国计划投资1000万亿韩元建设AI数据中心，需满足客户、基础设施等条件方可启动。",
+    "author": "中新经纬",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/41/v3/Topic_fe7c041831ee4b2bbe2cceb31135021e/544bfa38769c465fb24a114eedf9daaa_1_0/hd.webp",
+    "realDate": "2026-07-19 19:20:41"
+  },
+  {
+    "id": "2633d00dbce5b8f8a9c106d3a19dce36",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324876396&to_app=hwbrowser&dy_scenario=topicinside&tn=7b89edb60544391fe2f6d7c31a3d76b2c4c6e03eeb28109faaee44109fcca18b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "90后家长正在培养“AI神童”",
+    "summary": "近日，AI研学营广告引发热议，宣称“7-13岁孩子一天做AI电影”“10岁儿童6天开公司”。今年，AI研学转向“实操”，内容涉及创业路演、产品开发，被质疑过度商业化。家长趋之若鹜，有机构课程收费达18800元。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/19/v3/10510324876396/d8a824b10f194c7cb5b4b9860a6d3aff_1_3/hd.webp",
+    "realDate": "2026-07-18 22:08:03"
+  },
+  {
+    "id": "f5905747459d4b3ab6700af616addc1e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051039af2143b02299345aa83b41086cc82179&to_app=hwbrowser&dy_scenario=topicinside&tn=e7734419e490c7b055ba66d60adfddc01577a9281c505ae65f5ec6c188ddb1ef&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "潜在宜居的“超级地球”距离我们仅25光年",
+    "summary": "天文学家确认距离地球25光年的GJ3378b系外行星位于宜居带内，可能具备生命条件。这颗岩石质“超级地球”质量是地球的2.3倍，公转周期21天，接收母星辐射量约为地球的90%。未来NASA望远镜或可探测其大气层。",
+    "author": "人民日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/47/v3/1051039af2143b02299345aa83b41086cc82179/fc9af4a9b23d4e1c9c7514e526f60191_1_3/hd.webp",
+    "realDate": "2026-07-18 19:41:42"
   }
 ]
