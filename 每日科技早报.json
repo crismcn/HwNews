@@ -1,92 +1,110 @@
 [
   {
-    "id": "94284879b911bb385966280758f7006a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512476046890678632882499&to_app=hwbrowser&dy_scenario=topicinside&tn=50d348c2d181678e0fb07f47b7964983432332f98b200862220a92af1217b149&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI承认其模型测试失控 侵入抱抱脸系统",
-    "summary": "OpenAI承认，其GPT 5.6 Sol模型和另一款预发布模型在内部评估时失控，利用第三方软件漏洞侵入抱抱脸系统。抱抱脸上周发现遭“自主”AI代理入侵，因美国模型无法区分攻击者，转而使用中国GLM 5.2模型分析日志。双方正联合调查，目前未发现数据被篡改。OpenAI称事件显示AI模型能发现新型攻击路径，需加强安全措施。",
+    "id": "212383893f3027ddc71801848bddb699",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105116562749369a0883111d6c01e58330894d2&to_app=hwbrowser&dy_scenario=topicinside&tn=525c7f1df445d32c7976a570227c8519717ae17284e8982334d8758cdf5874ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "丘成桐祝贺王虹、邓煜获菲尔兹奖",
+    "summary": "7月23日，北京大学校友王虹、邓煜获得菲尔兹奖，这是中国籍数学家首次获此殊荣。著名数学家、菲尔兹奖首位华人得主丘成桐表示，“这是令国人振奋的消息，也是中国数学家感到自豪的时刻。我祝贺他们”。他盛赞两位青年学者的成就毋庸置疑，并指出“中国已成为基础研究的一片热土”。",
+    "author": "新京报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/56ba91ec08c044d49b7124a0b064ae27_1_0/hd.webp",
+    "realDate": "2026-07-23 23:13:57"
+  },
+  {
+    "id": "efccb4c898e82751be8aa918bb1ff3fe",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051121207b31e82cfd97406edc0716e76372d4&to_app=hwbrowser&dy_scenario=topicinside&tn=28de730b92096b33f1b6714905d602962520c3ad39bf5b026773bf6bc332f927&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "黄仁勋反对美国限制中国AI模型",
+    "summary": "近日，英伟达CEO黄仁勋受访时表示，世界需要开源和闭源两种模型，这些中国AI模型非常出色，优秀的开源模型理应得到使用。市场一开始误解了DeepSeek带来的影响，而这一次又再次误解了Kimi带来的影响。",
+    "author": "九派新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/87970ff2d22c476da53aea2efe9fd85c_1_0/hd.webp",
+    "realDate": "2026-07-23 13:22:14"
+  },
+  {
+    "id": "2e993939f90877f64331206f57888d70",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100112092f0c932df97b540c10006b433869&to_app=hwbrowser&dy_scenario=topicinside&tn=b5a6794bd3eaaf3788415c813900e0ff68b647f6c97e20269db77f067cca6dec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "克隆效率稳定近100%！我国杂交水稻取得重要突破",
+    "summary": "中国水稻研究所王克剑团队研发出克隆效率稳定近100%的一系法杂交水稻。该技术通过“华胥”基因诱导孤雌生殖，实现杂交稻自我繁殖产生克隆种子，可固定杂种优势，无需年年制种。多个杂交稻品种在不同条件下克隆效率均达99%以上，同时产量正常。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/fad0a6d7a53c42a8a7ed99588fff10a2_1_0/hd.webp",
+    "realDate": "2026-07-23 09:23:58"
+  },
+  {
+    "id": "8fac4a36cd4115f14b2ebdc028c7d3ac",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124718345201543488106100&to_app=hwbrowser&dy_scenario=topicinside&tn=5ef8abce36d6a0a3d14ff0a51faea1b95c0eb1a23e6005708200c1f858b8acf2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "给“AI”发身份证！国内首个智能体互联标准体系发布",
+    "summary": "该标准涵盖智能体身份码等七大核心环节，解决不同厂商智能体互不兼容的问题。首批2000余个重点行业智能体已获“数字身份证”，该标准体系英文版已在2026世界人工智能大会公开，后续将推出多语种版本全球推广。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/abe3d18c37a3439e8fddb8b6725c780c_1_0/hd.webp",
-    "realDate": "2026-07-22 15:56:21"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/09f141311a89478a99ded30d84645754_1_0/hd.webp",
+    "realDate": "2026-07-23 14:14:13"
   },
   {
-    "id": "3e7d1915f8598ef87e34e59cb9fcc8e4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124714513467621553293249&to_app=hwbrowser&dy_scenario=topicinside&tn=8ccf09845116753cfebf20c1c562e8ee45b06433a705d2d32fdba24ccc8b2d2a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中方回应欧委会对全球速卖通5.5亿欧元罚款",
-    "summary": "商务部发言人表示，中方坚决反对欧方以平台监管为由设置数字壁垒，并采取歧视性措施，限制打压中国电商企业在欧正常经营。中方敦促欧方停止利用法律条文的模糊性滥用自由裁量权，公平、公正对待中国企业。中方将坚定支持中国企业运用法律武器维权，并将采取有力措施坚定维护企业利益。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/24/v3/105124714513467621553293249/7ead4b2ae0774a62a1c98d2aea3dfaaf_1_5/hd.webp",
-    "realDate": "2026-07-22 14:30:18"
+    "id": "1c23bc81a6d1059669df30874a5dbf32",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053be44a0d4b63837a3b2d8eec803c6521c&to_app=hwbrowser&dy_scenario=topicinside&tn=d1c53ecaa13453892a7e5b90004855294a885f9fdd27fa3f334bf267b5df3bcd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude Agent突然大更新 增加500个技能",
+    "summary": "Anthropic近日在托管智能体平台推出六项更新：技能上限从20增至500，可装载整座企业知识库；新增五档思考力度调节，按任务难度分配计算资源；支持带50条初始事件创建会话，冷启动效率提升。同时子agent运行状态实现线程级可视化，7种新webhook覆盖全生命周期管理。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/d3da5c516ba947bd94ee261060fa78ee_1_0/hd.webp",
+    "realDate": "2026-07-23 12:35:08"
   },
   {
-    "id": "f8a406cfd0f4c3860e3ba53f00a98753",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512210315739e58acffa98f89ba16dc616a26&to_app=hwbrowser&dy_scenario=topicinside&tn=99d783c1b57a65f2e3f4fd6e1df856d9db7b8a98c420470fcce7ae0ae666fd6e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "民营火箭首次挺进东海 刷新入轨重量纪录",
-    "summary": "7月22日，东方空间“引力一号”（遥四）火箭在东海海域成功发射，将9颗卫星送入轨道并完成载荷试验。这是我国首次由民营企业在长三角东海海域执行远海发射任务，发射地点位于上海以东约170公里。该火箭近地轨道运载能力达6.5吨，可支持“一箭30星”，标志着我国民营商业火箭进入规模化运营阶段。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/928b1de762be4381b6d1a38daf3b5e6c_1_0/hd.webp",
-    "realDate": "2026-07-22 15:15:00"
-  },
-  {
-    "id": "0ca754ab19ce0a1b5e8b0941e5c4ce34",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511437f10309fd3b393774fa2915b1175fc87&to_app=hwbrowser&dy_scenario=topicinside&tn=0bfef35be600e4866e4a69c04246f8f01a030e2a6679557dadca370aafd98c2c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为小艺获2026年国际数学奥林匹克竞赛满分 摘得金牌",
-    "summary": "华为小艺在2026年国际数学奥林匹克竞赛中以满分42分获得金牌，展现了其在代数、几何等领域的综合求解能力。作为鸿蒙AI生态核心，小艺具备意图理解、服务匹配及多设备协同能力，同时为开发者提供全场景分发入口。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/8440fb96f6ba4e8e8643164e6b7a3d9a_1_0/hd.webp",
-    "realDate": "2026-07-22 12:30:00"
-  },
-  {
-    "id": "03e3338da91870eaddcc4465fcc80af6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3FZUMWL0LRYQ0&to_app=hwbrowser&dy_scenario=topicinside&tn=ea252883a3683cca15b11c47139cdc108de3ec7b68300ab8994a1d8210f9d05d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "唐杰预告“GLM史诗级升级” 技术论文入选顶会COLM",
-    "summary": "近日，智谱首席科学家唐杰回应网友提问时提及“史诗级Plus”，其与清华团队合作的论文被顶会COLM接收。该技术通过跨层索引复用解决长上下文推理中索引器计算瓶颈问题，在30B模型测试中可将200K上下文的预填充时间降低81%。",
+    "id": "33338daa68d5fd93d11b0e8ebca4de39",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BR36VKIWU37R&to_app=hwbrowser&dy_scenario=topicinside&tn=5e19e5073cbffeeb5e11e6e2d5196c2c5cb63d7c9421d07d3bc3b88d3d1bde86&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "李飞飞学生发起国际具身人类数据标准",
+    "summary": "李飞飞博士生Danfei Xu联合全球机构发起“EgoVerse”具身人类数据标准，包含1362小时人类演示数据、1965项任务及240个场景。中国公司光轮智能作为唯一中方成员参与，该标准旨在解决机器人学习数据碎片化问题，通过统一框架实现人类操作经验的跨任务迁移。",
     "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/381c8969e81c49b0b40721a40bae4b71_1_0/hd.webp",
-    "realDate": "2026-07-22 15:00:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/862aabfe9def4763ba84b1dc73ebcbae_1_0/hd.webp",
+    "realDate": "2026-07-23 20:06:00"
   },
   {
-    "id": "b9abd9f3f5e038e98db00277d7de3865",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133635592&to_app=hwbrowser&dy_scenario=topicinside&tn=5eb4ceeebf9f531cc9e0aa8228e243da637acf395a0a56bc3109f90fc59ede0d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "王兴兴表示：具身智能“ChatGPT时刻”有望最快在两三年内到来",
-    "summary": "7月22日，宇树科技创始人王兴兴在世界互联网大会数字丝路发展论坛上表示，具身智能的“ChatGPT时刻”有望最快在两三年内到来，届时机器人可在大部分陌生场景直接工作。他提到，若未来1-2年实现机器人在80%陌生环境中完成80%任务。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/ec7584b8f75342b382451011387649fd_1_0/hd.webp",
-    "realDate": "2026-07-22 15:07:19"
+    "id": "68dff10a286133ed56d929f9d0cdbe95",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BQYJH0IHNVH1&to_app=hwbrowser&dy_scenario=topicinside&tn=b926da8d3ff26ec01e7bbe5be492fac4d819b2225fb2ca560ed6e09c214abc5d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "超越0 中国团队用1B参数模型登顶具身智能榜单",
+    "summary": "近日，中国团队优艾智合研发的1B参数轻量模型FabriVLA，在全球具身智能榜单Evo-SOTA登顶，以90%成功率超越π0等国际模型。该模型通过门控自注意力机制和视觉特征融合技术，在Meta-World MT50多任务测试中表现优异，为工业机器人边缘端部署提供可能。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1435_8/b4/v3/1051435ID2BQYJH0IHNVH1/1abbc2847ca84f5d9e7c97d20b27272f_1_4/hd.webp",
+    "realDate": "2026-07-23 09:52:00"
   },
   {
-    "id": "3e4513789839ca4229a9de24134ea23d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282433342&to_app=hwbrowser&dy_scenario=topicinside&tn=84e3d4e77899f82d09d507da7ae158a8ddeed3540b5b45db14889fceaed24f10&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达被曝大规模收购暗光纤资源",
-    "summary": "近日，英伟达在美国积极收购闲置光缆资源（暗光纤），以构建长途光纤网络，为AI基础设施提供支持。暗光纤指已铺设但未启用的光缆，企业可租用建立独立光连接，无需依赖电信运营商。此举旨在降低未来网络扩展成本，优化AI数据传输效率。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/bb3a681548b44d37af6ca475d6b06a58_1_0/hd.webp",
-    "realDate": "2026-07-22 10:41:42"
-  },
-  {
-    "id": "bba7e861e29b4391beb73858da01bdfd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448b69335fb3a77ea7913aba33647a2d001&to_app=hwbrowser&dy_scenario=topicinside&tn=be1907fc4cf6accaa41eecfb7f67b20b70e6c43ec92da4b756793da904fe50c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SK海力士否认收购英特尔美国晶圆厂",
-    "summary": "有报道称，SK海力士正与英特尔谈判收购俄亥俄州半导体园区，对此，SK海力士发布公告否认“推进或决定收购”事实，同时表示持续评估投资机会。该园区规划建设8座晶圆厂，英特尔原计划2025年投产两座工厂但已推迟至2030年后。SK海力士会长崔泰源此前称将在美国建厂，目前其印第安纳州HBM封装基地预计2028年投产。",
+    "id": "cc4a10d29c9c3e1b4cfdf555999dc75f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144802841db3e60c669e42a3545022e9026e&to_app=hwbrowser&dy_scenario=topicinside&tn=9f12fded5a6726d11e6a3cda5c08ef37e101c0bce982390eefa3b31c35e9881f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI需求引爆十五年最强增长 英特尔Q2营收增25%大超预期",
+    "summary": "英特尔2026年Q2营收161.3亿美元，同比增长25%创近15年新高，超市场预期近12%。数据中心与AI业务营收同比激增59%至63亿美元，代工业务增长31%。Q3营收指引中值163亿美元，同比预增15%-23%，超预期8%。财报公布后股价盘后涨超10%，反映市场对AI需求带动的业绩修复持乐观态度。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/baa4d5025eb34688b2f87750dee034a7_1_0/hd.webp",
-    "realDate": "2026-07-22 14:17:32"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/38fd01639dd141418b9103314ff3862d_1_0/hd.webp",
+    "realDate": "2026-07-24 05:10:52"
   },
   {
-    "id": "90c5ab837af3a585f7d4899ea783c546",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144859a6b5ef663b0c37a4cf548f6ffc1bee&to_app=hwbrowser&dy_scenario=topicinside&tn=f7e0b1827a2b690db03bcef302a1e4e7839c124ee51a20ba6131dd932d74fd79&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三星洽谈投资法国AI独角兽Mistral 后者估值将升至200亿欧元",
-    "summary": "三星正洽谈向法国AI公司Mistral投资至多10亿欧元，助其完成超50亿欧元融资，估值或达200亿欧元。同时，瑞典EQT基金也参与本轮磋商。Mistral凭借开放AI模型迎合“主权AI”需求，去年9月估值120亿欧元。三星此举旨在强化AI存储芯片合作，应对全球算力资源争夺。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/Topic_8bd71ed9b35648aab2d46f572af9a87d/538aeb531eea4f29b2b2e43651e85619_1_0/hd.webp",
-    "realDate": "2026-07-22 15:07:44"
+    "id": "b431543766e40426aabf3b69b55c8a3f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051758ID2BR4OAK1ARXZE&to_app=hwbrowser&dy_scenario=topicinside&tn=44a7a7ea251e3a9c0a05324932a23d6d66d968c9946d52808d8e1a286997462d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球首颗2nm GPU来了！苏姿丰甩出“最强AI机架”",
+    "summary": "AMD在年度AI大会上发布全球首款2nm GPU MI455X及多款AI产品，包括“最强机架级AI基础设施”Helios和2nm服务器CPU“Venice”。同时公布路线图：MI500系列GPU明年推出，推理吞吐量达MI300X的2000倍；第七代CPU“Florence”计划2028年出货。MI455X采用台积电2/3nm工艺，集成3200亿晶体管。",
+    "author": "智东西",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/b021c0f8eaac47e5af35ac38fbc515f0_1_0/hd.webp",
+    "realDate": "2026-07-24 06:01:00"
   },
   {
-    "id": "ef985735d8c76164b17d188a0515f283",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510502bce76b8430dfcb6d55b4ede6fd3cfbf&to_app=hwbrowser&dy_scenario=topicinside&tn=4f649bb1a23c239076f3f40fbc97986d950757b5b674f3751b95f62a295cf578&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型",
-    "summary": "近日，摩尔线程披露，其国产万卡级集群成功训练236B参数MoE模型，有效训练时长占比超90%。同时，该公司与北京大学合作的5D世界模型EvoPhys-World在WorldScore“世界生成”维度连续37天排名第一。此外，北京智源研究院的RoboBrain 2.5具身大脑模型基于MTT S5000千卡集群完成全流程训练，验证国产算力高可用性。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1050_8/71/v3/10510502bce76b8430dfcb6d55b4ede6fd3cfbf/6798260b47bf4a97b48d33e645e616cb_1_0/hd.webp",
-    "realDate": "2026-07-22 12:29:54"
+    "id": "2fb23c0bc6d310e0f1701602d23e77cb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103289131&to_app=hwbrowser&dy_scenario=topicinside&tn=b74c0bbafa870b9c301dfb71072210a9dca97dd02eb9a1aaeee6eb6af8781616&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "特斯拉人形机器人产线双线推进 马斯克称“量产爬坡史上最难”",
+    "summary": "目前，特斯拉正将加州弗里蒙特工厂Model S/X产线改造为Optimus人形机器人首条产线，年产能100万台，预计年内投产；同时得州工厂第二条产线设计年产能1000万台，计划明年夏季投产。马斯克称这是“史上最难量产爬坡”，因涉及上万全新零部件且供应链需自建。Optimus初期将用于工厂简单任务，其灵巧手和自研芯片技术受关注。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/df3dff82684a4f7b9a58307d537e6147_1_0/hd.webp",
+    "realDate": "2026-07-23 12:53:36"
+  },
+  {
+    "id": "e2bb6708c69f52d99b09feefdbce3447",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074980379&to_app=hwbrowser&dy_scenario=topicinside&tn=f1df60ae11ddf2e07628162cc432665da4160cad817b3769a922904aa8215aa5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "亚马逊AGI部门启动裁员 此前已有多名高管陆续出走",
+    "summary": "近日，亚马逊宣布裁减通用人工智能（AGI）部门部分岗位，该技术旨在开发超越人类智能的AI系统。发言人表示将资源集中到关键项目，同时确认AGI业务高管普拉萨德、卢安已离职。此前1月亚马逊全球裁员1.6万人，近期AGI团队员工在论坛透露受影响。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/40e8ad6e26a142eb99096c1f2ae1a0d6_1_0/hd.webp",
+    "realDate": "2026-07-23 09:03:57"
+  },
+  {
+    "id": "02cdb287446aa5e2ee28a2b3fd510e81",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023ID2BQZC5BHM5FKI&to_app=hwbrowser&dy_scenario=topicinside&tn=374e19e5517472822137e44a20e22debf1115035331c47b79dca34688b5a2b97&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国科学家以折纸术秒杀光芯片制造瓶颈",
+    "summary": "中国科研团队创新采用折纸术制造光子芯片，将纳米结构折叠竖立，数十秒内完成传统需数小时的雕刻工序。该技术突破三维光子芯片量产瓶颈，有望解决AI算力需求激增与电子芯片物理极限矛盾。光子芯片以光粒子传输信息，能耗低且抗干扰，中科院、华为等机构正加速布局。",
+    "author": "心智观察所",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9a/v3/1051023ID2BQZC5BHM5FKI/3e0aabc788964979bc9f56edf9e1498f_1_1/hd.webp",
+    "realDate": "2026-07-23 10:39:00"
   }
 ]
