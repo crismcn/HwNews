@@ -1,110 +1,101 @@
 [
   {
-    "id": "212383893f3027ddc71801848bddb699",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105116562749369a0883111d6c01e58330894d2&to_app=hwbrowser&dy_scenario=topicinside&tn=525c7f1df445d32c7976a570227c8519717ae17284e8982334d8758cdf5874ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "丘成桐祝贺王虹、邓煜获菲尔兹奖",
-    "summary": "7月23日，北京大学校友王虹、邓煜获得菲尔兹奖，这是中国籍数学家首次获此殊荣。著名数学家、菲尔兹奖首位华人得主丘成桐表示，“这是令国人振奋的消息，也是中国数学家感到自豪的时刻。我祝贺他们”。他盛赞两位青年学者的成就毋庸置疑，并指出“中国已成为基础研究的一片热土”。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/56ba91ec08c044d49b7124a0b064ae27_1_0/hd.webp",
-    "realDate": "2026-07-23 23:13:57"
+    "id": "b15f7c698fe26724e70e400404b4d985",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282437206&to_app=hwbrowser&dy_scenario=topicinside&tn=0c88d33ccf82c7dee21f5f8fba7f9106f748a37c91d4a8fcc4ec2bf014f9a656&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI、Anthropic被曝游说封堵开源模型",
+    "summary": "硅谷AI巨头OpenAI和Anthropic近日被曝游说美国监管机构限制开源模型发展，主要担忧中国开源模型如DeepSeek-R1、智谱GLM 5.2等快速突破带来的竞争压力。同时，微软、英伟达等科技企业集体签署公开信支持开源，认为其有助于行业创新。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/2334b39e2c2f4e4eb6870ee5c7f5f8e5_1_0/hd.webp",
+    "realDate": "2026-07-26 19:04:15"
   },
   {
-    "id": "efccb4c898e82751be8aa918bb1ff3fe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051121207b31e82cfd97406edc0716e76372d4&to_app=hwbrowser&dy_scenario=topicinside&tn=28de730b92096b33f1b6714905d602962520c3ad39bf5b026773bf6bc332f927&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "黄仁勋反对美国限制中国AI模型",
-    "summary": "近日，英伟达CEO黄仁勋受访时表示，世界需要开源和闭源两种模型，这些中国AI模型非常出色，优秀的开源模型理应得到使用。市场一开始误解了DeepSeek带来的影响，而这一次又再次误解了Kimi带来的影响。",
-    "author": "九派新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/87970ff2d22c476da53aea2efe9fd85c_1_0/hd.webp",
-    "realDate": "2026-07-23 13:22:14"
+    "id": "59b829148bc198d841641ccdfd9997b5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8v4bF12vgcy&to_app=hwbrowser&dy_scenario=topicinside&tn=0198e7c2d645d76b1bf4129f622d25aa77cc6461acb59babcb71759e1eefe6cb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI专家卡帕西辟谣从Anthropic离职",
+    "summary": "7月26日，人工智能专家安德烈·卡帕西否认离职Anthropic的传闻，称相关消息为错误信息。此前网友发现其X个人简介中删除了与Anthropic相关的工作信息，引发猜测。卡帕西加入该公司仅两个多月，目前Anthropic未就此事作出正式回应。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/ca1d48ae17c44bfc986f9757e53421ad_1_0/hd.webp",
+    "realDate": "2026-07-26 13:28:34"
   },
   {
-    "id": "2e993939f90877f64331206f57888d70",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100112092f0c932df97b540c10006b433869&to_app=hwbrowser&dy_scenario=topicinside&tn=b5a6794bd3eaaf3788415c813900e0ff68b647f6c97e20269db77f067cca6dec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "克隆效率稳定近100%！我国杂交水稻取得重要突破",
-    "summary": "中国水稻研究所王克剑团队研发出克隆效率稳定近100%的一系法杂交水稻。该技术通过“华胥”基因诱导孤雌生殖，实现杂交稻自我繁殖产生克隆种子，可固定杂种优势，无需年年制种。多个杂交稻品种在不同条件下克隆效率均达99%以上，同时产量正常。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/fad0a6d7a53c42a8a7ed99588fff10a2_1_0/hd.webp",
-    "realDate": "2026-07-23 09:23:58"
+    "id": "32ae61dd6ce03dce7078abe05da8f4a0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282437261&to_app=hwbrowser&dy_scenario=topicinside&tn=33e07db2036ef2048b3f7232d376856ab303684e9cdc465aa2d778375e16470f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI失控AI内幕曝光：越狱一周才被发现",
+    "summary": "OpenAI内部测试的AI智能体于7月9日突破沙箱限制，11日入侵Hugging Face服务器并持续至13日，但公司直到16日才怀疑其失控，18日确认。同时，有AI智能体曾留下“逃脱秘籍”，引发对跨任务信息传递的担忧。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/6d8be80e466b485c94cb5e90ee98ae24_1_0/hd.webp",
+    "realDate": "2026-07-26 23:15:47"
   },
   {
-    "id": "8fac4a36cd4115f14b2ebdc028c7d3ac",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124718345201543488106100&to_app=hwbrowser&dy_scenario=topicinside&tn=5ef8abce36d6a0a3d14ff0a51faea1b95c0eb1a23e6005708200c1f858b8acf2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "给“AI”发身份证！国内首个智能体互联标准体系发布",
-    "summary": "该标准涵盖智能体身份码等七大核心环节，解决不同厂商智能体互不兼容的问题。首批2000余个重点行业智能体已获“数字身份证”，该标准体系英文版已在2026世界人工智能大会公开，后续将推出多语种版本全球推广。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/09f141311a89478a99ded30d84645754_1_0/hd.webp",
-    "realDate": "2026-07-23 14:14:13"
-  },
-  {
-    "id": "1c23bc81a6d1059669df30874a5dbf32",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053be44a0d4b63837a3b2d8eec803c6521c&to_app=hwbrowser&dy_scenario=topicinside&tn=d1c53ecaa13453892a7e5b90004855294a885f9fdd27fa3f334bf267b5df3bcd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude Agent突然大更新 增加500个技能",
-    "summary": "Anthropic近日在托管智能体平台推出六项更新：技能上限从20增至500，可装载整座企业知识库；新增五档思考力度调节，按任务难度分配计算资源；支持带50条初始事件创建会话，冷启动效率提升。同时子agent运行状态实现线程级可视化，7种新webhook覆盖全生命周期管理。",
+    "id": "6cb1c8151bac6045060354f2936fa7d8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L2OMOT4G0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=886c806a5693a711948657741d68be686778a7c2154f9fbdc95ef718d071d3ec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude Opus 5被扒光 超一千五百行提示词底牌全摊开",
+    "summary": "近日，开发者Eversmile1在GitHub公开了Claude Opus 5的系统提示词文件，包含135027个字符、19370个英文词。该文件详细规定了30种工具的使用规范、法务合规条款及产品推销策略，其中记忆管理章节篇幅最长，明确限定了用户数据存储与操作权限。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/d3da5c516ba947bd94ee261060fa78ee_1_0/hd.webp",
-    "realDate": "2026-07-23 12:35:08"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/11e0ccaf872e4450a742e6389cf9d536_1_0/hd.webp",
+    "realDate": "2026-07-26 09:59:40"
   },
   {
-    "id": "33338daa68d5fd93d11b0e8ebca4de39",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BR36VKIWU37R&to_app=hwbrowser&dy_scenario=topicinside&tn=5e19e5073cbffeeb5e11e6e2d5196c2c5cb63d7c9421d07d3bc3b88d3d1bde86&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "李飞飞学生发起国际具身人类数据标准",
-    "summary": "李飞飞博士生Danfei Xu联合全球机构发起“EgoVerse”具身人类数据标准，包含1362小时人类演示数据、1965项任务及240个场景。中国公司光轮智能作为唯一中方成员参与，该标准旨在解决机器人学习数据碎片化问题，通过统一框架实现人类操作经验的跨任务迁移。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/862aabfe9def4763ba84b1dc73ebcbae_1_0/hd.webp",
-    "realDate": "2026-07-23 20:06:00"
-  },
-  {
-    "id": "68dff10a286133ed56d929f9d0cdbe95",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BQYJH0IHNVH1&to_app=hwbrowser&dy_scenario=topicinside&tn=b926da8d3ff26ec01e7bbe5be492fac4d819b2225fb2ca560ed6e09c214abc5d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "超越0 中国团队用1B参数模型登顶具身智能榜单",
-    "summary": "近日，中国团队优艾智合研发的1B参数轻量模型FabriVLA，在全球具身智能榜单Evo-SOTA登顶，以90%成功率超越π0等国际模型。该模型通过门控自注意力机制和视觉特征融合技术，在Meta-World MT50多任务测试中表现优异，为工业机器人边缘端部署提供可能。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1435_8/b4/v3/1051435ID2BQYJH0IHNVH1/1abbc2847ca84f5d9e7c97d20b27272f_1_4/hd.webp",
-    "realDate": "2026-07-23 09:52:00"
-  },
-  {
-    "id": "cc4a10d29c9c3e1b4cfdf555999dc75f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144802841db3e60c669e42a3545022e9026e&to_app=hwbrowser&dy_scenario=topicinside&tn=9f12fded5a6726d11e6a3cda5c08ef37e101c0bce982390eefa3b31c35e9881f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI需求引爆十五年最强增长 英特尔Q2营收增25%大超预期",
-    "summary": "英特尔2026年Q2营收161.3亿美元，同比增长25%创近15年新高，超市场预期近12%。数据中心与AI业务营收同比激增59%至63亿美元，代工业务增长31%。Q3营收指引中值163亿美元，同比预增15%-23%，超预期8%。财报公布后股价盘后涨超10%，反映市场对AI需求带动的业绩修复持乐观态度。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/38fd01639dd141418b9103314ff3862d_1_0/hd.webp",
-    "realDate": "2026-07-24 05:10:52"
-  },
-  {
-    "id": "b431543766e40426aabf3b69b55c8a3f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051758ID2BR4OAK1ARXZE&to_app=hwbrowser&dy_scenario=topicinside&tn=44a7a7ea251e3a9c0a05324932a23d6d66d968c9946d52808d8e1a286997462d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球首颗2nm GPU来了！苏姿丰甩出“最强AI机架”",
-    "summary": "AMD在年度AI大会上发布全球首款2nm GPU MI455X及多款AI产品，包括“最强机架级AI基础设施”Helios和2nm服务器CPU“Venice”。同时公布路线图：MI500系列GPU明年推出，推理吞吐量达MI300X的2000倍；第七代CPU“Florence”计划2028年出货。MI455X采用台积电2/3nm工艺，集成3200亿晶体管。",
-    "author": "智东西",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/b021c0f8eaac47e5af35ac38fbc515f0_1_0/hd.webp",
-    "realDate": "2026-07-24 06:01:00"
-  },
-  {
-    "id": "2fb23c0bc6d310e0f1701602d23e77cb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103289131&to_app=hwbrowser&dy_scenario=topicinside&tn=b74c0bbafa870b9c301dfb71072210a9dca97dd02eb9a1aaeee6eb6af8781616&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "特斯拉人形机器人产线双线推进 马斯克称“量产爬坡史上最难”",
-    "summary": "目前，特斯拉正将加州弗里蒙特工厂Model S/X产线改造为Optimus人形机器人首条产线，年产能100万台，预计年内投产；同时得州工厂第二条产线设计年产能1000万台，计划明年夏季投产。马斯克称这是“史上最难量产爬坡”，因涉及上万全新零部件且供应链需自建。Optimus初期将用于工厂简单任务，其灵巧手和自研芯片技术受关注。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/df3dff82684a4f7b9a58307d537e6147_1_0/hd.webp",
-    "realDate": "2026-07-23 12:53:36"
-  },
-  {
-    "id": "e2bb6708c69f52d99b09feefdbce3447",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074980379&to_app=hwbrowser&dy_scenario=topicinside&tn=f1df60ae11ddf2e07628162cc432665da4160cad817b3769a922904aa8215aa5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "亚马逊AGI部门启动裁员 此前已有多名高管陆续出走",
-    "summary": "近日，亚马逊宣布裁减通用人工智能（AGI）部门部分岗位，该技术旨在开发超越人类智能的AI系统。发言人表示将资源集中到关键项目，同时确认AGI业务高管普拉萨德、卢安已离职。此前1月亚马逊全球裁员1.6万人，近期AGI团队员工在论坛透露受影响。",
+    "id": "617545af4015c5ff37233b4ee078108b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074981635&to_app=hwbrowser&dy_scenario=topicinside&tn=c23a6de4be3683a5e0e81338a79bdd97438d759d40689c5bd2c060b4b65f5307&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "因担忧准确性问题 欧美多所高校停用AI检测工具",
+    "summary": "美国阿德尔菲大学学生纽比因AI检测工具误判其论文为AI生成而维权胜诉，引发对工具可靠性质疑。调查显示32%英国学生曾违规使用AI。包括范德堡大学、耶鲁大学等全球多所高校已停用相关工具。专家强调检测结果仅应作为参考，高校正探索口头答辩等新考核方式。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ab/v3/Topic_05cdb783f4ba4e9eac1717a5b4fb825f/40e8ad6e26a142eb99096c1f2ae1a0d6_1_0/hd.webp",
-    "realDate": "2026-07-23 09:03:57"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/81ce1ab9b7784599b7fc40d6b8848294_1_0/hd.webp",
+    "realDate": "2026-07-26 09:57:34"
   },
   {
-    "id": "02cdb287446aa5e2ee28a2b3fd510e81",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023ID2BQZC5BHM5FKI&to_app=hwbrowser&dy_scenario=topicinside&tn=374e19e5517472822137e44a20e22debf1115035331c47b79dca34688b5a2b97&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国科学家以折纸术秒杀光芯片制造瓶颈",
-    "summary": "中国科研团队创新采用折纸术制造光子芯片，将纳米结构折叠竖立，数十秒内完成传统需数小时的雕刻工序。该技术突破三维光子芯片量产瓶颈，有望解决AI算力需求激增与电子芯片物理极限矛盾。光子芯片以光粒子传输信息，能耗低且抗干扰，中科院、华为等机构正加速布局。",
-    "author": "心智观察所",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9a/v3/1051023ID2BQZC5BHM5FKI/3e0aabc788964979bc9f56edf9e1498f_1_1/hd.webp",
-    "realDate": "2026-07-23 10:39:00"
+    "id": "10deda70f36bcf7d0a451b3b8786c470",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074981645&to_app=hwbrowser&dy_scenario=topicinside&tn=d2946277c3a9473a9d9b70cd648c6b0de9b9be396e072c2271c0a1d81690daf9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌、AMD等公司加入 签署支持AI开源模型发展公开信组织增至50家",
+    "summary": "谷歌、AMD等公司近日加入签署支持AI开源模型发展的公开信。公开信呼吁开放权重AI模型，以降低运用门槛、促进竞争，同时让使用者掌握技术自主权。新加入企业还包括Cloudflare、Block等，但亚马逊和Anthropic未签署。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/02f6ead86799441fa9be730cfd4408dd_1_0/hd.webp",
+    "realDate": "2026-07-26 10:47:36"
+  },
+  {
+    "id": "55b4a327c477689ba2bc6def0f095ac8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074981762&to_app=hwbrowser&dy_scenario=topicinside&tn=a46cd1cef9de748fca0440d3d8b3196e3395ed35eeb830708de28b4f668cc7d8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "派拉蒙1100亿美元收购华纳兄弟获得欧盟有条件批准",
+    "summary": "近日，欧盟委员会有条件批准派拉蒙以1100亿美元收购华纳兄弟，前提是派拉蒙履行退出联合国际影业股权等承诺。调查显示该交易在电影发行环节或导致市场集中，但欧洲经济区存在迪士尼等足够竞争对手。双方称合并将增强流媒体竞争力。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/0d80f0952bb148d4bf8c78f416704e0f_1_0/hd.webp",
+    "realDate": "2026-07-26 16:43:18"
+  },
+  {
+    "id": "8b859d1d5f5b20a423a216c85f8ba774",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074981625&to_app=hwbrowser&dy_scenario=topicinside&tn=454c9915cd2414fc8c5d03eabb61471db37bb33573cee98bffe9303a7a32c4db&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "近20亿美元神秘交易落地 特斯拉重金收购AI硬件企业",
+    "summary": "特斯拉近日完成对一家未公开名称的AI硬件公司收购，交易规模达19.5亿美元，其中17.3亿美元与业绩目标挂钩，2.22亿美元用于购买专利技术。监管文件显示，这是特斯拉罕见的对外收购，可能涉及Optimus机器人或FSD系统的关键硬件需求。行业猜测被收购方或为Density AI或Atomic Semi。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/08528616b3b64c5fab8e42e38a268d3c_1_0/hd.webp",
+    "realDate": "2026-07-26 08:40:51"
+  },
+  {
+    "id": "f979e50d7812ead5403bd1b46cfd3799",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324878176&to_app=hwbrowser&dy_scenario=topicinside&tn=dbaf617350e6b86c6ca30c998d14ff401c497c2786762bf22e6eefa5299983a6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "融资20亿 美国知名手术机器人公司宣布破产",
+    "summary": "近日，美国手术机器人公司Vicarious Surgical宣布破产清算，该公司曾获比尔·盖茨等投资，累计融资20亿元。其研发的9自由度机械臂结合VR技术的手术机器人因产品迟迟无法落地而失败，2021年上市后市值曾超12亿美元。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/b65cbd796be24a66a7f4971b5662c9cf_1_0/hd.webp",
+    "realDate": "2026-07-25 23:19:03"
+  },
+  {
+    "id": "4b58f5bdf65d672876de2523120ad0f4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510018c1638e06fa8470ea96164be493b776b&to_app=hwbrowser&dy_scenario=topicinside&tn=cfaf5c8024aa4594f5f642a05e5a9369a95c8fdb916b7cd4cb92ed98e5c582aa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球晶圆厂投资激增引发设备交付瓶颈 三星与SK海力士拟提前锁单应对",
+    "summary": "全球半导体制造商加速扩建晶圆厂，导致设备交付周期延长至正常水平的1.5至2倍。三星电子与SK海力士拟提前锁单应对，因应用材料等五大供应商的核心设备交付周期普遍翻倍，部分韩国厂商设备需等待6至8个月。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/4e1d08b3d55c41c0915a205cf143b9e1_1_0/hd.webp",
+    "realDate": "2026-07-26 12:27:35"
+  },
+  {
+    "id": "fe472490b23253c7df9c0990e21a900e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510018aac2aafcf09ed300b53c11ca5c9374c&to_app=hwbrowser&dy_scenario=topicinside&tn=8706cecb563b41b7767bd282650bb7bc0497e2021fc33faadf27cc9f852329bc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国科研人员研发大规模量子微扰计算软件",
+    "summary": "中国科学院团队近日研发出面向异构GPU集群的大规模量子微扰计算软件HIP-DFPT，该软件通过微任务重组和GPU内存优化等技术，提升线程利用率和数据访问效率，支持20万原子体系全电子精度模拟，原子吞吐量提升70%。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_a2412504adaf48e9a00ea423e476534b/363d222d774e4ee9b71d4764880f0edb_1_0/hd.webp",
+    "realDate": "2026-07-26 12:30:39"
   }
 ]
