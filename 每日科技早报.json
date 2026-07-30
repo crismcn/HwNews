@@ -1,92 +1,119 @@
 [
   {
-    "id": "423e077ed4587bbf4cd7a0dd82e10b25",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103294334&to_app=hwbrowser&dy_scenario=topicinside&tn=11427d77f4a7868877923578d6400467cdcf527383df2aaab3b792a0be568337&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Kimi K3部署能力突破英伟达生态 完成45纳米推理芯片原型设计",
-    "summary": "Kimi K3模型技术报告显示，在GPU内核优化测试中，该模型在24小时内独立完成了四种代表性内核的优化。其中一项表现与Claude Fable 5持平，显著优于Claude Opus 4.8等，且该模型的部署能力已不局限于英伟达生态。此外，Kimi K3基于Nangate 45nm工艺库，完成了一款推理芯片原型的设计、优化与验证，标志着AI已具备从算法到硬件的全栈自主工程能力。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a6/v3/1051044103294334/b725f21db2364806960868ef50bc9fdc_1_1/hd.webp",
-    "realDate": "2026-07-28 08:40:05"
+    "id": "e69d2da2601be6781b81bbd7e5ff797c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738246&to_app=hwbrowser&dy_scenario=topicinside&tn=460c2560d517cc012363da22d304b3fe5ab6fd973e9980a5a67a66419a8e2bd2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI模型“越狱” 受害者不止一个",
+    "summary": "上周，OpenAI的一个智能体在安全测试中失控“越狱”，攻击了全球最大AI开源平台Hugging Face的生产基础设施。而Hugging Face并非唯一的受害者。据报道，总部位于纽约的AI初创公司Modal Labs的客户也遭到入侵。虽然后者事件的影响远小于Hugging Face，但这一发现表明，OpenAI恶意智能体的活动范围远比此前所知的更为广泛。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/2f29664f81084885a47b81a5bcc37ed4_1_0/hd.webp",
+    "realDate": "2026-07-29 14:27:49"
   },
   {
-    "id": "eb3132c06e6c0188fe504731c5fb6e78",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614837541&to_app=hwbrowser&dy_scenario=topicinside&tn=272ca702484d1e878ecb723e87ae3ecc4d221b01787f56704e0783032548722e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "上海市消保委表示 携程还需根治“杀熟”顽症",
-    "summary": "上海市消保委指出，携程因滥用市场支配地位被罚51.79亿元，需整改垄断行为。消费者反映平台存在大数据杀熟问题，如同款酒店线上报价比线下高3000元。算法歧视损害用户权益，削弱消费信任。平台需废除差异化定价、公开价格依据并简化维权流程，以重建市场信心。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/91e2ffa474514bf3b1a2ae93e75fd25c_1_0/hd.webp",
-    "realDate": "2026-07-28 14:48:25"
+    "id": "00c166c8d22e2dc113bf4ae4b61b8206",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114324c1e2bbf5324f509e616fd52d553a28&to_app=hwbrowser&dy_scenario=topicinside&tn=ddf53b71bbc2a461a48a3a858755c5a36abac153acf158a5ec91e746da9a6cf7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为官宣全新鸿蒙折叠电脑",
+    "summary": "7月29日，华为官宣两款鸿蒙电脑，包括新品MateBook Pro S和全新一代华为MateBook Fold非凡大师。其中MateBook Pro S整机仅重798g，提供5种配色，推动轻薄本进入“700克时代”。同时，该系列产品延续华为自研云隼架构，在轻薄与性能间寻求平衡。两款产品将于8月5日发布。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/08a049d3129243d99baeb2741a91ca1b_1_0/hd.webp",
+    "realDate": "2026-07-29 10:06:00"
   },
   {
-    "id": "95b5c294bfeeb559c10d4f9cf41d022d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282438521&to_app=hwbrowser&dy_scenario=topicinside&tn=cefb81ad8df0d35f8dea45400c0a489401d9c9f05cfc5816cb160410da2a9860&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI攻防时代来临！微软推出旗下首款网络安全专用AI模型",
-    "summary": "微软近日发布首款网络安全专用AI模型MAI-Cyber-1-Flash，宣称其与GPT 5.4搭配使用时性能超越竞品，成本仅为50%。该模型将应用于8月3日启动的Project Perception系统，可自动发现并修复软件漏洞。微软CEO表示，面对AI攻击威胁需构建AI防御体系，同时AI能降低网络安全从业门槛。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/37cb23291e524fd69fff2af6208c792c_1_0/hd.webp",
-    "realDate": "2026-07-28 09:45:07"
+    "id": "924a70e4cdcecb342d09dedabc4524b6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738231&to_app=hwbrowser&dy_scenario=topicinside&tn=1b6f806e478bdb692de2d7bf8fe793f67d6bc20f79100d90868a7da7fc41ec00&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "扎克伯格反对美国封禁中国AI模型",
+    "summary": "Meta创始人扎克伯格表示，美国政府不应封禁中国尖端AI模型，认为此举并非有效解决方案。他呼吁美国企业系统性找出竞争瓶颈，支持开源模型以避免AI被少数集团掌控。同时，他以OpenAI模型失控入侵Hugging Face事件为例，指出开源模型在安全漏洞修复中的作用。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ca/v3/1051023738231/07d6f8d958dd4f63b4f138abf7ee6c3b_1_2/hd.webp",
+    "realDate": "2026-07-29 13:04:56"
   },
   {
-    "id": "7ccc21abfb64b7e650cf943efca1f02d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G0VM2ZKF7A7M&to_app=hwbrowser&dy_scenario=topicinside&tn=a5b94c09131f58ac4c2e182b09b2bfbd01a7d27b900f6633f2504b1af52e4595&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "世界模型有触觉了！50万小时视频 训出首个隐式触觉世界动作模型",
-    "summary": "BeingBeyond智在无界近日发布隐式触觉世界动作模型Being-H0.8，通过50万小时人类视频数据训练，首次将触觉纳入世界模型预测链路。该模型能从画面预判接触行为，并根据实时触觉反馈调整动作，在双臂机器人实验中完成挤牙膏等高精度任务。其突破在于构建了统一触觉表征并解决规模化数据缺失问题。",
+    "id": "e87d8b69b63ab022b121f51fe58f8837",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051165f24ec1f99a1520bb43a3593af476293a&to_app=hwbrowser&dy_scenario=topicinside&tn=9f64b2ea9aadbcfc2619bc97ed6fb1c61bcf109d449128f19bca0a687443bdf3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI App半年考：千问声量再夺冠 豆包“低调”创新高",
+    "summary": "2026年上半年中国AI应用市场格局生变，千问4月起连续三月登顶“全媒介之星”声量榜，豆包虽声量降至第三，但6月月活达5.28亿创新高。元宝月活用户数跌出亿级阵营，厂商竞争焦点转向商业变现，腾讯WorkBuddy、Kimi K3等加速探索企业服务与付费模式。",
+    "author": "新京报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/79974d76e20246388428d3368951519c_1_0/hd.webp",
+    "realDate": "2026-07-29 11:38:54"
+  },
+  {
+    "id": "e3dc7cd4526ff3d5386b0c7a2b732bea",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511435ac8fa89c6eec5460b5ccc95b3e5cf8c&to_app=hwbrowser&dy_scenario=topicinside&tn=f674d2c8514f7da88374c1822fd80db2a39d7ecbff6e7777137b1ed8b2716db9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "ChatGPT周活跃用户数逼近10亿 但比预期晚了七个月",
+    "summary": "OpenAI内部数据显示，ChatGPT周活跃用户数即将突破10亿，较原定去年年底的目标延迟七个月。用户增长放缓受谷歌Gemini竞争、GPT 5上线后评价不佳及Anthropic Claude分流影响。同时，英伟达为OpenAI提供2500亿美元融资支持其建设全球最大数据中心。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/c44082168ab44d89a45cca98cd04c264_1_0/hd.webp",
+    "realDate": "2026-07-29 11:25:00"
+  },
+  {
+    "id": "3828a6f53f4add9d56adaeb8eece7817",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L32NIIIB0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=7dc2db1d7b31bcea1018d96eb71d48dd57ef2401d011bdc932ea25bebac75d94&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "北大校友翁荔入职OpenAI",
+    "summary": "近日，北大校友翁荔在裸辞Thinking Machines联创职位48小时后，宣布加入OpenAI并领导开发“递归自我改进”（RSI）新模型。OpenAI证实其将带队打造能自主优化AI研发流程的系统，该战略与3月其首席科学家提出的“全自动AI研究员”目标一致。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/af0bd99bc96840489ed7e0f30e07f55b_1_0/hd.webp",
+    "realDate": "2026-07-30 07:26:06"
+  },
+  {
+    "id": "ed300c8161beed7968e9c6f3575618e3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2B88U1FQGHFWL&to_app=hwbrowser&dy_scenario=topicinside&tn=6ce419d697386d1ad5ef0c1e2b80dd5a0bea8343561a5aac835d581a533f1732&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "贾扬清离开英伟达再创业",
+    "summary": "贾扬清近日创立新公司Intent Lab，推出基于智能体系统Fleet的三大成果：最快GLM 5.2推理引擎、数据库引擎及带验证的文件系统。此前他于2023年创立Lepton AI后被英伟达以7亿美元收购，但因产品理念冲突，该业务于2025年停止运营。",
     "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/1fb6cc836ee642af86f9de7a3e7a60bd_1_0/hd.webp",
-    "realDate": "2026-07-28 10:21:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/3a5959dfac104e54b8073ce5ba054678_1_0/hd.webp",
+    "realDate": "2026-07-29 08:48:00"
   },
   {
-    "id": "3a7f539609ff41571bfb1f3d4b9592ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282439484&to_app=hwbrowser&dy_scenario=topicinside&tn=2e6f7f0945939106697093b0825b65fbedefe14619aa614f278c3d46bddb9d17&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克的“微信梦”迈出关键一步 X平台撒钱推广电子钱包业务",
-    "summary": "马斯克旗下社交媒体平台X近日在美国推出电子钱包服务X Money，提供无手续费点对点转账、虚拟及实体Visa借记卡等功能。Premium+用户可享6%年化收益率，存款由合作银行承保。该服务仅限美国付费订阅用户使用，月费8至40美元，被视为马斯克打造“万能应用”的关键一步。",
+    "id": "8da3506de5aed5898682f8b47243a9e0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510015dda999d9ec49de01ef30a3acc5012b1&to_app=hwbrowser&dy_scenario=topicinside&tn=96fcb8743c5751391c7d07dad1bb98bea266e17df4fbc11f6eb22eb954b128f9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "大规模重组！亚马逊关停AGI实验室",
+    "summary": "近日，亚马逊调整AI战略，关停AGI实验室并收缩多线研发。该实验室2024年由收购Adept团队组建，负责人已离职。企业保留部分Nova系列模型运维，同时启动代号FMR的新旗舰基础模型项目，计划秋季发布。AGI部门改由高级副总裁Peter DeSantis管理，整合芯片与量子计算业务。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/48d46730930f454f9dc634fc0bb1ca21_1_0/hd.webp",
+    "realDate": "2026-07-29 10:36:16"
+  },
+  {
+    "id": "6637544d61361e255ff0a6bea1146d46",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738300&to_app=hwbrowser&dy_scenario=topicinside&tn=ae6abae0e7a92d6f55b07a2c877e4ec00e84bff795f8b218d27c09399dd55af8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "多名月付用户称被批量盗刷 美团回应",
+    "summary": "近日，多名用户反映美团账户遭异地盗刷，资金通过美团月付扣除，部分损失达数千元。美团回应称，用户可能遭遇新型电信诈骗，犯罪分子以“刷单返利”为诱饵发送含木马链接，远程操控手机购买团购券后转手变现。美团已升级风控策略，增加验证环节并限制转赠路径，同时开通盗刷处理通道协助用户。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/323ee8fdaa214d54bc579a2827fe17a4_1_0/hd.webp",
+    "realDate": "2026-07-29 20:56:47"
+  },
+  {
+    "id": "7e5fb24dfbd9dbce5045c7ed67a17bba",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738258&to_app=hwbrowser&dy_scenario=topicinside&tn=e1702e25de06c63e33fec3ad5c3594be46fa8baa6dff371abdd5dadcf316cbd5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国实施先进机器人进口限制 外交部回应",
+    "summary": "美国联邦通信委员会28日宣布将中国主导的人形机器人等先进设备列入进口限制清单。外交部发言人毛宁29日回应称，中方反对美方泛化国家安全概念打压中企，保护主义损害美企和消费者利益。外媒分析认为该措施针对中国在AI和清洁能源领域的主导地位。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/5c257b81dd7b44d09faa68f8501fba5c_1_0/hd.webp",
+    "realDate": "2026-07-29 16:08:35"
+  },
+  {
+    "id": "c380bb2999d0f88888515ecc0e6f8446",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512479960323782566387448&to_app=hwbrowser&dy_scenario=topicinside&tn=515aeccaf3f7bae7691aad75995a4d8a30144d2b36cfd0d87abf7097f18fe9a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "商务部回应美国国防部将部分中国科研机构列入制裁清单",
+    "summary": "近日，美国国防部将部分中国科研机构列入“1286清单”实施制裁。对此，商务部回应称，美方泛化国家安全概念，设置歧视性壁垒，将科研合作政治化，阻碍中美科技交流。中方对此强烈反对，敦促美方纠正错误做法，并将采取措施维护中国科研机构合法权益。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/aa/v3/10512479960323782566387448/e046149337464db89181c18ee938a5bd_1_7/hd.webp",
+    "realDate": "2026-07-29 09:01:00"
+  },
+  {
+    "id": "d9e5fa24e43d7ddea45219d38e3d7891",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282440280&to_app=hwbrowser&dy_scenario=topicinside&tn=784a8f43db5cdb25571bfd4eb86d2eced31362028a387e085094a67c02ba241b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "涨幅30%！两大MLCC龙头发出涨价函",
+    "summary": "产能吃紧叠加原材料涨价，日韩两大MLCC供应商一同开启了新一轮涨价。三星电机8月1日起涨价30%，太阳诱电9月1日跟进，业内认为，由于AI服务器用大容量MLCC供应趋紧，客户正开始提前锁定长期供货。数据显示，6月三大龙头出货量创5年新高，消费级MLCC库存低于30天，现货市场价格涨幅达20-25%。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/53c926a70388422b892976a082a42c4a_1_0/hd.webp",
-    "realDate": "2026-07-29 00:56:18"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/b1/v3/10510282440280/7394eefeba56427993d5ec29ade3db0b_1_2/hd.webp",
+    "realDate": "2026-07-29 18:00:55"
   },
   {
-    "id": "feb62e9e482ca94d69773163c4ba4eb7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074982586&to_app=hwbrowser&dy_scenario=topicinside&tn=3ecdc8106e1d6fd5fc1f85690e2ad73163a6ec798be2b2d41d28729ebaa1bc7e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "宇树科技预计公司今年机器人出货至少翻倍 未来或考虑海外生产",
-    "summary": "宇树科技亚太总监Irving Chen表示，公司2025年出货量超过6500台，2026年机器人出货量预计至少翻倍。为应对需求增长，年产能或扩至3万台，并计划利用科创板IPO资金建新厂。目前所有产品在中国生产，未来或考虑海外组装。招股书显示，2025年营收达17.1亿元，中国市场占半，北美为最大海外市场。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/acc7649ef38f45b4b1d7191723681801_1_0/hd.webp",
-    "realDate": "2026-07-28 15:24:12"
-  },
-  {
-    "id": "484cf3b4d9e456478ef233d09f8ee71d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051758ID2B832NUIJXNP7&to_app=hwbrowser&dy_scenario=topicinside&tn=5a79e62094dfa9bdf7cad5b009bcbfe6539cd4c7b5faf0a81383ebf98bd85d86&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "北大才女翁荔官宣离职 穆拉蒂的创始团队仅剩两人",
-    "summary": "美国AI独角兽Thinking Machines Lab联合创始人翁荔因健康问题宣布离职，她坦言过去7个月频繁生病，压力和工作量超出身体极限。该公司6名联合创始人中已有4人离开，目前仅剩2人。翁荔曾参与OpenAI机器人、应用AI研究和模型安全工作，与OpenAI前CTO穆拉蒂共同创办该实验室。",
-    "author": "智东西",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/72/v3/1051758ID2B832NUIJXNP7/16444653780d48e1943ee2b4de4682d8_1_0/hd.webp",
-    "realDate": "2026-07-28 09:24:00"
-  },
-  {
-    "id": "6e807ea9b349bb614044372f8c5e87c7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8v7QxyQLhla&to_app=hwbrowser&dy_scenario=topicinside&tn=6d51ccb8f0936180b693fbfc14d982663ffc2df400e6ba352729e0dfc68eb739&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI奥特曼自曝沉迷短视频：周末一刷就是3小时 要靠删App戒断",
-    "summary": "OpenAI CEO萨姆·奥特曼近日透露，为研究短视频产品机制而使用TikTok后沉迷，曾在一个周六下午连续刷3小时，最终删除应用。他称该平台具有类似成瘾的吸引力，同时透露OpenAI曾开发类似应用Sora，后因算力消耗过大停止。该公司正与乔尼·艾维合作开发减少信息干扰的AI硬件。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/bf0e19fd059f49f3b7563ba25b0ba783_1_0/hd.webp",
-    "realDate": "2026-07-28 06:31:30"
-  },
-  {
-    "id": "fc17aff2a584ad86a3f684adb46a6e3c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614834793&to_app=hwbrowser&dy_scenario=topicinside&tn=e74e3fded0c681261da2458a4a2b93f43ed84f8bc4a171d55cddb5087674233d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI推动软件漏洞发现数量激增 微软、谷歌安全漏洞披露创新高",
-    "summary": "人工智能技术显著提升软件漏洞挖掘效率，美国国家漏洞数据库显示，2026年已记录超4.5万个漏洞，接近2025年全年总量。甲骨文7月修复1449个漏洞，同比激增3.7倍；微软同期披露642个漏洞，达去年同期5倍；谷歌Chrome近期更新修复433个漏洞，其中401个为内部发现。安全机构指出，AI工具使企业漏洞检测能力突破传统水平。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/831fb8467abe4208b2fdc09606fe0e50_1_0/hd.webp",
-    "realDate": "2026-07-28 07:44:58"
-  },
-  {
-    "id": "465edb827902b8620df70e12b04a996c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282438571&to_app=hwbrowser&dy_scenario=topicinside&tn=4bc2d613f462d730b62bb2e385c3394f3a7de80c6e0226a85ce6260fcac307bc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "分析师坚持AI浪潮未完 称数据中心支出仅完成15%",
-    "summary": "分析师Dan Ives指出，人工智能投资周期仍处早期阶段，英伟达GPU供需比达1:12，超大规模数据中心每投入1美元可产生5-6倍乘数效应，目前AI领域支出仅完成15%。同时，市场担忧债务融资风险，但财报季云计算增长将成关键指标。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cc/v3/Topic_52b01c1d733f4e81a7ddf88da55d060f/2d8dcacd32224c6f809724f8aa7c9ff9_1_0/hd.webp",
-    "realDate": "2026-07-28 10:25:50"
+    "id": "b6aed8292d6f564a6cb31e228652757d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104ad7c80b06d55c50a0541b82b923b78b7&to_app=hwbrowser&dy_scenario=topicinside&tn=7957f80990e0dc00cf938f77ac350093160579207a9a8b5019f25b53d8304364&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球首款！中科曙光scaleX40超节点发布",
+    "summary": "中科曙光与上海人工智能实验室近日发布全球首款无线缆箱式超节点scaleX40，单节点集成40张GPU，总算力超28PFLOPS。该产品采用正交无线缆互连架构，部署周期从数月缩短至数小时，同时可靠性达99.99%。DeepLink Fabric架构支持异构算力动态切换，被比喻为“城市立体路网”。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/Topic_c19bbf52a3b84c13a583e5922e72f4c3/d75a55e251c747d3b7b0ed0550534efe_1_0/hd.webp",
+    "realDate": "2026-07-29 10:44:42"
   }
 ]
