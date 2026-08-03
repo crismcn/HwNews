@@ -1,110 +1,101 @@
 [
   {
-    "id": "da57cf1c9becb7d1ae11f102a77ca897",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120689b9c5a78b49bc368360f684db229374&to_app=hwbrowser&dy_scenario=topicinside&tn=ac6bf322ec16a3eac429fbc0398c5e5c3c451bbc85738c6e2fdd844d42bebe4c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "显卡迎来新一轮涨价 涨幅约30%",
-    "summary": "华强北商户反映，受显卡生产商封仓及存储芯片涨价影响，RTX5070显卡价格从去年4500-5000元涨至6000-6500元，RTX5080从8000元涨至近12000元，涨幅约30%。同时，固态硬盘、内存等硬件价格也持续上涨，暑期装机成本显著增加。英伟达此前已多次上调GPU套装价格，此次涨价涉及多代显存产品。",
+    "id": "905cc2e4b434d2c092bbf5f199ae6619",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221d3b47ddf4f872609f2d5cfc88ef65e7f&to_app=hwbrowser&dy_scenario=topicinside&tn=3ef5f3f448e661574c8a48a53467cd010b034f78c94ab06ae83b15c68a591ecd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepSeek又发重磅更新 模型性能突升至全球顶尖水平",
+    "summary": "近日，DeepSeek发布V4-Flash正式版，虽总参数与预览版相同，但其代码和智能体能力突升至全球顶尖水平。该版本在九项基准测试中均超越自家1.6万亿参数的V4-Pro预览版，部分成绩接近Claude Opus 4.8。DeepSeek采用自研工具和重做训练方式，再次突破“规模法则”限制。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/9183496c7d104086903747a941a9aa03_1_0/hd.webp",
+    "realDate": "2026-08-02 20:03:00"
+  },
+  {
+    "id": "9f2e7543bfea13dd208c5caa237b551d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511045396b34ad53e033746fefb1565d426bf&to_app=hwbrowser&dy_scenario=topicinside&tn=fe91c6542b8706ceffba7d4b9a91ce29c65b16d3635889242f97d5d6d6f17e21&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "鸿蒙7新增直连供电！华为Pura 90系列等率先支持",
+    "summary": "华为近日向Mate 80、Pura 90等41款机型推送HarmonyOS 7测试版，新增“直连供电”功能，充电时优先由充电器供电减少发热。Pura 90系列等机型已支持，需升级游戏助手至16.2.2.300版本。该系统还升级了智能体框架、空间计算及安全架构。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/2180a41d018047af99b9f94f572b200b_1_0/hd.webp",
+    "realDate": "2026-08-02 13:10:33"
+  },
+  {
+    "id": "3c886eb538ebca4d6ce71011c6d037e4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110445bed1262ff8a576c4542314577d388c&to_app=hwbrowser&dy_scenario=topicinside&tn=8213171a9b933a0d756a39f0e19bd37c4b39ed5bd3f85d9fb88bbbdf833337dd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "宏碁高管预计：第三季度PC再涨5%",
+    "summary": "宏碁高管近日称，涨价主因是内存与SSD供应紧缺。TrendForce数据显示，当季DRAM和NAND Flash合约价将环比上涨13%-18%及10%-15%。联想等五大厂商已上调中高端笔记本价格500-1500元，部分涨幅达20%。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/c059147b35c5498f8a3710153754c033_1_0/hd.webp",
+    "realDate": "2026-08-01 22:31:26"
+  },
+  {
+    "id": "e529f2393cdf5ae9b02868893588cbef",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614862555&to_app=hwbrowser&dy_scenario=topicinside&tn=8fee0c89645d6eecc912a2cac17a39ca5f9e84b2dedb76aa17227dc322b49c43&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国产品包揽全球大模型调用量前五",
+    "summary": "近日，全球多模型聚合平台OpenRouter发布最新一周AI大模型调用量榜单，排名前五的产品全部由中国企业研发。登顶榜单首位的是小米MiMo-V2.5。排名第二和第五的均来自DeepSeek。而这些模型的共同之处，是发布时间很短便快速上榜，位列第三的腾讯混元3，7月6日才正式开源，单周环比增幅超999%，是榜单增长势头最猛的模型。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/66900f6c381544929a1463cd7f37d663_1_0/hd.webp",
-    "realDate": "2026-07-30 12:21:51"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/f786847ccc754f8b8dd288f0279841d7_1_0/hd.webp",
+    "realDate": "2026-08-02 14:13:00"
   },
   {
-    "id": "2731a552d9568e031957588a3f35e7be",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143d1aa3368ab149a69e4e8747045d9e1ab&to_app=hwbrowser&dy_scenario=topicinside&tn=de2a0f72ad500c9575d4b0490860ce44fc68b6bc6c6f52b5ce359ec0432000e4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "韩国人形机器人陷“英伟达依赖症”",
-    "summary": "韩国人形机器人龙头企业LG电子、Neuromeka等产品全面采用英伟达芯片方案，引发技术依赖担忧。韩国政府决定投入8000亿韩元启动本土AI芯片研发项目，LG电子、现代汽车等企业将参与。业内人士称英伟达芯片因性能与生态优势成为当前首选。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/61e2f65f830c4aa39ec45d33bd660e40_1_0/hd.webp",
-    "realDate": "2026-07-30 11:11:00"
+    "id": "d86cc29f1eb507e5c9a4eaffe31aa5d1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8vGCMU9l8OM&to_app=hwbrowser&dy_scenario=topicinside&tn=4a5b8d8f6108f27484a7c955ba567b3ecd754fc932206d64e0ebee6887b7d93a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克没能拦住 美国首个“AI脱衣”应用禁令正式生效",
+    "summary": "美国联邦法院近日驳回马斯克旗下xAI公司的紧急申请，明尼苏达州针对AI“脱衣”技术的禁令于8月1日生效。该法律禁止提供或宣传通过AI生成逼真裸露内容的功能，违者最高面临50万美元罚款。xAI认为禁令范围过宽可能侵犯言论自由，法院将于8月19日举行听证会决定是否暂停执行。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1054_8/4a/v3/1051054ucms_8vGCMU9l8OM/536833c80855458d8e1fe5a0badbfbbb_1_0/hd.webp",
+    "realDate": "2026-08-02 13:33:00"
   },
   {
-    "id": "7712232d34d448428ab1338cb8b4ef32",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110438dd54e4576f5a9c1738b20f3b1fa4d0&to_app=hwbrowser&dy_scenario=topicinside&tn=8c20e94db02d3c0b253861b8a87a951bbcbbee2aad0b367c13c18e08136dffa2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI专利全球第一！中国专利含金量大增",
-    "summary": "截至6月底，中国高价值发明专利拥有量达236万件，其中AI、云计算等先进技术领域占比16.5%，相当于每6项发明专利有1项涉及先进技术。生成式AI专利以43000个保持全球第一，全球前十大申请人中六家为中国企业。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/76a1f58580f64f73b4688e075e71d0b4_1_0/hd.webp",
-    "realDate": "2026-07-30 12:29:42"
-  },
-  {
-    "id": "520237b1a1cca22f7500497827e11bda",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282441582&to_app=hwbrowser&dy_scenario=topicinside&tn=65d0e9d1bbedabb44ba9a423e4c27be9862fe26eeb1739f550ba36bae20a063d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "欧盟计划投资114亿美元建设7座人工智能超级工厂",
-    "summary": "欧盟27国集团近日宣布将投入114亿美元公共资金，支持企业建造7个配备超10万枚尖端AI芯片的超级工厂，预计性能达现有数据中心4倍。该计划旨在吸引228亿美元私人投资，以缩小欧美AI技术差距。委员会报告显示，欧洲目前在AI关键领域仍依赖美国技术提供商。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/c95550019295416fb59b84117484efe7_1_0/hd.webp",
-    "realDate": "2026-07-30 18:11:55"
-  },
-  {
-    "id": "ec8b3c1e401a5712e3a4394d9bf6ed78",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324879311&to_app=hwbrowser&dy_scenario=topicinside&tn=350fcd0ec458a1f5331be33a2f84b2bcc0be53634c8da7a492035d248b3df217&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI短剧残酷现实：越量产越亏钱",
-    "summary": "AI短剧行业数据显示，2026年Q1全网上新12.8万部微短剧，其中95%为AI生成，制作成本下降90%。但某工作室量产11部剧仅收益9.6元，平台万次播放收益暴跌90%。行业出现内容过剩，投流成本占比达70%-85%，利润空间被挤压。",
+    "id": "7c3954046320f5c15b5284f7689def34",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324879987&to_app=hwbrowser&dy_scenario=topicinside&tn=b8c686f8e80a339134de3420b9de76853019fb6c3e80990f6df01560fa43a797&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Loop才火了六周 AI Coding又开始谈Graph",
+    "summary": "近日，AI Coding领域热议从“Loop”转向“Graph”概念。Open Claw创始人Peter Steinberger在X平台发起讨论获307万浏览，同时机器学习工程师Hamel Husain发文宣称“Loop Engineering Is Dead”。Graph Engineering解决多Agent协同问题，适用于可拆分、含分支回退的复杂任务，主流Coding Agent已实际应用该技术。",
     "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/69ddc0d708274ca99506e37fc7337537_1_0/hd.webp",
-    "realDate": "2026-07-30 11:17:53"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/4f7911bb844e40239ff7cf79aefe1c30_1_0/hd.webp",
+    "realDate": "2026-08-01 20:08:01"
   },
   {
-    "id": "23aec3f78d4987b300fa624885c8fdd6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001b4e18acbb543ec3fd2014b5623c135b3&to_app=hwbrowser&dy_scenario=topicinside&tn=2f65a7757c91e00b3d15cc1037c02bdbd5bc4dc6375cec9cac39732e61466805&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台媒称：台积电泄密案的两名涉案前工程师分别被判刑10年、6年",
-    "summary": "台积电4名前工程师因窃取2纳米等机密数据被判刑，其中陈力铭、陈韦杰上诉被驳回，分别维持10年、6年原判。吴秉骏、戈一平未上诉已先行判刑确定。陈力铭离职后为设备供应商东京威力窃密，利用在职同事翻拍机密档案。东京威力公司因监督责任被追加起诉。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/f62cf3aecd6042dc8f6e2e9734bda4d3_1_0/hd.webp",
-    "realDate": "2026-07-30 19:14:44"
-  },
-  {
-    "id": "2ae6e04de49d3b01c56c216c5e01dfbc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104af0b92e79687ff9e54800409f0b4fecc&to_app=hwbrowser&dy_scenario=topicinside&tn=3a0d773ab243635a4ceac5e023e194805d6746dedc3e2e2baaaab38438f6056f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "长江存储严正澄清：与美光科技的诉讼仍在审理中",
-    "summary": "长江存储29日深夜发声明称，网传“美国专利商标局裁定其核心专利无效”系虚假信息。该公司自2023年11月起在美国对美光科技发起多起专利诉讼，涉及27项专利295项权利要求，目前案件仍在审理中。同时，长江存储还指控美光资助的丹麦公司散布虚假信息。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/a4d4ccc32c8d4a9b8a518500a0264f76_1_0/hd.webp",
-    "realDate": "2026-07-30 07:51:28"
-  },
-  {
-    "id": "6bb775c5a64e71276473685de612e48d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738427&to_app=hwbrowser&dy_scenario=topicinside&tn=a6090292c90aa1a8af1920604999fc4bb462a31170604292afd62b5ccfb2b60a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称SpaceX要求全面剔除中国因素",
-    "summary": "知情人士称，SpaceX要求供应链合作伙伴不得雇佣中国公民或使用中国设备，并审计供应商厂区是否存在中国管理人员。其供应商高管称，设备禁用中国零部件，服务员工须为非中国籍。SpaceX大规模轨道建设依赖的关键矿产多由中国掌控。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/800980610c2c4e1986ac20e1747e9860_1_0/hd.webp",
-    "realDate": "2026-07-30 21:00:03"
-  },
-  {
-    "id": "0ccbc27cc538f178e1e4695f5aee92e5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104cb7983b58dcf613670209a8ff14ff423&to_app=hwbrowser&dy_scenario=topicinside&tn=795256d1bd7dd7a859a6971299b8f87611c4e07d67fc9c12b00cbdebdfe5cd75&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "希捷CEO直言：硬盘卖断货、客户加价抢产能",
-    "summary": "希捷CEO戴夫·莫斯利称，公司近线硬盘产能已排至2029年，客户加价抢购。AI服务器需求激增挤压上游产能，数据中心转向机械硬盘，希捷等三巨头控制全球80%产能。当前近线硬盘价格约每TB15美元，厂商目标价锚定30美元，存储产品涨价趋势或持续至2028年。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/ddc3a6cf34794b82921173b26473e4d8_1_0/hd.webp",
-    "realDate": "2026-07-30 12:32:17"
-  },
-  {
-    "id": "1c832974eb5938e2845ea55da7347632",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133684523&to_app=hwbrowser&dy_scenario=topicinside&tn=90419f2e7dc2c9f2b192ee1c773ff571ca64ae96f4f686703ea247a4c04df4de&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "今年上半年国内游戏市场收入增长12%",
-    "summary": "报告显示，今年上半年国内游戏市场实际销售收入1884.5亿元，同比增长12.17%，用户规模达6.84亿。自研游戏海外收入123.72亿美元，增长30.22%，美日韩占比超五成。移动游戏占国内市场71.75%，客户端游戏收入增长27.92%，网页游戏持续下滑。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/6f510c59786641a0831038ab62e73bc0_1_0/hd.webp",
-    "realDate": "2026-07-30 11:43:37"
-  },
-  {
-    "id": "36c178f6520a67e4f68c0f9d53213fbe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G12XRDB90MBL&to_app=hwbrowser&dy_scenario=topicinside&tn=ae18dc933f07b0034b686b26e70f3565f637faeb47c8a54fa411f3e8983b189f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
-    "summary": "近日，网友Anshu利用Opus 5游戏提示词“挑战循环”，24小时内从零复刻出《星际拓荒》翻版《The Long Silence》。该提示词通过主Agent拆解任务、子Agent执行、评委Agent核验的循环机制，强制AI将生成画面与《星空》等3A游戏对比，未达标则返工。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_a89a3874139f4730bd2ea9f1ed9729de/4e35631934af4b7e83a3e1e4a419fe59_1_0/hd.webp",
-    "realDate": "2026-07-29 15:39:00"
-  },
-  {
-    "id": "7691d1d268eae3b58b95f6cd2d941ac5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074983652&to_app=hwbrowser&dy_scenario=topicinside&tn=c6506f8e0773c7e6a44805bdaebc29f06d77bba7430e49fb5f8085f581b1b133&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克再次更新人类登陆火星时间表",
-    "summary": "近日，埃隆·马斯克预测人类将在“大约5至7年后”登陆火星，首艘飞船将提前几年抵达。此前NASA局长称未来10至15年送宇航员上火星需投资核技术，而马斯克多次调整时间表，曾预测2026年实现目标。其最终计划是使人类成为“跨行星物种”。",
+    "id": "6b950a9844baa691915e745013e226cd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074984716&to_app=hwbrowser&dy_scenario=topicinside&tn=fdb55e5c19d37ce8ce54361e3e6514e21f635e306e67adb776e20d7634dfc7d7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "前DeepMind研究员蒂博爆料：谷歌曾在ChatGPT发布一年前做出类似产品",
+    "summary": "近日，前DeepMind研究员蒂博·索蒂奥爆料称，谷歌在ChatGPT发布一年前已开发类似产品，但因担忧与搜索业务竞争被雪藏。谷歌员工杰夫·迪恩证实此事，称内部评估认为该产品未优于搜索故未推出。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/91/v3/1051074983652/9892f0c0890f48cf9ad73798a60741dc_1_1/hd.webp",
-    "realDate": "2026-07-30 15:43:31"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/3f0e514f6aa14e58bfd79611149f6be9_1_0/hd.webp",
+    "realDate": "2026-08-02 12:34:27"
+  },
+  {
+    "id": "7f310086546bc5fe56f5b21111da3ea4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074984722&to_app=hwbrowser&dy_scenario=topicinside&tn=200d4140f480175d351f842caabd3c99f5bcb839f8b7eaa05f087183653e8402&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "因AI生成大量低质漏洞报告 苹果限制安全研究人员漏洞提交数量",
+    "summary": "消息显示，苹果6月调整了漏洞提交流程，以应对激增的报告数量。苹果称，这类低质漏洞报告往往会因“AI幻觉”而错误识别软件中的安全风险。一家意大利公司因提交限制，无法及时报告严重权限提升漏洞。苹果表示可与研究人员协商提高限额。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/e5991068bf08450b8b6df5ec58ba3914_1_0/hd.webp",
+    "realDate": "2026-08-02 14:09:37"
+  },
+  {
+    "id": "1b45a13ecf9b1e3a4005f9cbf9fd94ec",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105104891afa1ab87043b1777d845c43119a3ea&to_app=hwbrowser&dy_scenario=topicinside&tn=18e8b468ba6b845adc6a438fb364b6ea1b490f9bfbfa2cd125cc9b1a615b7aae&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国家网络安全通报中心发布最新境外恶意网址和IP清单",
+    "summary": "中国国家网络与信息安全信息通报中心近日发现一批境外恶意网址和IP，涉及美国、德国等6国，关联木马程序可发起僵尸网络、后门攻击等，威胁国内联网安全。具体包括美国MooBot僵尸网络等5个恶意地址，主要针对IoT设备及民生领域系统。",
+    "author": "北京日报客户端",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/2529a13aa34b47cba8460da06a37f4ff_1_0/hd.webp",
+    "realDate": "2026-08-01 14:09:15"
+  },
+  {
+    "id": "c26a8ee145d61f2ba0ca272702367430",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110493e88190a8fbae2fdca624b97f60a4a5&to_app=hwbrowser&dy_scenario=topicinside&tn=9d41d93453a34376091127222f917bf55a81b0d5f5f78d6ddbafb471087d5ebf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "客户排队求签长约！三星、SK海力士锁死60-70%产能",
+    "summary": "三星电子和SK海力士因AI需求爆发转向长期供应协议（LTA），客户排队签约。三星已与五大数据中心客户签约，计划60%-70%产能以LTA形式运营，合同期5年；SK海力士与10家客户达成协议，预付款提至合同总价10%-30%。内存价格高位运行或成长期常态。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/4f2f1545676245c49713f02ab053dbf3_1_0/hd.webp",
+    "realDate": "2026-08-01 21:32:13"
+  },
+  {
+    "id": "2951a7915572afa0db67860ecd7e4c79",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473350257144479607510&to_app=hwbrowser&dy_scenario=topicinside&tn=52c45d46f63dcfd78fd9716b4578ac6c33565d435fdd1751b2982b2236a65f04&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "太空种粮技术升级！首次在轨连续培养两代水稻实验进展顺利",
+    "summary": "神舟二十三号航天员近日完成首批空间站水稻实验样品采集，该实验首次尝试在轨连续培养两代水稻，探究微重力对遗传稳定性的影响。2022年空间站曾成功培育出第一代太空水稻种子，此次实验采用普通种子与“太空世家”后代对比种植。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/27/v3/Topic_d4bcb423bd084d2d86d423636a952a16/c4993d89c37b4f3e891c6cf94ba419c1_1_0/hd.webp",
+    "realDate": "2026-08-02 10:43:42"
   }
 ]
