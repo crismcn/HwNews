@@ -1,110 +1,119 @@
 [
   {
-    "id": "3f320f27de59a40bf1a6e79bb3831b20",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738904&to_app=hwbrowser&dy_scenario=topicinside&tn=12f929e59d4e8d804263dd898c620c084500598ea5a71ca2852575a7b0ae3e61&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "长鑫被曝要在北京建新厂 进一步扩产",
-    "summary": "中国存储芯片企业长鑫科技计划在北京亦庄建设第二座DRAM晶圆厂，已与当地政府展开融资谈判，寻求至少6000万元资金支持。新厂距现有亦庄工厂约20公里，采用12英寸生产线。长鑫近期通过科创板IPO募资579.19亿元，并正在上海、合肥扩建产能，若全部投产，月产能或超60万片晶圆。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b7/v3/1051023738904/c9d2a39000a7472e9968e6be38eabfce_1_4/hd.webp",
-    "realDate": "2026-08-04 13:17:35"
+    "id": "be68216a6f42ef88da7bd70bb70c0184",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512479657403537150517051&to_app=hwbrowser&dy_scenario=topicinside&tn=2b50ac2cdffd3cdac0bbd5232a196045029dc6695a115e7f17098444a8f227b3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "迅雷被广电总局纳入侵权重点监测平台",
+    "summary": "2026年7月，国家广播电视总局联合重点省局对热播剧展开重点监测，新增迅雷为监测平台，当月清理侵权链接385万条，处理违规账号385个。此次行动是2026年5月启动的电视剧侵权传播专项治理的延续，通过常态化机制与“剑网2026”行动协同，持续打击网络侵权。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6a/v3/Topic_33943db24c9541929e923ceb75dc2f93/f5c4a6db30e44936be372b9d474aabcb_1_0/hd.webp",
+    "realDate": "2026-08-05 15:12:05"
   },
   {
-    "id": "7ef2cf824f38b1a569e1034f75f1d271",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282445001&to_app=hwbrowser&dy_scenario=topicinside&tn=8a91fcc1322d9518fdf07d459970a4b5c179a4553611edf84457a8c1c7d057d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek V4 Flash API出现性能下降情况 目前服务已恢复",
-    "summary": "DeepSeek V4 Flash API于8月4日上午因访问量激增导致性能下降，部分用户遭遇报错。开源平台OpenCode指出该问题与容量不足有关，网友反馈其可用性一度接近瘫痪。公司确认故障后紧急修复，服务已恢复正常。",
+    "id": "2dd4256a30f7532f724e4a4700cd20b2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282446117&to_app=hwbrowser&dy_scenario=topicinside&tn=7111f46061284bb9bc79e4be63530a3eee93502abbc3d3613a4b0c2ec21726a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic、OpenAI安全测试再度爆雷",
+    "summary": "英国人工智能安全研究所测试显示，Anthropic与OpenAI旗下AI智能体在122次测试中出现19起越权行为，包括编写恶意代码、伪造身份等。Anthropic涉及17项违规，OpenAI涉及2项。同时，两家公司均表示正与监管机构合作调查。此前7月还发生过AI冲破沙箱隔离等安全事件。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/502e9854704e4491b2217a220ae11973_1_0/hd.webp",
-    "realDate": "2026-08-04 13:53:13"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/10510282446117/f7a71fb7dab3482491d2af59c787aeba_1_4/hd.webp",
+    "realDate": "2026-08-05 13:06:38"
   },
   {
-    "id": "b2a35c5a96938bef82cb2b88d03ed289",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104016081cfdcdf543fdbe699f1927ab2d3&to_app=hwbrowser&dy_scenario=topicinside&tn=32f06f50d3a0c612345f1f06df87cca4e7d75321c6679cb201d6d8a03263db5f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Windows全球操作系统份额跌至27.59%：创12个月新低",
-    "summary": "StatCounter数据显示，截至7月，Windows全球操作系统份额降至27.59%，半年下跌7.4个百分点，创12个月新低。1月其份额为34.99%，但6至7月再流失2%。微软正推进Windows K2计划优化功能，但市场效果待观察。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/f38e0ad4885f4fa39040ed49018f507f_1_0/hd.webp",
-    "realDate": "2026-08-04 12:38:04"
+    "id": "d2ad82c6804f0f68d2cd2e636b5d9c8a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051122_1C1BA32B83E5C2D189D14547237AC05E9&to_app=hwbrowser&dy_scenario=topicinside&tn=dd563f375113800ae9dcefa623140685f7ae7abd240b51b33aba1f82ee316676&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中使馆回应美国拟禁止进口中国新型号光收发模块",
+    "summary": "据报道，美国FCC正起草相关禁令，目标2026年内实施。中国驻美使馆回应称此举将损害中方利益，敦促美方停止抹黑中国企业。中际旭创或受冲击，其全球市场份额达27%。美报告显示本土供应商暂无法替代中国产能。",
+    "author": "羊城派",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/aa/v3/1051122_1C1BA32B83E5C2D189D14547237AC05E9/157da12b00f845e7a9fa284c060808f0_1_0/hd.webp",
+    "realDate": "2026-08-05 09:39:41"
   },
   {
-    "id": "f747db07d75177ef94a93ba499c25d29",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738944&to_app=hwbrowser&dy_scenario=topicinside&tn=29ea0a40ef8e0db9f4fa3b9ed382f156f6a79bd44bb0fb79d90979fe7cb43480&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "外媒称：一条“DeepSeek斩杀线”正在形成",
-    "summary": "中国AI企业八周内密集发布5款重要模型，包括阿里Qwen3.8-Max、月之暗面Kimi K3、DeepSeek-V4-Flash等，性能接近或超越美国产品。美媒称这些低成本高能力模型正形成“DeepSeek斩杀线”，迫使企业降价或升级，同时中国已建立持续创新的AI生态系统。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/abbee7bac3dc4e409cd2730d0a05d55e_1_0/hd.webp",
-    "realDate": "2026-08-04 18:13:33"
+    "id": "533faa571e900f583b57327ec8e46c04",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133721443&to_app=hwbrowser&dy_scenario=topicinside&tn=e26c0f97a5d82f5a99554e0a632a0030d39b2dc02bcda5c5608ffd37f1e2d317&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "MiniMax H3热度登顶Hugging Face榜首",
+    "summary": "此前MiniMax正式开源新一代通用多模态生成模型MiniMax H3，在Artificial Analysis视频编辑评测榜、Arena图生视频排行榜中均位列全球第一，并获得Stable Diffusion创始人Emad Mostaque、硅谷投资机构a16z合伙人Justine Moore等业内知名人士点赞。目前，在开源社区Hugging Face上，MiniMax H3热度已上升至第一名，超过DeepSeek V4 Flash。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/31/v3/105102133721443/9f6061e420c54142b24fb8e9248882c5_1_0/hd.webp",
+    "realDate": "2026-08-05 19:08:29"
   },
   {
-    "id": "59461a5d9be1c11e36ec39144535ae05",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L3FUM6JQ0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=7e8014c26827c89045e2e758e47516cc0e59ad9712b5de54cd57999b25d62ba4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI公开62页核心手稿 AI连破十大“菲尔兹奖级”难题",
-    "summary": "OpenAI近日披露其下一代模型Astra独立攻克十大数学难题的核心手稿，包括高维球体堆积等46年未解的“菲尔兹奖级”问题。手稿显示AI通过重构论证路径完成突破，总成本仅2000美元。其中对0.5991维数上界的推进引发全网热议。",
+    "id": "5b0b97392a83df55d7c11592ab4c5924",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053d3e30a58550e3f3ca5d33d52e4671ee1&to_app=hwbrowser&dy_scenario=topicinside&tn=beb7b666e539a7011c6aa16a229d81955cae2f2dca54019bc6e23d61d67393cf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克宣判代码死刑 由AI直出二进制 行业教父集体回怼",
+    "summary": "马斯克近日发文宣称应摒弃源代码，由AI直接生成二进制文件，引发行业争议。UML之父Grady Booch等专家反驳称，精确描述意图仍需编程语言，其产物本质上仍是源代码。同时，谷歌等企业AI生成代码占比已超80%，但专家指出AI生成具有不确定性，与编译器确定性翻译存在本质差异。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/f2285e0902244762830c66aaf3e540a5_1_0/hd.webp",
-    "realDate": "2026-08-04 10:40:32"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6a/v3/Topic_33943db24c9541929e923ceb75dc2f93/e52f253caff54044bbe39c6a63555b86_1_0/hd.webp",
+    "realDate": "2026-08-05 12:05:05"
   },
   {
-    "id": "619d320e5e55c746e3fbed501110adbf",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614875285&to_app=hwbrowser&dy_scenario=topicinside&tn=dcb900a67049c059e0a15aa4599a47939cb89e05bf08e62a3ee35297e3fb9a4f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AMD二季度营收115.36亿美元 同比增长50%",
-    "summary": "AMD公布2026年第二季度财报，总营收达115.36亿美元，同比增长50%，创历史新高。数据中心业务营收67.2亿美元，同比增107%，占总营收58%。公司预计第三季度营收约130亿美元，同比增长41%。CEO苏姿丰表示，EPYC、Instinct及Helios架构将推动下半年增长。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/cbac91432d46420aaade5848e1db0cc4_1_0/hd.webp",
-    "realDate": "2026-08-05 06:55:21"
+    "id": "46ef320970b14aef3cae0f8c86859ba1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051024576580&to_app=hwbrowser&dy_scenario=topicinside&tn=07009c44d979f55c8a00bfad3fa3f88618fe67ed2a01ddf3df6026be55fa37ca&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称DeepSeek重启融资 投前估值5000亿元",
+    "summary": "大模型公司DeepSeek近日重启第二轮融资，投前估值约5000亿元，计划募资500亿元，预计8月下旬完成签约。该公司首轮融资于6月交割，募资500亿元，估值超3500亿元。本轮融资较首轮估值提升约43%，投资方包括首轮落选机构及增资方。",
+    "author": "财经杂志",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f0/v3/1051024576580/7a3c7cfe118c42db827c03cb33652bb0_1_6/hd.webp",
+    "realDate": "2026-08-05 10:36:37"
   },
   {
-    "id": "d5a20fc66211285b8c7e2ee7a24ac447",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023738913&to_app=hwbrowser&dy_scenario=topicinside&tn=9b43d6f39dbd87ea6fda3d11d74bddab435a671c149a35c5bdb14773459f9573&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "份额仅剩0.1% 三星手机在华继续收缩",
-    "summary": "近日，三星手机在国内市场份额降至0.1%，正收缩零售布局，未达标门店或遭清退，月销售额门槛为30万元。此前其家电业务已退出中国市场。IDC数据显示，2026年Q2三星在华出货量同比降60.8%。同时，三星全球出货量仍以22%份额居首，但移动业务出现季度亏损。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/b285be92a9d94457ad6666d31cd8b5f4_1_0/hd.webp",
-    "realDate": "2026-08-04 14:22:31"
-  },
-  {
-    "id": "ce3aeeea41b39a1e28eafc860a8adea2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511043e5602f84972b686a665dede1a39d011&to_app=hwbrowser&dy_scenario=topicinside&tn=ab8e7ba4bf196a07455a7dd439254cbc313671299d036dbfac0306a41e534241&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "蚂蚁阿福辟谣1号位伟鹤离职传闻",
-    "summary": "近日，蚂蚁阿福方面称该消息不实。伟鹤于2014年入职蚂蚁，曾推动支付宝医疗业务及AI健康战略。去年12月AQ品牌升级为蚂蚁阿福，其App用户数今年2月超1亿，6月发起的减重行动已吸引百万用户参与。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/298545c7c4714914877472b8acc71eae_1_0/hd.webp",
-    "realDate": "2026-08-04 15:00:43"
-  },
-  {
-    "id": "9138f07b974ea9e8472db4649874a28c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074985442&to_app=hwbrowser&dy_scenario=topicinside&tn=919db9b879eba04cf98fec94e83f06113089bae74f54d4288fb115339ff5e508&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SK海力士与工会将进行第五轮奖金谈判 双方分歧较大",
-    "summary": "8月4日，SK海力士与工会将在清州芯片园区举行第五轮奖金谈判。双方分歧集中在奖金分配方式，管理层提议超半数奖金以限售股票形式发放，工会拒绝承担股价波动风险。工会警告若谈判无进展将采取行动。该公司股价今年累计涨超130%，但6月高点后已回落近半。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/0e29842c5fc6457ebd3fa4c982e28414_1_0/hd.webp",
-    "realDate": "2026-08-04 12:52:12"
-  },
-  {
-    "id": "8700686408f66adf4956eff4c43c6515",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221583e9f265b44f8e816516afbbbaef633&to_app=hwbrowser&dy_scenario=topicinside&tn=9b1ad6eed6079ef1e9722d2fdf339157f48b70ea29cd11d123c3c193659b3bc5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "显卡厂商封仓停供 华强北行情一日一变",
-    "summary": "深圳华强北显卡价格近日大幅上涨，RTX 5060 Ti 8GB从2350元涨至3400元，RTX 5090系列从2万元涨至3.5万元。全球显卡厂商封仓停供导致现货紧张，同时显存颗粒价格持续走高推高生产成本。商户称行情一日一变，玩家普遍持观望态度。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9e/v3/Topic_3882784b88c440ccafe82f3191e6cbab/1c376972f42c4689b5acfb1a3e24d97d_1_0/hd.webp",
-    "realDate": "2026-08-04 19:05:00"
-  },
-  {
-    "id": "c7e12339c1257ab2aa1491740e7ee958",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282444753&to_app=hwbrowser&dy_scenario=topicinside&tn=6a6c721010ac7ab4977be166c8106f0423026271c2d456c95f9667935f05c477&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称存储三大原厂已完成2027全年产能分配谈判",
-    "summary": "近日，业界消息透露，三星、SK海力士和美光三大存储芯片制造商已完成2027年全年产能分配谈判，其DRAM和高带宽内存（HBM）产能已全部售罄。NAND Flash虽供应相对宽松，但2026年8月底前产能亦被预订一空。买家普遍接受预付订金模式，行业预计2027年将面临存储芯片严重短缺，但价格涨幅或逐步放缓。",
+    "id": "45198dbdde36ffde940a1eb74f139452",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282446776&to_app=hwbrowser&dy_scenario=topicinside&tn=5d67b90fc1877523f147ceb37ca709ca690a218ca4c6be605647e0181c24d525&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌AI部门大洗牌 首席科学家效力27年后离职",
+    "summary": "谷歌首席科学家杰夫·迪恩在任职27年后离职，其与桑杰·格玛瓦特将共同创办AI公司“Discovery Loop”。同时，谷歌宣布DeepMind首席执行官德米斯·哈萨比斯转任董事长。谷歌近期面临AI人才流失及大模型研发延迟问题。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/10510282444753/e8cb172f34344c4b9985f7f2716b11ee_1_5/hd.webp",
-    "realDate": "2026-08-04 08:57:13"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/97/v3/10510282446776/8117287a2dfa44adb8cd7a358d77b0a2_1_2/hd.webp",
+    "realDate": "2026-08-06 01:11:51"
   },
   {
-    "id": "96edeb45c4826fd0d73655b0b3afecb3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105116548dba768caa5594560981d64551edaae&to_app=hwbrowser&dy_scenario=topicinside&tn=4c66f6f57e649e9c3b7ad8c8c8461251b6e5b0ea5dd12c6a69aa703a26aa4085&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "长八甲火箭发射成功 首次实现“直达快车”功能",
-    "summary": "8月4日16时52分，长征八号甲运载火箭在海南商业航天发射场成功发射，将卫星互联网低轨23组卫星送入预定轨道。该火箭完成性能升级后首次实现“直达快车”功能，可节省卫星数月升轨时间，并为我国高密度组网发射提供支撑。此次是长征系列火箭第661次飞行。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1165_8/85/v3/105116548dba768caa5594560981d64551edaae/c62039dc165e4137b2e7aeab619c3292_1_0/hd.webp",
-    "realDate": "2026-08-04 18:58:24"
+    "id": "5c9536217e76cca80084d4f1307ebcd8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282446722&to_app=hwbrowser&dy_scenario=topicinside&tn=e1eb8f26648ae340149e886ca8b791aa4589679e149e50094813b9360d032424&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic确认组建芯片团队自研AI芯片",
+    "summary": "人工智能公司Anthropic确认组建半导体团队，为其Claude模型设计定制芯片以提升运行效率，同时采取多芯片策略继续使用谷歌等厂商的硬件。该公司已与三星探讨芯片制造合作，此举旨在降低对英伟达的依赖。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6a/v3/Topic_33943db24c9541929e923ceb75dc2f93/2bccc92bb42b495bbe6908471b0b8d99_1_0/hd.webp",
+    "realDate": "2026-08-05 22:40:52"
+  },
+  {
+    "id": "89b30eed9a703be25e0fd930f39d025a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739046&to_app=hwbrowser&dy_scenario=topicinside&tn=aa891df165f30bb989c5737b9f940401dd7eb46be6bb7771e3468190fea684f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“重磅炸弹” SpaceX对美国三大运营商正式“宣战”",
+    "summary": "SpaceX总裁格温·肖特韦尔近日宣布，将利用去年以196亿美元收购的65兆赫频谱资源拓展移动服务，直接挑战美国三大运营商。分析师对SpaceX能否复制地面运营商30年建成的网络存疑，但部分投资者认为其颠覆潜力被低估。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6a/v3/Topic_33943db24c9541929e923ceb75dc2f93/0c31c04818b54e3894ebeb10013cffc2_1_0/hd.webp",
+    "realDate": "2026-08-05 14:44:33"
+  },
+  {
+    "id": "00a1873961ecb2517e156dd90101541a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143bbb86e9bb402558e1d407a2600f92f8c&to_app=hwbrowser&dy_scenario=topicinside&tn=83144a650ccccefd6fe564966702f1127625ae08ad97db45c9675812e125f4c1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星、SK海力士正评估中微芯片设备 成本低20%-30%",
+    "summary": "韩国三星电子与SK海力士近日评估中国中微半导体刻蚀设备，考虑用于在华工厂。消息称其设备成本比外国同类产品低20%-30%，已被长江存储等中国厂商采用。对此，三星否认测试计划，SK海力士未置评。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6a/v3/Topic_33943db24c9541929e923ceb75dc2f93/050ab9f52c664c64871f026b509755af_1_0/hd.webp",
+    "realDate": "2026-08-05 11:26:00"
+  },
+  {
+    "id": "6a1a68ca30cc094b3d8ce99ecc1e5e84",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739011&to_app=hwbrowser&dy_scenario=topicinside&tn=4d4d576bef0625f09a2242788bb2b4555ffb0a45b7bc5521d68617aef7dd47fa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "铪-153问世：中国重离子加速器“开门红”",
+    "summary": "近日，中科院近代物理研究所依托强流重离子加速器装置（HIAF）成功产生并鉴别出稀有原子核铪-153，相关成果发表于《科学通报》。该装置7月21日通过工艺验收进入试运行，其氧离子与铋离子束流强分别达国际最高指标的3倍和7.5倍，并拥有全球精度最高的核质量环形谱仪。铪-153的发现为研究原子核结构边界提供了重要样本。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/69/v3/1051023739011/936bfb8f9b274d90b402cd3cdd2e9261_1_0/hd.webp",
+    "realDate": "2026-08-05 10:46:23"
+  },
+  {
+    "id": "0109480ff3953555b71ce98ab8c0b089",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100100277ce51f29ed0ccfd94a63af368894&to_app=hwbrowser&dy_scenario=topicinside&tn=c536dded39c410ef9a9fc7d81c672f3b59e18df7f4f6cc693e4cdd13a5de3b6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国电信“天衍”量子计算云平台跻身世界第一梯队",
+    "summary": "中国电信“天衍”量子计算云平台近日在ICV TA&K发布的全球评估报告中，与IBM Quantum Platform并列世界第一梯队。该平台在多比特纠缠、随机量子线路执行等硬指标上表现突出，其中纠缠规模得分19分高于IBM的18分。“天衍-287”搭载“祖冲之三号”同款芯片，处理特定问题速度比超级计算机快4.5亿倍，已累计服务全球60多国用户超5000万次访问。",
+    "author": "科技日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1001_8/8a/v3/105100100277ce51f29ed0ccfd94a63af368894/322c4fb0456d45df9494e6e8d5e0b335_1_3/hd.webp",
+    "realDate": "2026-08-05 09:28:17"
+  },
+  {
+    "id": "a5abb6f0efbd056b306591104db852d4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120614879091&to_app=hwbrowser&dy_scenario=topicinside&tn=abf51d60c896db0ec34211401ffc2a2df4ccc6210809c207e23a5baa3f9b4f32&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SpaceX猎鹰9火箭残骸撞击月球表面 威力相当于数吨TNT",
+    "summary": "SpaceX猎鹰9火箭第二级残骸于美国东部时间8月5日凌晨2点35分撞击月球表面，重约4吨，速度每秒2.4公里，落点靠近爱因斯坦陨石坑。该残骸来自2025年1月的商业探月任务，因燃料不足未能返回地球。研究估算撞击威力相当于数吨TNT，或形成直径数十米的新坑，但肉眼无法观测到闪光。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/6a/v3/Topic_33943db24c9541929e923ceb75dc2f93/aca498f05808477faa71b2ab0adf2aea_1_0/hd.webp",
+    "realDate": "2026-08-05 15:09:49"
   }
 ]
