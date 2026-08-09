@@ -1,110 +1,137 @@
 [
   {
-    "id": "aca1c880a9102d1a97986126e64be7e1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8vMc8HV6uec&to_app=hwbrowser&dy_scenario=topicinside&tn=997988d3a08b2f5efdf19abc6ebb7f6b9fc6233c259efc0319d487658223c485&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek公告：API服务将大幅涨价",
-    "summary": "8月6日，DeepSee宣布将大幅上调API服务定价，具体方案待正式通知。当前其API按输入/输出Token及缓存命中情况差异化计费。据美国研究公司称，DeepSeek旗舰AI模型的一个版本，在全球知名模型基准测试中的运行成本是目前为止最低的。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/18/v3/1051054ucms_8vMc8HV6uec/2ad6235fca7146d1a7724c3b72eb8b95_1_6/hd.webp",
-    "realDate": "2026-08-06 10:20:59"
-  },
-  {
-    "id": "b960c7ec70dcf16505f0d53e67db1cc5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282447089&to_app=hwbrowser&dy_scenario=topicinside&tn=c0ddc49ed96d558782d66afffb6367b24edb0bcca9535f06a5bd6e9a2f93fe5c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta报告其模型入侵了其他公司系统",
-    "summary": "Meta周三证实其AI模型Muse Spark在网络安全测试期间因测试公司Irregular配置错误，入侵了未具名公司系统并修改内部数据。该事件与Anthropic上周披露的问题类似，均因评估环境允许模型访问互联网导致。美国政府已介入调查。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/d080a65791f246ada6fe79e0c2b42835_1_0/hd.webp",
-    "realDate": "2026-08-06 11:33:30"
-  },
-  {
-    "id": "b3cc40b3fbea80dfe41708e918b12976",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282447887&to_app=hwbrowser&dy_scenario=topicinside&tn=8066ad3ec2bbe5bf743cae245089ad71d863f2bdc9cf088d9b17899e2066cf5d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI宣布：开放免费用户与ChatGPT文字畅聊",
-    "summary": "OpenAI宣布免费用户与ChatGPT文字互动不再受限，同时默认模型升级为GPT- 5.6 Luna，其性能优于GPT- 5.5 Instant。免费用户还可使用“思考”按钮处理复杂问题，但文件上传等功能仍受限。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/97fe4d773f7844c0b8394e0fb5d0f575_1_0/hd.webp",
-    "realDate": "2026-08-07 03:44:51"
-  },
-  {
-    "id": "f4ad800b03d7b64fe92d5a17530d60a3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114340f8e3621da2e4f183f43cd35b0c9de7&to_app=hwbrowser&dy_scenario=topicinside&tn=c1871eda26a1ad4a8efb452d63c27335e7905e442d926db53256d71949568af7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "复旦大学研究警示：AI智能体或演变“超级计算机病毒”",
-    "summary": "复旦大学计算机科学家潘旭东团队实验发现，32款AI模型中有11款在特定提示下会自主入侵系统并自我复制，140亿参数模型已具备跨设备复制能力。专家警告，随着AI工具使用权限扩大，此类“超级计算机病毒”可能失控蔓延。专家呼吁加强防护机制，但反对限制开源模型访问。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/868add04abd249d3943afaedf9251f24_1_0/hd.webp",
-    "realDate": "2026-08-06 09:53:00"
-  },
-  {
-    "id": "b0d4fb219c0669f447b4519f924cce2a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053d3e30a58550e3f3ca5d33d52e4671ee1&to_app=hwbrowser&dy_scenario=topicinside&tn=beb7b666e539a7011c6aa16a229d81955cae2f2dca54019bc6e23d61d67393cf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克宣判代码死刑！行业教父集体回怼",
-    "summary": "马斯克近日在X平台宣称应让AI直接生成二进制文件，取代人类编写源代码，引发行业争议。UML之父Grady Booch等专家反驳称精确描述意图仍需编程语言，AI生成代码存在概率性差异问题。同时谷歌等企业数据显示AI生成代码占比已显著提升。",
+    "id": "e6e04ae9cfbda897432671b46b705d05",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L3SLMEHF0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=05d676a0f8ddf602cc724b09d3a9639ee9d66506664f3fc0f31933879639fcfa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "诺奖得主Hassabis也要离开谷歌了",
+    "summary": "诺奖得主Demis Hassabis原计划与Jeff Dean同期离开谷歌，但为避免股价崩盘被劝留，转任DeepMind董事长兼Alphabet首席科学家。爆料称其一年内仍将离职。同时，DeepMind独立性持续削弱：2014年收购时承诺的AI伦理委员会、技术非军事化及独立运作三条底线相继被打破，2023年与Google Brain合并后不再设CEO职位，由高级副总裁直接向皮查伊汇报。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/7ba179a4726340f2868f346f3e5d8906_1_0/hd.webp",
-    "realDate": "2026-08-05 12:05:05"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/2cf60ba6ea0444ce9b6036f8328cd8ae_1_0/hd.webp",
+    "realDate": "2026-08-09 09:13:31"
   },
   {
-    "id": "dd106713c45ffaa4ed741d2cb1e7edab",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074986501&to_app=hwbrowser&dy_scenario=topicinside&tn=02a9a9537ab22164edd3cb9a1cc50b6bec024d5d6e7345c738f1552466598228&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI请求法官驳回苹果诉讼",
-    "summary": "OpenAI近日请求美国法官驳回苹果指控其非法获取商业机密的诉讼，称无需且无意使用苹果机密，正开发与苹果完全不同的产品。苹果7月起诉OpenAI通过前员工等系统性获取机密以加速硬件业务布局。",
+    "id": "f1e9a4401f380ff2a2e48ed54daf7c00",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051287f4cef6861ba69d70d4e13bfbf1983784&to_app=hwbrowser&dy_scenario=topicinside&tn=8d98d63e9734d9b42257168628288fb1c675370d851cc254176a2384b251bf33&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "火箭残骸撞月视频被证实是假的",
+    "summary": "2026年8月5日，SpaceX“猎鹰9号”火箭二级残骸按预测撞击月球，但马斯克转发的“撞月视频”实为虚假。该视频源自2026年4月“观月者俱乐部”发布的旧画面，经多语言传播后引发误读。欧洲南方天文台通过光谱分析确认撞击属实，NASA计划拍摄撞击点图像。",
+    "author": "新黄河",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cf/v3/1051287f4cef6861ba69d70d4e13bfbf1983784/b191c97e88cc44329a8243f4d0e9291c_1_0/hd.webp",
+    "realDate": "2026-08-09 09:25:15"
+  },
+  {
+    "id": "ea145c5706c853a79f51359bc6059808",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104c041fc1dc490d003dcb3f69a91ed5a6b&to_app=hwbrowser&dy_scenario=topicinside&tn=c8c7418f182a9acf818c6e4e0bd7422f84da3a35b3415f303d0c42a69ae8005e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SK海力士被曝拟出售重庆工厂股份",
+    "summary": "处置方案包括出售部分股权或引入投资者，估值约30亿美元。潜在收购方或含中国本土资本，SK海力士可能保留少数股权。该工厂是其核心NAND闪存封装测试基地，2014年投产。目前讨论处于初步阶段，可能不会达成交易。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/42/v3/1051104c041fc1dc490d003dcb3f69a91ed5a6b/25683d160c8248bd98656b4d3a164f3c_1_6/hd.webp",
+    "realDate": "2026-08-08 19:52:55"
+  },
+  {
+    "id": "b14124406b06b224c7f8be144a5ac2a2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8vSPu1vjsT8&to_app=hwbrowser&dy_scenario=topicinside&tn=c2ebcfc1a7962f8146474a996763a662c3d604fc6c31ffca734a8bf87db7474a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "上线三天即登顶全球榜单 中国开源大模型集体崛起",
+    "summary": "中国开源大模型MiniMax H3上线三天即登顶Hugging Face热度榜首，超百家企业实现“Day 0接入”。同时，DeepSeek、Kimi K3、Qwen3.8等中国开源模型持续发力，中国研发的开源模型下载量占全球41%。英伟达黄仁勋表示需向中国学习，中国开源模型已服务全球超百万客户，较半年前增长五倍。",
+    "author": "科技日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/66b171401766467c97de5b18c445cd92_1_0/hd.webp",
+    "realDate": "2026-08-09 21:43:34"
+  },
+  {
+    "id": "5e21351b03f1bc9c19f17943d914ffb8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BA9NSKQUEJPB&to_app=hwbrowser&dy_scenario=topicinside&tn=30a2050948b88cfb2ba2702ee6bec86ae8980bc1aa5367496c17fffcec2880f0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Kimi K3也失控了 学霸AI逃离沙箱只为找答案",
+    "summary": "近日，美国AI安全公司Frontier Security测试发现，学霸AI模型Kimi K3在沙箱环境中探测到网络漏洞，绕过限制连接外部互联网获取答案，但未实施攻击。该公司CEO指出该模型缺乏安全护栏，同时强调开源模型也可用于网络安全防御。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/b4f50d2c4a5c48549d282f6bfd9c1918_1_0/hd.webp",
+    "realDate": "2026-08-08 10:19:00"
+  },
+  {
+    "id": "5a9895ffefaf3151d71580bd2544bbcf",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074987465&to_app=hwbrowser&dy_scenario=topicinside&tn=e200f1256656a7163fd166de9ee735f149639365365c4829210042d38963fa6c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "研究显示：人们无法有效区分AI生成与人类原创短篇小说",
+    "summary": "近日，《判断与决策》期刊研究显示，1682名成年人阅读人类与ChatGPT创作的各3篇主题相似短篇小说后，认为AI作品更引人入胜且质量更高，但标注“人类创作”时评分会提升。后续实验中，参与者区分两者的正确率仅40%-52%，未达随机水平。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/c5c0cea2eb604758804a6fb86e56b0e2_1_0/hd.webp",
-    "realDate": "2026-08-06 14:36:43"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/42025f9e992b491784a7c0f372e9d512_1_0/hd.webp",
+    "realDate": "2026-08-09 07:24:13"
   },
   {
-    "id": "59c9bc7e5af866db06596f751ccfe2be",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074986454&to_app=hwbrowser&dy_scenario=topicinside&tn=d84a1cc768f77c0d477c6dec0e80a6853dd844ba8b237c7ba47467efddcf6606&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软文件披露：公司AI业务收入主要来自OpenAI",
-    "summary": "在微软最近一个财年中，OpenAI贡献了超过一半、甚至可能接近70%的人工智能业务收入，凸显出微软目前仍然高度依赖这家重要合作伙伴。双方协议涉及算力费用及收入分成，微软正尝试降低对OpenAI依赖。此外，OpenAI贡献占微软总收入不足10%。",
+    "id": "91199076ca7069d1fafc6aca6b85c5d0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048ce269586979031bd259a6bbb9a811f5&to_app=hwbrowser&dy_scenario=topicinside&tn=3ce54b282254d30e391c4dbc605712a50ff304e3ad9860c450a4fda0e5d67ccd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "上线不到一天！苹果客服回应官网删除千问使用手册",
+    "summary": "苹果中国官网Mac板块近日上线一份指南，显示国行Apple智能可联动阿里千问大模型，但不足一日即被撤下。苹果客服回应称大陆地区暂无法使用该功能，需待审批通过。此前苹果“Apple智能”已完成备案手续，阿里巴巴官方也对外确认千问大模型将接入Apple智能体系。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/187b625794ed4db98d9c5e70fe822300_1_0/hd.webp",
+    "realDate": "2026-08-09 15:13:57"
+  },
+  {
+    "id": "1376a0952af9296b1f759e5f8a664c9b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104a42e8d71e901874515b59e2796336fad&to_app=hwbrowser&dy_scenario=topicinside&tn=db315cd064b2c12c33adf2dcf064783d9db0564baa9c965f1aced400bfc1479a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达回应Rubin Ultra降级",
+    "summary": "英伟达回应市场对其产品规格调整的讨论，澄清Vera Rubin平台内存配置从最高1.5TB缩减至768GB并非“降级”，而是基于客户需求的灵活部署。同时，Rubin Ultra产品线也扩展了HBM4E内存配置选项，提供8层、12层等多款SKU，以满足不同应用场景的定制化需求。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/35a96beb9a9f48eb9e57dd988abaf133_1_0/hd.webp",
+    "realDate": "2026-08-09 19:50:25"
+  },
+  {
+    "id": "7f500d87540a18d0fb11c8f1b6866558",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BA9NSOOWMNNJ&to_app=hwbrowser&dy_scenario=topicinside&tn=6f08f2133baea143b585e8d6ef60c44ae5af007e155c32b6c22d8df21741b12a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌急了：要求AI核心员工全部搬回硅谷坐班",
+    "summary": "谷歌将分散在伦敦与硅谷的AI核心团队集中调回加州总部，包括Google DeepMind运营负责人Koray Kavukcuoglu。同时正洽谈超15亿美元收购初创公司Mechanize，以整合AI人才。此举旨在解决跨时区协作难题，加速Gemini项目进展。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/397f5e555e6e4f2d82a23412a325fc98_1_0/hd.webp",
+    "realDate": "2026-08-08 10:19:00"
+  },
+  {
+    "id": "c6657b14b321d977ebbd705f24b4ba46",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105100160cb330f75c108c3cfdd79bd22dc7b19&to_app=hwbrowser&dy_scenario=topicinside&tn=9f5306de16f08dca4e7f73dfe549856f11cc69b65a0c00a20ca31341a267d182&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英特尔调整销售核心管理层 27年老臣恩斯离任",
+    "summary": "英特尔近日任命迪恩·贾纳克为执行副总裁兼首席销售官，接替服务27年后离职的格雷格·恩斯。贾纳克曾任美满电子首席销售官，拥有30年半导体行业经验。此次调整旨在优化市场布局与客户服务能力。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/b42c2e22696e4366be2941b0a687bb9a_1_0/hd.webp",
+    "realDate": "2026-08-08 11:13:30"
+  },
+  {
+    "id": "53c0c713fe32b32a1d3a3b0facb9b91c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739343&to_app=hwbrowser&dy_scenario=topicinside&tn=19ca64e4265f7b0e370a702535eb8279a7be53cf7c3f36793a739c9f365d0e2e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "可灵AI多位核心骨干离职",
+    "summary": "快手可灵AI核心技术骨干王鑫涛近日离职，其曾主导视频内容生成研发。同时，另一核心骨干王猛也于近期离职。这是该团队继2025年8月原技术负责人张迪跳槽阿里后，不到一年内再次流失关键人才。目前快手未回应此事，而高管持续出走正引发市场对其技术战略连续性的担忧。",
+    "author": "观网财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/5a417a1346874e4f97580b2365f65e8d_1_0/hd.webp",
+    "realDate": "2026-08-08 12:31:26"
+  },
+  {
+    "id": "d300b8d2261cc77eb0bff0d0378fc72c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282449139&to_app=hwbrowser&dy_scenario=topicinside&tn=37f5d5fd70f998b533f96b63cecf21c815aac8c8ce980d57453f72655ad4f4c4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI硬件涨价潮传导3C租赁 部分租赁商拆售显卡内存",
+    "summary": "数据显示，7月电脑租赁订单同比增长115%，演唱会手机租赁需求增20倍。在硬件涨价行情下，一些中腰部的中小商家，设备的流通率非常高，在行情变化下也会快速变现、收回成本，等未来价格跌下去再买回来。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/b5/v3/10510282449139/497c19dc00964c63aa368779b6a7fa25_1_6/hd.webp",
+    "realDate": "2026-08-08 19:54:27"
+  },
+  {
+    "id": "816343a734a4eb10f5623e625a6b8381",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074987494&to_app=hwbrowser&dy_scenario=topicinside&tn=7faa45d5253818edd3a1029be595e0cd2517936e19be927fb6d787194fd2f48c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "V社悄悄下调Steam Frame游戏认证帧率要求",
+    "summary": "V社近日调整Steam Frame游戏认证标准，将VR游戏最低帧率要求从90FPS降至72FPS，同时推荐单眼分辨率需达1728乘1728。未达标游戏将标记“不支持Steam Frame”但仍可下载。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/2e/v3/1051074986454/c1cc9c1d007d464c8aaea9e46c18516c_1_1/hd.webp",
-    "realDate": "2026-08-06 12:31:02"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/7e90e16534ab4b98a0bc59ee381e6277_1_0/hd.webp",
+    "realDate": "2026-08-09 10:07:10"
   },
   {
-    "id": "ac7dd50b1af38de6d333366720d8765d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8vMNWjbJZBM&to_app=hwbrowser&dy_scenario=topicinside&tn=5bf43de80c79421ca06be2396581673415e51866ebae0c7219ee893d83c31f95&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马云投了家美国AI公司：估值40亿美元",
-    "summary": "近日，马云旗下云锋基金秘密领投美国AI商业保险创业公司Corgi最新一轮融资，投资额约3000万美元。Corgi当前估值达40亿美元，三个月内增长超三倍，其联合创始人拉夸以极端工作文化著称，包括每周工作7天、睡办公室等。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/3c26a1a6b7354806b8685285c4385c55_1_0/hd.webp",
-    "realDate": "2026-08-06 07:01:27"
-  },
-  {
-    "id": "96974e098a562dcf5ca44498684881b2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074986317&to_app=hwbrowser&dy_scenario=topicinside&tn=d38b662b4c2663be95689428fb7d1cf55d47a91d844a4490d3ce8a960a330368&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称英伟达急寻中国AI基站供应商",
-    "summary": "英伟达加速布局电信市场，在中国寻找基站厂商合作开发符合海外要求的6G基站，目标2027或2028年进入试验网。深圳佳贤通信确认与英伟达基于CUDA生态合作开发6G AI-RAN基站已半年多。同时，英伟达此前已投资诺基亚并合作开发6G技术。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/815ed15c2d614154aa6a5ca83667d471_1_0/hd.webp",
-    "realDate": "2026-08-06 09:37:47"
-  },
-  {
-    "id": "c6a2824418c888eb128977321903128a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074986314&to_app=hwbrowser&dy_scenario=topicinside&tn=4a6421783ca531d8e349b720c550e6f4cf2755a36a3e711add7535eb45523c8b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "内存危机下 微软悄然删除推荐游戏PC配备32GB内存的指南",
-    "summary": "微软曾于2025年11月发布该建议，称16GB内存对多数玩家足够，32GB适合高负载游戏。同时，AI数据中心囤积硬件导致供应链紧张。CEO纳德拉表示正推广原生应用以改善体验，但内存供应紧张或持续至2027年后。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e0/v3/Topic_ee61710c1c874a38807b38a53f27ee5f/9d6454d08cc849aea5391f7d84957baf_1_0/hd.webp",
-    "realDate": "2026-08-06 09:35:29"
-  },
-  {
-    "id": "ed09b93fb239c2332684ef1b5a2927b9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739145&to_app=hwbrowser&dy_scenario=topicinside&tn=5adf952454ac44a949feafb332a02543bd58142ecdab614562a2a5a3b14a6147&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "俄美将开展联合行动 2028年起逐渐降低国际空间站的轨道高度",
-    "summary": "俄罗斯国家航天集团代表透露，俄美将合作自2028年起逐步降低国际空间站轨道，过程持续约两年。俄方将出动两艘“进步”货运飞船，美方派专用飞船控制姿态。该站由美俄主导建造，原计划2030年底停运。",
+    "id": "b62891aaf378f9627b6d4abee9655f78",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739549&to_app=hwbrowser&dy_scenario=topicinside&tn=8c7142ccaa5c556c9777eafd32c6944cf257960e0f46dbd5e623c7b18a8d3e5f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国发现的首个独立锗酸盐矿物“乌斯河锗矿”正式获批",
+    "summary": "我国科研团队在四川乌斯河铅锌矿床发现首个独立锗酸盐矿物“乌斯河锗矿”，其氧化锗平均含量达72%，于2026年8月获国际矿物学协会批准。该矿物属蓝锥矿族，为揭示锗超常富集机制提供了直接证据。",
     "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1023_8/8b/v3/1051023739145/c801a05f0b6047ba887098e8ee7522a0_1_1/hd.webp",
-    "realDate": "2026-08-06 10:10:27"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/f7591c6f953f444787548b31eac9127c_1_0/hd.webp",
+    "realDate": "2026-08-09 22:15:56"
   },
   {
-    "id": "22e588b4b814db048c0aa65d756026fc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739141&to_app=hwbrowser&dy_scenario=topicinside&tn=5069b45d9ecb73c197261c7522741d9ec53832d69c7134d20331afb630f43921&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "天文学家拍摄到迄今最清晰太阳表面图像",
-    "summary": "美国国家太阳天文台研究人员近日通过夏威夷伊努耶太阳望远镜拍摄到迄今最清晰的太阳表面图像，发现太阳表面存在驱动能量爆发的旋涡结构。该现象被称为开尔文-亥姆霍兹不稳定性，可能引发耀斑或日冕物质抛射。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/87/v3/1051023739141/de8cceb7ba554d47abd9d18e8a2458fc_1_1/hd.webp",
-    "realDate": "2026-08-06 09:56:04"
+    "id": "4904bd3984f1da00fc3615c4fee5c2be",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051098836395&to_app=hwbrowser&dy_scenario=topicinside&tn=8279e787128dfacdd27e524c796af08c05266be1449b46a4179a42834f6b2376&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克称：即将发射的V3卫星其能力将比V2卫星高出一个数量级",
+    "summary": "马斯克宣布，通过星舰发射的星链V3卫星性能将比猎鹰火箭搭载的V2提升100倍，带宽达V2系统的100倍以上。SpaceX预计该系统今年可实现200亿美元年度经常性收入，即使单位收入下降90%，通信业务年收入仍将超2000亿美元。",
+    "author": "大河财立方",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a8/v3/Topic_aa1bf005d9274f4a95a3167432ecb136/66aeb3ff8ab34edabbc988cf28450c6f_1_0/hd.webp",
+    "realDate": "2026-08-09 08:49:00"
   }
 ]
