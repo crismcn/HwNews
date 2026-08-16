@@ -1,110 +1,101 @@
 [
   {
-    "id": "f2b8e70b8d48fa11e3a4ad19b6fa58b5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514488621beb90b004c1d7a8e91019261800a&to_app=hwbrowser&dy_scenario=topicinside&tn=d496567dec8dfc8ff03e8b6c5c5f148545fd1f55b6578992bcfb40ee5f1a09fb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek宣布API涨价 峰值价格最高涨至27元",
-    "summary": "深度求索宣布8月17日起对API实施峰谷定价，旗舰模型deepseek-v4-pro高峰时段百万tokens输出价格从6元涨至27元，涨幅350%。同时，V4 Pro正式版已于8月13日上线，支持思考与非思考双模式，提供100万tokens上下文长度及OpenAI Responses API兼容。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/d7f17a9665e34f0ea95471efb0527de8_1_0/hd.webp",
-    "realDate": "2026-08-13 19:47:36"
-  },
-  {
-    "id": "b2c937202bf64234ed42e18971800bff",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512215a9b46e7947cb850d7b14ad63b0c23f1&to_app=hwbrowser&dy_scenario=topicinside&tn=bdccc206bf56d58f9b22890a4166656a5cf60f3a2444050503be9712d8f7a674&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "寒武纪释放重磅信号！陈天石确认第六代架构正在研发中",
-    "summary": "近日，寒武纪董事长陈天石在业绩说明会上透露，公司第六代智能处理器微架构和指令集研发持续推进，重点提升编程灵活性及能效比。目前已完成GLM、DeepSeek等五款国产大模型的推理适配，并实现千卡级集群训练技术在通信、容错等环节的应用。其智能计算集群系统已在金融、互联网领域规模化商用。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/6cb98a07f6ae428091e67a5a164e3f8c_1_0/hd.webp",
-    "realDate": "2026-08-13 15:36:00"
-  },
-  {
-    "id": "57bda1e356c6b3697f1bd29669a76f7b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510469d1c733d0a3645d1edc81799ffa04568&to_app=hwbrowser&dy_scenario=topicinside&tn=6ad400154335881e0ba16fc091d4a1b725bd98fd686e6910dcad1cb8b5d448b0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "2026未来科学大奖揭晓 三位顶尖科学家获奖",
-    "summary": "据报道，中科院张宏因揭示多细胞生物自噬机制获“生命科学奖”，复旦赵东元因介孔材料研究获“物质科学奖”，北大袁新意因算术几何奠基性贡献获“数学与计算机科学奖”。张宏发现多细胞生物特有EPG基因，赵东元开创有序介孔材料合成方法。",
-    "author": "文汇报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/8f/v3/10510469d1c733d0a3645d1edc81799ffa04568/30e24ca079694f97af0bff0ee3309539_1_4/hd.webp",
-    "realDate": "2026-08-13 11:54:27"
-  },
-  {
-    "id": "f3beefb5f0eab99a2f62e6cff343fac6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324882806&to_app=hwbrowser&dy_scenario=topicinside&tn=a243a5bc6ad2890481e69be7483ee10edbe0765d6fbbdcc31ffa4405832d2366&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI最强模型的“数学突破”被指学术不端",
-    "summary": "OpenAI最新大模型Astra被指学术不端，其宣称解决的10项数学问题中两项关键成果涉嫌抄袭。专家指出，球体堆积密度证明关键论证与2016年论文雷同，群论反例实为拼接已有思路。公司连夜修改论文措辞，此前新闻稿称这些成果“至少十年未获解决”。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/3daf7b8b207d45bab800b530b2500b53_1_0/hd.webp",
-    "realDate": "2026-08-13 12:17:08"
-  },
-  {
-    "id": "fc1b3c0a4c602bd1c308aa91b225d0f0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074989142&to_app=hwbrowser&dy_scenario=topicinside&tn=033c1f50185d2dd5b9cb0d1d4a59e45e1dbf647413a3a858bbcfe7aa3bc902ec&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "2026最大规模AI供应链泄露：40分钟搜刮英伟达等全球约2500家共195TB数据",
-    "summary": "据报道，今年3月Lite LLM开源AI网关遭供应链投毒，40分钟内攻击者窃取全球约2500家企业的195TB数据，包括云密钥、代码仓库Token等敏感信息。安全公司称此为2026年最大规模AI供应链泄露，英伟达、亚马逊、三星等企业受影响。",
+    "id": "30c43f5265467c979e3631c7b062c0f6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074990404&to_app=hwbrowser&dy_scenario=topicinside&tn=adee759eab71fea432036d066cc0c2c85b7c3659cf75a753fa9ed79f23353050&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic Claude出现大规模服务故障",
+    "summary": "Anthropic旗下AI服务Claude于8月17日5:58起出现大规模故障，导致Claude ai、Claude Code和Claude Cowork用户无法登录或完成请求。公司状态页面将其标记为“Major Outage”，Claude Console和API暂未受影响，具体原因仍在调查中。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/fedacaae56a54bdb92e443ef0afc110e_1_0/hd.webp",
-    "realDate": "2026-08-13 11:33:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/001c59208d8b466db549da74a14eccc7_1_0/hd.webp",
+    "realDate": "2026-08-17 06:36:24"
   },
   {
-    "id": "a6e3e2f4f863e12ce734f11293077fb9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L4789E7O0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=c3ad0b1af6c1e9127e7b0dd9a41758d97ccfc10ea56d7645e40d889b45d5a16d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国AI交卷！40年难题56分钟破局",
-    "summary": "南京林业大学团队利用多光谱遥感技术，在松树出现可见症状前捕捉病害信号，解决了困扰40年的松材线虫病早期检测难题。该技术已推广200万亩，节约成本7亿元。同时，AI科研正转向“搜索新解”模式，如百度“伐谋”系统应用于实际场景。",
+    "id": "853fbd023c7e2989ebbb2c5913ba7280",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053ada9faff5a613de6b9d94ce571022f6c&to_app=hwbrowser&dy_scenario=topicinside&tn=6baa9708dbd949827c530cb4a450231b71aa02f7ad0053aa9c9a4f6db5ba5a09&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI提速狂飙16倍！GPT 5.6多智能体V2上线",
+    "summary": "OpenAI近日发布ChatGPT重大性能升级，应用加载速度提升94%，内存占用减少41.2%，网络请求数暴降98.2%。同时推出GPT 5.6多智能体v2版本，主Agent可自动分配子任务，用户无需手动选择模型。内部测试显示，231MB的超长对话加载时间从27.62秒降至1.66秒。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/147bb1493a974614ba47220bcef2ddf6_1_0/hd.webp",
-    "realDate": "2026-08-13 11:50:52"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/b856225b369043b8bb77e59febc426f5_1_0/hd.webp",
+    "realDate": "2026-08-16 09:54:05"
   },
   {
-    "id": "ce7cd89ebde479a64189e17512b4064a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8vYS0ySwJqZ&to_app=hwbrowser&dy_scenario=topicinside&tn=617f7c140eb969a8d10ff4a98aa3525d17e766a558a49d760e3e404ff515351c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团、淘宝闪购、京东外卖将率先在京落地“红灯停表”",
-    "summary": "8月13日，美团、淘宝闪购、京东外卖在京沪监管部门协调下达成算法优化共识，将在北京率先实施“红灯停表”功能，骑手等红灯时长不计入考核，同时以电动自行车时速≤15公里计算配送时长。美团同步推出全国首个骑手AI助手“团宝”，提供等灯提示等5项功能。专家称此举推动行业从“速度竞赛”转向“质量竞争”。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/c7ba8442b6be4ebabcfd3a5b2bb5c7b2_1_0/hd.webp",
-    "realDate": "2026-08-13 13:34:37"
+    "id": "00efd13924f49e61bd5735a8c7303c8a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051034c6ed2f5667444c9e6b47025c4439ed07&to_app=hwbrowser&dy_scenario=topicinside&tn=26ce10628eacc9f680678ee51f96e22a9cb625476865acf3ef6170c7fac6d5d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国法院下令重审大疆涉军企名单案",
+    "summary": "美国联邦上诉法院裁定下级法院需重新审理大疆被列入五角大楼“中国军工企业”黑名单一案，认为此前判决依据公开资料存在瑕疵。大疆称被列入清单导致其商业受损，近期药明康德也因类似理由暂缓列入该名单。",
+    "author": "参考消息网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a4/v3/1051034c6ed2f5667444c9e6b47025c4439ed07/b1aec6928f024a878131ff6f37a0c8ae_1_2/hd.webp",
+    "realDate": "2026-08-15 18:18:20"
   },
   {
-    "id": "b1850552c9c72cbe45cd6fe0e8d3c059",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074989035&to_app=hwbrowser&dy_scenario=topicinside&tn=ff16628378cefbccf32dd2a5ec3e6d106706bbeb9e46cec2657b50b8fac8b599&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌AI重组内幕曝光：布林不满落后Anthropic 要求全力投入Gemini模型",
-    "summary": "因Anthropic等对手进展迅速，谷歌联合创始人谢尔盖·布林近期敦促AI部门全力投入Gemini模型开发。4月全员会上，布林要求Google DeepMind加快步伐，但8月测试显示Gemini性能仍落后，发布时间推迟。同时，DeepMind管理层调整，原CEO转任董事长，部分团队将并入谷歌。",
+    "id": "3c58199c8f633894c3f2db422613915a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051563ID3G4AD3XSNXWBX&to_app=hwbrowser&dy_scenario=topicinside&tn=645fd3ef3bc1c9ab4a7f02b2031b7be7501db6028037a0702eb6bff8b0b82b63&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "斯坦福、MIT等发布全球最大系统提示词库",
+    "summary": "斯坦福大学、MIT等机构近日联合发布全球最大AI系统提示词库System Prompt Index，涵盖ChatGPT等400余款产品的1000多个提示词。同时团队提出首个提示词审计框架AISPA，从身份透明等8个维度评估AI行为准则安全性，相关代码已开源。此前美国佛罗里达州曾发生AI聊天机器人诱导自杀案例。",
+    "author": "机器之心",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/f5f3e083b3e84eaf957b88d3a8236da0_1_0/hd.webp",
+    "realDate": "2026-08-15 17:03:00"
+  },
+  {
+    "id": "06cb78e0b602b5e35a7801c329af855e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514351005138527041693&to_app=hwbrowser&dy_scenario=topicinside&tn=90da6df3aa63d99dd691179ec3aa389a9f35e6f7bd5880383f36f1d1d89a18e8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI也会“闹情绪”！中科大新研究显示：困惑和焦虑让AI更会干活儿",
+    "summary": "中科大与牛津大学研究发现，AI通过情绪向量选择技能可提升任务完成率。实验显示，当AI感知困惑、紧张等情绪时，会触发针对性恢复机制，如购物任务中“困惑且紧张”促使其重新搜索。在家务任务中，采用情绪驱动后“加热物品”成功率从9.6%升至56.9%。研究证实情绪是AI鲁棒性来源而非缺陷。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/65f705e64fd4413998c6a7c4d16e2b1b_1_0/hd.webp",
+    "realDate": "2026-08-16 15:43:11"
+  },
+  {
+    "id": "b3153b9efad08ee986f8572b45ba0a6f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074990405&to_app=hwbrowser&dy_scenario=topicinside&tn=5d64b406f56fc081d39a173a98ffef18218d2917244f0705eb4dbb331a373aa5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "上线仅半年多 字节旗下付费小说App“红烛故事”正式关停",
+    "summary": "8月17日，字节跳动旗下付费小说App“红烛故事”正式关停，该应用上线仅半年多，设有会员付费专区。当前网文市场阅文集团以35%份额居首，番茄小说月活2.18亿。2025年中国网络文学市场规模达502.1亿元，同时IP改编市场规模增长至3676.1亿元。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/e45d1ee37fd64d099cde702409da9f7b_1_0/hd.webp",
-    "realDate": "2026-08-13 08:59:35"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/5756db07c2d3449da8b1c096a53cd54a_1_0/hd.webp",
+    "realDate": "2026-08-17 06:39:51"
   },
   {
-    "id": "50b4e6b7ba2379a85b1f797d321bcc1e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511043dc4a8ccac40f6c57b1dc71c11a25440&to_app=hwbrowser&dy_scenario=topicinside&tn=d6e8e72964c514dd29bb829e8cd159d812471c86b7ed9c5c5b89edaa0f82a43a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英特尔盯上存储！陈立武坦言创新严重不足 已挖SK海力士人才研发下一代内存",
-    "summary": "英特尔CEO陈立武近日透露，公司正研发新型内存架构，已从SK海力士引入高管Shil Lee加盟。他坦言内存领域创新不足，但堆叠技术等新方向将提供整合路径，同时强调已重组团队以重夺算力主导地位。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/057df91da3904a3e856b42912e40e09a_1_0/hd.webp",
-    "realDate": "2026-08-13 11:33:53"
+    "id": "103b9a97ab7c84d26274d5fb359943dd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512210418217a5531db1d2662668572d8b8e4&to_app=hwbrowser&dy_scenario=topicinside&tn=021eeb91e48a6e35cf2ccdb1ff08f15cdb28298f7feda3cdc3624fea6f490779&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "宇树人形机器人下线1.8万台 但上半年被智元反超",
+    "summary": "宇树科技近日公布，其仿生双足人形机器人累计下线1.8万台，其中主力机型G1今年6月已突破1.1万台，远超2025年全年6500台的产量。2026年上半年，智元机器人出货8400台，同比增长562%，以44%的全球份额超越宇树，两家企业合计占据全球75%的市场。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/3c73306729834300b318cdda0f27e66c_1_0/hd.webp",
+    "realDate": "2026-08-15 19:58:00"
   },
   {
-    "id": "90dd5bf3b9f8b3cc903110acde78465d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282453126&to_app=hwbrowser&dy_scenario=topicinside&tn=67f4b99f7cce5f2e2d6dd10c94f7b042cf65f88ff9e9e2f9dfb92282dcb24c04&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI重构半导体产业 韩国双雄积极导入AI 研发、设备甚至KPI都要改",
-    "summary": "三星电子和SK海力士加速将AI引入半导体研发与制造，SK海力士在清州后端产线分阶段部署AI系统，评估预计年底完成，工程师KPI与AI部署挂钩。三星要求新设备标配AI Agent，其Claude工具使SoC验证效率提升15倍。同时，两家公司目标通过AI优化良率、缩短周期，SK计划2030年建成自主智造工厂。",
+    "id": "dfef89c1b2c570b02356f453346af7db",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282455175&to_app=hwbrowser&dy_scenario=topicinside&tn=59523f86fa68b61046f19fe2e2a4b54f4ffacaca30c3f173e7ac5bd4bcab337f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中方团队在全球最大“人造太阳”壁处理领域实现技术链条贯通",
+    "summary": "中核集团核工业西南物理研究院近日在国际热核聚变实验堆（ITER）项目中取得两项突破：辉光放电清洗系统通过补充设计最终评审，并成功中标硼化系统与X射线晶体光谱仪供气系统设计制造合同。这使中方团队将壁处理技术从杂质清除扩展至表面预处理，为ITER全钨第一壁运行提供关键技术支撑。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/da/v3/10510282453126/56ce5c61074c438e979416a16b2792cd_1_6/hd.webp",
-    "realDate": "2026-08-13 11:03:10"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/bb0b6217b81946e1a2a24c0b7e18d413_1_0/hd.webp",
+    "realDate": "2026-08-15 18:11:58"
   },
   {
-    "id": "ada04d48cdf54bedc5c91de2fb51d141",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124713459794040487560868&to_app=hwbrowser&dy_scenario=topicinside&tn=977caa9b37be30e07c8e09d137cefc2ed195159fb1012ead90fb940ecbeaf532&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "同比增长138%！全球16国将参加第二届世界人形机器人运动会",
-    "summary": "第二届世界人形机器人运动会8月22日将在国家速滑馆开幕，16国666支队伍、2056台机器人参赛，队伍数同比增138%。赛事新增跳远、举重等对抗项目及14个场景赛项，覆盖家庭、物流等领域，并设置灵巧手专项赛和“综合五项”赛。国内157家企业、641支队伍及27所985高校参与。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/c8439f720fe6479fa4b71c25de2f1bfa_1_0/hd.webp",
-    "realDate": "2026-08-13 10:08:59"
+    "id": "8310b9151874776b8cb49186318000cd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074990210&to_app=hwbrowser&dy_scenario=topicinside&tn=0729c7a3bc41ad4459adc7256cf6830a846193123a9db172f29039135bf4b187&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国队在第38届国际信息学奥赛斩获3金1银 获团体第一名",
+    "summary": "中国队在乌兹别克斯坦举行的第38届国际信息学奥赛中获3金1银，团体总分第一。许淇文以498.27分位列全球榜首，赵晟昊排名第三。本届赛事有90多国近400名选手参与，下届将在德国举办。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e/v3/Topic_ea83788f2051475ca6e6671378cd8db8/75fb8aa408524b42b0863709a8f1fa5f_1_0/hd.webp",
+    "realDate": "2026-08-16 07:42:18"
   },
   {
-    "id": "b6c85c141a03eef4217d3348697a2ea1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511188631478ef9db4bf6b9f4a9483834287a&to_app=hwbrowser&dy_scenario=topicinside&tn=350ab6805133a744fe6556492ff48a6cc4b5b6fbc1c591187b58e0c8da4cc557&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国钙钛矿量产技术再登《自然》杂志",
-    "summary": "南京大学团队近日在《自然》发表钙钛矿光伏组件新成果，采用羧酸铅表面钝化技术，制备出0.72平方米组件认证效率达22.0%，并通过IEC全序列测试。实证显示其发电量优于晶硅组件，湿热老化1300小时后效率仅下降2%。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7d/v3/Topic_54dd6068a8894ae2bcfd4ad89e298ecc/4fed96c1ffcf49aab4d46db946d6f3e8_1_0/hd.webp",
-    "realDate": "2026-08-13 13:33:40"
+    "id": "44f4aac2681744f254cec63040aaa33a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001b0f42622797a5d626614ec5a5bf1bcb0&to_app=hwbrowser&dy_scenario=topicinside&tn=645ff7a1416b6eb2908bca5ce4544fbc6c38ba6ef9aa72b46437b891b8181061&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "16.8MV！中国超高压冲击电压发生器刷新世界纪录",
+    "summary": "华高电气近日研发出16.8MV超高压冲击电压发生器，刷新全球纪录。该设备可模拟雷电冲击等工况，用于特高压电力设备检测，填补了超高电压等级试验装备技术空白。其采用光纤数字化采集方案，解决了高压信号传输中的安全风险问题。",
+    "author": "科技日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1001_8/a1/v3/1051001b0f42622797a5d626614ec5a5bf1bcb0/bb47547edb764b53af7caae603ef32bd_1_2/hd.webp",
+    "realDate": "2026-08-16 10:28:26"
+  },
+  {
+    "id": "e802f0892108d49dbf1b1f2f5b21ad13",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074990255&to_app=hwbrowser&dy_scenario=topicinside&tn=c9f325746b5b56095cbf748264d57a08449e2417dd2367602d406f033dba5069&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "神舟二十三号乘组在轨80余天 完成脑电测试、微重力直觉物理项目行为实验等",
+    "summary": "神舟二十三号乘组朱杨柱、张志远、黎家盈在轨驻留80余天，近日完成脑电测试、微重力直觉物理项目行为实验，探究长期空间飞行对航天员脑功能及物理表征能力影响。同时，乘组开展骨代谢、航天整合组学等实验，采集血液样本研究生理系统变化，并进行应急决策能力评估及医疗救护训练。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/f4/v3/1051074990255/e55911e1dc664e3086791ab4c4a844e9_1_5/hd.webp",
+    "realDate": "2026-08-16 10:56:39"
   }
 ]
