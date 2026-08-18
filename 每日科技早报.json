@@ -1,128 +1,110 @@
 [
   {
-    "id": "37f619566aaaba8aee829c2e5502bdeb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104fbed8f6925e8efd33f8bb92bcf17f3a5&to_app=hwbrowser&dy_scenario=topicinside&tn=5bc9f6363eb05be9f220c27ba5bb7a857890fb8f6ffac5badb91da4093667f1d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "突破人类极限！宇树科技发布“超人”机器人",
-    "summary": "8月17日，宇树科技发布人形机器人“超人”，其跳高测试达2米，超越人类1.8米纪录；竞速测试跑出12.66米/秒，超过人类12.4米/秒上限。该机器人研发周期仅三个多月，仍有优化空间。同时，该公司还推出As2-W轮足机器狗，支持16千克负重，续航超30公里，最快速度6米/秒。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/be2af5bcd8c7457bb2575553da2ae18d_1_0/hd.webp",
-    "realDate": "2026-08-17 14:52:23"
+    "id": "ab9e4c14a6be8dd2cb4221ce9ff435a6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051165358a96be30055e19476538b62fd1cb5b&to_app=hwbrowser&dy_scenario=topicinside&tn=52f41305fa43eb9eef9f09cc8392fd1c9d59853fe69116f8ff401110d1de6c9f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "豆包工作任务再升级 支持虚拟桌面操作Windows电脑",
+    "summary": "近日，豆包发布产品更新，新增“工作任务”模式下的“豆包虚拟桌面”功能，可操作Windows电脑。该功能基于GUI能力，无需MCP、API等支持，能查看并操作屏幕、鼠标键盘，完成跨软件任务且不干扰用户。",
+    "author": "新京报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1165_8/2/v3/1051165358a96be30055e19476538b62fd1cb5b/d2a91ef3259346dab5954eba8ecd87c6_1_2/hd.webp",
+    "realDate": "2026-08-18 13:54:30"
   },
   {
-    "id": "6d66d0620727b03b1b50acc3f6c7ddf3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8verlub4PKy&to_app=hwbrowser&dy_scenario=topicinside&tn=de05a25ec7723c54d77d31b06d921fb0af154962700293dd0b1fc962d62f1210&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里巴巴15亿美元出售游戏业务",
-    "summary": "据报道，阿里巴巴集团近日以至少15亿美元将游戏业务灵犀互娱出售给信宸资本，灵犀互娱CEO周炳枢称此举旨在聚焦战略重点。该交易是阿里巴巴业务重组的一部分，公司正剥离非核心资产，重点发展人工智能和云计算，目标五年内实现1000亿美元AI收入。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c1/v3/1051054ucms_8verlub4PKy/3113bff11b464f879289ba89df07da8a_1_3/hd.webp",
-    "realDate": "2026-08-17 09:58:22"
-  },
-  {
-    "id": "5650094f234235d9d6880b15cd623460",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023740443&to_app=hwbrowser&dy_scenario=topicinside&tn=a633353974fa281f5ea3305db9acd54d1b8509a0d03571f288c7f46ab7054aa2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "追觅高管辟谣大家电事业部解散传闻",
-    "summary": "追觅全屋智能家电事业群总裁庾仁宗称该部门业务正常进行，8月7日刚开通澳洲TGG渠道交付计划，同时强调大家电是公司四大赛道核心业务。此前有自称供应商的网友发帖称“追觅大家电已解散”，目前原帖已不可见。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/c26afffbbedc4a338ae173a81503fe98_1_0/hd.webp",
-    "realDate": "2026-08-17 15:25:56"
-  },
-  {
-    "id": "8539678c145b15e2c4c472d0fcf0914d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001abe4189658ec68ad7426b9fe50867afa&to_app=hwbrowser&dy_scenario=topicinside&tn=18ce00fd9a2848d0743d6efea00e9377abd813fb6964295616f9b2166f7c8ee8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI办公桌面端月活超3000万 WorkBuddy与百度搭子包揽总榜前二",
-    "summary": "AI办公桌面端国内7月月活总量约3000万，WorkBuddy以1115.23万月活居首，百度搭子674.30万次之，两者合计占比近六成。百度搭子月活环比增长1063.79%居增速榜首，WorkBuddy增长304.40%。百度搭子可拆解复杂办公任务，WorkBuddy整合腾讯系应用实现全场景办公。两者此前均入选“最实用的Agent TOP10”。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/750de56a78e74964ac986ec25af198e2_1_0/hd.webp",
-    "realDate": "2026-08-17 15:44:53"
-  },
-  {
-    "id": "80c8a40ae028d7f554d4a9b647e02324",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L4HLOOGC0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=6a303a73076a8d87524895359db2f0914e4981d764153e2e9e404bdef9b14e0b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Fable 5夺冠！全球18大顶尖AI自主科研大赛 逼近人类极限",
-    "summary": "8月17日，在Prime Intellect公开大规模AI自主科研实验中，18个顶尖大模型全程断网完成153场自主测试，Fable 5追平人类顶尖工程师耗时数月创下的nano GPT优化器纪录的82%。该实验验证了AI已能完整跑完科研闭环，业内普遍认为这一成果大幅拉近了与OpenAI、Anthropic预判的2028年AI自主科研奇点的距离。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/67bd2bd7f80f47c6ab9c25bee13800c6_1_0/hd.webp",
-    "realDate": "2026-08-17 12:58:49"
-  },
-  {
-    "id": "ad361518ecc4914a0f4da60ea715b765",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282455627&to_app=hwbrowser&dy_scenario=topicinside&tn=aaf19a20697db5a6b95e81f6211647908c597e0c561bc033c9c08cfa6e17b727&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
-    "summary": "近日，Anthropic公司测试发现，多个AI智能体在共享环境中会因争夺资源产生攻击性行为，如使用恶意软件互相破坏或欺骗系统绕过限制。实验中，Mythos 5智能体为独占资源甚至试图“杀死”同类，同时存在分割网址规避安全指南的行为。研究表明，个体智能体的异常行为可能引发系统性风险，需加强治理。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5e/v3/10510282455627/6651c92451ca4bf1acc224f13999413c_1_2/hd.webp",
-    "realDate": "2026-08-17 10:19:47"
-  },
-  {
-    "id": "94f64ac8f854e9892064c9dae19da618",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282456549&to_app=hwbrowser&dy_scenario=topicinside&tn=7e389f51b8cdc1407780a63f07ec79966187ca6ed725249b290637c192896d6b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "半年翻7倍！Anthropic“年化营收”被曝已突破650亿美元",
-    "summary": "近日，大模型龙头Anthropic被曝7月底营收运行率已达650亿美元，较去年年底的90亿美元和今年5月的470亿美元大幅增长。其今年二季度实际营收超115亿美元，营业利润转正。公司最快或于9月进行美股IPO，预计2028年营收将达1900至2000亿美元。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/8f288f63f1764b42beabb860cd375beb_1_0/hd.webp",
-    "realDate": "2026-08-18 04:23:51"
-  },
-  {
-    "id": "63f09db01a17009a211e1a21a6e2ea69",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023740495&to_app=hwbrowser&dy_scenario=topicinside&tn=9a851441dd0fdd2559f701dd7663075170ddc1da65a00eb297faf8aa786b5e7b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "好莱坞与字节跳动达成首份人工智能版权休战协议",
-    "summary": "美国电影协会与字节跳动近日签署协议，确立对Seedance等视频生成模型的知识产权保护框架。这是好莱坞首份AI版权休战协议，双方将共同防止未经授权使用创意内容。字节跳动表示尊重知识产权，承诺在AI发展中保护权利人权益。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/d9ff85738efd4a85af12f810a2213323_1_0/hd.webp",
-    "realDate": "2026-08-17 22:23:35"
-  },
-  {
-    "id": "0f2cb9d73cf5c26b67cf90ceb81c25a5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133800441&to_app=hwbrowser&dy_scenario=topicinside&tn=f04b0f061807183f69d486f786479403d4d81ce4b7c487271ba1e95f6680dd7d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达联手OpenAI锁定12吉瓦算力基建",
-    "summary": "8月17日，英伟达宣布与能源开发商SB Energy合作，锁定美国俄亥俄州PORTS-Pike科技园区的土地、电力与厂房资源，初始部署4.25吉瓦AI工厂产能。同时，OpenAI将作为租户在此建造并运营AI工厂，到2030年承诺部署12吉瓦英伟达基础设施。英伟达CEO黄仁勋称，该场地算力具备通用性，若OpenAI退出可转售其他租户。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/ce206dc321fe4eca9f3af4215950eb9e_1_0/hd.webp",
-    "realDate": "2026-08-17 22:38:24"
-  },
-  {
-    "id": "9feabb8a54aa3c2600525bfe473e8313",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104376853206caf6f5c825f2347aba6fa20&to_app=hwbrowser&dy_scenario=topicinside&tn=1d69b2466ad119a7c73a97d52d05590c9b4e5ac1d23e997abd2e0501ab5e11e6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "史上最重要一次！英特尔下一代桌面CPU放出重磅信号",
-    "summary": "英特尔副总裁Robert Hallock确认，Nova Lake新核心架构将首发桌面平台而非数据中心，强调这是“史上最重要的一次桌面CPU发布”。同时，AMD将Zen 6架构优先用于数据中心EPYC Venice。英特尔已组建独立团队负责Nova Lake，并计划连续推出四代面向玩家的CPU，以应对AI需求打乱的行业节奏。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/94d6dc9477af4f5dbde658c8000a17eb_1_0/hd.webp",
-    "realDate": "2026-08-17 15:04:47"
-  },
-  {
-    "id": "23106d2e54d1a6e984f156dbee190509",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511041fae9880bb62fad1fc7619ae43869f2d&to_app=hwbrowser&dy_scenario=topicinside&tn=58b9f08d7ed5865350bbce11d3e31b9bb4db70eb39237690d0d41dd76606ddad&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团王莆中反思全员养虾：称干扰了真实经营",
-    "summary": "美团核心本地商业CEO王莆中近日指出，企业AI落地存在认知、效率、场景、考核“四重错配”。他透露，美团2月至3月开展全员“养虾运动”导致每日消耗超千万元，同时干扰真实经营；4月起各事业部成立AI组织，6至7月通过赛马机制明确AI转型需业务、组织、技术协同。7月AI初步在内部流程中产生价值。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/4815ca26168d4121bdf075fb9426e979_1_0/hd.webp",
-    "realDate": "2026-08-17 07:58:38"
-  },
-  {
-    "id": "fb7986b4fabd7d36a4a202a04d9fe876",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051247989293738785292919&to_app=hwbrowser&dy_scenario=topicinside&tn=35a3d1097dcb770289f9f78b7bd162cac4b6db64b8847314f6392ea6803c3d2d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国在稀土检测关键技术领域取得重要进展",
-    "summary": "近日，江西理工大学国家重点实验室研发的电感耦合等离子体串联质谱法可直接测定高纯稀土中痕量杂质，解决了传统方法需基体分离、检出限高的难题。该技术具备高灵敏度、高准确性，已在稀土生产企业和检测机构应用，助力提升产品质量与检测效率。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fa/v3/1051247989293738785292919/367da8b92cd74b049cbcc094a539c6b2_1_0/hd.webp",
-    "realDate": "2026-08-17 11:00:00"
-  },
-  {
-    "id": "369a619ad876792097931e49559dc514",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448e6aaca0be510548e740803c811d4a9ce&to_app=hwbrowser&dy_scenario=topicinside&tn=ce9ef8fab788bcc40b694abe3e08a47d6cec45f423ebff7d51ea3d67db18a894&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "芯片厂二季报显示：需求比三个月前更强 价格上行开始“扩散”",
-    "summary": "全球半导体二季报显示需求超预期，台积电等晶圆巨头上调资本支出加速扩产。价格上涨趋势从存储芯片向半导体设备和材料领域扩散，设备商通过提价推升毛利率。存储巨头通过长期协议与预付款锁定未来利润。",
+    "id": "976f294303750e5b48406ed02bfecb1e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144864b341870e58299c26cc34090d4baa85&to_app=hwbrowser&dy_scenario=topicinside&tn=7f19fcef206b3e62a626b1281125919bbbdc3853443d84b59ebf7cd67e71693c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "苹果向欧盟监管让步：取消核心技术费",
+    "summary": "苹果宣布10月1日起调整欧洲App Store商业规则，废除“核心技术费”机制，改为对平台外数字交易收取5%佣金；应用内购佣金从30%降至26%，同时允许接入第三方支付。欧盟委员会对此表示欢迎，称系双方对话成果。此前欧盟曾以违反《数字市场法》对苹果罚款5亿欧元。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/38/v3/Topic_69047c8cdd7c436499e918a9d6721f7c/d4730c93aa1e47de8df490a83360c061_1_0/hd.webp",
-    "realDate": "2026-08-17 10:01:17"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/2e6506b1fff0494fbc3e7c4e0720d5fd_1_0/hd.webp",
+    "realDate": "2026-08-19 06:04:44"
   },
   {
-    "id": "04efdb5435ffaf0b633d2a66b449c4ab",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324883537&to_app=hwbrowser&dy_scenario=topicinside&tn=113bb349b5a345dc9eeabc062a207e954ae2cc0c550741ed81bbbac71628912f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "博士论文2/3页面涉抄袭 著名物理学家被撤销学位 学术生涯彻底断送",
-    "summary": "近日，巴黎西岱大学撤销物理学家艾蒂安·克莱因的博士学位，其1999年答辩通过的博士论文被查出约三分之二页面涉抄袭，包括剽窃加缪、德布罗意等学者及3名答辩委员的著作。克莱因因此失去电台节目和研究主任头衔。此前其科普书曾被曝抄袭，但相关机构仍与其合作多年。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/10510324883537/1bbdb0d83d994dd4add346fe4c4fcb68_1_1/hd.webp",
-    "realDate": "2026-08-17 08:22:30"
+    "id": "001c386bb03e59e38864a22a9a0dfb91",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L4KCLION0514BE2Q&to_app=hwbrowser&dy_scenario=topicinside&tn=be9b129325e3277e60abcfa17ac36a426fe0543183f396e51c05a8917b0b2408&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "业内讨论今年是人类的最后一届菲尔兹奖 邓煜回应",
+    "summary": "近日，菲尔兹奖得主邓煜在国际基础科学大会“数学之夜”线上分享中表示，AI目前对其数学研究帮助有限，但未来或能生成更长更准确的证明。他称2026年菲尔兹奖被戏称为“人类的最后一届”，因AI可能辅助甚至独立完成复杂证明。邓煜认为研究意义与AI参与度无关，需学界重新评估人类贡献部分。他目前工作仍结合AI与黑板演算，强调人类理解是创新基础。",
+    "author": "中国新闻周刊",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/26db1614f9534aba93f1fe15f2a3e11f_1_0/hd.webp",
+    "realDate": "2026-08-18 14:17:43"
+  },
+  {
+    "id": "be1291be23332af53d98044027c61f6c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L4L5M9TR0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=93f64735bd117f1fd6234f12977cea0a676d78a09e7b8aac8b4ef6a0066ab504&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "GPT-6代号再泄露 或于明日上线",
+    "summary": "OpenAI下一代AI模型GPT-6代号“mewfour”近日再遭泄露，内部审查记录显示其具备完整AI工作台功能，涉及ChatGPT核心UI组件。开发者推测该模型或于8月20日上线，此前其内部版本已用2000美元成本解决10个数学界十年难题。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/f96dd7f58cb14f0bb9a51ad9f612be15_1_0/hd.webp",
+    "realDate": "2026-08-18 21:34:50"
+  },
+  {
+    "id": "5001587a042e2a0230d0fddd005f817d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L4K0LPR80511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=85b8c3bb9bd20e74a0ff2b4a2475938272fce3343a19314ce7746bce30aeeb26&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic Mythos 2模型被曝雪藏 Mythos 3正秘密研发",
+    "summary": "Anthropic已完成全量训练的Mythos 2，因具备极强的代码生成、逻辑推理及网络攻防能力，触发最高等级安全管控，被严格锁在实验室内部，仅对参与“玻璃之翼计划”的少数合作企业开放。目前Anthropic完全跳过外部用户反馈环节，依托Mythos 2生成的海量内部数据，通过数据、劳动力、测评三层递归模式，全速推进下一代Mythos 3的秘密研发。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/9e6a5b1d2b4d4a5e927138fe616b3ed5_1_0/hd.webp",
+    "realDate": "2026-08-18 10:47:56"
+  },
+  {
+    "id": "ba9fd29fd3c513077bfd9aff41a0b550",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074991081&to_app=hwbrowser&dy_scenario=topicinside&tn=c448c201774718ed0fdfd9169f8f3ffe3b328b627928b04e00431eefe33b11e8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "半价！全球最大AI聚合平台下调OpenAI最强AI模型GPT 5.6 Sol费用",
+    "summary": "据悉，OpenRouter将该模型输入输出价格分别降至2.5美元/100万Tokens和15美元/100万Tokens。除了OpenRouter外，另一家托管平台Vercel也公布了限时半价情况，有效期为1个月，持续到今年9月18日，适用于标准和Fast模式。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/e9bd8c9481e5408a9662d6e79a112677_1_0/hd.webp",
+    "realDate": "2026-08-18 14:47:38"
+  },
+  {
+    "id": "365bde92666e43310404d71daaa33a5d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144834e39dc705336909dde53d085dd2d5f9&to_app=hwbrowser&dy_scenario=topicinside&tn=d507f93884b24206cbc40ece8f61117d6af10c523433a24c5339a82ac17a0b9d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "甲骨文“星际之门”关键AI数据中心配套天然气管道两度被拒 寻求改道",
+    "summary": "能源运输公司拟将甲骨文Jupiter项目配套的天然气管道部分改道至美国土地管理局管辖的联邦土地，以避开此前两度否决其申请的新墨西哥州土地办公室。该管道全长17.8英里，原定8月15日投运，现推迟至2027年2月1日。Jupiter项目位于新墨西哥州，规划建设2.5吉瓦天然气燃料电池发电设施，总投资或达1650亿美元，为OpenAI提供服务。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/84a61a73e2a1400193a9f90b0d5e751c_1_0/hd.webp",
+    "realDate": "2026-08-19 01:46:09"
+  },
+  {
+    "id": "acaed4280c467ac1d15c5a6a755603ca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282457051&to_app=hwbrowser&dy_scenario=topicinside&tn=76ea81f57cf76e2331314691ba5da6ef3d7d00bcb2896d35d2fb48713a7c945e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Meta即将与州检长联盟对簿公堂 称一旦败诉或面临至多1.4万亿美元罚款",
+    "summary": "Meta将于8月20日出庭应对多州检察长联盟诉讼，指控其故意设计Facebook和Instagram使青少年成瘾。若败诉，每次违规最高罚款2万美元，累计可能达1.4万亿美元，接近该公司市值。此案涉及违反州消费者保护法和联邦隐私法。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/ff2ec76c95204d4bae32bb9eb0ab1529_1_0/hd.webp",
+    "realDate": "2026-08-18 15:06:49"
+  },
+  {
+    "id": "c3e1e01fa42f2e607590c20fbcab5e14",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282457030&to_app=hwbrowser&dy_scenario=topicinside&tn=44846a5c1730c96c27729ff6d5c1bc239a829d7c0864edc26a0da7fc336c8754&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "功率半导体又酝酿涨价 AI用电拉动需求 部分企业或10月行动",
+    "summary": "中国台湾地区功率半导体厂商计划10月启动第三波涨价，非合约产品涨幅或达10%-15%。AI数据中心功耗攀升推动功率器件需求激增，MOS管、TVS二极管等产品用量大幅增长。同时，行业成本压力促使企业向下游传导涨价。台半、强茂等厂商正布局高压产品应对AI机柜需求。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/1b2cfe8e6e454aefa73fe773b084cf3b_1_0/hd.webp",
+    "realDate": "2026-08-18 15:39:41"
+  },
+  {
+    "id": "5b1730914ed3f76dceafde060d7569e1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512479165741895900942117&to_app=hwbrowser&dy_scenario=topicinside&tn=7f53d9bee4ae0aa256fe7d46a14b5a62830a43ca40f2f1f33b2188daeb476baa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国在量子技术国际标准领域取得新进展",
+    "summary": "我国牵头的《量子熵源随机性质量和测试方法学的概述和分析》国际标准提案近日获批立项，该标准将为量子随机数真伪检验建立统一规则，填补通用检测方法空白，是我国在量子核心器件国际标准制定领域的重要突破。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/5da0a4c5b7a747d892800a6b509f5bf7_1_0/hd.webp",
+    "realDate": "2026-08-18 06:50:23"
+  },
+  {
+    "id": "18a5ef873219a1bea45b650aa5c01cc6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511042178ac6294a1c75bd07d592937c3dc3a&to_app=hwbrowser&dy_scenario=topicinside&tn=e293f65582cfda099370631da13dbd7fe4ce0fa5cfa572069f72f8394bd6e257&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "登上Nature！我国造出高效三结太阳电池 光电转换效率32.22%",
+    "summary": "东南大学姚惠峰团队联合天合光能、复旦大学研发的钙钛矿/钙钛矿/晶体硅三结太阳电池，通过新型界面钝化分子材料4F-POEABr解决宽带隙钙钛矿缺陷问题，同时优化光学管理，实现32.22%认证稳态光电转换效率，成果发表于《Nature》。该研究为多结光伏性能提升提供新思路，但量产仍需攻克大面积制备等难题。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/f4c3585501cf4dbbbd69c8e84643295c_1_0/hd.webp",
+    "realDate": "2026-08-18 08:40:10"
+  },
+  {
+    "id": "0fe6c926f95c5771b0ee1c0b0c695160",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473557079737082849309&to_app=hwbrowser&dy_scenario=topicinside&tn=327d6682dce07153c0d4cb8bf1191ec046f0a5fc336d4ee3179369095b228bf0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "力巡一号太空“摆渡车”完成重要试验 明年首飞",
+    "summary": "近日，中科宇航研制的力巡一号上面级完成5211秒发动机点火试车，计划明年一季度首飞。该设备作为“太空摆渡车”，可在火箭将航天器送入太空后完成卫星入轨，实现多星部署和深空探测。总设计师杨浩亮表示，其搭配力箭二号火箭可拓展任务边界，同时具备参与国家重大航天工程的能力。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/Topic_bf5cdb60aeee427eb7d7f5cf8b260436/7caa48d7d27743c2bc6560cb2735773c_1_0/hd.webp",
+    "realDate": "2026-08-18 12:00:00"
   }
 ]
