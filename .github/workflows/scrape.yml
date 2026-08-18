@@ -3,7 +3,8 @@ name: Scrape Website
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 22,23 * * *' # 每天07:07执行
+    - cron: '40 23 * * *' # 中国时间 07:30 (UTC 23:30)
+    - cron: '20 0 * * *' # 中国时间 08:30 (UTC 00:30)
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -20,7 +21,18 @@ jobs:
       - name: 安装依赖
         run: npm install
 
+      # ----- 缓存 Playwright 浏览器（大幅提速） -----
+      - name: 缓存 Playwright 浏览器
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright # 浏览器默认安装目录
+          key: ${{ runner.os }}-playwright-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+
       - name: 安装 Playwright 浏览器
+        # 若缓存命中，此处会直接跳过下载（仅校验系统依赖）
         run: npx playwright install --with-deps
 
       - name: 运行脚本
