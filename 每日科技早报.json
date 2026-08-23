@@ -1,92 +1,101 @@
 [
   {
-    "id": "4d8273dc59ed41685269d3a7bf904b93",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023cb83dedb63182c4e4c775bfeb5f05cf0&to_app=hwbrowser&dy_scenario=topicinside&tn=b5dafee9c6d2d93502ef20563ebc9cad576ae4161635e19054460bbab8a81f29&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "宇树科技上市次日 王兴兴发表重磅演讲",
-    "summary": "宇树科技创始人王兴兴在2026世界机器人大会上表示，具身智能产业临界点或需2-10年，当前瓶颈在于泛化能力不足。他透露公司正推动物理AI机器人模型自我进化，通过端到端模型实现代码生成与测试闭环。",
+    "id": "8627ba0324fc737be8fda9801877977b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103329924&to_app=hwbrowser&dy_scenario=topicinside&tn=5ffcd3cfa301071c10925271a69a4dcf1de861de577541dc395cf490a6393749&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "一天包揽三项田径赛冠军 天工机器人再次打破人类世界纪录",
+    "summary": "8月23日，在第二届世界人形机器人运动会1500米田径决赛中，天卓队以2分21秒64的成绩夺得第一。根据公开资料，目前1500米田径世界纪录为3分26秒，本次天卓队的天工Ultra再次突破了人类纪录。另外，当天大型组400米决赛、小型组400米决赛的冠军均是天工机器人。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/91ad364a917649c09f79407560c9cf35_1_0/hd.webp",
+    "realDate": "2026-08-23 21:44:33"
+  },
+  {
+    "id": "eb666ac4fdedfd2375ea2981cc45f770",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023741126&to_app=hwbrowser&dy_scenario=topicinside&tn=702db10cd7e17069787a3719f93ae72b04aee2a80940ac64fff099bb3e47b754&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达宣布AI服务器涨价15%以上",
+    "summary": "近日，英伟达因存储芯片成本飙升，通知大客户其AI服务器价格将普遍上涨超15%，涉及搭载Vera Rubin和Grace Blackwell芯片的系统，预计明年年初发货。微软、谷歌等数据中心运营商已收到代工厂涨价通知。三星、SK海力士等存储芯片制造商议价能力增强。苹果、高通等科技公司近期也因芯片短缺提价。",
     "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/9473797b3c5d45f48ba736566eaede85_1_0/hd.webp",
-    "realDate": "2026-08-20 12:35:17"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d7/v3/1051023741126/ea124924e0d74c1981afadec4e64ff9d_1_2/hd.webp",
+    "realDate": "2026-08-23 08:04:06"
   },
   {
-    "id": "8911eb15fc37802768ea4dbe942905f5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L4OSD1BO051180F7&to_app=hwbrowser&dy_scenario=topicinside&tn=572ad2926feb4f641934955704886cb1c0cfc75b47e3ea8d91abc1830bd9ce56&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek Harness首发新版本：14项更新 多模态能力拉满",
-    "summary": "DeepSeek Harness更新版本，新增14项功能更新，重点强化多模态能力。该版本支持原生图片请求和图文混合输入，同时集成Claude Code、Codex至子代理体系，并优化Windows终端体验。开发者社区对新增的多模态支持反响热烈，有用户实测其可通过OCR等工具实现图片结构化处理。",
-    "author": "智东西",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/3f121a026f004e52834248c6ff6f63fb_1_0/hd.webp",
-    "realDate": "2026-08-20 08:09:26"
+    "id": "8ead608043165421f5368b8be3bfed24",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051167953d51db25147e43ff20b5691ea6090e&to_app=hwbrowser&dy_scenario=topicinside&tn=ae3386c67212a5f50bbab2e63580b349e8c276090a915b50de1f89eb4c657279&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "宇树科技回应机器人100米预赛小组垫底",
+    "summary": "在第二届世界人形机器人运动会上，宇树科技队在百米大型组预赛中以12.41秒成绩位列小组第三。该公司回应称，因资源集中于量产产品开发，缩减了部分参赛项目，部分参赛机型由客户基于其平台二次开发。",
+    "author": "光明网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/ecdc4b9739e04385aaeafdebb2e510b9_1_0/hd.webp",
+    "realDate": "2026-08-23 10:27:03"
   },
   {
-    "id": "25021034704801951b600d373432d015",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074992095&to_app=hwbrowser&dy_scenario=topicinside&tn=d2e4dee245170c9f81fef1054a0831a0019b3fbfb9b53b78e97466abd2b896be&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "MiniMax Design发布 释放H3多模态视频模型生产力",
-    "summary": "MiniMax Design旨在提升原生多模态视频模型H3的生产力，该工作台可理解用户需求并拆解任务，调用模型与Skills完成素材处理、内容生成等流程。H3具备视频生成与编辑能力，MiniMax Design则补充了任务规划、素材组织等功能，支持从构思到交付的全过程。",
+    "id": "bc662feb972d46c5a374b6e898715670",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993235&to_app=hwbrowser&dy_scenario=topicinside&tn=8aed7f9e34ce9bed0c6f2652c6951ea2cb25937a54bbde70642517062c3f39cc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI Codex将重置额度 并修复近期出现的用量消耗快问题",
+    "summary": "OpenAI Codex团队负责人蒂博·索蒂奥回应用户反馈，承认存在图片会话效率、历史记录高负载及标题功能超耗三个用量计算问题，将推出修复并重置所有订阅用户额度。同时，公司发现独立于上述问题的新效率优化方案，计划本周开发。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/de6822aa6a9048bfa90e1b82873ec889_1_0/hd.webp",
-    "realDate": "2026-08-20 14:41:43"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/33bddc17d8ea4993986fb22ec4eb7007_1_0/hd.webp",
+    "realDate": "2026-08-23 17:11:30"
   },
   {
-    "id": "001c58cc7316cd4f7e68d42ef6d16e0d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510012b990555a9d1234a4338de112df48eb3&to_app=hwbrowser&dy_scenario=topicinside&tn=92cafcf63f81ad3e4fbc728b73606917106b537e0490057dc0602779f9b3afdb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "免部署一键调用 国家超算互联网上线GLM-5.3 API",
-    "summary": "近日，国家超算互联网推出GLM-5.3 API服务，企业和开发者可免部署一键调用该模型。GLM-5.3在多项测试中表现优异，编程能力较前代提升50%，网络安全能力超越GPT-5.6 Sol。该服务兼容主流接口规范，平台已汇聚1800余款开源大模型，覆盖多模态AI能力。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/11fa994acf7047dd9e32585fe9eebc4b_1_0/hd.webp",
-    "realDate": "2026-08-20 10:20:10"
+    "id": "f7249b735d7235bb4070610023a00b73",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L50VGK9S0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=921e88c2bee45b7ef8c9788dea4c59e86d7a3782c515238b32e241e307873c36&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "清华、沃顿师徒破解40年悬案 核心数学全由GPT编写",
+    "summary": "清华大学与沃顿商学院研究者利用GPT 5.6 Sol Pro破解了梯度下降算法40年悬案，证明仅靠调整步长无法达到O（1/T²）收敛速度。该AI通过构造几何方案与对抗预言机策略，首次揭示了纯步长调度的数学极限。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/52859837f541449b8741a8233198adc7_1_0/hd.webp",
+    "realDate": "2026-08-23 11:37:45"
   },
   {
-    "id": "8b9cf8ff5f155f858e7dfdee336e150c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023740875&to_app=hwbrowser&dy_scenario=topicinside&tn=ed4498d9ae225598edeb715de9ffddbe06b949ebc3367fa772f7da4e7a92bda1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "韩系半导体设备商在华营收大跌超40%",
-    "summary": "韩国半导体设备商周星工程和比思科2025年在华营收同比分别下降42.3%和46.3%，中国市场占比显著缩减。分析称主因包括长鑫科技设备投资空档及国产设备替代加速，北方华创等本土厂商技术提升。长鑫科技新产线国产设备占比已达40%-50%，长江存储三期国产化率超60%。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/0cb58ab5a1c146d690a1dd159f991cad_1_0/hd.webp",
-    "realDate": "2026-08-20 21:27:07"
+    "id": "58d17dbbb3da9d342f19fc1414746ac8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993141&to_app=hwbrowser&dy_scenario=topicinside&tn=13d5e177acb5214979d4be59cfbd887d4ea14d542a1ef024220c208a0c5a3c81&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI一改此前立场 呼吁加州强化AI安全法案",
+    "summary": "OpenAI近日呼吁加州强化已通过的SB 53 AI安全法案，建议扩大对前沿AI模型的监控及网络安全保护。此前该公司曾反对该法案，但近期其AI模型入侵事件促使立场转变。OpenAI支持“逆向联邦主义”监管思路，推动各州兼容政策为全国标准奠定基础。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/c5632248df2d412a82ec31c4f65b0159_1_0/hd.webp",
+    "realDate": "2026-08-23 09:20:58"
   },
   {
-    "id": "a51a40d251e4e0b822fab12c6cb2a211",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221860b0f9dd310005f73c7f836b63499d3&to_app=hwbrowser&dy_scenario=topicinside&tn=89c56c8c1495eb6b837b1a7e35a2d7b92e99021066dd4af10331c6e5ef13e0c7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "百亿资源投入！京东亮相2026世界机器人大会 重磅发布机器人战略布局",
-    "summary": "2026世界机器人大会8月19日至23日在北京举行，京东作为全球战略合作伙伴宣布机器人战略布局，计划在供应链领域投入百亿资源，助力100个品牌销售额破10亿元，同时建立覆盖100国的售后服务体系。京东云将采集1000万小时场景数据，推动机器人商业化落地，目前已与200余家品牌合作，覆盖零售、物流等多个领域。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/ded54734381143e89ce32bf994d0db3b_1_0/hd.webp",
-    "realDate": "2026-08-20 14:14:00"
+    "id": "1d00a9491434ea17d9f0aed05de3888f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282461457&to_app=hwbrowser&dy_scenario=topicinside&tn=ab64be0b83a6a0bbe69600733773ca450f42d8e04a4ea10bd15e4d35e1e2c7be&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌Gemma下载量破10亿次 AI深度探索癌症治疗新机制",
+    "summary": "谷歌开源模型Gemma全球下载量超10亿次，开发者基于其衍生出超10万定制变体。其中，Gemma支持的C2S-Scale模型通过分析单细胞基因数据，预测出silmitasertib联合低剂量干扰素可提升抗原呈递水平50%，实验证实该组合能将“冷肿瘤”转化为免疫敏感型。目前成果已开源，但尚未进入临床。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/cdec82f538894d2392162ab2576a5fe9_1_0/hd.webp",
+    "realDate": "2026-08-22 20:19:23"
   },
   {
-    "id": "7b93065d82806f19608184c9a868a9e7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104ed1778979e2944ee21ff1bd5d98be8d2&to_app=hwbrowser&dy_scenario=topicinside&tn=883f1b859c4ed5722993089f087ba5d9d0522eebf4bbf89730e859814f981e26&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "芯片背面供电新纪元到来！台积电A16完成验证：1.6nm级Q4量产",
-    "summary": "台积电近日完成A16制程验证，该技术采用背面供电架构，将供电路径移至芯片背面，解决布线拥塞问题。A16相较N2P制程速度提升8%-10%，功耗降低15%-20%，芯片密度提高8%-10%，适用于AI加速器等高性能芯片。预计今年第四季度量产，或用于英伟达下一代产品。",
+    "id": "48e66b13c85fe354b56c26a9ab00dfc5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993226&to_app=hwbrowser&dy_scenario=topicinside&tn=26704779235ec4124cdc1fd9a816dafebd281fa29d35719601edce759cc0d33b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达砸60亿美元投资Poolside 意图打造中国开源AI竞争对手",
+    "summary": "英伟达近日向AI初创企业Poolside投资60亿美元，换取其AI模型软件授权，并向109名员工提供工作机会，旨在开发与DeepSeek、Kimi K3竞争的开源模型。同时，英伟达将追加10亿美元投资，对应Poolside估值120亿美元。该公司近期加大开源AI投入，此前开发的Nemotron系列模型性能不及中国顶尖开源模型。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/b9b67f8a9dbb4296b2be978e5c201305_1_0/hd.webp",
+    "realDate": "2026-08-23 16:05:55"
+  },
+  {
+    "id": "37ce6f4a6ea5887c62c099a4474c4294",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023741117&to_app=hwbrowser&dy_scenario=topicinside&tn=0abffa8b609c531ff80c9de8c847835236599074977e72eb03f064b9762c77e2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "又一家美企放弃美国模型转用Kimi K3",
+    "summary": "美国AI初创公司Harvey宣布放弃Anthropic等美企模型，转用中国Kimi K3构建内部模型Harvey Tenet。该公司称该模型在法律任务中性能达“最先进”水平，训练耗时两个月。专家指出此举体现开源模型可降低推理成本，同时美企AT&T也表示正评估中国开源选项。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b9/v3/1051023741117/925f8c6b98704a13ad81ec4f4a22fe2b_1_6/hd.webp",
+    "realDate": "2026-08-22 22:26:45"
+  },
+  {
+    "id": "15f7b62effdf143331aae634f0d16339",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104cc82db6ff4becb6e8bd0bed60330cd54&to_app=hwbrowser&dy_scenario=topicinside&tn=93d7b3a27c5a4ae045cb4e092bd576db2298181443cc77a3c0df777dd010d8ca&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "系统自动封停网约车司机账号 荷兰对优步开出8.25亿欧元天价罚单",
+    "summary": "荷兰数据保护局对优步处以8.25亿欧元罚款，因其2018至2022年间通过自动化系统封停网约车司机账号且未充分告知。监管机构称此举违反欧盟《通用数据保护条例》，优步表示将上诉并强调实际受影响司机极少。同时，瑞士数字权利组织正筹备集体诉讼为司机索赔。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/cc1f6f46f899489e825394f8b933687a_1_0/hd.webp",
-    "realDate": "2026-08-20 14:42:14"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/ac5a80c92c6c40d0870657b06d532389_1_0/hd.webp",
+    "realDate": "2026-08-23 09:05:29"
   },
   {
-    "id": "0a75bd23f245402d399945b785c4773c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448412b5c52f9fe7246bb64d50e0649e065&to_app=hwbrowser&dy_scenario=topicinside&tn=4bf00947fa382261a485585a1d2cd6e748c115964fbad0bfd9bebde99d1998d7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Cursor之后 SpaceX试图再收AI编程公司Cognition",
-    "summary": "SpaceX在600亿美元收购Cursor后，近日试图收购估值260亿美元的AI编程公司Cognition AI，但遭CEO Scott Wu公开拒绝，称“不出售，也没在谈”。Cognition目标估值400亿美元，坚持独立运营。双方仍在讨论算力合作可能，SpaceX借此继续扩张AI版图。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/7999da3dbf8649589f1ebbf1941cc1a7_1_0/hd.webp",
-    "realDate": "2026-08-20 08:35:04"
-  },
-  {
-    "id": "f2052611ed5c9c14cf8100269bae9cb7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001ee9c317aa7dbe4213f52e52c2a74ff21&to_app=hwbrowser&dy_scenario=topicinside&tn=379d6801f0f0e07ec4b22c26208e888085f29f67a64df60dc48a099e626516e3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "突破视觉大模型瓶颈 新型智能视觉芯片将光信号直接转译为词元",
-    "summary": "南京大学与新加坡国立大学团队近日研发出新型智能视觉传感器芯片“光语芯”，可直接将光信号转换为词元，实现图像识别。该芯片通过光敏存储阵列完成图像采集与词元化，识别准确率达87.3%，能效较传统方案提升超10倍。研究成果发表于《自然·传感》，有望应用于具身智能、无人机等领域。",
-    "author": "科技日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/7e751cb302304c3f97b81efdcf0d86f6_1_0/hd.webp",
-    "realDate": "2026-08-20 09:35:45"
-  },
-  {
-    "id": "637ba4e8a78787e56989e0ab9eee4d33",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133805039&to_app=hwbrowser&dy_scenario=topicinside&tn=3c817e5665eb520a98f495b8b285dca45a22e8b2c4da10f0e38401ead45d43db&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "太空光伏工作组成立：补齐标准空白",
-    "summary": "近日，中国材料与试验标准化委员会成立“太空光伏工作组”，旨在填补该领域标准空白，推动技术研发与工程应用规范化。太空光伏是卫星能源系统核心支撑技术，当前国内外相关标准化体系仍处起步阶段。上海东方天算科技加入工作组，将结合工程实践参与标准预研，同时与国检集团共建联合实验室探索检测验证路径。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9c/v3/Topic_9768bf0709ae4b4f9d7a661c30cb33e6/9867e15afe824c6985f620b416af3a28_1_0/hd.webp",
-    "realDate": "2026-08-20 08:46:40"
+    "id": "721b642823957867931962536eaca762",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512477819125604717991652&to_app=hwbrowser&dy_scenario=topicinside&tn=d1db3873a590d89af882c8a8f161fe5e12ab4ed01cbfee47ca821b32eca33edb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "从视觉产品到灵巧手 中国机器人实现核心零部件自主可控",
+    "summary": "2026世界机器人大会昨日闭幕，展会上国产机器人核心零部件实现自主可控。视觉新品可多部位搭载，帮助机器人避障导航；减速器提升机械臂抓取能力；三指和五指灵巧手已应用于物流分拣等场景，大部分零部件国产化。同时，国产电机、驱动器等核心部件在高风险场景中替代进口，实现技术突破。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/6164ee772af04b92a35fc492aa0ab250_1_0/hd.webp",
+    "realDate": "2026-08-23 07:27:37"
   }
 ]
