@@ -1,101 +1,92 @@
 [
   {
-    "id": "8627ba0324fc737be8fda9801877977b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103329924&to_app=hwbrowser&dy_scenario=topicinside&tn=5ffcd3cfa301071c10925271a69a4dcf1de861de577541dc395cf490a6393749&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "一天包揽三项田径赛冠军 天工机器人再次打破人类世界纪录",
-    "summary": "8月23日，在第二届世界人形机器人运动会1500米田径决赛中，天卓队以2分21秒64的成绩夺得第一。根据公开资料，目前1500米田径世界纪录为3分26秒，本次天卓队的天工Ultra再次突破了人类纪录。另外，当天大型组400米决赛、小型组400米决赛的冠军均是天工机器人。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/91ad364a917649c09f79407560c9cf35_1_0/hd.webp",
-    "realDate": "2026-08-23 21:44:33"
+    "id": "a6927f4bcdc4eec519e0bb88ff3a10d6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143a556e19548185da414588c2b37745009&to_app=hwbrowser&dy_scenario=topicinside&tn=fd1d922e3a1491899d135d14c5cb5d897d480714b8c67c38529cec2c8bd729a2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "服役近8个月！月之暗面宣布Kimi K2.5月底正式退役",
+    "summary": "月之暗面宣布其万亿参数多模态模型Kimi K2.5将于8月底退役，该模型1月27日推出，支持视觉与文本输入，在编程评测中领先GPT-5.2。同时，开发者可迁移至新开源的2.8万亿参数Kimi K3模型，后者登顶编程榜单榜首。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/4b3c2d3407ad446f935dcb78841d4172_1_0/hd.webp",
+    "realDate": "2026-08-24 13:20:00"
   },
   {
-    "id": "eb666ac4fdedfd2375ea2981cc45f770",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023741126&to_app=hwbrowser&dy_scenario=topicinside&tn=702db10cd7e17069787a3719f93ae72b04aee2a80940ac64fff099bb3e47b754&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达宣布AI服务器涨价15%以上",
-    "summary": "近日，英伟达因存储芯片成本飙升，通知大客户其AI服务器价格将普遍上涨超15%，涉及搭载Vera Rubin和Grace Blackwell芯片的系统，预计明年年初发货。微软、谷歌等数据中心运营商已收到代工厂涨价通知。三星、SK海力士等存储芯片制造商议价能力增强。苹果、高通等科技公司近期也因芯片短缺提价。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d7/v3/1051023741126/ea124924e0d74c1981afadec4e64ff9d_1_2/hd.webp",
-    "realDate": "2026-08-23 08:04:06"
-  },
-  {
-    "id": "8ead608043165421f5368b8be3bfed24",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051167953d51db25147e43ff20b5691ea6090e&to_app=hwbrowser&dy_scenario=topicinside&tn=ae3386c67212a5f50bbab2e63580b349e8c276090a915b50de1f89eb4c657279&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "宇树科技回应机器人100米预赛小组垫底",
-    "summary": "在第二届世界人形机器人运动会上，宇树科技队在百米大型组预赛中以12.41秒成绩位列小组第三。该公司回应称，因资源集中于量产产品开发，缩减了部分参赛项目，部分参赛机型由客户基于其平台二次开发。",
-    "author": "光明网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/ecdc4b9739e04385aaeafdebb2e510b9_1_0/hd.webp",
-    "realDate": "2026-08-23 10:27:03"
-  },
-  {
-    "id": "bc662feb972d46c5a374b6e898715670",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993235&to_app=hwbrowser&dy_scenario=topicinside&tn=8aed7f9e34ce9bed0c6f2652c6951ea2cb25937a54bbde70642517062c3f39cc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI Codex将重置额度 并修复近期出现的用量消耗快问题",
-    "summary": "OpenAI Codex团队负责人蒂博·索蒂奥回应用户反馈，承认存在图片会话效率、历史记录高负载及标题功能超耗三个用量计算问题，将推出修复并重置所有订阅用户额度。同时，公司发现独立于上述问题的新效率优化方案，计划本周开发。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/33bddc17d8ea4993986fb22ec4eb7007_1_0/hd.webp",
-    "realDate": "2026-08-23 17:11:30"
-  },
-  {
-    "id": "f7249b735d7235bb4070610023a00b73",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L50VGK9S0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=921e88c2bee45b7ef8c9788dea4c59e86d7a3782c515238b32e241e307873c36&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "清华、沃顿师徒破解40年悬案 核心数学全由GPT编写",
-    "summary": "清华大学与沃顿商学院研究者利用GPT 5.6 Sol Pro破解了梯度下降算法40年悬案，证明仅靠调整步长无法达到O（1/T²）收敛速度。该AI通过构造几何方案与对抗预言机策略，首次揭示了纯步长调度的数学极限。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/52859837f541449b8741a8233198adc7_1_0/hd.webp",
-    "realDate": "2026-08-23 11:37:45"
-  },
-  {
-    "id": "58d17dbbb3da9d342f19fc1414746ac8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993141&to_app=hwbrowser&dy_scenario=topicinside&tn=13d5e177acb5214979d4be59cfbd887d4ea14d542a1ef024220c208a0c5a3c81&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI一改此前立场 呼吁加州强化AI安全法案",
-    "summary": "OpenAI近日呼吁加州强化已通过的SB 53 AI安全法案，建议扩大对前沿AI模型的监控及网络安全保护。此前该公司曾反对该法案，但近期其AI模型入侵事件促使立场转变。OpenAI支持“逆向联邦主义”监管思路，推动各州兼容政策为全国标准奠定基础。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/c5632248df2d412a82ec31c4f65b0159_1_0/hd.webp",
-    "realDate": "2026-08-23 09:20:58"
-  },
-  {
-    "id": "1d00a9491434ea17d9f0aed05de3888f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282461457&to_app=hwbrowser&dy_scenario=topicinside&tn=ab64be0b83a6a0bbe69600733773ca450f42d8e04a4ea10bd15e4d35e1e2c7be&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌Gemma下载量破10亿次 AI深度探索癌症治疗新机制",
-    "summary": "谷歌开源模型Gemma全球下载量超10亿次，开发者基于其衍生出超10万定制变体。其中，Gemma支持的C2S-Scale模型通过分析单细胞基因数据，预测出silmitasertib联合低剂量干扰素可提升抗原呈递水平50%，实验证实该组合能将“冷肿瘤”转化为免疫敏感型。目前成果已开源，但尚未进入临床。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/cdec82f538894d2392162ab2576a5fe9_1_0/hd.webp",
-    "realDate": "2026-08-22 20:19:23"
-  },
-  {
-    "id": "48e66b13c85fe354b56c26a9ab00dfc5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993226&to_app=hwbrowser&dy_scenario=topicinside&tn=26704779235ec4124cdc1fd9a816dafebd281fa29d35719601edce759cc0d33b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达砸60亿美元投资Poolside 意图打造中国开源AI竞争对手",
-    "summary": "英伟达近日向AI初创企业Poolside投资60亿美元，换取其AI模型软件授权，并向109名员工提供工作机会，旨在开发与DeepSeek、Kimi K3竞争的开源模型。同时，英伟达将追加10亿美元投资，对应Poolside估值120亿美元。该公司近期加大开源AI投入，此前开发的Nemotron系列模型性能不及中国顶尖开源模型。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/b9b67f8a9dbb4296b2be978e5c201305_1_0/hd.webp",
-    "realDate": "2026-08-23 16:05:55"
-  },
-  {
-    "id": "37ce6f4a6ea5887c62c099a4474c4294",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023741117&to_app=hwbrowser&dy_scenario=topicinside&tn=0abffa8b609c531ff80c9de8c847835236599074977e72eb03f064b9762c77e2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "又一家美企放弃美国模型转用Kimi K3",
-    "summary": "美国AI初创公司Harvey宣布放弃Anthropic等美企模型，转用中国Kimi K3构建内部模型Harvey Tenet。该公司称该模型在法律任务中性能达“最先进”水平，训练耗时两个月。专家指出此举体现开源模型可降低推理成本，同时美企AT&T也表示正评估中国开源选项。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b9/v3/1051023741117/925f8c6b98704a13ad81ec4f4a22fe2b_1_6/hd.webp",
-    "realDate": "2026-08-22 22:26:45"
-  },
-  {
-    "id": "15f7b62effdf143331aae634f0d16339",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104cc82db6ff4becb6e8bd0bed60330cd54&to_app=hwbrowser&dy_scenario=topicinside&tn=93d7b3a27c5a4ae045cb4e092bd576db2298181443cc77a3c0df777dd010d8ca&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "系统自动封停网约车司机账号 荷兰对优步开出8.25亿欧元天价罚单",
-    "summary": "荷兰数据保护局对优步处以8.25亿欧元罚款，因其2018至2022年间通过自动化系统封停网约车司机账号且未充分告知。监管机构称此举违反欧盟《通用数据保护条例》，优步表示将上诉并强调实际受影响司机极少。同时，瑞士数字权利组织正筹备集体诉讼为司机索赔。",
+    "id": "7d1b69e3f5ed3cc9b21f9851acd941a3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e9c2b8e731972d77f8025126295f04bd&to_app=hwbrowser&dy_scenario=topicinside&tn=65f50eadecf5182b2846a93bea9ec2835848b4004595fbd9d301f8fa75106103&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "王兴兴现身世界人形机器人运动会",
+    "summary": "近日，第二届世界人形机器人运动会在国家速滑馆开幕，16国666支队伍参赛。宇树科技创始人王兴兴被网友拍到观赛时展露笑容，此前其公司登陆科创板时因表情平静引发热议。同时，宇树宣布缩减部分参赛项目，称因量产工作紧张未能全力备赛。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/ac5a80c92c6c40d0870657b06d532389_1_0/hd.webp",
-    "realDate": "2026-08-23 09:05:29"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/a9f2af833d2648c999f789501f091cff_1_0/hd.webp",
+    "realDate": "2026-08-24 08:27:10"
   },
   {
-    "id": "721b642823957867931962536eaca762",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512477819125604717991652&to_app=hwbrowser&dy_scenario=topicinside&tn=d1db3873a590d89af882c8a8f161fe5e12ab4ed01cbfee47ca821b32eca33edb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "从视觉产品到灵巧手 中国机器人实现核心零部件自主可控",
-    "summary": "2026世界机器人大会昨日闭幕，展会上国产机器人核心零部件实现自主可控。视觉新品可多部位搭载，帮助机器人避障导航；减速器提升机械臂抓取能力；三指和五指灵巧手已应用于物流分拣等场景，大部分零部件国产化。同时，国产电机、驱动器等核心部件在高风险场景中替代进口，实现技术突破。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7a/v3/Topic_153aae4e9d6a4000ae980e9251543899/6164ee772af04b92a35fc492aa0ab250_1_0/hd.webp",
-    "realDate": "2026-08-23 07:27:37"
+    "id": "bcde057edea472bd7e8e85d1480fcc59",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051253d465634ef4d6a08c2d649f19c30795b0&to_app=hwbrowser&dy_scenario=topicinside&tn=65d9efce269cb07d845e772d29e6ec6fe82eda645cb06ec103fdbd03ee91ff0c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智元灵犀X2获得机器人运动会100米障碍赛决赛冠军",
+    "summary": "8月24日晚，第二届世界人形机器人运动会100米障碍赛决赛中，智元灵犀X2凭借高速机动、动态平衡等五大核心能力夺冠。该赛事重点考核机器人实时感知导航及复杂地形越障等综合运动能力。",
+    "author": "证券时报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/b21ed745b5e948278a8fe4a8a5571139_1_0/hd.webp",
+    "realDate": "2026-08-24 22:59:51"
+  },
+  {
+    "id": "a48f2bde19ac4d49a22b0d547d5700bb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L533O1G80511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=929797ff7412ab1c86e8faa561f9fcd79c941f778387c32f45e9d00bc0f60d00&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic认错！Claude暗中降智实锤",
+    "summary": "开发者argofowl近日发现Claude Code将“high”推理程度误读为10（原“low”档数值），Anthropic工程师证实这是针对2.1.237+版本的数值映射实验，同时Opus 5模型被用户投诉频繁犯低级错误。该团队承认实验未提前告知，但强调不影响模型性能。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/2bf2084423ca4830b97aa99354f8807e_1_0/hd.webp",
+    "realDate": "2026-08-24 07:30:11"
+  },
+  {
+    "id": "852ea614715877329cc9282f975e00b2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074993333&to_app=hwbrowser&dy_scenario=topicinside&tn=4f77ab8b1839a945ce5d4f586f24f7fedda024987973b8fc771c3c271552fe62&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI CEO奥尔特曼担心人工智能会被少数强势主体掌控",
+    "summary": "奥尔特曼担忧人工智能可能被少数公司或个人控制，导致公众失去技术发展话语权。他警告过度监管或引发“用自由换安全”的后果，同时提及Anthropic CEO阿莫迪主张政府加强AI监管。中国已采用开放权重模型降低成本追赶硅谷，而美国部分企业认为需效仿以避免在AI竞赛中落后。奥尔特曼还预测AI将推动小企业创业热潮。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/b1522e6f318f41e6b76386642329c371_1_0/hd.webp",
+    "realDate": "2026-08-24 08:01:11"
+  },
+  {
+    "id": "8f8e782a24677e6ee370d98bfc0bbec9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448a6c81ff32571207d972e70b5bd5c5f9a&to_app=hwbrowser&dy_scenario=topicinside&tn=623f1984df278732aa63b48a5215291879e1404028c69dfca87e120aac9ca6e2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI商业模式遭冲击 发布两个月后 Athropic最贵模型Fable 5仅占企业总支出的11%",
+    "summary": "Anthropic旗舰模型Fable 5发布两月后仅占企业总支出的11%，增长停滞且被自家低价版Opus 5超越。据支付机构Ramp数据，该现象源于其高昂定价及旧版模型已满足多数需求，动摇了“最强模型驱动营收”的行业逻辑。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/741af6f1de0446e59581cb9efeefc7bf_1_0/hd.webp",
+    "realDate": "2026-08-24 08:06:06"
+  },
+  {
+    "id": "d18be3e235875ada2a99ad96951cb9d4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511180388701a6113653f959ece75a45d6bc1&to_app=hwbrowser&dy_scenario=topicinside&tn=16b504e60f89c615d3dc58fe4d6a60c147c3353077a15847adf1810982ff504f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "增收不增利 拼多多二季度净利润同比下降12%至272亿元",
+    "summary": "拼多多2026年第二季度财报显示，营收1124亿元，同比增长8%，但净利润272亿元同比下降12%。非国际会计准则下净利润285亿元，较2025年同期下降13%。研发投入43亿元，同比增长40%，“千亿扶持”战略加大平台治理和技术研发投入影响利润。公司在雄安新区设立专项公司，员工超4000人。",
+    "author": "上海证券报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/c321605d9646453da8f932de4e6d7373_1_0/hd.webp",
+    "realDate": "2026-08-24 20:49:26"
+  },
+  {
+    "id": "d38c799c4c1b2dd49ce3a98a2c0334ad",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001b65a1480a53b6ac1aa7f7647c94fe7c0&to_app=hwbrowser&dy_scenario=topicinside&tn=8b22040982c88f653d3903fae2bbbb0b54b2e901c8bc1b23994a54a90461d936&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "闻泰科技重磅发布 安世中国推出全球首家12英寸bipolar产品",
+    "summary": "闻泰科技旗下安世中国近日在上海发布全球首款12英寸bipolar功率半导体产品，同时推出T2X和HCS系列芯片100余款，填补车规级高压MOSFET空白。12英寸晶圆较8英寸单颗芯片成本下降50%，安世中国研发周期仅6至12个月，快于行业常规24至36个月。其在小信号二极管等领域全球第一，汽车功率MOSFET居全球前三。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/74ae44c453a1420d9e0e49762fcb427a_1_0/hd.webp",
+    "realDate": "2026-08-24 09:03:43"
+  },
+  {
+    "id": "a7c7db460ac7ab6f533f48c8e7ca9e72",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282462053&to_app=hwbrowser&dy_scenario=topicinside&tn=0d569d5e8d226db26251d83bfb5bcea8a80313482bcdd26ff2497327fe4be049&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SK海力士公布最新HBM进展 称竞争焦点从内存性能转向封装技术",
+    "summary": "SK海力士美国公司副总裁Lee Jae-sik近日在半导体会议上表示，HBM技术竞争焦点正从内存性能转向封装技术。该公司采用MR+MUF封装技术提升现有HBM性能，同时开发混合键合技术以实现20层以上堆叠。HBM需与GPU、代工厂协同设计，其发热问题通过iHBM技术局部冷却解决。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/5edb0a1e583249ba93c8ca8da29be38a_1_0/hd.webp",
+    "realDate": "2026-08-24 11:26:54"
+  },
+  {
+    "id": "4e1fb7899c271c0a559e51e82eb9ef32",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023741264&to_app=hwbrowser&dy_scenario=topicinside&tn=a4339bbe44f8b06b50fa741ebdb40f85acdbcda430369267e53bbe7aed7dbd87&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国团队研发新型高速X光幻影成像设备 可拍运动物体“透视视频”",
+    "summary": "中国科学家研发出桌面型X光幻影成像设备，可对高速运动物体拍摄实时透视视频，辐射剂量更低且设备简单。该技术由中科院和上海交大团队开发，采用旋转掩模提升采集速度，最高帧率达每秒200帧，已成功测试旋转铜盘成像，未来可用于航空发动机检测和医疗动态成像。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/Topic_0d38676b7f6c4719a2dbdddf54c3114a/8cc5324b5a98433c8cbdd8fb2795ea4b_1_0/hd.webp",
+    "realDate": "2026-08-24 13:42:41"
   }
 ]
