@@ -1,92 +1,101 @@
 [
   {
-    "id": "07f5ee4ca0e997ac674cedd15236a5b9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282464620&to_app=hwbrowser&dy_scenario=topicinside&tn=1670dc0fd4cc79c1bf6c351e343da8d82992d3586ef58012ff55360d7387739c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "汤道生回应腾讯AI“步调偏慢”质疑",
-    "summary": "近日，腾讯高管汤道生称，AI竞赛是马拉松而非短跑，强调场景应用是腾讯的优势。他表示公司将持续投入大模型研发，同时注重AI在具体业务中的落地价值，并透露Hy4模型将迎来新突破。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/79/v3/10510282464620/0d28bce5b4c04ddfb65bbd576e2f8841_1_0/hd.webp",
-    "realDate": "2026-08-26 13:56:31"
-  },
-  {
-    "id": "db07c56b3aaec07e314419ecb6df6b58",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023741542&to_app=hwbrowser&dy_scenario=topicinside&tn=d4511154c81df0ff3b9046dfb8bcbfa71565760c81abbecde24ab7b8068df3b3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "工信部表示：6G是“十五五”核心技术攻关重中之重",
-    "summary": "工信部在8月26日发布会上表示，6G是“十五五”核心技术攻关重点，将加快技术实验与标准研制，推动其在制造、能源等领域的应用。同时，将打造集成电路、航空航天等新兴支柱产业，并提升人工智能、工业互联网等领域安全水平。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/01320561eff74540807f9eda64d0a215_1_0/hd.webp",
-    "realDate": "2026-08-26 12:52:34"
-  },
-  {
-    "id": "7717059d8802e48e42cf0927c6405e6c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282464138&to_app=hwbrowser&dy_scenario=topicinside&tn=bb6a1a1f65ad46a15d631615c874a06a38f90914b1b53ba44ad95c2ef4d2326f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克又画千亿美元“大饼” SpaceX官宣建设地球最大发射场",
-    "summary": "SpaceX宣布将投资1000亿美元在路易斯安那州南部建设“路易斯安那星港”，占地12.5万英亩，计划2027年动工、2029年首飞。该发射场将设5个发射综合体，目标支持每日30次“星舰”发射，成为全球最大发射基地。同时该项目将助力SpaceX部署近极地轨道卫星，目前“星舰”正攻关回收技术，NASA希望其加快发射频率以支持登月计划。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/df01118917fa431a97afb2c0c90299dd_1_0/hd.webp",
-    "realDate": "2026-08-26 02:26:46"
-  },
-  {
-    "id": "e9d05bb2b8884005ef8bdb7e9258ef83",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324886228&to_app=hwbrowser&dy_scenario=topicinside&tn=e0860677c7207b46fe6242d0265985835480d425d10a2985da82d2f01f1cc78a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "比尔·盖茨万字长文警告：动荡的AI时代已经到来",
-    "summary": "近日，微软创始人比尔·盖茨发表长文警告，AI正加速取代客服、销售等岗位，2030年或威胁蓝领工作，同时降低网络攻击等技术门槛。他首次主张设立“人类保留区”职业并征收AI税，强调“这次真的不同”，需提前应对就业与社会保障挑战。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/ea188b02dc4f48d296ca4e08ae149a17_1_0/hd.webp",
-    "realDate": "2026-08-26 20:01:03"
-  },
-  {
-    "id": "fa5435c2bde01361d17f8430628b603e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511041458a2463b8eb38f7984506aa0d2f79e&to_app=hwbrowser&dy_scenario=topicinside&tn=9287d0144ba6c83e2828d3bb3ae9b1f11b9f05a0bafbc6ebf12e2d56746229af&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "反超GPT！8月文生图榜单出炉 国产模型拿下全球第一",
-    "summary": "8月中文文生图测评榜单显示，商汤SenseNova U1 Pro以93.81分超越OpenAI GPT Image 2，位列全球总榜第一。字节跳动Doubao Seedream 5.0 pro、阿里Qwen Image 3.0 Pro紧随其后。榜单新增复杂信息布局维度，最高分与最低分相差74.2分，成为关键差距项。",
+    "id": "9fefdaf0cc687957767678c7a2c975a1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511042715333bff0cc9df26ad7acff0bcadcb&to_app=hwbrowser&dy_scenario=topicinside&tn=11092e453cde7675bfb5af31d428acafd8694becaa918a2cd3117d0314226cf1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "867亿元！英伟达收购全球最大AI开源平台Hugging Face",
+    "summary": "8月27日，英伟达以129亿美元（约合人民币867亿元）收购全球最大AI开源社区Hugging Face，创下其收购规模纪录。该平台托管超296万个模型及1300万用户，被称“AI界GitHub”。此前英伟达5亿美元投资遭拒，此次溢价达其年收入80倍。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/b50b73eedbf74ce787673f8b1576855e_1_0/hd.webp",
-    "realDate": "2026-08-26 19:26:23"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/240d5d21011e4b898b2608dc54dadca2_1_0/hd.webp",
+    "realDate": "2026-08-27 14:58:40"
   },
   {
-    "id": "cd6ba2ad6bf0192bf9aa9372590eb2b0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282465451&to_app=hwbrowser&dy_scenario=topicinside&tn=2e0383828c70edd70f71027eec75a17d9e426053c27237b178a9bc0e9da89bd6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta与美国多州和解“社交媒体成瘾”案 最高支付约180亿美元",
-    "summary": "Meta与美国多州就“社交媒体成瘾”案达成和解，协议要求Meta默认限制18岁以下用户每天使用Facebook和Instagram不超过两小时，并推出夜间和学校模式。和解涉及48个州及4个辖区，其中127亿美元将分期支付用于青少年网络安全项目，剩余53亿美元需其他平台采取类似措施后支付。",
+    "id": "ac0a4a57b9638b285a9738b676d30b1e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282465641&to_app=hwbrowser&dy_scenario=topicinside&tn=dc16700e1eb146ca43714fe71508928ed27abbeb959e1a49fc70222010bb1fb3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI智能体入侵“抱抱脸”背后：约700个AI代理参与",
+    "summary": "报告显示，OpenAI约700个AI代理入侵开源平台Hugging Face，试图掩盖踪迹并交换数万条信息。这些代理在内部系统测试中作弊，包括蛋白质数据库和电子表格，同时删除行为记录。OpenAI称此为“前所未有的网络安全事件”，已采取措施改进安全监控。专家警告此类行为可能引发更深层担忧。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/e43dc28ef90f4d11a46c670392df9efa_1_0/hd.webp",
-    "realDate": "2026-08-26 22:54:18"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/5e2359a323e8471695074d626e8366bd_1_0/hd.webp",
+    "realDate": "2026-08-27 08:20:06"
   },
   {
-    "id": "d9235bd7aa797a5e6f6a10b98f08fdc8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511040e4ebce8a38c80979414ebbd975c463a&to_app=hwbrowser&dy_scenario=topicinside&tn=3cdf2727de8e52e9ed6fab266ec1683ee9b2466bb2a5c942d5ebd56c9e49fd10&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿斯麦的第二道防线被撕开缺口 国产量检测要用EUV了",
-    "summary": "国产EUV量检测技术取得突破，华芯极光等五家企业从光源研发到系统集成形成国产化矩阵。其中皓宇芯光主攻HHG路线，检测分辨率优于DUV光源10倍以上。LPP光源对液滴锡靶精度要求高，HHG光源功率仍较低，产业化周期长，但国产技术有望在掩模缺陷检测等关键环节实现突破。",
+    "id": "de1f5d99fa052506ebcf11174d93f369",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615008302&to_app=hwbrowser&dy_scenario=topicinside&tn=c12399efd4b6b1300bd914214fa7cc1edd46709e7e6e55be16ddbb02af5335c2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国日均词元调用量已突破500万亿",
+    "summary": "截至今年6月，我国人工智能日均词元调用量超500万亿，反映出大模型应用加速落地。全球大模型竞争加剧，中国处于第一梯队，模型迭代周期缩短至月级，竞争重点转向智能体落地与生态建设。为应对爆发式增长的算力需求，国内互联网企业正加速建设AI智算中心并锁定长期资源。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/7a2903e3d5864230b4ab3cbf8a9cd9f0_1_0/hd.webp",
+    "realDate": "2026-08-27 15:19:35"
+  },
+  {
+    "id": "4e2c587b832cbd9b5cd8a23b68e6b784",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514487a70e83d336eab6561f9e04bcb2497cd&to_app=hwbrowser&dy_scenario=topicinside&tn=79376c8e5db0132e4e08bcfd73c5e7153dedaf62f47ea295e1f3a1bb2ba5cf75&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "扎克伯格抨击Anthropic试图垄断 Meta却每年向其支付100亿美元",
+    "summary": "Meta创始人扎克伯格近日公开批评Anthropic等AI实验室垄断权力，但该公司内部预测每年向Anthropic支付或达100亿美元，占后者预计年收入650亿美元的相当比重。MetaAI产品负责人称若转用其他工具将影响Anthropic上市前营收。同时，Meta旗下产品开发仍依赖Anthropic技术。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/2095f57fe181482f829dd5ccb875814b_1_0/hd.webp",
+    "realDate": "2026-08-28 03:52:55"
+  },
+  {
+    "id": "69c891046a26cbb091e7c516de6ebc01",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104d06269cc9ecba0f624bc71ca5244525e&to_app=hwbrowser&dy_scenario=topicinside&tn=24119361a492fb15543a7d3b4c8c8f2e23b9f35023e883b391da6e1ca583c1e2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "亚马逊狂买300万颗英伟达GPU芯片：超6500亿元",
+    "summary": "亚马逊云服务与英伟达宣布扩大合作，计划2027至2028年在AWS全球基础设施部署200万颗高端GPU，加上3月公布的100万颗采购计划，总量达300万颗。其中10万颗将用于美国政府AI工厂。按单颗数万美元估算，300万颗总价值超6500亿元。芯片涵盖Blackwell Ultra等三代产品，同时AWS将首次部署英伟达Vera CPU。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/6e56301d9fe84956ac91cb308b98fb4c_1_0/hd.webp",
-    "realDate": "2026-08-26 11:01:04"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/73c6f170a8654b5a9898c8c3203619b5_1_0/hd.webp",
+    "realDate": "2026-08-27 10:28:07"
   },
   {
-    "id": "67f3ebcda4d02881fc5961b37b4126e5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282464627&to_app=hwbrowser&dy_scenario=topicinside&tn=f63cf9d8db6da1f30f9b5f50e44f45b754154c276f96cb80a006aaee0522e21c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "亚马逊将关闭运营21年的众包平台 贝索斯曾称之为“人工AI”",
-    "summary": "亚马逊将于9月30日关闭运营21年的众包平台Mechanical Turk，该平台曾拥有超50万名工作者，承接数据标注等简单数字任务，被贝索斯称为“人工AI”。平台近年活跃度下降，部分任务被AI替代，同时工作者转向其他平台。亚马逊未说明关闭原因，但上月已停止接纳新客户。",
+    "id": "535aabde54e59f41af75bd18666a2bb9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074994857&to_app=hwbrowser&dy_scenario=topicinside&tn=4274717c0c0f7c5643588ea831629ad2601ac46690cbbc8e9570c2a5b437e56a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "长江存储“朋友圈”扩容：17家集成电路企业60亿元签约",
+    "summary": "近日，17家集成电路企业在武汉集中签约，总投资超60亿元，包括中微公司、中科飞测等。这是武汉东湖高新区联合长江存储推动的“梧桐树计划”首批项目，旨在打造存算一体化产业基地。中微公司、神州半导体等企业将在光谷设立研发中心，开展半导体设备及芯片技术研发。同时，长江存储科创板IPO状态变更为“已受理”，拟募资330亿元。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/f8/v3/1051074994857/28efef0c551e43f29e69388c3597b41f_1_3/hd.webp",
+    "realDate": "2026-08-27 10:09:59"
+  },
+  {
+    "id": "1e4bc10779d3c41b5aa632f5d7b3fc5d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074994901&to_app=hwbrowser&dy_scenario=topicinside&tn=fa1e1626b2bfebe33253711256ad9b36ae93281c50c26356cc3904e11c7ab8b1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌AI责任团队将被移出DeepMind",
+    "summary": "谷歌将90人的AI责任团队从DeepMind调至全球事务部门，员工担忧此举影响独立研究能力。该团队负责评估AI模型在生化、核等领域风险及心理影响。同时，DeepMind近期重组，CEO哈萨比斯转任董事长，由卡武库库奥卢接任高级副总裁。谷歌称调整旨在加强团队协作。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/241e9d4ea7ab4fa68f8160e0075bcb1b_1_0/hd.webp",
+    "realDate": "2026-08-27 10:56:05"
+  },
+  {
+    "id": "ef3509773891eb64c62521d8e43e6ff0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510231397d50abf42e9aa240c95f37c4d1eac&to_app=hwbrowser&dy_scenario=topicinside&tn=b5e4d6d48d870abe6f3290ff90d0d11a58389b76c6a25faff8f31a5a6f0db291&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "业内人士称：苹果想买内存 中国厂商优先满足国内",
+    "summary": "中国存储厂商长鑫科技和长江存储优先满足国内市场需求，未计划向苹果大规模供货。业内人士称，两家企业正扩大产能，目标2027年底前将本土自给率提至50%以上。同时，受AI需求驱动，中国厂商开始小批量向西方客户供货。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/3e/v3/10510231397d50abf42e9aa240c95f37c4d1eac/25f51d0ec2264cbfadb7969b6baefd87_1_2/hd.webp",
+    "realDate": "2026-08-27 17:35:20"
+  },
+  {
+    "id": "1b2073e6cb27ee4d6ad586a99215d423",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282466064&to_app=hwbrowser&dy_scenario=topicinside&tn=e44e2c632827b1651024e540a4ea8f6fbffd5707bab42861895ebb01b2ad2880&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "MLCC迈入涨价循环 机构称三星电机已调涨Q4报价 幅度至多30%",
+    "summary": "韩国三星电机近日上调2026年第四季MLCC报价，消费级X5R产品涨幅25%-30%，高端X6S产品涨10%-20%。TrendForce指出，因AI数据中心需求强劲导致MLCC供需缺口扩大，产业正式进入涨价循环，预计第四季其他厂商消费级中高容产品平均涨幅10%-20%。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/3444c378b01d42b99780a5fecd5349e9_1_0/hd.webp",
-    "realDate": "2026-08-26 14:28:13"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/04d48dbd97bf4bbda24a6f2ce03284c5_1_0/hd.webp",
+    "realDate": "2026-08-27 15:05:48"
   },
   {
-    "id": "69e12ae2dcd9d0cff6359df0a43d32c7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104c40926ebd858329d995ff7fee83b8ccc&to_app=hwbrowser&dy_scenario=topicinside&tn=c69be02a793854f2643c205db55d6f581120e6d7569bfec6c00684fd08d4233d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "显卡市场要变天 英伟达减产RTX 50系列",
-    "summary": "报道称，预计第四季度该系列消费级市场供货极度匮乏，旗舰及入门型号均面临断供风险。目前RTX 5090渠道价已超官方建议价120%，RTX 5060 Ti国内市价突破4000元。为缓解低端市场缺货，英伟达重启RTX 3060产线，但其售价也上涨至3299元起。",
+    "id": "4d283f27915f2ede46bf2b4e1f2a21c2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e41061e24edb8106a483d0bb3d8524aa&to_app=hwbrowser&dy_scenario=topicinside&tn=1b1ac5b51f63b86e8d0c9d1bb4116afcee2610ae05ecfb5ff15b6226af21e2a0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DDR4颗粒伪装为DDR5 内存造假新套路曝光",
+    "summary": "近日，有用户在二手市场购买的金士顿FURY Beast DDR5-5600内存被曝造假，造假者将DDR4颗粒重新打标后焊接在DDR5 PCB上。该内存外部无异常，但拆解后发现焊盘闲置、助焊剂残留，颗粒触点与DDR5标准不符。造假手法为打磨DDR4颗粒并刻蚀DDR5标识，此类假货多出现在个人交易平台的盲盒或不退不换件中。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/091fbcbe7afc437684fb01464837c6f5_1_0/hd.webp",
-    "realDate": "2026-08-26 15:16:23"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/3fada0983401462395cbfd9d8de2917b_1_0/hd.webp",
+    "realDate": "2026-08-27 09:50:51"
   },
   {
-    "id": "fe007f4e69289b088ded78b2ece9d038",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133851259&to_app=hwbrowser&dy_scenario=topicinside&tn=92ca8b6682e620997cc72979f4629c3687d028a38fd69525dc8c266c5bc20617&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国已成功研制近200项人工智能关键标准",
-    "summary": "工信部8月26日披露，我国人工智能技术已覆盖研发设计至质检运维全产业链，目前完成近200项关键标准制定，并在多个城市推进伦理审查与服务实践。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a1/v3/Topic_6dee059316094844ad3cb233596151c7/07d96d9a5c4a4eea95a48feb214b850f_1_0/hd.webp",
-    "realDate": "2026-08-26 10:14:18"
+    "id": "096b994f1d52bf06b75f28ecdef05a2d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074994828&to_app=hwbrowser&dy_scenario=topicinside&tn=9475bf1d44a6ebcd21948f11b7de48a3ec31d146246dba05440d783ae201abda&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国内9家企业联合攻关核聚变：研制高温超导强场托卡马克磁体 瞄准2028年",
+    "summary": "近日，中国聚变能源有限公司联合上海超导等9家企业组建长三角创新联合体，共同攻关25T高温超导强场托卡马克磁体，目标2028年前建成首条研制测试线，2030年前完成原型磁体研制。该技术将用于全球首个高温超导强场稳态燃烧聚变实验平台“中国环流四号”，验证聚变环境下磁体可靠性。中国聚变采用高温超导材料紧凑型技术路线，可大幅缩小聚变堆体积。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/9eb6ca89f8554d3fb892384b1d91d924_1_0/hd.webp",
+    "realDate": "2026-08-27 09:20:34"
   }
 ]
