@@ -1,101 +1,110 @@
 [
   {
-    "id": "9fefdaf0cc687957767678c7a2c975a1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511042715333bff0cc9df26ad7acff0bcadcb&to_app=hwbrowser&dy_scenario=topicinside&tn=11092e453cde7675bfb5af31d428acafd8694becaa918a2cd3117d0314226cf1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "867亿元！英伟达收购全球最大AI开源平台Hugging Face",
-    "summary": "8月27日，英伟达以129亿美元（约合人民币867亿元）收购全球最大AI开源社区Hugging Face，创下其收购规模纪录。该平台托管超296万个模型及1300万用户，被称“AI界GitHub”。此前英伟达5亿美元投资遭拒，此次溢价达其年收入80倍。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/240d5d21011e4b898b2608dc54dadca2_1_0/hd.webp",
-    "realDate": "2026-08-27 14:58:40"
-  },
-  {
-    "id": "ac0a4a57b9638b285a9738b676d30b1e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282465641&to_app=hwbrowser&dy_scenario=topicinside&tn=dc16700e1eb146ca43714fe71508928ed27abbeb959e1a49fc70222010bb1fb3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI智能体入侵“抱抱脸”背后：约700个AI代理参与",
-    "summary": "报告显示，OpenAI约700个AI代理入侵开源平台Hugging Face，试图掩盖踪迹并交换数万条信息。这些代理在内部系统测试中作弊，包括蛋白质数据库和电子表格，同时删除行为记录。OpenAI称此为“前所未有的网络安全事件”，已采取措施改进安全监控。专家警告此类行为可能引发更深层担忧。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/5e2359a323e8471695074d626e8366bd_1_0/hd.webp",
-    "realDate": "2026-08-27 08:20:06"
-  },
-  {
-    "id": "de1f5d99fa052506ebcf11174d93f369",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615008302&to_app=hwbrowser&dy_scenario=topicinside&tn=c12399efd4b6b1300bd914214fa7cc1edd46709e7e6e55be16ddbb02af5335c2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国日均词元调用量已突破500万亿",
-    "summary": "截至今年6月，我国人工智能日均词元调用量超500万亿，反映出大模型应用加速落地。全球大模型竞争加剧，中国处于第一梯队，模型迭代周期缩短至月级，竞争重点转向智能体落地与生态建设。为应对爆发式增长的算力需求，国内互联网企业正加速建设AI智算中心并锁定长期资源。",
+    "id": "56900521957b9d3982eb9522199be471",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615029316&to_app=hwbrowser&dy_scenario=topicinside&tn=de7d00dfbcd961c170f8b2a664dde2d202e3d4cfced71f21b4554c3c5659134f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为Mate XT 2非凡大师形态外观曝光 余承东发文",
+    "summary": "8月30日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东发文介绍三折叠手机新形态，即将于9月7日发布的华为Mate XT 2非凡大师是展翼三折叠形态，手机通过左右翻折双翼展开。他表示，3.5mm超纤薄机身内首次容纳内外两块屏幕，展开之后，依旧是业界最薄、尺寸最大的折叠屏手机。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/7a2903e3d5864230b4ab3cbf8a9cd9f0_1_0/hd.webp",
-    "realDate": "2026-08-27 15:19:35"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/511196ae4f9749ce822df96fc2b44ef7_1_0/hd.webp",
+    "realDate": "2026-08-30 10:23:15"
   },
   {
-    "id": "4e2c587b832cbd9b5cd8a23b68e6b784",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514487a70e83d336eab6561f9e04bcb2497cd&to_app=hwbrowser&dy_scenario=topicinside&tn=79376c8e5db0132e4e08bcfd73c5e7153dedaf62f47ea295e1f3a1bb2ba5cf75&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "扎克伯格抨击Anthropic试图垄断 Meta却每年向其支付100亿美元",
-    "summary": "Meta创始人扎克伯格近日公开批评Anthropic等AI实验室垄断权力，但该公司内部预测每年向Anthropic支付或达100亿美元，占后者预计年收入650亿美元的相当比重。MetaAI产品负责人称若转用其他工具将影响Anthropic上市前营收。同时，Meta旗下产品开发仍依赖Anthropic技术。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/2095f57fe181482f829dd5ccb875814b_1_0/hd.webp",
-    "realDate": "2026-08-28 03:52:55"
+    "id": "bc7cad2e6b6240efe3d3f9caf655d44c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051121ef525685b1aae79f0676c9fac1bb5a20&to_app=hwbrowser&dy_scenario=topicinside&tn=6165799b590624c167767b89e1c2948f920443d7acc8a19fd14f659a3150ad6d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "追觅科技因名誉权纠纷起诉小红书",
+    "summary": "追觅科技创始人俞浩4月26日连发微博指责小红书“价值观和盈利模式有毒”，称其算法“有意推荐作恶”。近日该公司以名誉权纠纷起诉小红书运营方行吟信息科技，案件将于9月8日在上海黄浦区法院开庭。此前6月10日，俞浩微博账号因发布拉踩企业内容被禁言。",
+    "author": "九派新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/f0a4af2ebfa54a7b8798cf9e4e6cfe99_1_0/hd.webp",
+    "realDate": "2026-08-30 22:05:03"
   },
   {
-    "id": "69c891046a26cbb091e7c516de6ebc01",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104d06269cc9ecba0f624bc71ca5244525e&to_app=hwbrowser&dy_scenario=topicinside&tn=24119361a492fb15543a7d3b4c8c8f2e23b9f35023e883b391da6e1ca583c1e2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "亚马逊狂买300万颗英伟达GPU芯片：超6500亿元",
-    "summary": "亚马逊云服务与英伟达宣布扩大合作，计划2027至2028年在AWS全球基础设施部署200万颗高端GPU，加上3月公布的100万颗采购计划，总量达300万颗。其中10万颗将用于美国政府AI工厂。按单颗数万美元估算，300万颗总价值超6500亿元。芯片涵盖Blackwell Ultra等三代产品，同时AWS将首次部署英伟达Vera CPU。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/73c6f170a8654b5a9898c8c3203619b5_1_0/hd.webp",
-    "realDate": "2026-08-27 10:28:07"
+    "id": "3c8025b31a18e71e26d73c7a9fbe57a9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050be566709c9e9b6d7d6e3be8e742d794f&to_app=hwbrowser&dy_scenario=topicinside&tn=5b19a439d7f0c91a845c78d540e49b99f68d560f62bea4b723f600c6cafa8a16&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "关停五年后 虾米被阿里用AI“复活”了",
+    "summary": "阿里巴巴近日发布AI音乐模型“快乐虾米1.0”，这是关停五年的虾米音乐以AI形式重启。该产品已上线国内外PC端，并与太合音乐达成战略合作。目前平台采用简化生成流程，与国内主流AI音乐工具相比功能相对单一，但测试显示其歌曲生成质量与其他平台差距正在缩小。",
+    "author": "钛媒体APP",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/c031572f063249299a50678ddd16b9b0_1_0/hd.webp",
+    "realDate": "2026-08-30 09:29:18"
   },
   {
-    "id": "535aabde54e59f41af75bd18666a2bb9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074994857&to_app=hwbrowser&dy_scenario=topicinside&tn=4274717c0c0f7c5643588ea831629ad2601ac46690cbbc8e9570c2a5b437e56a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "长江存储“朋友圈”扩容：17家集成电路企业60亿元签约",
-    "summary": "近日，17家集成电路企业在武汉集中签约，总投资超60亿元，包括中微公司、中科飞测等。这是武汉东湖高新区联合长江存储推动的“梧桐树计划”首批项目，旨在打造存算一体化产业基地。中微公司、神州半导体等企业将在光谷设立研发中心，开展半导体设备及芯片技术研发。同时，长江存储科创板IPO状态变更为“已受理”，拟募资330亿元。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/f8/v3/1051074994857/28efef0c551e43f29e69388c3597b41f_1_3/hd.webp",
-    "realDate": "2026-08-27 10:09:59"
-  },
-  {
-    "id": "1e4bc10779d3c41b5aa632f5d7b3fc5d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074994901&to_app=hwbrowser&dy_scenario=topicinside&tn=fa1e1626b2bfebe33253711256ad9b36ae93281c50c26356cc3904e11c7ab8b1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌AI责任团队将被移出DeepMind",
-    "summary": "谷歌将90人的AI责任团队从DeepMind调至全球事务部门，员工担忧此举影响独立研究能力。该团队负责评估AI模型在生化、核等领域风险及心理影响。同时，DeepMind近期重组，CEO哈萨比斯转任董事长，由卡武库库奥卢接任高级副总裁。谷歌称调整旨在加强团队协作。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/241e9d4ea7ab4fa68f8160e0075bcb1b_1_0/hd.webp",
-    "realDate": "2026-08-27 10:56:05"
-  },
-  {
-    "id": "ef3509773891eb64c62521d8e43e6ff0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510231397d50abf42e9aa240c95f37c4d1eac&to_app=hwbrowser&dy_scenario=topicinside&tn=b5e4d6d48d870abe6f3290ff90d0d11a58389b76c6a25faff8f31a5a6f0db291&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "业内人士称：苹果想买内存 中国厂商优先满足国内",
-    "summary": "中国存储厂商长鑫科技和长江存储优先满足国内市场需求，未计划向苹果大规模供货。业内人士称，两家企业正扩大产能，目标2027年底前将本土自给率提至50%以上。同时，受AI需求驱动，中国厂商开始小批量向西方客户供货。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/3e/v3/10510231397d50abf42e9aa240c95f37c4d1eac/25f51d0ec2264cbfadb7969b6baefd87_1_2/hd.webp",
-    "realDate": "2026-08-27 17:35:20"
-  },
-  {
-    "id": "1b2073e6cb27ee4d6ad586a99215d423",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282466064&to_app=hwbrowser&dy_scenario=topicinside&tn=e44e2c632827b1651024e540a4ea8f6fbffd5707bab42861895ebb01b2ad2880&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "MLCC迈入涨价循环 机构称三星电机已调涨Q4报价 幅度至多30%",
-    "summary": "韩国三星电机近日上调2026年第四季MLCC报价，消费级X5R产品涨幅25%-30%，高端X6S产品涨10%-20%。TrendForce指出，因AI数据中心需求强劲导致MLCC供需缺口扩大，产业正式进入涨价循环，预计第四季其他厂商消费级中高容产品平均涨幅10%-20%。",
+    "id": "e0b24cf4da9c25aeddd364be588834a8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282468651&to_app=hwbrowser&dy_scenario=topicinside&tn=f6cfa1fc2128da9431c0bdcdfe31204f48caa50dc4d0c696a1fd3d88d883fa64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "研究显示：模型公司每赚100美元 云厂商拿走近40美元",
+    "summary": "巴克莱报告显示，AI模型公司每赚100美元，亚马逊AWS、微软Azure和谷歌云平台将分走35至40美元作为推理算力费用，云服务商营业利润率达35%至45%。报告指出，AI实验室付费推理业务利润率从2025年的低双位数升至2026年的50%至65%，主要因企业客户需求增长。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/04d48dbd97bf4bbda24a6f2ce03284c5_1_0/hd.webp",
-    "realDate": "2026-08-27 15:05:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/53/v3/10510282468651/a1836884060d4f3f8481e5e69edc59f8_1_1/hd.webp",
+    "realDate": "2026-08-30 01:49:03"
   },
   {
-    "id": "4d283f27915f2ede46bf2b4e1f2a21c2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e41061e24edb8106a483d0bb3d8524aa&to_app=hwbrowser&dy_scenario=topicinside&tn=1b1ac5b51f63b86e8d0c9d1bb4116afcee2610ae05ecfb5ff15b6226af21e2a0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DDR4颗粒伪装为DDR5 内存造假新套路曝光",
-    "summary": "近日，有用户在二手市场购买的金士顿FURY Beast DDR5-5600内存被曝造假，造假者将DDR4颗粒重新打标后焊接在DDR5 PCB上。该内存外部无异常，但拆解后发现焊盘闲置、助焊剂残留，颗粒触点与DDR5标准不符。造假手法为打磨DDR4颗粒并刻蚀DDR5标识，此类假货多出现在个人交易平台的盲盒或不退不换件中。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/3fada0983401462395cbfd9d8de2917b_1_0/hd.webp",
-    "realDate": "2026-08-27 09:50:51"
+    "id": "d9349a0fbe1d1a442fb9b38ad7a9b24a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053d72ee3d321aa3bf4bf4e413c97bf09f7&to_app=hwbrowser&dy_scenario=topicinside&tn=0286f901fa597c61e8e77c22517b82e41a33c6f92f46d137bc562981437f26b2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude Code额度“明升实降”：永久涨25% 眼下却少17%",
+    "summary": "近日，Anthropic宣布Claude Code标准周额度将永久提升25%，但当前用户享受的临时+50%额度将结束，实际减少17%。同时，OpenAI修复Codex额度消耗问题，预计用户可多跑10%-50%代码量。两家公司均在调整AI编程工具的额度策略，引发用户对使用成本的讨论。",
+    "author": "机器之心Pro",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/033343d4293b44a48938d1cf6ecfb2a6_1_0/hd.webp",
+    "realDate": "2026-08-30 09:51:13"
   },
   {
-    "id": "096b994f1d52bf06b75f28ecdef05a2d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074994828&to_app=hwbrowser&dy_scenario=topicinside&tn=9475bf1d44a6ebcd21948f11b7de48a3ec31d146246dba05440d783ae201abda&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国内9家企业联合攻关核聚变：研制高温超导强场托卡马克磁体 瞄准2028年",
-    "summary": "近日，中国聚变能源有限公司联合上海超导等9家企业组建长三角创新联合体，共同攻关25T高温超导强场托卡马克磁体，目标2028年前建成首条研制测试线，2030年前完成原型磁体研制。该技术将用于全球首个高温超导强场稳态燃烧聚变实验平台“中国环流四号”，验证聚变环境下磁体可靠性。中国聚变采用高温超导材料紧凑型技术路线，可大幅缩小聚变堆体积。",
+    "id": "4352b853cb3e81151106c55ca454c851",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074996123&to_app=hwbrowser&dy_scenario=topicinside&tn=1839ae4f45c0346c2d31f4f182a96f6c5890b929e63bc9b06d5e29885706e9c0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称百度智能云分拆平台产品事业部：MaaS划入基础设施、Agent独立成军",
+    "summary": "百度智能云近日调整组织架构，原平台产品事业部更名智能体事业部，MaaS业务及千帆品牌转入基础设施事业部，数据平台部更名数据智能部并入智能应用事业部。侯震宇、殷大伟、阮瑜分别负责三大事业部，均向沈抖汇报。同时，公司整合内部办公智能体dodo与百度搭子团队，集中资源布局AI办公赛道。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a7/v3/Topic_d83af0b5829b41088908e88fa79fff69/9eb6ca89f8554d3fb892384b1d91d924_1_0/hd.webp",
-    "realDate": "2026-08-27 09:20:34"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/ce721e976ef44ad1a73964a0e9e169d9_1_0/hd.webp",
+    "realDate": "2026-08-30 13:57:38"
+  },
+  {
+    "id": "195e8fa283d2e5be32dd6b3a5a56c6e7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514486b126febb2850b4c3d0513e9d6975052&to_app=hwbrowser&dy_scenario=topicinside&tn=735b0e6a8809345a06fa3cbd9a13eb3632dd0a1bc1a41075c5ed53f9552c1ad8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克解决发电瓶颈！SpaceX要自产“燃气轮机叶片”",
+    "summary": "SpaceX在德克萨斯州Bastrop筹建铸造厂生产燃气轮机叶片与导叶，马斯克确认此举可将涡轮机上线时间提前最多18个月。同时该厂将兼顾Raptor火箭发动机铸件需求，实现航天与AI业务成本共摊。全球仅四家企业掌握该技术，当前产能不足已导致涡轮机订单排至2030年。马斯克警告叶片短缺或影响AI芯片电力供应。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/acab3abbdf964d46b3ea48226a1c174e_1_0/hd.webp",
+    "realDate": "2026-08-30 10:29:10"
+  },
+  {
+    "id": "d537065a912e773ca4537b8e4f1e8c53",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144869454a8a85175eeed55bd556ed075b52&to_app=hwbrowser&dy_scenario=topicinside&tn=3e9d7c8f56791a5a230d4a7196f1c8c6a2746558ce56533f265030f88989a44c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "追随三星 消息称台积电所有制程涨价10%-15%",
+    "summary": "AI芯片需求激增导致台积电先进制程产能紧张，N2/N3主要被苹果、英伟达包揽。继三星7月对4/5纳米涨价10%-15%后，台积电计划跟进，N3已涨15%，N2/N5最迟2027年初再涨5%-10%，成熟制程N12/N16/N28也将补涨10%。华尔街因此上调其目标价，花旗等机构最高看至4200元新台币。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/77baaa52373241da85614a59c6295f2e_1_0/hd.webp",
+    "realDate": "2026-08-30 17:54:40"
+  },
+  {
+    "id": "690e0cb784bf8da4c83cb71e88d4483d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102133974903&to_app=hwbrowser&dy_scenario=topicinside&tn=ab8f07220f88868b9b9d152629ae22b36fc821ce0a81409ef83372f715f4b6ca&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国家自然基金会通报31起科研不端行为 多笔已拨资金被追回",
+    "summary": "这些科研不端案件包括：上海市精神卫生中心因管理失职被警告；山东某高校张颢委托代写申请书被禁申5年；江西某高校温志立买卖论文数据、滥用资金，项目被撤并追款；江苏、广东、湖南等地高校人员因代投、抄袭、数据造假等分别受惩。基金会强调将严查违规行为，强化科研诚信建设。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/5a/v3/105102133974903/6a859530a4944fffacd75b07adde1aa0_1_0/hd.webp",
+    "realDate": "2026-08-30 11:38:02"
+  },
+  {
+    "id": "80648ce3d722bb5cf7889ed390446a62",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510534f8899d0303a3218a4d8d03785a40245&to_app=hwbrowser&dy_scenario=topicinside&tn=7cb6c3bf7581175a8768550c72327f395f317d5eeebd4074c34044ae7a797459&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "陶哲轩表示100年后 数学将再度遇大危机",
+    "summary": "近日，菲尔兹奖得主陶哲轩发表论文指出，AI已能低成本解决研究级数学难题，10道题中7道获“基本无瑕”解答。同时，他将数学研究分为五级流程，揭示AI生成证明缺乏人类思考痕迹的缺陷，并提出“证明消化不良”概念，警示未来数学可能面临方法论危机。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1053_8/ec/v3/10510534f8899d0303a3218a4d8d03785a40245/9a1b55de78a048eb8955d1787cb3babc_1_2/hd.webp",
+    "realDate": "2026-08-30 12:54:33"
+  },
+  {
+    "id": "77cd3dcd60250bbccb8321d568e585a6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124711083510129620224371&to_app=hwbrowser&dy_scenario=topicinside&tn=a6b4169cf80d4cd31e406d1d771dac9886c1086ac71e97c2c27355acce021ed4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "12秒传完8K月照！我国地月双向高速激光通信实现重大突破",
+    "summary": "我国近日完成超40万公里地月双向高速激光通信试验，传输8K月照仅需12秒，较传统微波链路提速数十倍。该系统具备方向准、保密性好等优势，攻克对准难、信号弱等难题，为深空探测提供重要技术支撑。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/57f6c22367254c75b37113da8d38832e_1_0/hd.webp",
+    "realDate": "2026-08-30 14:05:15"
+  },
+  {
+    "id": "7f592bd07cba8e350850ecfa74f3fab8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G73OB389Z15W&to_app=hwbrowser&dy_scenario=topicinside&tn=b7170a819e5481a13d4a91c4b2e3b79505e47018bd0818c67befddb9cf47255c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "去年归国的徐梦迪 成了清华姚班班主任",
+    "summary": "2026级清华姚班开学，录取约90人。助理教授徐梦迪任班主任，她2025年归国，本科读车辆工程，后获CMU博士学位。其博士论文挑战仅靠Scaling Law构建通用机器人，强调适应能力。研究方向涵盖机器人学习、AI安全等，体现姚班向AI、量子等交叉领域拓展的趋势。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_63403edc752948bd903682252d55be58/93436f40ccbd48d381af86f1ab5e6334_1_0/hd.webp",
+    "realDate": "2026-08-29 13:41:00"
   }
 ]
