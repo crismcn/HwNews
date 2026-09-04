@@ -1,110 +1,92 @@
 [
   {
-    "id": "f73d1ae85d8b39f1a79e161c423cab02",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023742565&to_app=hwbrowser&dy_scenario=topicinside&tn=300816c056da0ef6c9309e545ad91f50588337afffa5fcd2baee2d797a3f4591&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI官宣下一代模型：能自己找漏洞并发起攻击",
-    "summary": "近日，OpenAI宣布将发布新一代AI模型Astra，该模型能自主发现并利用“零日漏洞”发起攻击，在ExploitBench测试中获得满分。其网络安全能力被评估为“关键”等级，远超此前模型。同时，OpenAI表示将严格限制其访问权限，仅向部分测试人员开放高级功能，并通过Daybreak联盟扩展防御用途。",
+    "id": "e8bd3bbd709117f54385ed7ee1f44e5b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282473745&to_app=hwbrowser&dy_scenario=topicinside&tn=1b9b7aa29548e3041088139037ea6093b911e16c2710f4be8faf0ec4ceaa730e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI发布地球最强大模型GPT-6",
+    "summary": "9月4日，OpenAI正式发布GPT-6 Astra，并称其为“目前全球最智能、且对齐程度最高的模型”，在计算机操作、网页浏览、软件工程、网络安全、科学研究以及专业工作方面均达到当前最先进水平。其中，漏洞利用能力达100%，对齐程度显著提升至突破授权比例0%。该模型可自主完成软件操作、金融建模等专业任务。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/0f2dfcd0b6c746438d6a8bd7c23d7842_1_0/hd.webp",
+    "realDate": "2026-09-04 04:57:33"
+  },
+  {
+    "id": "33a20d3c6f2b5898ff093e8fedab990c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074997725&to_app=hwbrowser&dy_scenario=topicinside&tn=2a1574b717c7fbc8095ede11a6d9e9c5ff7af4d9f5134369a570747470b02ff5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌广告业务免于被拆分 但法官要求调整运营方式",
+    "summary": "近日，美国弗吉尼亚东区联邦地区法院裁决，不强制拆分谷歌广告技术业务，但要求其调整经营方式，包括向竞争对手开放实时竞价访问。该裁决源于司法部2023年提起的反垄断诉讼，指控谷歌通过控制广告主工具、广告服务器和交易平台巩固垄断地位。谷歌对裁决表示欢迎，称其工具帮助小企业发展。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/b20367cc84a5460d8ac58150cdcea60c_1_0/hd.webp",
+    "realDate": "2026-09-03 07:08:46"
+  },
+  {
+    "id": "0ab2613f9906dfd959fc6f16095c2bf9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074997728&to_app=hwbrowser&dy_scenario=topicinside&tn=69f3ce1e50f63a0e8a78ce91ba10097213e15ceafe486ff5fdd9f57d6a91ac69&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Meta发布最强AI模型Muse Spark 1.3 编码能力超GPT-5.6 Sol",
+    "summary": "该模型编码能力与Anthropic Claude Fable 5.1表现持平，它优化了长周期任务处理，减少20%工具调用次数及25%任务所需token，定价维持每百万词元输入1.25美元、输出4.25美元，将逐步整合至Meta旗下产品。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/1051074997728/efc2e5e87a9e403996614034c4a87aaa_1_1/hd.webp",
+    "realDate": "2026-09-03 07:29:36"
+  },
+  {
+    "id": "5b0d467315a10e66b8099b0c6a1e2695",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448197e1e6cbea96dcf089778f28289b26e&to_app=hwbrowser&dy_scenario=topicinside&tn=4fbecb807c1ce2cb7dcadfffa677b02b17689db11d34b2b7ada433e63f505836&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Hugging Face安全事件成导火索 美国两党联手立法规范AI智能体",
+    "summary": "美国两党议员拟推出《停止失控AI法案》，要求NIST制定AI智能体安全标准。法案通过联邦采购要求承包商达标，但能否落地存不确定性。此前OpenAI旗下AI智能体入侵Hugging Face系统等事件引发安全担忧。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/c1e6a18177a64736835fdcb505017a49_1_0/hd.webp",
+    "realDate": "2026-09-03 21:27:47"
+  },
+  {
+    "id": "3d327a55f6bf56e460d58b7a647c4d8d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023742733&to_app=hwbrowser&dy_scenario=topicinside&tn=0bcb238bcb8321b9730d41ebcedb1076c72bec9f1d379309317c998f83dd7486&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "瑞银称：中国互联网巨头有望两三年内从AI中获利",
+    "summary": "瑞银中国互联网研究主管方锦聪表示，未来两到三年，随着AI算力供给瓶颈缓解，互联网平台有望从芯片等上游环节获得更多利润。腾讯、阿里近期资本开支大幅增长，其中AI算力投入占比显著，阿里AI云服务收入同比增长45%，但相关业务仍面临亏损。瑞银分析师指出，中国模型训练成本仅为美国的十分之一，API业务毛利率达20%-40%。",
     "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/9dcee203220c46a680aeaa8f433b901d_1_0/hd.webp",
-    "realDate": "2026-09-02 14:25:13"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/24a155f687ca44028b84234b18027c09_1_0/hd.webp",
+    "realDate": "2026-09-04 00:05:01"
   },
   {
-    "id": "9eb135570dd976091d0644607c9541ae",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074997494&to_app=hwbrowser&dy_scenario=topicinside&tn=2d687875527b85841ca72f77c1460d8a53f61eb91984f452cf6b732634c66eaf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "苹果官方X账号取关蒂姆·库克 仅关注新任CEO",
-    "summary": "9月1日，苹果官网“领导层”页面更新，约翰·特努斯正式出任苹果首席执行官，并担任公司董事会成员。同时，蒂姆·库克现已卸任CEO一职，转任董事会执行主席。在新旧CEO交棒的期间，苹果Apple官方X账号取关了蒂姆·库克，并仅关注新任CEO约翰·特努斯。公开资料显示，特努斯在苹果任职期间负责监督多款突破性产品硬件研发工作，在多个新产品线诞生过程中发挥重要作用。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/3f8a6400dcca4ff7832bf2aceed3b339_1_0/hd.webp",
-    "realDate": "2026-09-02 15:31:05"
-  },
-  {
-    "id": "97a336bb3a379583ca1cce81bf26cfac",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282472506&to_app=hwbrowser&dy_scenario=topicinside&tn=24ea5e89b2b38353fd61d4d078bae24c141b9b5ebf20f6cb6c57c8bc0b0e2aad&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "黄仁勋G20发声：算力已成国家级基建 未来几年迈向AGI",
-    "summary": "英伟达CEO黄仁勋在G20创新部长级会议上表示，AI正演变为国家级经济基础设施，各国若不充分投资将面临落后风险。他称建设1吉瓦AI设施需500亿-600亿美元，预计本十年末全球需100吉瓦规模。同时强调各国应自主决定AI产业链参与环节，并推广AI应用。",
+    "id": "653b0483d98d45fd0e2638e4e0a86e84",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282472763&to_app=hwbrowser&dy_scenario=topicinside&tn=c3c18de2ab5a3f4e846cea107aa05d0e974aaa3ff43b25ef6d65e72d69f6d02f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "伯克希尔CEO称：AI数据中心是“重大能源机遇” 愿承接科技巨头需求",
+    "summary": "伯克希尔哈撒韦CEO阿贝尔近日表示，AI数据中心是能源业务的重要机遇，公司愿为科技巨头提供电力服务，但需确保不影响其他客户电价。伯克希尔去年在爱荷华州8%用电需求来自数据中心，并强调选址将围绕能源设施而非数据中心本身。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/43/v3/10510282472506/51201b3b85374696b6d343345739ec05_1_1/hd.webp",
-    "realDate": "2026-09-03 01:41:55"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/6dbd084123574b95a26164a77d167642_1_0/hd.webp",
+    "realDate": "2026-09-03 10:47:56"
   },
   {
-    "id": "102fe0df0bf207f0c7b86bbd0041df65",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118be15d2d5f34b8d87e212d9fbe6fedcac&to_app=hwbrowser&dy_scenario=topicinside&tn=f3fd246f58b1c0739203f10b31615036261405d7ca9731b68b670a6378bc2eb1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里更新旗舰模型Qwen3.8-Max",
-    "summary": "9月2日，阿里升级Qwen3.8-Max模型，其前端编程能力在CodeArena榜单以1691分位列全球第一，超越Claude Opus5等竞品。同时该模型以每百万Tokens 5美元的成本成为性价比最优，支持100万上下文Tokens，适用于企业复杂任务。新模型已上线千问AI平台。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/4fa79c21160f4c2d8d8705a71c1516e1_1_0/hd.webp",
-    "realDate": "2026-09-02 13:18:47"
+    "id": "8b4413907d6f057ae89867654bd6c248",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048cea0ddf21602e8d156739acdb28436e&to_app=hwbrowser&dy_scenario=topicinside&tn=e98956a210eac9165cbbf0d5fefff59ee13c2c3f7bca4666d6af8764f4b29ccf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "存储暴涨厂商赚翻天！SSD五大厂营收翻倍",
+    "summary": "2026年第二季度全球前五大企业级SSD厂商合计营收达375.9亿美元，环比增长103.6%，市场份额占91.9%。三星以143.5亿美元居首，SK海力士、美光、铠侠、闪迪分列二至五位。中国供应商产能提升或重塑竞争格局，同时北美云服务商加速向PCIe 5.0迁移推动需求。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/0b96955494c54917b1aa6006d5c00fb8_1_0/hd.webp",
+    "realDate": "2026-09-03 15:07:52"
   },
   {
-    "id": "7086ca5c4137f3a2986be6574454f9cc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206e264025366e93c247600faae30d5b155&to_app=hwbrowser&dy_scenario=topicinside&tn=3be30198e6e28e0c8d3fcc8da336d1502e59d66a42c8fb525db0f313dd7e5c07&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "智谱在天猫开店卖token：个人版每月118元起 团队版598元",
-    "summary": "国产大模型厂商智谱9月2日入驻天猫开设旗舰店，销售GLM Coding Plan订阅套餐，个人版月费118元起，团队版598元起。套餐采用积分制，基于GLM-5.3模型，适配20余款编程工具。此前版本价格大幅上调，Pro版月费从149元涨至538元。智谱称新版模型能力提升且积分计算更透明。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/4fe2c4a3e33845fa8ae5d6c0973d047b_1_0/hd.webp",
-    "realDate": "2026-09-02 13:37:08"
-  },
-  {
-    "id": "8ff6b6faa038940572fba5901bcdc912",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282471584&to_app=hwbrowser&dy_scenario=topicinside&tn=a66f811c04db2fc233469f5591a927ac19940e92e3009e3e28fae69c34e79fd4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国在G20会议上打出“明牌”：表示各国应该对AI监管放手",
-    "summary": "近日，美国于北卡罗来纳州相关会议推出 “卡罗莱纳原则”，倡导AI轻监管，不新设专门法规，只为新场景制定规则。谷歌、Meta、马斯克等企业高层线上参会发声，扎克伯格反对限制开源AI模型，马斯克则批评欧盟监管。当前美国AI地位遭遇外部竞争，中国开源AI模型性价比、性能提升，受到美企关注。",
+    "id": "a57a4f03ce48e886d5602f3a51af6b43",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282472825&to_app=hwbrowser&dy_scenario=topicinside&tn=c697456a3cc3c5285d823576911e89b1540fc583fe4f5968adb42429afdb94d1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电正在进行历史性扩张：全球在建晶圆工厂接近20座",
+    "summary": "台积电近日在中国台湾地区同时建设13座晶圆厂，海外建设5至6座，规模创纪录。高级副总裁侯永清称，芯片制造工具需求自去年底几乎翻倍，设备采购预估值上调至1.9倍。人工智能催生巨大产能需求，供应链面临建筑工人短缺和设备交付压力。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/7b1aa52c4f6e4e21bfecbc0dbbcb550e_1_0/hd.webp",
-    "realDate": "2026-09-02 10:44:26"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c3/v3/10510282472825/635d722475c847f38de0b0413858092d_1_5/hd.webp",
+    "realDate": "2026-09-03 12:41:59"
   },
   {
-    "id": "422f67aeed90a0bc98bc1e96f722eec6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511658df70e220d079e8859cd5062a2e1f729&to_app=hwbrowser&dy_scenario=topicinside&tn=f445abc8d73ae8952aba55d3e7fcb4aa5295bc02d0aa18f63daec6f08487aa49&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "​瞄准Agent时代操作系统 腾讯WorkBuddy上线开放平台",
-    "summary": "腾讯云副总裁刘毅在9月2日的生态发布会上宣布，WorkBuddy开放平台正式上线，定位为Agent时代的操作系统，旨在连接多场景能力而非单一工具。该平台首批引入超百家生态伙伴，同步发布9款联名硬件，覆盖金融、医疗等20余领域，30余个行业应用已完成接入。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/f1dae526a6974f4db995a035a2aa0c4d_1_0/hd.webp",
-    "realDate": "2026-09-02 15:24:38"
-  },
-  {
-    "id": "977fec3e71eea16aed7f40092c65e143",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282471639&to_app=hwbrowser&dy_scenario=topicinside&tn=a5976fcffb9a4039df291d1e061334b45b195367e3f84f240c43cd0804d2d6f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI数据中心耗水引爆担忧 OpenAI CEO反驳",
-    "summary": "OpenAI CEO萨姆·奥尔特曼近日反驳AI数据中心耗水担忧，称现代数据中心用水量与办公楼相当。他援引弗吉尼亚州报告称多数数据中心用水量不高于办公楼，同时以加州杏仁种植为例，指出ChatGPT单次查询耗水仅0.32毫升，远低于单颗杏仁3.56升的用水量。但调查显示71%美国人反对本地建数据中心，70%担忧环境影响。行业组织称正推广无水冷却技术应对争议。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/06a12d75f1644826a21229f36a1ca267_1_0/hd.webp",
-    "realDate": "2026-09-02 11:19:16"
-  },
-  {
-    "id": "fc4a9c958ecd26412be78775ed29f99f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001eb278f4faba207a09f94ea21fbb39364&to_app=hwbrowser&dy_scenario=topicinside&tn=2eddb8711b6618eb01b771e4738179877c86594f5b8e0b9cd98f7e3a853673c4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "X Money刚上线就遭攻击 大量用户莫名收到密码重置邮件",
-    "summary": "社交平台X的支付服务X Money上线后遭遇黑客攻击，大量用户收到密码重置邮件。工程师姆里杜尔・辛海称，攻击者利用公开用户名批量触发密码重置流程，试图窃取账号，但未发现系统被入侵或账号大规模被盗的证据。X Money是X平台推出的金融支付服务，旨在为创作者提供收款便利，同时其金融属性吸引了黑产关注。",
+    "id": "e9e85cff918b59c58dd154142f586ffc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001424c7078523f2c1f29d95df50a478ef5&to_app=hwbrowser&dy_scenario=topicinside&tn=10dd9f37f308bdb8170fea1a90562226ae3d552e8fb6de7e9be2acc89fadc706&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美光探索近GPU NAND闪存技术 有望支撑更大规模人工智能模型",
+    "summary": "美光公司近日研发“近GPU NAND”闪存技术，计划将存储模块部署在GPU附近，支持直接访问数百GB容量。该技术通过优化输入输出速率与带宽，旨在解决大语言模型推理时显存容量不足的问题，为AI模型运行提供新硬件路径。",
     "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/c774f39bea264d138594f0b671b409d2_1_0/hd.webp",
-    "realDate": "2026-09-02 11:43:39"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/5edb8d5983414e84a7caffa46143fbe9_1_0/hd.webp",
+    "realDate": "2026-09-03 14:47:18"
   },
   {
-    "id": "568aa059b1572f423c8cc115e062028c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074997238&to_app=hwbrowser&dy_scenario=topicinside&tn=32ca23bb2fe8626ac54a53cafa3cecb59d726783426120c3f3d381092a43656f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达接近以140亿美元收购Hugging Face 最快本周达成协议",
-    "summary": "英伟达近日正就收购AI初创企业Hugging Face进行深入谈判，交易规模接近140亿美元，最快本周达成协议。收购包括129亿美元收购价及10亿美元员工留任激励。Hugging Face托管超300万个AI模型，若交易完成将成为英伟达拓展AI应用的最大举措。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/d4a7a5a810424cf9b16658a121142693_1_0/hd.webp",
-    "realDate": "2026-09-02 09:39:57"
-  },
-  {
-    "id": "ce53935c98391115a75c3531bd9e4a26",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282471499&to_app=hwbrowser&dy_scenario=topicinside&tn=067d1781369fd29a71d3c419fa687481f0e32e80a8c264a45af89edfcdf9a8d7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI服务器拉动MLCC旺盛需求 三星电机斩获万亿韩元大单",
-    "summary": "三星电机近日与全球客户签署1.07万亿韩元MLCC供应合同，用于AI服务器。该合同占其MLCC事业部去年营收21%，公司市场份额超40%。同时，三星电机已针对消费级和AI服务器产品分别提价25%-30%及10%-20%。行业报告显示，MLCC需求旺盛，第四季供需缺口或扩大，高盛预测全球AI服务器MLCC市场年均增速将达34%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_483a0cc645ce4af6920e5a1932999f11/009b5199fb0744c6b63c31d388b46786_1_0/hd.webp",
-    "realDate": "2026-09-02 09:25:42"
-  },
-  {
-    "id": "3ae73a5c8c8628063374af84ebbb67f1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282471600&to_app=hwbrowser&dy_scenario=topicinside&tn=e1382e2e65a2d1b325cee467bf72313aa8d4e8f89307bb72426b2f297f7059e3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "算电协同再提速！国家能源局部署新型电网建设 人工智能+等新技术获点名",
-    "summary": "国家能源局近日部署新型电网建设，强调需升级算电协同等新业态适配服务，构建“主配微”协同立体电网体系，同时加快研发人工智能+、柔性构网等新技术。此前发改委已建立“六张网”协调机制，明确新型电网“十五五”总投资超5万亿元。机构预测该建设将带动20万亿-25万亿元总体投资，年化增速需超10%。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/9f/v3/10510282471600/44fe177d9cb045f3a5d2a2f96d467f17_1_1/hd.webp",
-    "realDate": "2026-09-02 11:04:31"
+    "id": "fbff863c362d5808950efad8a88a6510",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484046430e25955e275ad19d46a5079fcd&to_app=hwbrowser&dy_scenario=topicinside&tn=0d7b0f9f32f16a6e29f177b682a1122248d5253cc34c76a935a5dcfd29e54f14&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "韩国电力向三星、SK海力士要求预付25万亿韩元电费",
+    "summary": "其中，三星需支付20万亿韩元，SK海力士5万亿韩元，以解决电网扩张资金缺口。此举旨在为龙仁及湖南地区半导体产业集群输电网络建设筹资，同时减少债券发行规模。相关部门表示方案细节尚未最终确定。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/fe3bf5a07eb04e2c82825200da6bc0e5_1_0/hd.webp",
+    "realDate": "2026-09-03 14:26:18"
   }
 ]
