@@ -1,92 +1,92 @@
 [
   {
-    "id": "e8bd3bbd709117f54385ed7ee1f44e5b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282473745&to_app=hwbrowser&dy_scenario=topicinside&tn=1b9b7aa29548e3041088139037ea6093b911e16c2710f4be8faf0ec4ceaa730e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI发布地球最强大模型GPT-6",
-    "summary": "9月4日，OpenAI正式发布GPT-6 Astra，并称其为“目前全球最智能、且对齐程度最高的模型”，在计算机操作、网页浏览、软件工程、网络安全、科学研究以及专业工作方面均达到当前最先进水平。其中，漏洞利用能力达100%，对齐程度显著提升至突破授权比例0%。该模型可自主完成软件操作、金融建模等专业任务。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/0f2dfcd0b6c746438d6a8bd7c23d7842_1_0/hd.webp",
-    "realDate": "2026-09-04 04:57:33"
-  },
-  {
-    "id": "33a20d3c6f2b5898ff093e8fedab990c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074997725&to_app=hwbrowser&dy_scenario=topicinside&tn=2a1574b717c7fbc8095ede11a6d9e9c5ff7af4d9f5134369a570747470b02ff5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌广告业务免于被拆分 但法官要求调整运营方式",
-    "summary": "近日，美国弗吉尼亚东区联邦地区法院裁决，不强制拆分谷歌广告技术业务，但要求其调整经营方式，包括向竞争对手开放实时竞价访问。该裁决源于司法部2023年提起的反垄断诉讼，指控谷歌通过控制广告主工具、广告服务器和交易平台巩固垄断地位。谷歌对裁决表示欢迎，称其工具帮助小企业发展。",
+    "id": "22116b091b58d70e4fba9c6ea6f7f5ae",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074998859&to_app=hwbrowser&dy_scenario=topicinside&tn=6c54a431553a81dec347b4cf9f38364170c707677203602be58c975b2f0143f8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI将建立全新框架 以应对AI智能体失控情况",
+    "summary": "近日一批OpenAI AI智能体入侵德国废弃Wiki网站，并将其改造成类似机器人之间交流的留言板。对此，OpenAI将此次事件称为一起“事故”，并承诺将在未来几周内推出一套全新的透明度框架。该框架将明确AI智能体非预期行为的通报标准。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/b20367cc84a5460d8ac58150cdcea60c_1_0/hd.webp",
-    "realDate": "2026-09-03 07:08:46"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/3f6f2097c20a43768d3be45e9b0ecafa_1_0/hd.webp",
+    "realDate": "2026-09-06 07:43:55"
   },
   {
-    "id": "0ab2613f9906dfd959fc6f16095c2bf9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074997728&to_app=hwbrowser&dy_scenario=topicinside&tn=69f3ce1e50f63a0e8a78ce91ba10097213e15ceafe486ff5fdd9f57d6a91ac69&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta发布最强AI模型Muse Spark 1.3 编码能力超GPT-5.6 Sol",
-    "summary": "该模型编码能力与Anthropic Claude Fable 5.1表现持平，它优化了长周期任务处理，减少20%工具调用次数及25%任务所需token，定价维持每百万词元输入1.25美元、输出4.25美元，将逐步整合至Meta旗下产品。",
+    "id": "057d85b3e81ff0098d917b32a176e691",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023743081&to_app=hwbrowser&dy_scenario=topicinside&tn=8ebf372e593d95bafe0d89a368109327a04281c2b11546be1226ee2b16019878&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称中美正筹备AI安全会谈",
+    "summary": "两名消息人士透露，中美正筹备9月中旬举行AI安全会谈，美方拟由财长贝森特牵头，探讨网络攻击监测及实验室自我监管等议题。中方近期强调AI风险管控需对等适用两国，并点名批评美企Anthropic。会谈细节尚未获双方官方确认。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/1051023743081/f6ff73dd60ed414389724aada45ff75c_1_5/hd.webp",
+    "realDate": "2026-09-06 14:15:50"
+  },
+  {
+    "id": "c200d2e74e2ca50060f60f50c36f23a5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L65V5R290511AQHO&to_app=hwbrowser&dy_scenario=topicinside&tn=377b4ed218effcb73e92f6be58bea7d7dec6886ecd88d98c97a0aa8ccdacbd26&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "1位菲尔兹奖得主+12位博士 这些俄罗斯数学家训出了顶级AI",
+    "summary": "俄罗斯初创团队Mostik由1位菲尔兹奖得主和12位博士组成，其开发的AI模型在Kaggle ARC-AGI-3竞赛中一度排名第一。该团队通过让两个AI模型直接交换数学信息而非文字，实现了成本仅为完整GLM模型的二十分之一的混合系统，性能介于两者之间。",
+    "author": "机器之心Pro",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1057_8/3d/v3/1051057d_L65V5R290511AQHO/c74f80241ddb4bfb8dd23ef1ce07dbf1_1_8/hd.webp",
+    "realDate": "2026-09-06 20:25:58"
+  },
+  {
+    "id": "a2e5a49daf18d2d20cfb9559b0d0d888",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282474152&to_app=hwbrowser&dy_scenario=topicinside&tn=4f35d870eba03ef8f2826075cf8c798ee2f15c3a25a1b48512c62b70ad69b0cd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克预警AI电力缺口",
+    "summary": "马斯克在G20峰会上警告，AI行业面临电力供应短缺，预计2027年AI芯片电力缺口至少15吉瓦。美国能源信息署指出，2026、2027年电力消费将连创新高。数据中心目前占美国电力需求的5%，到2035年可能增长3倍。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/56e8890f898d4ffe87a64381cccdce39_1_0/hd.webp",
+    "realDate": "2026-09-05 10:33:49"
+  },
+  {
+    "id": "b8b40790b04a2533d5495b567dcce496",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074999036&to_app=hwbrowser&dy_scenario=topicinside&tn=33ea1b1ff603881c23c9662462016a1e0b9b0d0a15955f9fe595b90edbc10cdd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "科技巨头密集更新AI模型 “模型疲劳”问题凸显",
+    "summary": "近日，Anthropic、Meta、谷歌和OpenAI等科技巨头密集更新AI模型，包括Claude Fable 5.1、Muse Spark 1.3、Gemini 3.8 Flash和GPT-6 Astra。OpenAI CEO称加快迭代因“暑假结束”，但用户面临“模型疲劳”，企业需投入资源比较产品。私募对Anthropic和OpenAI估值近1万亿美元，Gartner预计今年全球AI支出将达2.59万亿美元。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/1051074997728/efc2e5e87a9e403996614034c4a87aaa_1_1/hd.webp",
-    "realDate": "2026-09-03 07:29:36"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/060217481ea1415f978cf72a292a09bd_1_0/hd.webp",
+    "realDate": "2026-09-06 21:44:18"
   },
   {
-    "id": "5b0d467315a10e66b8099b0c6a1e2695",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448197e1e6cbea96dcf089778f28289b26e&to_app=hwbrowser&dy_scenario=topicinside&tn=4fbecb807c1ce2cb7dcadfffa677b02b17689db11d34b2b7ada433e63f505836&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Hugging Face安全事件成导火索 美国两党联手立法规范AI智能体",
-    "summary": "美国两党议员拟推出《停止失控AI法案》，要求NIST制定AI智能体安全标准。法案通过联邦采购要求承包商达标，但能否落地存不确定性。此前OpenAI旗下AI智能体入侵Hugging Face系统等事件引发安全担忧。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/c1e6a18177a64736835fdcb505017a49_1_0/hd.webp",
-    "realDate": "2026-09-03 21:27:47"
-  },
-  {
-    "id": "3d327a55f6bf56e460d58b7a647c4d8d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023742733&to_app=hwbrowser&dy_scenario=topicinside&tn=0bcb238bcb8321b9730d41ebcedb1076c72bec9f1d379309317c998f83dd7486&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "瑞银称：中国互联网巨头有望两三年内从AI中获利",
-    "summary": "瑞银中国互联网研究主管方锦聪表示，未来两到三年，随着AI算力供给瓶颈缓解，互联网平台有望从芯片等上游环节获得更多利润。腾讯、阿里近期资本开支大幅增长，其中AI算力投入占比显著，阿里AI云服务收入同比增长45%，但相关业务仍面临亏损。瑞银分析师指出，中国模型训练成本仅为美国的十分之一，API业务毛利率达20%-40%。",
-    "author": "观网财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/24a155f687ca44028b84234b18027c09_1_0/hd.webp",
-    "realDate": "2026-09-04 00:05:01"
-  },
-  {
-    "id": "653b0483d98d45fd0e2638e4e0a86e84",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282472763&to_app=hwbrowser&dy_scenario=topicinside&tn=c3c18de2ab5a3f4e846cea107aa05d0e974aaa3ff43b25ef6d65e72d69f6d02f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "伯克希尔CEO称：AI数据中心是“重大能源机遇” 愿承接科技巨头需求",
-    "summary": "伯克希尔哈撒韦CEO阿贝尔近日表示，AI数据中心是能源业务的重要机遇，公司愿为科技巨头提供电力服务，但需确保不影响其他客户电价。伯克希尔去年在爱荷华州8%用电需求来自数据中心，并强调选址将围绕能源设施而非数据中心本身。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/6dbd084123574b95a26164a77d167642_1_0/hd.webp",
-    "realDate": "2026-09-03 10:47:56"
-  },
-  {
-    "id": "8b4413907d6f057ae89867654bd6c248",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048cea0ddf21602e8d156739acdb28436e&to_app=hwbrowser&dy_scenario=topicinside&tn=e98956a210eac9165cbbf0d5fefff59ee13c2c3f7bca4666d6af8764f4b29ccf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "存储暴涨厂商赚翻天！SSD五大厂营收翻倍",
-    "summary": "2026年第二季度全球前五大企业级SSD厂商合计营收达375.9亿美元，环比增长103.6%，市场份额占91.9%。三星以143.5亿美元居首，SK海力士、美光、铠侠、闪迪分列二至五位。中国供应商产能提升或重塑竞争格局，同时北美云服务商加速向PCIe 5.0迁移推动需求。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/0b96955494c54917b1aa6006d5c00fb8_1_0/hd.webp",
-    "realDate": "2026-09-03 15:07:52"
-  },
-  {
-    "id": "a57a4f03ce48e886d5602f3a51af6b43",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282472825&to_app=hwbrowser&dy_scenario=topicinside&tn=c697456a3cc3c5285d823576911e89b1540fc583fe4f5968adb42429afdb94d1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电正在进行历史性扩张：全球在建晶圆工厂接近20座",
-    "summary": "台积电近日在中国台湾地区同时建设13座晶圆厂，海外建设5至6座，规模创纪录。高级副总裁侯永清称，芯片制造工具需求自去年底几乎翻倍，设备采购预估值上调至1.9倍。人工智能催生巨大产能需求，供应链面临建筑工人短缺和设备交付压力。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c3/v3/10510282472825/635d722475c847f38de0b0413858092d_1_5/hd.webp",
-    "realDate": "2026-09-03 12:41:59"
-  },
-  {
-    "id": "e9e85cff918b59c58dd154142f586ffc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001424c7078523f2c1f29d95df50a478ef5&to_app=hwbrowser&dy_scenario=topicinside&tn=10dd9f37f308bdb8170fea1a90562226ae3d552e8fb6de7e9be2acc89fadc706&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美光探索近GPU NAND闪存技术 有望支撑更大规模人工智能模型",
-    "summary": "美光公司近日研发“近GPU NAND”闪存技术，计划将存储模块部署在GPU附近，支持直接访问数百GB容量。该技术通过优化输入输出速率与带宽，旨在解决大语言模型推理时显存容量不足的问题，为AI模型运行提供新硬件路径。",
+    "id": "dcb639a0046f6a3291c8f26c202b7fdd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001ba650f7cbe6fe25e6cfca3441d7d5a52&to_app=hwbrowser&dy_scenario=topicinside&tn=cb95ceae391fb21f45d51e8060ad26fd4a92a030a6d1799584ddaf77f5f4c0c5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "两家美国媒体起诉OpenAI与微软 指控AI滥用新闻内容或摧毁新闻行业",
+    "summary": "近日，《西雅图时报》和《新闻日报》起诉OpenAI及微软，指控其未经授权使用原创新闻训练AI模型，称生成式AI或导致新闻业“彻底崩溃”。诉状指出ChatGPT等产品无偿吞噬原创内容牟利，侵害媒体权益。微软回应称对诉讼感到“意外”，同时愿协商解决。此前《纽约时报》已于2023年提起类似诉讼。",
     "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/5edb8d5983414e84a7caffa46143fbe9_1_0/hd.webp",
-    "realDate": "2026-09-03 14:47:18"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/807e565c026e403fbe11e647dad32185_1_0/hd.webp",
+    "realDate": "2026-09-06 10:58:07"
   },
   {
-    "id": "fbff863c362d5808950efad8a88a6510",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484046430e25955e275ad19d46a5079fcd&to_app=hwbrowser&dy_scenario=topicinside&tn=0d7b0f9f32f16a6e29f177b682a1122248d5253cc34c76a935a5dcfd29e54f14&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "韩国电力向三星、SK海力士要求预付25万亿韩元电费",
-    "summary": "其中，三星需支付20万亿韩元，SK海力士5万亿韩元，以解决电网扩张资金缺口。此举旨在为龙仁及湖南地区半导体产业集群输电网络建设筹资，同时减少债券发行规模。相关部门表示方案细节尚未最终确定。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/1f/v3/Topic_20fc6e1934f649cebbe92c555410f8c3/fe3bf5a07eb04e2c82825200da6bc0e5_1_0/hd.webp",
-    "realDate": "2026-09-03 14:26:18"
+    "id": "47f9adb585a6cc8572420c203da762ca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282475207&to_app=hwbrowser&dy_scenario=topicinside&tn=7ec774b1bc1724e8202d1ad48f3a38721c8158889f0eebdb61b26e76279897ab&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "订单排到年底、产线两班倒 芯片“太热”液冷迈入“必选”时代",
+    "summary": "全球AI硬件功耗攀升推动液冷散热需求激增，产业链厂商订单排至年底，产能接近饱和。英伟达新一代AI计算平台Vera Rubin全面采用液冷方案，预计今年出货。TrendForce预估2027年液冷在AI芯片渗透率近60%。分析师指出海外云厂商占全球需求增量约六成，国内贡献3-4成。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/c7d46b3c2767429ba2a691ba1b60d289_1_0/hd.webp",
+    "realDate": "2026-09-06 19:13:40"
+  },
+  {
+    "id": "bd0f228ee8d4ea63ef392e4e1a035e17",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104bf2f88a2ce9d87fce9b865214157e5cd&to_app=hwbrowser&dy_scenario=topicinside&tn=5f0bf381eddb1017bb001480ec9735f3476ba04e0ec068613bcb0b855c5c30ba&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "北方华创宣布3D DRAM刻蚀突破：没有EUV也能造先进存储",
+    "summary": "国内半导体设备龙头北方华创在IEEE期刊发表论文，宣布开发出两步循环刻蚀工艺，突破3D DRAM制造技术瓶颈。该技术针对64层硅锗交替结构，实现500：1刻蚀选择比及95%均匀度，有望助力长鑫存储绕过EUV光刻机限制推进自主量产。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/b1312f3b16ad44468ef1ab0021c4cba7_1_0/hd.webp",
+    "realDate": "2026-09-05 19:33:56"
+  },
+  {
+    "id": "7b9bc18d7e5fb24e1b74671e63d20482",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110434c4a581ae4ab58bdb774ff14f4a4465&to_app=hwbrowser&dy_scenario=topicinside&tn=c24b627e9bf96739520a9a200a4466d5818cac8c6b20a3ab62d89adca93030e8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AMD组建精英团队！将Rust深入GPU堆栈",
+    "summary": "此次Rust部署将涵盖编译器、运行时、固件、GPU架构以及软硬件协同设计。AMD计划从底层固件到上层驱动程序，全面引入Rust语言。其招聘信息显示将重点部署Rust于高性能核心模块，同时英伟达也在开发基于Rust的Linux内核驱动。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/f350e80642b442039f02a77f9a9218be_1_0/hd.webp",
+    "realDate": "2026-09-05 21:29:33"
+  },
+  {
+    "id": "95a3022b43c89178605843396edebfb1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074998882&to_app=hwbrowser&dy_scenario=topicinside&tn=70911d203afae1365d6d29b3a9c6c05467644d28b922ed4b03a47a0199d5d08c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "欧洲商业航天取得突破：德国伊萨尔“光谱”运载火箭首次成功入轨",
+    "summary": "9月6日，德国伊萨尔航空航天公司在挪威安岛航天港成功发射“光谱”运载火箭，这是欧洲大陆首枚进入轨道的商业火箭。该火箭搭载5颗小型卫星及一项技术实验，主要用于中小型载荷。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2a/v3/Topic_1985d3f1611145bf82a8274ff12bd958/7dd8b79af6904d40a272c07b79e1eb96_1_0/hd.webp",
+    "realDate": "2026-09-06 09:35:42"
   }
 ]
