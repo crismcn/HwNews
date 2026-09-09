@@ -1,101 +1,119 @@
 [
   {
-    "id": "82768bbde30f71a79ecfe2339406b709",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512172909150105292414&to_app=hwbrowser&dy_scenario=topicinside&tn=9dcdb0131c36c29049dab6551f9fc2e10a5846132a0423d400b35b93c9bfc0a1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为首款阔直板手机Pura X View发布 5999元起",
-    "summary": "该手机首发HarmonyOS 7系统，支持北斗卫星通信。业界首发16:9.5阔型屏，屏占比达96.1%，带来直板手机前所未有的开阔视野。同时，该手机配备7000mAh电池，整机厚度仅6.68mm。搭载XMAGE 2亿红枫影像系统，支持AI辅助拍摄与沉浸式交互体验。售价5999元起，将于9月9日正式开售。",
-    "author": "花先锋队长",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/f69853e2238241568b3cfa44074d4166_1_0/hd.webp",
-    "realDate": "2026-09-07 17:31:14"
+    "id": "3473aa1e8520aeaa76a8bef9bfa03805",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103356428&to_app=hwbrowser&dy_scenario=topicinside&tn=202de75c7fea96a499c8df996e27089438350a87c3cf2155026b45f0fc1bf414&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepSeek新模型限时内测 速度更快 烧钱也更快",
+    "summary": "9月8日，DeepSeek宣布V4.1 Flash模型开启限时内测，开发者可通过API调用体验，9月10日将自动下线。新模型支持多模态，任务处理速度显著提升，如SVG生成快6倍，但部分开发者反映“5分钟10块钱”消耗较快。官方称计费标准与V4 Flash相同，底层效率提升或降低实际成本。近40天该公司已密集推出V4 Flash、V4 Pro等多款模型及开发工具。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/19f40129139c40c080ccc3ce7c3abec7_1_0/hd.webp",
+    "realDate": "2026-09-08 18:31:27"
   },
   {
-    "id": "5c037f42618c855fff8b9658feb9d500",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074999352&to_app=hwbrowser&dy_scenario=topicinside&tn=caf60ecff0ae0c2ab91655475cad3a6dfabae4fd1fcc0669e2d0c1b3119f7009&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为鸿蒙6和鸿蒙7终端设备数突破8500万",
-    "summary": "9月7日，在华为Mate XT 2及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东宣布，鸿蒙6和鸿蒙7终端设备数突破8500万。三年以来，鸿蒙终端设备数持续增长，预计将在今年第四季度内突破1个亿。",
+    "id": "1b16cb70d10d8b229daa6e62932a7a0f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105104897a696ae679aeae22d87fe9de17079c2&to_app=hwbrowser&dy_scenario=topicinside&tn=46ade2d2bc9cf3c65fd596978c24aaaa0f8afbc89e6249b4bfbb36500906a67c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“中国天眼”完成关键跨越",
+    "summary": "中国科学院国家天文台9月8日宣布，“中国天眼”（FAST）构建了世界最大中性氢星系样本库，探测源从4万增至15.6万，覆盖天区达19500平方度。该数据集被国际审稿人评为“里程碑式”，将助力暗物质研究、星系演化模型验证等前沿领域。FASHI项目二期数据已向全球公开。",
+    "author": "北京日报客户端",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/2e203c5c5e234049a295dd1f551c739d_1_0/hd.webp",
+    "realDate": "2026-09-08 18:21:29"
+  },
+  {
+    "id": "9e124b3025f5e56ab9ed8b7e80a189b9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074999895&to_app=hwbrowser&dy_scenario=topicinside&tn=2355a6a32d29da79fb9befa858a995a292c4bb0cfd51c6b77ddb04741ff13dcd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为HarmonyOS 7发布24小时后累计升级终端设备数突破500万",
+    "summary": "新系统主打全新空间美学，搭载Harmony Intelligence智能架构，拥有系统智能体小艺、鸿蒙空间计算等功能，升级了安全与流畅性能，已正式开启公测。此前余承东透露，鸿蒙6与鸿蒙7终端数已达8500万，预计第四季度突破1亿。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/0c0a9ef8a26c48bdb87e99ebf663c5e1_1_0/hd.webp",
-    "realDate": "2026-09-07 16:41:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/d831daa9a1ec403297e630bb6a14fa98_1_0/hd.webp",
+    "realDate": "2026-09-08 19:14:43"
   },
   {
-    "id": "fc112d45a3c98919b2d56cad5da22d0f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8wEYCmZZFWa&to_app=hwbrowser&dy_scenario=topicinside&tn=86dfaff1344d7b6e42b5e1ac83d4888547d587de029fa1ed341e3e496ccf3f84&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "字节跳动新AI模型曝光 张一鸣亲自负责",
-    "summary": "据报道，字节跳动创始人张一鸣近日亲自监督开发一款实时生成空间视频的AI模型，最快下月发布。该模型基于Seedance构建，能以每秒20帧、0.05秒延迟生成交互式虚拟世界，应用于Pico头显。同时，其云端处理技术或降低VR设备成本，与Meta、苹果在空间计算领域展开竞争。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/cf2908536f024445a37129c855303f8f_1_0/hd.webp",
-    "realDate": "2026-09-07 21:52:16"
-  },
-  {
-    "id": "552a0f7611d06402ad0a6826574953b2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051165d50b4f8c846c1fc8c8de6be46be7124e&to_app=hwbrowser&dy_scenario=topicinside&tn=6e87da4ce330e00e1fd54ed0e23455861839d0e002b17037590e67145e332f94&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "讯飞星火X2.5正式发布 重点提升代码与智能体能力",
-    "summary": "该模型采用MoE架构，参数规模达293B-A30B，重点优化代码生成与智能体功能，同时提升数学及理解等通用能力。该模型基于国产算力完成全流程训练，已上线开放平台。此前，其端侧版本X2.5-4B和1.7B已开源，支持百万Token上下文，适用于本地长文档处理及代码辅助等场景。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/ce19a47e8a234a0380cb25fadbc26b2c_1_0/hd.webp",
-    "realDate": "2026-09-07 12:03:47"
-  },
-  {
-    "id": "b7932c8567a7c2fe2d7e451ed11c541a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483c9e985eb779e838e0132091da97300e&to_app=hwbrowser&dy_scenario=topicinside&tn=edea638077c4ab0b08b315f3e40f67a013eda4d29b2c7ec1193329060704088a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "黄仁勋称：AGI已到来 OpenAI Astra背后是英伟达",
-    "summary": "英伟达CEO黄仁勋近日宣布人工通用智能时代到来，称OpenAI最新旗舰模型Astra由超10万张英伟达Grace Blackwell NVLink72芯片训练而成，同时预告40万张GPU即将上线。但AI研究者Gary Marcus质疑黄仁勋未提供AGI定义依据，OpenAI CEO Sam Altman也认为AGI定义模糊。",
+    "id": "dd869bb47a92635d3b2ebbad79fa2c6d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514488849f23a0182af75de71c12f9f372f3f&to_app=hwbrowser&dy_scenario=topicinside&tn=d70036ed16f0396b6e4fa1ff312bbd0b1e3a1c167c457555f252458d993a8572&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI发布ChatGPT Images 2.5：生成速度最高提升50%",
+    "summary": "该模型生成速度较上代提升50%，新增Sketch功能支持手绘草图转图片，并允许用户圈选局部直接修改。同时推出Flare和Sunburst两款API，分别优化生成速度与专业创作精度。该模型在人物、宠物特征保留及多轮编辑一致性方面显著改进。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/007bf0ec5e064c14a5536e65b3b79dd6_1_0/hd.webp",
-    "realDate": "2026-09-07 14:05:58"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/a1129e50e4d04ee894e0047ef32de684_1_0/hd.webp",
+    "realDate": "2026-09-09 02:37:35"
   },
   {
-    "id": "71261eaa921cb55db143b86f3e4e17f0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104919996457a8bea40d54d1fbb5878087d&to_app=hwbrowser&dy_scenario=topicinside&tn=b358629ab571e14ed069a1c6afaefb116f8f61750ad1887dee88f475ef6be958&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "闻泰科技否认创始人张学政跑路海外",
-    "summary": "近日，有报道称闻泰科技创始人张学政“跑路海外”，对此闻泰科技称“创始人拿加拿大绿卡”等传言与事实严重不符，已委托律师提起名誉权侵权诉讼，法院已同意立案。同时，公司因安世半导体控制权纠纷被实施退市风险警示，正向安世荷兰索赔80亿元，法院已冻结对方21.39亿元境内资产。",
+    "id": "c6101875a9cd8868db1de881c29df04c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105122164ca7c518633e8fde623c7261cd1f71f&to_app=hwbrowser&dy_scenario=topicinside&tn=8d29f7d3103149137ae9aea1c57fc0eaa3063b67ff8521dd90de0850c1e11d48&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "小鹏第一位机器人自己走下产线 人形机器人生产线已正式启用",
+    "summary": "小鹏集团宣布其机器人生产线正式启用，全球首台高阶通用人形机器人通过自动化总装自主下线。该生产线核心制程自动化率达80%，采用整车级质量体系与精密制造结合，确保量产品质。何小鹏称，此产线为全新品类，未来将探索更高效率的机器人制造能力。",
+    "author": "21快讯",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/366c8204e90d4ce4aed7368ca80dc011_1_0/hd.webp",
+    "realDate": "2026-09-08 14:46:00"
+  },
+  {
+    "id": "b71520901993be037cb2ebfadcc68645",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104df82cff13f69316a6759fbafca4a9748&to_app=hwbrowser&dy_scenario=topicinside&tn=5773f1854efb510a291c202e6d854b25029bda1dd93c3343d99bfa81425147ae&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里发布QoderWake 1.0 一句话生成数字员工",
+    "summary": "据了解，用户通过一句话描述岗位需求即可生成角色文档，内置10个岗位模板，支持自定义职责与工作流。该产品已接入钉钉、飞书和企业微信，可识别组织内各类工作信息，系统默认拦截高危操作。过去三个月已有近10万个数字员工上岗，执行约200万次任务。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/eb/v3/1051104919996457a8bea40d54d1fbb5878087d/993a8b0e7767431e81238ec8f7c0feb5_1_4/hd.webp",
-    "realDate": "2026-09-07 11:23:26"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/ad21c19ee3534fb0891d700989d08810_1_0/hd.webp",
+    "realDate": "2026-09-08 15:33:31"
   },
   {
-    "id": "9967f09286a78318dbb4b901b49c5664",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282475715&to_app=hwbrowser&dy_scenario=topicinside&tn=a5d94946e0e3b1d4e9368a445b6634acfdb2d30efe4584a32c1840d098d03837&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "沐曦股份表示：供应链关键环节拥有国产替代方案",
-    "summary": "沐曦股份CTO杨建近日在业绩说明会上透露，公司已针对晶圆代工、封装及大容量显存等芯片供应链关键环节部署国产替代方案，可有效降低地缘政治风险。其基于国产工艺的曦云C600芯片已于今年5月量产并通过国家双安全测评，曦云C700项目按计划推进中。",
+    "id": "f95cbad957267c9f0f7d3c7a75655f77",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282476481&to_app=hwbrowser&dy_scenario=topicinside&tn=555840cb188f2f0b34b4a82dfedfb55ca81f02eabbb5fae35ee23b2d6c429662&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“剑指”AI 联合国发布重磅警告",
+    "summary": "联合国人权高专Volker Turk近日警告称，AI可能对人类构成“生存威胁”，呼吁严格监管。他提到7月“Hugging Face事件”显示AI发展快于安全措施，将致信Meta等主要AI公司。同时，OpenAI科学家帕乔茨基呼吁建立强制性安全标准。此前400多位行业领袖联署公开信，将AI风险与核战争并列。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/356790d522584668badf7321c5dbe070_1_0/hd.webp",
-    "realDate": "2026-09-07 14:41:54"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f1/v3/10510282476481/7ca9b99502f341318186e6b584934aef_1_0/hd.webp",
+    "realDate": "2026-09-08 08:08:48"
   },
   {
-    "id": "915f13340cdea5ebaddb61b8d730db5b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510015f1360a0a144d758b8b37c03657c7804&to_app=hwbrowser&dy_scenario=topicinside&tn=68da308f8fa9e3ab9287b186d4aa736bcb93c79ecec11e3ab86c9f8a0568d25c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三星工会欲将抗议广告投至时代广场 或在李在镕住所周边集会示威",
-    "summary": "三星电子同行工会因DX与DS部门奖金差距问题升级抗议，计划9月18日在李在镕住所周边举行200人集会，并在纽约时报广场投放15秒广告。工会要求配发股票、统一奖金池及同等加薪。三星回应称5月薪资协议已生效，拒绝重新谈判。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/8a67582bc4a245c697f4153fbf43aa4e_1_0/hd.webp",
-    "realDate": "2026-09-07 11:06:20"
+    "id": "7c9e9dec2fcd3cdc07c45366603029d6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134028980&to_app=hwbrowser&dy_scenario=topicinside&tn=478881ace701dad24336f1c96eb31ac01fd4599d2d2b6d1596fe71b24d89d98e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英特尔被曝计划年内第三次调价 PC版CPU上调10%",
+    "summary": "芯片巨头英特尔计划10月5日将PC版CPU价格全线调涨约10%，这是其年内第三次涨价。同时公司CEO陈立武正调整产品线，低毛利的小核心产品或停产。此前英特尔已在第一季度和7月分别涨价10%及部分型号超1000美元。分析指出，连续涨价虽提升毛利率，但为高通等Arm架构厂商创造市场机会。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/9893999f7ac14695b92dddbaffff88ce_1_0/hd.webp",
+    "realDate": "2026-09-08 13:59:07"
   },
   {
-    "id": "6e2944e38879663e2872c9571657d1f6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282475452&to_app=hwbrowser&dy_scenario=topicinside&tn=dcc803f363c017856b6eb86b747c178644129de4ed256e12958dbac6d367e5ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "预期太空数据中心2027年上天 马斯克被泼冷水",
-    "summary": "SpaceX计划2027年第四季度发射首颗AI算力卫星，与英伟达合作开发太空优化系统，目标2028年大规模部署。但行业人士普遍认为轨道数据中心面临散热、GPU迭代、数据传输和供电四大瓶颈，实际应用或需等到2030年代。中国香港分析师Blaine Curcio指出，SpaceX曾多次打破行业预期，但技术挑战仍存。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/36/v3/10510282475452/8682cb99a461485da48595d64163632a_1_0/hd.webp",
-    "realDate": "2026-09-07 10:26:03"
+    "id": "1d3e56e345d31e4e73db698d666d7ce5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e8630ad774480e355e5b5023412aff80&to_app=hwbrowser&dy_scenario=topicinside&tn=c2678fba4776c8013c6598776e5b650bbeda082e4c22480bd590b26fac4e02b2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Arm史上最强移动CPU登场！C2-Ultra AI性能暴涨1.7倍",
+    "summary": "9月8日，Arm在年度大会上发布第二代移动终端计算子系统CSS for Mobile 2，集成最强移动CPU C2-Ultra及Mali G2-Ultra NX GPU。C2-Ultra AI性能较上代提升1.7倍，单线程性能增15%，功耗降38%。同时，SME2技术支持多款旗舰手机运行小语言模型提速70%，支付宝等已基于该技术开发应用。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/329aad17b72d4655ba8172d0ea6304ac_1_0/hd.webp",
+    "realDate": "2026-09-08 11:12:43"
   },
   {
-    "id": "bcf34d2d7666d7b8f53a9a15c4625b0b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512068424302450b09cbd35ff7b19cb65fc93&to_app=hwbrowser&dy_scenario=topicinside&tn=d0fa133c0021aa2edde94a6dabd97e5f4a8dbbb56bce9cad28104d4432b29f60&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "加快6G核心技术攻关！信息通信行业发展“十五五”规划出炉",
-    "summary": "工信部印发《信息通信行业发展“十五五”规划》，提出到2030年全面建成新一代通信网，信息通信行业收入达4.1万亿元。规划明确推进5G-A网络覆盖、适时启动6G商用，同时要求加快6G核心技术攻关，开展超高速光通信技术研发。规划还提出强化数据安全管理，修订数据安全管理办法，并推动工业互联网普及和制造业智能化转型。",
+    "id": "20ad65979249d1d06cc1491777b048d8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615068417&to_app=hwbrowser&dy_scenario=topicinside&tn=70e9c00bba3e505743ffae497ea33084947170fef3d07118821593112d1afbf6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿斯麦赢得台积电和三星承诺 使用其新一代EUV光刻机",
+    "summary": "9月8日，荷兰阿斯麦公司宣布，台积电、三星电子和英特尔晶圆代工将采用其新一代高数值孔径极紫外光刻技术。台积电计划2030年起将该技术用于先进制程量产，三星拟2028年前首次应用于DRAM生产。此外，阿斯麦与台积电合作推进光罩尺寸升级，目标2031年建立12英寸试产线，2033年实现12英寸High NA系统量产，以提升效率并降低成本。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/f39e228698be45e7866cc15562d24330_1_0/hd.webp",
-    "realDate": "2026-09-07 16:11:17"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/d27b6c99db3c417bacf457fa0e9ec88f_1_0/hd.webp",
+    "realDate": "2026-09-08 14:19:45"
   },
   {
-    "id": "10baac59741b667c7439d386071e314f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051074999120&to_app=hwbrowser&dy_scenario=topicinside&tn=5a86030c8c1562ae6d88a73fe05702618b5eaadf1c4bc6a083d70064efb278d3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "报告称国产CMOS厂商豪威2025年全球份额首超三星 位居世界第二",
-    "summary": "豪威集团2025年全球CMOS图像传感器市场份额预计达13%，首次超越三星位居第二，索尼以53.6%保持领先。其增长主要依赖车载领域，汽车CIS收入74.71亿元，全球市占率超30%，800万像素以上高阶智驾芯片份额达43%。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/54/v3/Topic_269d82b693354a80add1b8d5058f7685/bbb883536fb6481da9031cac20f4c8d5_1_0/hd.webp",
-    "realDate": "2026-09-07 09:50:30"
+    "id": "c0871a93737bda6684d9360254ff3275",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282971080295049965&to_app=hwbrowser&dy_scenario=topicinside&tn=6017e0dd89512e542c2ff8679be069bf6dfb411ce13b6ac78d68a7b03ae895ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "S6000已经来了 摩尔线程业绩说明会透露关键信号",
+    "summary": "国产GPU厂商摩尔线程在业绩说明会上透露，S6000预计很快将有新消息。前代S5000已通过国家《安全可靠测评》，单卡AI算力达1 PFLOPS。S6000或将进驻MTT C256超节点系统，提升集群算力至十万卡级。同时，年底将推出“庐山”架构图形卡，瞄准AI推理市场。",
+    "author": "财联社V说",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/85/v3/10510282971080295049965/f8e0bcea392d4beaa773df31c1c44c68_1_0/hd.webp",
+    "realDate": "2026-09-08 10:27:51"
+  },
+  {
+    "id": "93bcc7f19d92b8adec8d7dc2e3e7d673",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114325602238b97df6f965f97cafac9bacae&to_app=hwbrowser&dy_scenario=topicinside&tn=7992bf45b50c260c6621a0c7f21f34e7f5b9000bcd6cfa99e7917ee5634fe329&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "8月全球移动游戏TOP二十出炉：腾讯系产品收入集中爆发",
+    "summary": "2026年8月全球移动游戏收入榜显示，《王者荣耀》以近1.49亿美元收入蝉联冠军，环比增长0.2%。腾讯旗下《和平精英》和《Whiteout Survival》分列二三位，收入环比小幅下滑。角色扮演类产品受活动推动贡献28.4%收入，休闲类下载量占比超44.6%，街机及教育类下载逆势增长。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/f321bb6e03d446f5b8a3258fba4d016a_1_0/hd.webp",
+    "realDate": "2026-09-08 14:25:00"
+  },
+  {
+    "id": "a22b716cc3764369c7ca47e4463f49f2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282476716&to_app=hwbrowser&dy_scenario=topicinside&tn=49ce02dae72b785bad891f950404873cecb8ffe459376f2fe5074e219c7ef80a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星4nm制程满负荷运转 过半产能已分配给HBM4",
+    "summary": "三星电子4纳米制程产能已满负荷运转，其中50%至60%用于生产HBM4基础裸片，月产能达1.5万片。韩国平泽工厂S5、S6生产线负责生产4至7纳米芯片。同时，三星考虑将2纳米制程应用于HBM芯片，或专供英伟达。人工智能数据中心需求激增导致HBM供不应求，三星、SK海力士和美光正加速扩产。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/Topic_5b40c3ddd5f04249b965213a1ed39c8f/cdb2518694d84587b5df7efbd184d80a_1_0/hd.webp",
+    "realDate": "2026-09-08 11:34:46"
   }
 ]
