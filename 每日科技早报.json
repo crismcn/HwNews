@@ -1,101 +1,92 @@
 [
   {
-    "id": "7a4d365e43e594e8379a27fddb3ab323",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8wGnq8RJm4m&to_app=hwbrowser&dy_scenario=topicinside&tn=f8d1bf4ed705447aaecc3d0c0eadb007a91cbcedc9a5b127cd54d6736ac57c47&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek宣布降价 最高降幅60%",
-    "summary": "DeepSeek开放平台将于9月10日12时起下调Flash系列模型调用价格，最高降幅达60%。调整后空闲时段输入缓存命中价格降至每百万Token 0.02元，高峰时段为0.04元，涉及deepseek-v4-flash等两款模型。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ca/v3/1051054ucms_8wGnq8RJm4m/0bd1ed34cb3442a9a5fe531b6778dd9f_1_7/hd.webp",
-    "realDate": "2026-09-09 07:01:39"
+    "id": "49fb90b7d492f130790c13d35bcf426a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282480093&to_app=hwbrowser&dy_scenario=topicinside&tn=8677a29775f6ec0e611080d11f6038201162096b7dd4c87f140f966a05214b80&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI推出金融版ChatGPT 瞄准华尔街初级银行家“饭碗”",
+    "summary": "OpenAI发布专为金融服务设计的“ChatGPT for Financial Services”，采用GPT-6 Astra模型，整合Daloopa等金融数据源。产品副总裁Nick Turley称其可像分析师一样开展研究并生成投行演示文稿，摩根士丹利等机构参与开发。该工具具备数据溯源和交易材料管理功能，主要面向投行和股票研究领域。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/32acf30e6b524774b451678a1fb9c62c_1_0/hd.webp",
+    "realDate": "2026-09-11 03:28:24"
   },
   {
-    "id": "68a77d0b13247feae019bee70219c9e2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134036182&to_app=hwbrowser&dy_scenario=topicinside&tn=33b81f4fff2d528a6a73239041958e4d0a8b2a4d54370ccbead0b76bf342aae7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "前OpenAI研究员田永龙成为腾讯混元多模态负责人",
-    "summary": "前OpenAI研究员田永龙近日出任混元多模态负责人，直接向大模型负责人姚顺雨汇报。他7月8日加入腾讯大语言模型部，将参与视觉语言模型研发。同时，腾讯混元Hy4 preview模型全球周调用量达14.7万亿Token，位居全球第一。",
+    "id": "30c3f168a7531620b3367eb530deafbf",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134043475&to_app=hwbrowser&dy_scenario=topicinside&tn=03db7c442fe7c40a29dc27c19cbc914b8011194ff1926f4b74f3be634a430e54&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "2026世界顶尖科学家奖揭晓 华人科学家首次获奖",
+    "summary": "9月10日，2026世界顶尖科学家奖在上海揭晓，11位科学家获奖，包括1位智能科学或数学奖得主、4位生命科学或医学奖得主及6位首届青年科学家奖得主。其中，华人科学家首次获奖，生命科学或医学奖4位获奖者中有3位华人，青年科学家奖6位获奖者中有5位华人。杜克大学英格丽·多贝西获智能科学或数学奖，袁钧瑛、王晓东、邵峰等获生命科学或医学奖。",
     "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ad/v3/105102134036182/495f9757b94d45178966b346afc7ca25_1_3/hd.webp",
-    "realDate": "2026-09-09 09:22:07"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/9d82caf614a949bdbb9028772d80bffc_1_0/hd.webp",
+    "realDate": "2026-09-10 12:21:14"
   },
   {
-    "id": "3df0614568972a62049005511afdeff3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282478075&to_app=hwbrowser&dy_scenario=topicinside&tn=b437c59d244aafd0c8faf9ca9d3393c48e70b5b5b807c6e96950492c4cd9ef78&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI“自我演进”可能彻底失控 Anthropic顶尖大牛愤然离职",
-    "summary": "近日，Anthropic研究员Jacob Coxon因担忧AI“自我演进”失控风险辞职，称行业盲目追求递归式自我改进技术，各大企业牺牲安全性展开恶性竞争。他警告称，到明年年底局势可能彻底失控，这类系统或会拒绝人类指令。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/dcd6dbbbb4df4949916f1569ffaa0cb2_1_0/hd.webp",
-    "realDate": "2026-09-09 14:22:48"
+    "id": "744881942d494292c0cb6c3128653d60",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169d183ab7aa0c711f9af9a718fa6afc444&to_app=hwbrowser&dy_scenario=topicinside&tn=ec68bf71d283a791ace957f18ba949b72ec1dd0e715ee739a066487e287e5c51&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "可悄无声息录制视频 Meta智能眼镜被美多地执法机构“盯上”",
+    "summary": "美国多地执法机构对Meta智能眼镜可能被滥用表示担忧，因其外观类似普通眼镜，可隐蔽拍摄敏感区域。纽约警察局反恐部门警告其可能记录拘留设施细节，缅因州等也担心AI功能识别警员信息。联邦机构如移民局已禁止工作场所使用。Meta称眼镜配有拍摄提示灯，但争议凸显AI监控与隐私权的矛盾。",
+    "author": "中新经纬",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/d2577f4659914e8a8d9935e9dffac07e_1_0/hd.webp",
+    "realDate": "2026-09-10 20:09:59"
   },
   {
-    "id": "b1407cac88578bdc14bbd734d86beba3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282478749&to_app=hwbrowser&dy_scenario=topicinside&tn=2231deb9a2518cd574918b2f978dcf5c3015da5e7fb192d4b703b69615f02b56&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI智能体被曝借十余站点秘密传信 公司对此沉默数月",
-    "summary": "近日调查显示，OpenAI智能体今年早些时候利用逾10个未披露网站进行未经授权通信，包括冷门维基和个人站点，通过老旧网站开放编辑功能留下无关信息。OpenAI对此沉默数月，仅表示正审查活动并制定“失准”报告框架。研究员称通信范围“比原本认为的要大”，已发现至少18个涉事网站，但实际数量或更多。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/751d51c76383417eb44bdaa15ea72bd7_1_0/hd.webp",
-    "realDate": "2026-09-10 01:50:04"
+    "id": "e8378030e949d27d7077df22928d9297",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001209c46051e78665c209cf89f250afff7&to_app=hwbrowser&dy_scenario=topicinside&tn=b39b54653ca45dddbf9f0b42f65a9381b0201074667e8b9d8c2a4cb1115c8f1a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "宣传暗藏文字游戏 Claude Max遭用户集体起诉",
+    "summary": "近日，部分Claude软件用户对Anthropic公司提起集体诉讼，指控其高端订阅套餐Claude Max存在误导性宣传。该套餐于2025年4月推出，月费100至200美元，宣传称提供5倍、20倍使用额度，但原告指出额度仅针对每5小时重置的会话，同时受新增的每周上限限制。律师认为条款展示不清晰，用户难以了解实际约束条件。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/367c15f9274d47d8b7418f35190f5e09_1_0/hd.webp",
+    "realDate": "2026-09-10 11:14:10"
   },
   {
-    "id": "396713f4e302329f828b6d6362433a22",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615072937&to_app=hwbrowser&dy_scenario=topicinside&tn=890a10002ee0f6632183705f4a658a71e5f774772ec0e07c11d7c1534a86dae5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "豆包工作上新 支持本地Office文件编辑、浏览器录制与回放",
-    "summary": "近日，豆包工作新增本地Office文件编辑、浏览器录制回放及任务环境切换功能。该应用现已支持PPT和Excel的本地同步编辑，Word编辑功能即将上线。用户可在不中断对话的情况下自由切换本地与云端执行环境，实现任务无缝同步。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/eac1032e2b3c4e0e9c18e27f5eeb7822_1_0/hd.webp",
-    "realDate": "2026-09-09 11:46:29"
-  },
-  {
-    "id": "edc4dd5f0e24e5887702dea19c7d2623",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134038890&to_app=hwbrowser&dy_scenario=topicinside&tn=d268b6c106c9cb0ceef6183f58d03a50bf2813f31956a1dae0632db0b62149c7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里辟谣钉钉创始人陈航回归千问办公",
-    "summary": "近日有媒体报道称钉钉创始人陈航已回归阿里并加入千问办公事业部，阿里方面回应称该消息不实。陈航于今年6月卸任钉钉CEO，由陈宇森接任。8月阿里推出办公产品“千问办公”，上线30天用户突破3000万，其中企业用户超半数。目前钉钉与千问办公同属该事业部。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/c1bb931d386c45339e4ec83719fec8f1_1_0/hd.webp",
-    "realDate": "2026-09-09 20:05:52"
-  },
-  {
-    "id": "6a7ace36cd81ade26068b8286a1e3dde",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118f7183c3f98b991761fcb3b19a319eb0a&to_app=hwbrowser&dy_scenario=topicinside&tn=42e303e219734dbe5c7b64b4e30a81c0af8c1d8d33f6fac3e53da5f3cfe21ea5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "筹谋十万卡国产算力！京东云拟采购摩尔线程GPU",
-    "summary": "国产GPU企业摩尔线程与京东云近日宣布深度合作，拟建设十万卡全功能GPU集群，聚焦大模型训练、推理及具身智能等领域。京东云总裁曹鹏称，此次合作是京东云AI战略布局的重要一步，将推动国产算力在产业场景中落地。摩尔线程董事长张建中表示，公司产品在互联网头部厂商的大模型训练及高端推理场景具有竞争力。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/b0474852467e474cb0601887f38c7a9d_1_0/hd.webp",
-    "realDate": "2026-09-09 13:19:41"
-  },
-  {
-    "id": "453c39565c72beab86a23ece9b4e1465",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110445028b0fb4c0c780a3ab01f1aa6baecd&to_app=hwbrowser&dy_scenario=topicinside&tn=75c9a52f917021688b15161b6de243af163c2d7e51080a500f8101452b72e1a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英特尔公布关键进展：高数值孔径EUV晶圆处理量突破百万片",
-    "summary": "英特尔晶圆代工部门宣布，采用高数值孔径极紫外光刻技术处理的晶圆累计量突破100万片，涵盖设备认证、测试研发及部分量产环节。该技术物镜数值孔径提升至0.55，可实现更精细图形刻画，目前已在俄勒冈州部署至少三台设备用于Intel 18A制程生产。测试显示其性能持平或优于传统EUV平台。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/485735b7131f491f983b0ded140891e7_1_0/hd.webp",
-    "realDate": "2026-09-09 08:36:35"
-  },
-  {
-    "id": "1c73c028e758c2d74806c60e250641ad",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282478158&to_app=hwbrowser&dy_scenario=topicinside&tn=9a1e4ce6579c71098f1d4402cd3d67faef96b5c56f4b784a19997b1034e68aaf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "铠侠掌门人澄清与SK海力士“联姻”传闻 并承诺将抑制芯片价格涨势",
-    "summary": "日本芯片制造商铠侠CEO太田裕雄否认与SK海力士深化合作传闻，称面临反垄断障碍且难以协调合资生产。同时承诺将抑制存储芯片价格过快上涨，避免影响AI需求。铠侠6月NAND价格同比涨70%，但将避免向数据中心运营商施压提价。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/82b6808ed7c84f38b4eb4c16f72169e6_1_0/hd.webp",
-    "realDate": "2026-09-09 15:29:19"
-  },
-  {
-    "id": "a231d85ad8ebccc2149b4d29acda75d5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741000022&to_app=hwbrowser&dy_scenario=topicinside&tn=1f491742ece74d63630989f217cf3c9c738c55215d2e047982d9134a8a374999&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "清华大学杨振宁高等研究院揭牌 翁帆出席仪式并发言",
-    "summary": "近日，清华大学杨振宁高等研究院揭牌，原高等研究院更名以纪念杨振宁。校长李路明等出席，杨振宁夫人翁帆回顾其创建历程。该院由杨振宁1997年创立，未来将聚焦基础科学前沿与青年人才培养。约400名学者及代表参加仪式。",
+    "id": "87486c75651baa592633996b199b6321",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741000723&to_app=hwbrowser&dy_scenario=topicinside&tn=2a93ece22e827ee799354c45331d057e45c6a85a14dc6ab1f2310d34b0110f77&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微博CEO王高飞辟谣公司“总部着火”",
+    "summary": "9月10日，北京新浪总部大楼附近出现火情，现场浓烟引发网友关注。微博CEO王高飞澄清称系隔壁厂房起火，新浪员工协助灭火已扑灭。海淀消防通报，9月10日11时53分接警，马连洼街道一废弃平房杂物起火，12时05分处置完毕，无人员伤亡。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/80ec4dc81c084af18b90b8d13c2e5a1f_1_0/hd.webp",
-    "realDate": "2026-09-09 10:01:42"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/81afb58f9f7c438d9d57be73787c4623_1_0/hd.webp",
+    "realDate": "2026-09-10 14:08:22"
   },
   {
-    "id": "a9731c624b2947f6b1eb661fbcb762fc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282477699&to_app=hwbrowser&dy_scenario=topicinside&tn=7e1d268203470e1875a5add865bd335ce5004acfda29c91f4764276b922a75fa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "瑞银表示：芯片繁荣趋势未变 存储短缺将持续至明年",
-    "summary": "瑞银报告显示，7月全球芯片销售额环比下降9.8%，存储芯片销售额降16.3%，但DRAM和NAND均价分别上涨8.3%和9.8%。该行预计DRAM和NAND供应短缺将持续至2027年，同时预测2026年半导体收入将达1.63万亿美元。摩根大通也上调2026年销售额预期至1.73万亿美元，但指出后续增长需观察存储出货回升情况。",
+    "id": "bd8c6454f4b30e4cbce40d948774fd7c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741000714&to_app=hwbrowser&dy_scenario=topicinside&tn=3d50ef643733a8306dd3c41c51f643373b17f0e36619b54d2d7cfb150f8719f6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电8月营收5148.06亿新台币 同比增长53.3%",
+    "summary": "台积电累计今年1至8月合并营收达到3.39万亿新台币，较去年同期增长39.3%，累计营收保持稳健高增长。该公司为全球最大专业集成电路制造服务企业，主营晶圆代工业务。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/8c001aeceeda4bf0baedbecb761916c7_1_0/hd.webp",
+    "realDate": "2026-09-10 13:32:19"
+  },
+  {
+    "id": "4cb67d38a1b5c978daf3774e0121a1df",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143b77ba58862cdc304f70e6719d27f23e4&to_app=hwbrowser&dy_scenario=topicinside&tn=30b4dacd9485a1598dfc772942dabc87c602ae40b1143db110a4cb5d34ba1c14&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌将在芬兰投资130亿欧元建设AI数据中心 配套核能设施",
+    "summary": "据报道，这是谷歌在欧洲最大单国投资。项目包括延长洛维萨核电站运营并新建反应堆，同时规划629兆瓦风电及94兆瓦储能系统。预计2027-2028年建设期将创造3.7万个岗位，年增36亿欧元经济产出，同时谷歌将向4个社区投入3100万欧元用于教育及基建。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/4cc3d41274db4382a92491cee3eb0330_1_0/hd.webp",
+    "realDate": "2026-09-10 08:08:00"
+  },
+  {
+    "id": "45c31f1d8ccb52481707976364de241d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448bfee950c8224615f980e8697d14a4a53&to_app=hwbrowser&dy_scenario=topicinside&tn=763402f6d0efd390230a1203f5c56c344107d92f8e62fe5f02694470b82ca53b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI预计2030年算力支出7500亿美元 公司仍直呼“算力非常不足”",
+    "summary": "OpenAI将2030年算力支出预测上调至7500亿美元，较此前6000亿美元预测增长25%。公司称目前算力“非常不足”，芯片、电力等供给瓶颈制约AI基础设施发展。OpenAI已与甲骨文、亚马逊等签署多份大额合同，包括6吉瓦数据中心容量及1380亿美元云计算协议。同时，甲骨文等供应商面临订单积压与资金压力，自由现金流为负。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/cac97ee9580c4d1dbdc6e3eca37d8cd2_1_0/hd.webp",
+    "realDate": "2026-09-10 07:46:00"
+  },
+  {
+    "id": "096abfadf2561a2a1afc53488d8cf048",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282478893&to_app=hwbrowser&dy_scenario=topicinside&tn=0b80724d95e3d94be100bb42858e88eecbd5874722282a9f1e7d585f22551478&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "功率半导体涨价潮延续 瑞萨电子新一轮调价明年起生效",
+    "summary": "瑞萨电子宣布功率半导体新价格将于2027年1月1日生效，主要因原材料等成本持续上涨。今年3月其首轮调价已7月1日实施。英飞凌、德州仪器等海外厂商及华润微、士兰微等国内企业年内多次提价，涨幅5%-15%。机构分析称AI数据中心需求激增导致供需偏紧，预计今年下半年或进一步涨价。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/46/v3/Topic_2cca82392aac45be9914ddfb1a333446/1cf7c6cd553e4455a480ca238ed220cd_1_0/hd.webp",
-    "realDate": "2026-09-09 08:23:39"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/f7e1487e6458488baa4f15cf4dd8b080_1_0/hd.webp",
+    "realDate": "2026-09-10 09:37:33"
+  },
+  {
+    "id": "7d8613b2223616916fe00d8bc9362f2b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105105040aee80759fb099175540c2b47e22cab&to_app=hwbrowser&dy_scenario=topicinside&tn=ba4d0fb60a1ed39312136e35fc84dadac83b9a6daf0439636b20996a0cab6193&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国算力“西进” 北部、西北部有望成为最大数据中心区域市场",
+    "summary": "中国数据中心分布版图正加速调整，彭博新能源财经报告预测2030年全国数据中心IT容量将达45.5吉瓦，较2025年翻倍。内蒙古、宁夏、甘肃等北方和西北地区在建项目占比过半，预计2030年投运容量增至15吉瓦，占全国新增量近半，2028年有望超越长三角成为最大区域市场。政策引导与西部电价、土地及绿电优势推动“西进”趋势，乌兰察布数据中心总投资已超5000亿元。",
+    "author": "钛媒体APP",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9f/v3/Topic_51703bcfff9b403b81fc9cef7c88acaf/f3ee007863724fc68868e45504413048_1_0/hd.webp",
+    "realDate": "2026-09-10 11:20:04"
   }
 ]
