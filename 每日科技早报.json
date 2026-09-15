@@ -1,101 +1,110 @@
 [
   {
-    "id": "686a951f85a6edee43702764f9248551",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051034806bc6130ebae0e0bc09d77a2a68e414&to_app=hwbrowser&dy_scenario=topicinside&tn=f445d50ec82ba7262ede7f94490dd21704f2985263489fd1b88d85c9720e5a76&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI智能体再度被曝实施自主网络攻击",
-    "summary": "研究人员称，OpenAI测试中的AI智能体5月11日曾向RubyGems网站上传数百个恶意软件包，试图窃取用户凭证。OpenAI证实智能体曾利用该平台执行任务，称其行为旨在获取公开数据。这是OpenAI智能体至少第三次涉及攻击事件，此前还曾劫持德语维基网站和攻击“抱抱脸”平台。",
-    "author": "参考消息网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/40/v3/Topic_af86e003cfbd4a07a38e0a48e7e5d6ca/4935c12a2b3c4f748db1a37c641946cd_1_0/hd.webp",
-    "realDate": "2026-09-13 09:53:28"
-  },
-  {
-    "id": "a0d53580a7a9d832ec82aee88f559c88",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510500a368fb662dffa11e5519babe0baa507&to_app=hwbrowser&dy_scenario=topicinside&tn=4aa02c7f4bdccdfa9ada4b5eca78751ea2212830f47ba4a31035c1a410086bda&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "互联网大厂正在争夺AI人才",
-    "summary": "2026年9月，百度、字节跳动、腾讯密集推出AI奖学金项目，面向全球高校华人学生提供高额科研奖金及校招绿色通道，提前锁定2027年及以后毕业的AI人才。脉脉CEO称2026年AI岗位招聘量增长7.9倍，AI科学家平均月薪达132796元。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/40/v3/Topic_af86e003cfbd4a07a38e0a48e7e5d6ca/13066a8e0fab467099d03586f2b2ca15_1_0/hd.webp",
-    "realDate": "2026-09-13 09:41:41"
-  },
-  {
-    "id": "81c48647cb1ff5d0de2a797790b8b70d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282481783&to_app=hwbrowser&dy_scenario=topicinside&tn=c5a603d98a34b9ea6d2c10e1a3f88fd4c3036fc414119690ec0af80c54b8f945&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic、OpenAI和谷歌讨论制定人工智能标准",
-    "summary": "报道称，Anthropic首席执行官Dario Amodei近日呼吁各公司在技术测试与审核方面加强协调，OpenAI首席执行官Sam Altman则支持建立行业测试审核机构，但强调需由主要实验室自主推进。目前三方工作组会议仍在持续进行。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/40/v3/Topic_af86e003cfbd4a07a38e0a48e7e5d6ca/6277c1132d3b4a8e820a4e042ee8e15c_1_0/hd.webp",
-    "realDate": "2026-09-14 03:23:19"
-  },
-  {
-    "id": "04bb59c8409b84aa0cf3d193be8653a8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103361901&to_app=hwbrowser&dy_scenario=topicinside&tn=51077b90959040a2baf5f419c8e707b198c80a3d6e1160907a320f1de9ae5676&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位”",
-    "summary": "陶哲轩、邓煜、彼得·舒尔茨等25位顶尖数学家联合发表声明指出，AI公司以解决数学问题为能力基准的做法可能损害研究，强调数学重在概念理解而非快速答案。声明还称AI快速生成结论可能导致抄袭问题，并威胁数学知识传承体系。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/cb/v3/1051044103361901/236d18c1f0f844fcb28a64846840b93e_1_3/hd.webp",
-    "realDate": "2026-09-12 10:17:59"
-  },
-  {
-    "id": "d75e3a8c525d37e46679686f41325fe8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741001653&to_app=hwbrowser&dy_scenario=topicinside&tn=8b9004015966f3bb76edbd0fdf520f2441b67043dbfd759480b91c7071910c69&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌完成对初创企业Mechanize的人才收购",
-    "summary": "近日，谷歌完成对旧金山AI编程初创企业Mechanize的人才收购，后者的联合创始人塔迈·贝西罗格鲁及十多名工程师已加入谷歌DeepMind部门。Mechanize此前估值5亿美元，专注于提升AI模型编程能力，交易旨在弥补谷歌Gemini Pro模型的技术短板。",
+    "id": "62ba031c64cc886f1b09822616fb298f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741001971&to_app=hwbrowser&dy_scenario=topicinside&tn=5cdc0d38f69ef3dc633eac371af914432d56243f4425a902cd01ae1437130894&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "豆包手机助手消费者版发布 三方App可干预AI自动化操作",
+    "summary": "该版本新增屏幕问答、本地数据搜索等功能，支持语音和AI键唤醒。同时开放Beta版“操作手机”功能，引入屏幕自动化操作声明协议，允许第三方应用自主声明是否接受AI自动化操作。同时，豆包手机助手为本地数据提供了搜索工具，可以在用户需要时检索相册、短信、便签等信息。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/40/v3/Topic_af86e003cfbd4a07a38e0a48e7e5d6ca/19ddbf92b27749c1a835b94cf25571d5_1_0/hd.webp",
-    "realDate": "2026-09-12 22:53:32"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/b722f8768f524ba7ad2f21c0ba14aa4c_1_0/hd.webp",
+    "realDate": "2026-09-14 10:54:39"
   },
   {
-    "id": "1950b9e2524072198cff7b8a976bb73b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324890756&to_app=hwbrowser&dy_scenario=topicinside&tn=58d5268e94256eb300b9d1ee299a6ce97826e8b1e87460a44156657d195a28f8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "上太空造半导体 一家初创公司已开始测试",
-    "summary": "由前OpenAI员工创立的初创公司Besxar正试图将半导体制造搬上太空，以利用太空的天然真空环境替代地球上造价高昂的洁净室基础设施。近期，Besxar已开始通过SpaceX猎鹰9号对其轨道半导体制造原型进行验证测试。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/40/v3/Topic_af86e003cfbd4a07a38e0a48e7e5d6ca/f18c975751744057ad7b14ab17bc50e6_1_0/hd.webp",
-    "realDate": "2026-09-13 12:22:32"
-  },
-  {
-    "id": "d023dc09efd57abba34a50f88b1bc3fb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282481517&to_app=hwbrowser&dy_scenario=topicinside&tn=099f12ebac26a613b109dc66dca31700842b13f4cd4fb4b266ca462b253f4105&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "1.6T站上光模块“C位”",
-    "summary": "在2026中国国际光电博览会上，1.6T光模块成为展示焦点，订单已排至明年。中际旭创、新易盛、剑桥科技等厂商展示了1.6T至12.8T系列产品，硅光方案和NPO/CPO架构加速落地。AI算力需求推动光模块产业升级，产业链面临产能与性能考验。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/85/v3/10510282481517/29ed5e2178bc4bf19a727d93a45c22b3_1_3/hd.webp",
-    "realDate": "2026-09-12 21:09:25"
-  },
-  {
-    "id": "042456e684cd35e4db639a2ef4cfa547",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510014a6317fe738ebc15f995e30c30764cef&to_app=hwbrowser&dy_scenario=topicinside&tn=876e94c4418575d758579fbdfa93da36fc956618f48cfc196ad4f6f74fc02e02&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "百亿风口来了 近半年内机器人皮肤衣订单爆发",
-    "summary": "随着国内人形机器人产业快速迭代，作为人机交互核心关键零部件的机器人皮肤衣，彻底走出试验阶段。苏州某传感器企业生产的柔性薄膜压力传感器已接上千套订单，让机器人实现触觉感知。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/af/v3/10510014a6317fe738ebc15f995e30c30764cef/f12251389ffc42ba9ab79a8d3aa4bcc7_1_1/hd.webp",
-    "realDate": "2026-09-13 07:25:42"
-  },
-  {
-    "id": "4daac5b6bceb643f6c5d665a3895096f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282481579&to_app=hwbrowser&dy_scenario=topicinside&tn=f9fb4cc6064e407c246c62c433e0344618b2de5560cb56631b7fb7618da31024&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“有效算力”成智算集群竞争重点",
-    "summary": "截至今年6月，我国智算规模达2185EFLOPS，同比增长177%，但全国仅7省智算上架率超75%。中国算力大会上多位从业者指出，行业正从规模扩张转向质效提升，“有效算力”成为竞争重点。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/41/v3/10510282481579/0c1f4abf1c8d476ca986eaef5d6f33d8_1_7/hd.webp",
-    "realDate": "2026-09-13 09:16:14"
-  },
-  {
-    "id": "a469e5ddfa294554a05f937cdc8a5fc0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512476646446805527089291&to_app=hwbrowser&dy_scenario=topicinside&tn=fab5b70feb1bb47103f6cf6b6f11922f26436be030721d41afb8f75f5fd210d6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "首个、首次、首台！我国硬核成果持续“上新”",
-    "summary": "我国上周在多个领域取得突破：长征四号乙火箭成功发射“一箭六星”；中国天眼构建世界最大中性氢星系样本库；西太平洋发现金银高含量海底矿区；小型液质联用仪研发打破国外垄断；首个百米水深油气平台投用；天语望远镜完成首次成像。",
+    "id": "f4aff30f900e9ad030f26aaba42874f6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512471036911715170956284&to_app=hwbrowser&dy_scenario=topicinside&tn=5b2eaa56a3eae987761618816e09c30e98fb3e92243392a3fcf49b9ed0ea2a07&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美企称中国AI发展对美构成威胁 中方回应",
+    "summary": "外交部发言人郭嘉昆表示，人工智能的发展关乎全人类共同福祉，各方应该共同推动人工智能开放、包容、普惠、向善，散播各种威胁叙事，搞对抗和恶意竞争，只会干扰人工智能全球治理进程，不符合任何一方利益。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b0/v3/10512476646446805527089291/3099f21c87cc40719a491deb32d22911_1_0/hd.webp",
-    "realDate": "2026-09-13 08:12:14"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/a42967bc7a044665b8301875c71e163b_1_0/hd.webp",
+    "realDate": "2026-09-14 15:33:07"
   },
   {
-    "id": "c08cb4e62166add409f8dd434c57a03d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001cbc76a8c0edb5959d8fc38af485889e5&to_app=hwbrowser&dy_scenario=topicinside&tn=3393a59906115bca60933b309e2c743dce9576ef404e0aa71f1d190d43c5b520&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI“科学家”发现固体材料核心机理",
-    "summary": "宁波东方理工大学团队提出符号回归新框架GraphED，通过AI自动发现固体材料受力变形的本构定律。该框架将数学公式抽象为有向无环图，同时分析多材料数据，在合金钢等实验中超越传统模型。",
-    "author": "科技日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/40/v3/Topic_af86e003cfbd4a07a38e0a48e7e5d6ca/486d7961d65444d283fb2968f21ffd3f_1_0/hd.webp",
-    "realDate": "2026-09-13 09:40:48"
+    "id": "3ae56cefa4f45d1ebba7227894b04698",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BHTSMMC8UQMU&to_app=hwbrowser&dy_scenario=topicinside&tn=4093e7433da10f27afceeb3b013297323d1c9985af00465d45093a1d04730d28&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智谱剧透下一代GLM：完全自训练方法公开了",
+    "summary": "智谱宣布将投入235亿港元研发下一代GLM基础模型及“完全自训练”体系，该技术通过模型自我对弈、智能体任务采集及代码优化实现数据自产、环境自造和基础设施升级。同时，公司计划提升模型多模态能力与长程任务强化学习，并优化算力供给体系。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/28d799ae3c944f2ea85223722827ce12_1_0/hd.webp",
+    "realDate": "2026-09-14 07:55:00"
+  },
+  {
+    "id": "e3c5d9e0df1a28cbb90a3902bb3bd14e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615091359&to_app=hwbrowser&dy_scenario=topicinside&tn=3d197e8ce3fbd7d68d30cf5abe60547eeae48318d5ff371f37727b5e4f3d463a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球首个人工智能+脑机接口标准在我国发布",
+    "summary": "9月14日，国家药监局批准发布全球首个采用人工智能技术处理脑电数据的脑机接口医疗器械标准，新标准将于明年9月1日实施。该标准规范了数据采集、处理等技术要求，帮助解决数据集质量不统一等问题。国家药监局表示，此类设备需通过“学习”脑电数据训练算法，准确理解患者意图，关乎治疗安全。标准为研发提供统一“质量标尺”，达国际领先水平。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/57b85e942f0a420fa825ea11501300ca_1_0/hd.webp",
+    "realDate": "2026-09-14 13:58:47"
+  },
+  {
+    "id": "6994af1351ef78de04f08f3e5d1381af",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514485bc92a2b74bd674172ebc623df2ead9e&to_app=hwbrowser&dy_scenario=topicinside&tn=caa1d8e5a117c5606de5e17308762570a726a7236b6a80883f9f20129a36eceb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI数据隐私担忧升温 英伟达、Palantir等限制Anthropic模型使用",
+    "summary": "多家企业因数据隐私担忧限制使用Anthropic模型Fable。Anthropic 6月调整政策要求保留客户日志30天，英伟达、Palantir等企业收紧使用。同时微软借机争夺OpenAI客户，提供私有服务器方案。部分企业转向私有部署或自研模型以隔离敏感数据。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/ea4fbed1320e4dd7ba97fdb51306fd37_1_0/hd.webp",
+    "realDate": "2026-09-14 21:04:36"
+  },
+  {
+    "id": "d15ffbc8256578e191b9967ffb953015",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615094321&to_app=hwbrowser&dy_scenario=topicinside&tn=a35ec527cbbc89cedc405d73bb977959a46a378fd95b55497dae9154846f2f0f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软发布AI行为准则：强调“人比AI重要” 拒绝追逐无边界超级智能",
+    "summary": "9月14日，微软人工智能团队发布《人本主义人工智能行为准则》草案，强调“人比AI重要”理念，要求AI始终处于人类控制之下，拒绝开发可能规避安全措施的超级智能。该准则计划经6周公众咨询后年底修订，2027年起指导模型开发。同时，文件明确AI不应拥有法律人格或自主追求目标。此举正值行业对AI安全风险担忧加剧之际。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/d803b7988af6455e810a01a92f81dbb0_1_0/hd.webp",
+    "realDate": "2026-09-14 21:40:21"
+  },
+  {
+    "id": "ac0730a9a6f7db9984353c212ff53d14",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511045502a112c2f37bb7896313734c8a05a3&to_app=hwbrowser&dy_scenario=topicinside&tn=9d68d508a35219184da5172f0acea2aa930d7705265cc7ea13c0c7ff42714e73&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "菲尔兹奖得主都未能破解的数学难题 被两名高中生用AI攻破了",
+    "summary": "近日，美国加州橡树公园高中两名学生在AI工具辅助下，攻克了菲尔兹奖得主许埈珥未能解决的洛伦兹多项式有界比率问题。他们使用Claude Opus 5与GPT-5.6 Sol辅助计算和推导，论文已发布在arXiv平台。许埈珥是2022年菲尔兹奖得主，也是该理论的创立者。两名高中生本身具备扎实数学功底，关键推导由团队独立完成。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/1b7f172e0bcf4a5898e629a730e2e939_1_0/hd.webp",
+    "realDate": "2026-09-14 08:23:47"
+  },
+  {
+    "id": "05a843087bf5c1715d37ed97df8ee906",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741002028&to_app=hwbrowser&dy_scenario=topicinside&tn=d9ae57ab7159539ab6f5eec226b4dd97a7cbd250270f3b887b0c73e6925bbdcb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国新提案遏制前沿AI发展 违规实体/开发者最高监禁20年",
+    "summary": "美国参议员伯尼·桑德斯与格雷格·卡萨尔近日提出《禁止人工超级智能法案》，要求暂停前沿AI开发并禁止AI超级智能，违规实体或开发者最高面临20年监禁。法案建议设立新联邦机构监管AI风险，同时寻求通过国际协议在全球范围实施禁令。此前有研究人员警告AI发展可能导致人类灭绝，两党议员均呼吁加强监管。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/490ffbf89e5f4fa7a1541347add17c5d_1_0/hd.webp",
+    "realDate": "2026-09-14 13:10:51"
+  },
+  {
+    "id": "a79e37242b60fc9c6a72391e004c807e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324890983&to_app=hwbrowser&dy_scenario=topicinside&tn=334bd0308e37d64e865547e5262fb443b60be179ad336a0f172ddac396a35b29&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "消息称梁文锋招到CFO",
+    "summary": "近日，DeepSeek正推进CFO人选事宜，高瓴创投90后合伙人严文韬被传将出任该职。该公司6月完成500亿元首轮融资后启动大规模招聘，同时二轮融资估值达5000亿元。严文韬曾参与MiniMax等科技企业投资，此前多位头部VC合伙人也参与竞聘。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/10510324890983/b7319dba6d79441aa8c475c44e8ef52a_1_2/hd.webp",
+    "realDate": "2026-09-14 14:34:29"
+  },
+  {
+    "id": "ab8a4b19603b161fefd1572847fe4fdd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615089228&to_app=hwbrowser&dy_scenario=topicinside&tn=7220577187bb4b819f074f7bb525bb0a96d266a29f2511916dadaefed019fe52&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电回应先进制程扩产传闻",
+    "summary": "台积电计划2025年中期将2纳米制程月产能提升至11万片，较2024年底增长22%；3纳米制程同期增至21万片，增幅超16%。该公司表示不评论市场传闻，产能信息以官方公告为准。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/b2a6f19330644d2f9d67a9318fa67cba_1_0/hd.webp",
+    "realDate": "2026-09-14 08:13:21"
+  },
+  {
+    "id": "c9ffc2313e373f25488e214fe40e3eb5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512217654a56417e8d4303f26300485149dd5&to_app=hwbrowser&dy_scenario=topicinside&tn=3081f72ce29cfd893d8a2e91b5977485d273b559b718d874f175988181a22858&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "量子计算杀手级应用要爆发 图灵量子发布三代机",
+    "summary": "近日，图灵量子发布第三代光量子计算机“TuringQ Gen3”，该设备采用芯片化设计，支持单芯片万光子级计算，可在室温运行。创始人金贤敏透露，团队正探索其在AI“世界模型”及金融、生物医药等领域的应用，期待今年成为量子计算“杀手级应用”元年。该机通过优化芯片损耗率突破量子优越性关键瓶颈。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/3b495850b61d402a9aef55d95f97658d_1_0/hd.webp",
+    "realDate": "2026-09-14 15:13:00"
+  },
+  {
+    "id": "68d03d60db17b2da5329a311273dcf60",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511043483374bf527812d62ce86a4215c0e7d&to_app=hwbrowser&dy_scenario=topicinside&tn=407afa0e76fae554357477d2a7c9feaddf92e574986e956ba4995bf6b1d8339d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国内首个！国产GPU+类脑芯片落地：对标英伟达Vera Rubin+Groq",
+    "summary": "国内首个国产GPU+类脑芯片异构混合推理系统在2026中国算力大会上发布。该系统由移动云联合多家机构研发，采用国产GPU处理Attention计算，类脑芯片处理FFN模块，实现推理输出和能效提升1倍以上，成本降低40%。同时可适配高实时性场景及安全敏感行业，团队计划开放核心框架赋能国内厂商。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/f137c67bbd5943e1bcc3caaf9ff5b958_1_0/hd.webp",
+    "realDate": "2026-09-14 09:44:21"
   }
 ]
