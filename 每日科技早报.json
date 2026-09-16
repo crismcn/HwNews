@@ -1,110 +1,119 @@
 [
   {
-    "id": "62ba031c64cc886f1b09822616fb298f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741001971&to_app=hwbrowser&dy_scenario=topicinside&tn=5cdc0d38f69ef3dc633eac371af914432d56243f4425a902cd01ae1437130894&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "豆包手机助手消费者版发布 三方App可干预AI自动化操作",
-    "summary": "该版本新增屏幕问答、本地数据搜索等功能，支持语音和AI键唤醒。同时开放Beta版“操作手机”功能，引入屏幕自动化操作声明协议，允许第三方应用自主声明是否接受AI自动化操作。同时，豆包手机助手为本地数据提供了搜索工具，可以在用户需要时检索相册、短信、便签等信息。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/b722f8768f524ba7ad2f21c0ba14aa4c_1_0/hd.webp",
-    "realDate": "2026-09-14 10:54:39"
-  },
-  {
-    "id": "f4aff30f900e9ad030f26aaba42874f6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512471036911715170956284&to_app=hwbrowser&dy_scenario=topicinside&tn=5b2eaa56a3eae987761618816e09c30e98fb3e92243392a3fcf49b9ed0ea2a07&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美企称中国AI发展对美构成威胁 中方回应",
-    "summary": "外交部发言人郭嘉昆表示，人工智能的发展关乎全人类共同福祉，各方应该共同推动人工智能开放、包容、普惠、向善，散播各种威胁叙事，搞对抗和恶意竞争，只会干扰人工智能全球治理进程，不符合任何一方利益。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/a42967bc7a044665b8301875c71e163b_1_0/hd.webp",
-    "realDate": "2026-09-14 15:33:07"
-  },
-  {
-    "id": "3ae56cefa4f45d1ebba7227894b04698",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID2BHTSMMC8UQMU&to_app=hwbrowser&dy_scenario=topicinside&tn=4093e7433da10f27afceeb3b013297323d1c9985af00465d45093a1d04730d28&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "智谱剧透下一代GLM：完全自训练方法公开了",
-    "summary": "智谱宣布将投入235亿港元研发下一代GLM基础模型及“完全自训练”体系，该技术通过模型自我对弈、智能体任务采集及代码优化实现数据自产、环境自造和基础设施升级。同时，公司计划提升模型多模态能力与长程任务强化学习，并优化算力供给体系。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/28d799ae3c944f2ea85223722827ce12_1_0/hd.webp",
-    "realDate": "2026-09-14 07:55:00"
-  },
-  {
-    "id": "e3c5d9e0df1a28cbb90a3902bb3bd14e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615091359&to_app=hwbrowser&dy_scenario=topicinside&tn=3d197e8ce3fbd7d68d30cf5abe60547eeae48318d5ff371f37727b5e4f3d463a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球首个人工智能+脑机接口标准在我国发布",
-    "summary": "9月14日，国家药监局批准发布全球首个采用人工智能技术处理脑电数据的脑机接口医疗器械标准，新标准将于明年9月1日实施。该标准规范了数据采集、处理等技术要求，帮助解决数据集质量不统一等问题。国家药监局表示，此类设备需通过“学习”脑电数据训练算法，准确理解患者意图，关乎治疗安全。标准为研发提供统一“质量标尺”，达国际领先水平。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/57b85e942f0a420fa825ea11501300ca_1_0/hd.webp",
-    "realDate": "2026-09-14 13:58:47"
-  },
-  {
-    "id": "6994af1351ef78de04f08f3e5d1381af",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514485bc92a2b74bd674172ebc623df2ead9e&to_app=hwbrowser&dy_scenario=topicinside&tn=caa1d8e5a117c5606de5e17308762570a726a7236b6a80883f9f20129a36eceb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI数据隐私担忧升温 英伟达、Palantir等限制Anthropic模型使用",
-    "summary": "多家企业因数据隐私担忧限制使用Anthropic模型Fable。Anthropic 6月调整政策要求保留客户日志30天，英伟达、Palantir等企业收紧使用。同时微软借机争夺OpenAI客户，提供私有服务器方案。部分企业转向私有部署或自研模型以隔离敏感数据。",
+    "id": "ce48b23194cd03f12d009340b73e02ee",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448fb787b7ce3490040fa9e4eec7c2f405b&to_app=hwbrowser&dy_scenario=topicinside&tn=34fb266beab2497678b4dfb1176a31ffd432a8735561669c55a72ffdcff32520&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节完成AI办公大重组：豆包、飞书、火山引擎合三为一",
+    "summary": "字节跳动将豆包、飞书与火山引擎整合为企业智能平台。CEO梁汝波表示，整合核心逻辑在于融合Agent、模型与协作环境。飞书8.0版本接口从247个增至767个，年度经常性收入增速达去年同期2.5倍。7月30日起团队陆续合并，8月25日发布“豆包工作”。梁汝波强调飞书战略地位，称其打磨两年多才正式推出。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/ea4fbed1320e4dd7ba97fdb51306fd37_1_0/hd.webp",
-    "realDate": "2026-09-14 21:04:36"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/a18f51713f90440c82a109191fff799d_1_0/hd.webp",
+    "realDate": "2026-09-15 16:51:06"
   },
   {
-    "id": "d15ffbc8256578e191b9967ffb953015",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615094321&to_app=hwbrowser&dy_scenario=topicinside&tn=a35ec527cbbc89cedc405d73bb977959a46a378fd95b55497dae9154846f2f0f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软发布AI行为准则：强调“人比AI重要” 拒绝追逐无边界超级智能",
-    "summary": "9月14日，微软人工智能团队发布《人本主义人工智能行为准则》草案，强调“人比AI重要”理念，要求AI始终处于人类控制之下，拒绝开发可能规避安全措施的超级智能。该准则计划经6周公众咨询后年底修订，2027年起指导模型开发。同时，文件明确AI不应拥有法律人格或自主追求目标。此举正值行业对AI安全风险担忧加剧之际。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/d803b7988af6455e810a01a92f81dbb0_1_0/hd.webp",
-    "realDate": "2026-09-14 21:40:21"
+    "id": "559a09b50421eaaf5294dd4b39d15b99",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124715316139646491058209&to_app=hwbrowser&dy_scenario=topicinside&tn=34bd5463072c46408c838beecb552abf601f1ed5ccb951c1d2b22986fb94ad0d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "携程被罚后 两部门对多家平台企业开展行政指导",
+    "summary": "近日，市场监管总局会同文化和旅游部召开在线酒店预订平台服务行业行政指导会，要求美团、抖音、京东、携程、同程、飞猪等平台企业防范化解独家合作、“全网最低价”等竞争风险。此前，市场监管总局于7月25日对携程滥用市场支配地位行为作出行政处罚。专家表示，行政指导通过非强制手段引导企业合规，旨在实现“查处一个案件、规范一个行业”的效果。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/136ce79f97814ff4a6d44ba53d41b787_1_0/hd.webp",
+    "realDate": "2026-09-15 20:22:19"
   },
   {
-    "id": "ac0730a9a6f7db9984353c212ff53d14",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511045502a112c2f37bb7896313734c8a05a3&to_app=hwbrowser&dy_scenario=topicinside&tn=9d68d508a35219184da5172f0acea2aa930d7705265cc7ea13c0c7ff42714e73&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "菲尔兹奖得主都未能破解的数学难题 被两名高中生用AI攻破了",
-    "summary": "近日，美国加州橡树公园高中两名学生在AI工具辅助下，攻克了菲尔兹奖得主许埈珥未能解决的洛伦兹多项式有界比率问题。他们使用Claude Opus 5与GPT-5.6 Sol辅助计算和推导，论文已发布在arXiv平台。许埈珥是2022年菲尔兹奖得主，也是该理论的创立者。两名高中生本身具备扎实数学功底，关键推导由团队独立完成。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/1b7f172e0bcf4a5898e629a730e2e939_1_0/hd.webp",
-    "realDate": "2026-09-14 08:23:47"
+    "id": "2454301923fca69dfb756922f4ed7383",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282483181&to_app=hwbrowser&dy_scenario=topicinside&tn=6742481926bfdfdf9648133534e9da26e384d2fb396a9b21ed7038819545372c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "特朗普公开致电黄仁勋：称AI风险是骗局",
+    "summary": "英伟达CEO黄仁勋在洛杉矶峰会上演讲时，突接特朗普来电并开启免提。特朗普称AI风险是“骗局”，反对监管并力挺数据中心产业。黄仁勋表示支持其观点，强调美国将在AI竞赛中受益。此次通话正值硅谷对AI安全争议加剧之际，马斯克等科技领袖近期呼吁加强监管。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/4281f78fcec641ddb55386b1cd43754d_1_0/hd.webp",
+    "realDate": "2026-09-15 11:15:51"
   },
   {
-    "id": "05a843087bf5c1715d37ed97df8ee906",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741002028&to_app=hwbrowser&dy_scenario=topicinside&tn=d9ae57ab7159539ab6f5eec226b4dd97a7cbd250270f3b887b0c73e6925bbdcb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国新提案遏制前沿AI发展 违规实体/开发者最高监禁20年",
-    "summary": "美国参议员伯尼·桑德斯与格雷格·卡萨尔近日提出《禁止人工超级智能法案》，要求暂停前沿AI开发并禁止AI超级智能，违规实体或开发者最高面临20年监禁。法案建议设立新联邦机构监管AI风险，同时寻求通过国际协议在全球范围实施禁令。此前有研究人员警告AI发展可能导致人类灭绝，两党议员均呼吁加强监管。",
+    "id": "d9de78fd78d5efa098ff291e0e475019",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8wRVTZQDpEv&to_app=hwbrowser&dy_scenario=topicinside&tn=e95fa84564103d34c62b9a92104ac4fa1a8a840e584e8558e6a83d8de07834f0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepSeek工程师发文引热议 算子天才也在思考“转业”",
+    "summary": "近日，DeepSeek工程师刘胜与发文引发热议。作为北大图灵班成员，他近期交付了DeepSeek V4.1主Attention算子，同时透露正思考职业转型。这位曾放弃伯克利等名校博士offer的MLSys工程师，在长文中坦言AI发展可能颠覆传统编程领域，但仍希望“革自己命的人是我自己”。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1054_8/4e/v3/1051054ucms_8wRVTZQDpEv/eb2e613a5c3b496190a6268f4321d314_1_0/hd.webp",
+    "realDate": "2026-09-15 17:48:37"
+  },
+  {
+    "id": "a3d25efb453182d03bcf4d1ffa9ab284",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134050252&to_app=hwbrowser&dy_scenario=topicinside&tn=3dbfec9af6382f24886755dc0d0dd926334e879e8ebd9fb48d1bb321dc6d8859&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "比尔·盖茨警告AI就业冲击表示：全球或经历20年动荡转型",
+    "summary": "他称，全球或面临约20年AI转型动荡期，需提前应对就业冲击。他在《目标守卫者报告》中指出，AI影响取决于当前在数据、监管等领域的选择，基金会将投入10亿美元推动医疗等领域的公平应用。盖茨强调，社会需关注AI高速发展带来的就业替代、网络安全等问题，而非仅聚焦技术潜力。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/105102134050252/a5159bba9608450b890a8675db34ac56_1_3/hd.webp",
+    "realDate": "2026-09-15 13:19:58"
+  },
+  {
+    "id": "b8c8396d9a617d429e529524c5a1f911",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282482954&to_app=hwbrowser&dy_scenario=topicinside&tn=539c81eff8b708727b9ffa1756d4a8a2c5a8aca99025facca4598b0e3038e238&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI CEO详谈放慢AI发展脚步原因：未来或走向两大极端",
+    "summary": "近日，OpenAI CEO萨姆·奥尔特曼警告AI发展或走向失控和权力集中两大极端，呼吁行业放慢技术步伐。他提出需确保安全技术领先于模型能力提升，同时避免单一实体垄断强大AI。此前Anthropic CEO也敦促放缓模型升级，获得马斯克等人支持。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/d6a7fb8a3a5843f8b4a9e0b758af0e1f_1_0/hd.webp",
+    "realDate": "2026-09-15 08:39:03"
+  },
+  {
+    "id": "741000c719f82b07bcd887f21a860ba7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134075808&to_app=hwbrowser&dy_scenario=topicinside&tn=73ca9f80170ce48f3a3fa47fdbd141b61842b7f2605be837d5531643d0c6ef45&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为发布全球首个3D数据中心：四层架构模块化堆叠",
+    "summary": "该数据中心采用四层模块化堆叠架构，包括供冷层、IT设备层、供电层和屋顶电池层，解决超大型数据中心散热与运维难题。据报道，该架构可支撑昇腾超节点集群算力需求，同时开放设计图库推动行业共建AI基础设施生态。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/3191f3cf2c0546e99a798cded86c251f_1_0/hd.webp",
+    "realDate": "2026-09-15 21:51:59"
+  },
+  {
+    "id": "0380ce4b550d09cc3907b127cd24ab6e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741002539&to_app=hwbrowser&dy_scenario=topicinside&tn=303337cb096939c0d7909601b428d0a275a6912a4aaef1454b1bb84518c6d040&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "拼多多因虚假广告被罚54万元",
+    "summary": "上海寻梦信息技术有限公司因在拼多多平台发布190条虚假广告，违反《广告法》相关规定，于2026年4月4日被长宁区市场监督管理局立案调查，并于9月3日处以54万元罚款。该公司为拼多多关联企业，注册资本1000万元。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/490ffbf89e5f4fa7a1541347add17c5d_1_0/hd.webp",
-    "realDate": "2026-09-14 13:10:51"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/09f78f4bf109467fa5c1009215143599_1_0/hd.webp",
+    "realDate": "2026-09-15 14:06:21"
   },
   {
-    "id": "a79e37242b60fc9c6a72391e004c807e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324890983&to_app=hwbrowser&dy_scenario=topicinside&tn=334bd0308e37d64e865547e5262fb443b60be179ad336a0f172ddac396a35b29&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称梁文锋招到CFO",
-    "summary": "近日，DeepSeek正推进CFO人选事宜，高瓴创投90后合伙人严文韬被传将出任该职。该公司6月完成500亿元首轮融资后启动大规模招聘，同时二轮融资估值达5000亿元。严文韬曾参与MiniMax等科技企业投资，此前多位头部VC合伙人也参与竞聘。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/45/v3/10510324890983/b7319dba6d79441aa8c475c44e8ef52a_1_2/hd.webp",
-    "realDate": "2026-09-14 14:34:29"
+    "id": "ca54dc1741651207d38778dce1aab9a2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282483099&to_app=hwbrowser&dy_scenario=topicinside&tn=b82f69b6d8f13564cbea3faeb4e9354da3c21bc5327614ff6bf129d11668c13f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI需求依然强劲！阿斯麦计划在2028年生产超过110台EUV光刻机",
+    "summary": "摩根大通分析师称，因AI需求强劲，阿斯麦计划2028年生产超110台EUV光刻机。该公司明年产能已售罄，预计供应80台，主要瓶颈为组装速度。下一代高数值孔径EUV设备客户包括英特尔、三星等，台积电计划2030年启用。阿斯麦CFO表示AI热潮彻底改变客户态度，CEO认为市场未达终点。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/b398eec690954beaa070b14d52c2866e_1_0/hd.webp",
+    "realDate": "2026-09-15 10:27:22"
   },
   {
-    "id": "ab8a4b19603b161fefd1572847fe4fdd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615089228&to_app=hwbrowser&dy_scenario=topicinside&tn=7220577187bb4b819f074f7bb525bb0a96d266a29f2511916dadaefed019fe52&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电回应先进制程扩产传闻",
-    "summary": "台积电计划2025年中期将2纳米制程月产能提升至11万片，较2024年底增长22%；3纳米制程同期增至21万片，增幅超16%。该公司表示不评论市场传闻，产能信息以官方公告为准。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/b2a6f19330644d2f9d67a9318fa67cba_1_0/hd.webp",
-    "realDate": "2026-09-14 08:13:21"
+    "id": "fa1e9363c4ee54721029a5e71f264d91",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282483203&to_app=hwbrowser&dy_scenario=topicinside&tn=bff6df53947266abf5f9e61a5e0f623d5d235af828c8a2e7de6df88d15124ec0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "事关“电子产品之母”及上游！两部门发文推动集成电路全链条攻关",
+    "summary": "9月15日，工信部、国家发改委印发《电子信息制造业发展“十五五”规划》，提出推动集成电路全链条攻关，重点发展高频高速PCB、IC载板等产品，同时覆盖上游材料设备及下游应用升级。规划明确攻关电子元器件高端化、光子技术等9项专栏，涉及AI、消费电子等领域。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dd/v3/10510282483203/12166b42101b409fbab33e173404094e_1_3/hd.webp",
+    "realDate": "2026-09-15 11:28:21"
   },
   {
-    "id": "c9ffc2313e373f25488e214fe40e3eb5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512217654a56417e8d4303f26300485149dd5&to_app=hwbrowser&dy_scenario=topicinside&tn=3081f72ce29cfd893d8a2e91b5977485d273b559b718d874f175988181a22858&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "量子计算杀手级应用要爆发 图灵量子发布三代机",
-    "summary": "近日，图灵量子发布第三代光量子计算机“TuringQ Gen3”，该设备采用芯片化设计，支持单芯片万光子级计算，可在室温运行。创始人金贤敏透露，团队正探索其在AI“世界模型”及金融、生物医药等领域的应用，期待今年成为量子计算“杀手级应用”元年。该机通过优化芯片损耗率突破量子优越性关键瓶颈。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/3b495850b61d402a9aef55d95f97658d_1_0/hd.webp",
-    "realDate": "2026-09-14 15:13:00"
-  },
-  {
-    "id": "68d03d60db17b2da5329a311273dcf60",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511043483374bf527812d62ce86a4215c0e7d&to_app=hwbrowser&dy_scenario=topicinside&tn=407afa0e76fae554357477d2a7c9feaddf92e574986e956ba4995bf6b1d8339d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国内首个！国产GPU+类脑芯片落地：对标英伟达Vera Rubin+Groq",
-    "summary": "国内首个国产GPU+类脑芯片异构混合推理系统在2026中国算力大会上发布。该系统由移动云联合多家机构研发，采用国产GPU处理Attention计算，类脑芯片处理FFN模块，实现推理输出和能效提升1倍以上，成本降低40%。同时可适配高实时性场景及安全敏感行业，团队计划开放核心框架赋能国内厂商。",
+    "id": "b504e04ed3a2dc271a7ef91603b6a147",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110495a250955bbe10309a77920138246b64&to_app=hwbrowser&dy_scenario=topicinside&tn=c86794a4c5c023a56e0c555886b3b639ef48c6eb4703487e7a7ac02133592c69&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "世界级突破！曙光8000十万卡全国产集群1小时算出全球10天天气",
+    "summary": "我国自主研发的MCV数值模式依托全国产AI超算集群曙光8000，1小时内完成全球5公里分辨率、未来10天天气预报计算，达到国际主流业务时效标准。该模式采用多矩约束有限体积方法，通过GPU异构并行移植实现完整气象模拟。曙光8000采用国产芯片与自研网络，时延仅260纳秒，已适配200余项行业应用。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/44/v3/Topic_67834287c2d84326911bab5793a29601/f137c67bbd5943e1bcc3caaf9ff5b958_1_0/hd.webp",
-    "realDate": "2026-09-14 09:44:21"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/4573ab099e7c4bd2b278aea69da1da2f_1_0/hd.webp",
+    "realDate": "2026-09-15 14:23:47"
+  },
+  {
+    "id": "f4808a3a97bb3d304088fbd26b154649",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282483624&to_app=hwbrowser&dy_scenario=topicinside&tn=6dfb21088aa588a69b0c10829174b300c62dc803c8aa2ba09627039d11cd09b5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "一箭十星！中国民营航天首次批量交付正式组网星",
+    "summary": "9月15日，朱雀二号改进型遥七运载火箭将10颗千帆极轨19组正式组网卫星顺利送入预定轨道，飞行试验任务获得圆满成功。此次任务是朱雀二号系列运载火箭的第9次飞行，本次飞行是我国民营商业航天企业首次承担大型卫星互联网星座组网任务，标志着中国民营商业航天正式迈入批量组网新阶段。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/62f9c7d3679c443284ff973180eaf340_1_0/hd.webp",
+    "realDate": "2026-09-15 15:22:21"
+  },
+  {
+    "id": "e7ea06fce3cb52e23314ffbbbf7c6d78",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023974328aad35a7b8bf82721985748bad5&to_app=hwbrowser&dy_scenario=topicinside&tn=864fc6401db99c9ae32516d50fa4fe801ad2002009e658df2dabb153ed65f0cc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国向联合国赠送嫦娥六号月背月壤样品 将在维也纳永久展出",
+    "summary": "近日，中国国家航天局等机构在维也纳联合国总部，向联合国赠送嫦娥六号采集的人类首批月背月壤样品，该样品将在当地永久展出。国家航天局局长单忠德表示此举践行多边主义，愿同各国共享航天成果。联合国官员称这诠释了外空作为人类共同疆域的意义。2024年6月嫦娥六号曾带回1935.3克月背样品，实现世界首次月背采样返回。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_9f3431d38c8b4e9bbf46930d81ffaf1a/84342ac71b0f4c98b92e1a5d6569837f_1_0/hd.webp",
+    "realDate": "2026-09-15 10:17:57"
   }
 ]
