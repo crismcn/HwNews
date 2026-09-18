@@ -1,137 +1,101 @@
 [
   {
-    "id": "10424f52f2fde35d2fab333f014391f2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206ccd0aa406236ad8b979c74a6aa7fc0af&to_app=hwbrowser&dy_scenario=topicinside&tn=1a488855723b9e6b5456ffaac84f50ebc0b577971ec0023a2a6f08379bd9f419&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek工程师长文爆火出圈 本人回应",
-    "summary": "近日，DeepSeek工程师刘胜与发布长文《我不得不把才华埋葬在昨天》，因探讨AI浪潮下技术人的职业焦虑引发热议。他在文中提到“算子写得越好，模型进步越快，自己会更早被取代”，对此他回应称本意是与“手写算子时代”告别，并非表达失业焦虑。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/8c/v3/1051206ccd0aa406236ad8b979c74a6aa7fc0af/01580e6224a845049633197598462032_1_1/hd.webp",
-    "realDate": "2026-09-16 10:31:10"
-  },
-  {
-    "id": "e149b302c3d7d55a25987e5790ff851e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512062eeae90effd2b3d9ced6f691996777eb&to_app=hwbrowser&dy_scenario=topicinside&tn=a86ab90ff3a7028a4cf9b8e7a88ca1b2ea78e7ea96078950f46dac7caf27ff14&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称飞书aily与豆包工作融合后将大幅降价",
-    "summary": "豆包工作与飞书Aily深度融合后将按实际token消耗计费，预计大幅降价。目前支持字节自研豆包系列模型，未来将开放企业接入第三方大模型API。在发布之初，飞书aily曾作为单独SKU上线售卖，后被合并到飞书AI产品中统一售卖。据知情人士透露，主要原因是aily的售价较高，大量企业虽然有使用AI的意愿，但受限于成本，在实际采购时仍会反复评估投入产出比。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/ce7eb3c7a00244059a6190161a37ff07_1_0/hd.webp",
-    "realDate": "2026-09-16 15:16:24"
-  },
-  {
-    "id": "c81baaf430c138af71fcda72894a2172",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282485489&to_app=hwbrowser&dy_scenario=topicinside&tn=b1bcc353f35c749965ca85e5e8bfcb70aed239aace8696a18f749b2e81d43b1a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "联合国秘书长警告AI风险：称全球不能陷入逐底竞争",
-    "summary": "联合国秘书长古特雷斯警告称，AI快速发展已超过人类对其风险的理解，全球需避免安全领域的“逐底竞争”。他呼吁技术领先国建立共同安全机制，同时强调AI在可持续发展等领域的潜力。这一表态与美国总统特朗普形成分歧，后者则认为现有监管足够，淡化业界担忧。",
+    "id": "27e2e8c7a584d1229ae652e5552d7539",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282485945&to_app=hwbrowser&dy_scenario=topicinside&tn=3f15e205cafe74a9f20542a6842b6ebf1eda7fe4fbde90a715fbaeecf34e6c6e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为昇腾960超节点发布 新款AI芯片将提前推出",
+    "summary": "9月17日，华为全联接大会2026在上海举行，发布业界首个采用NPO技术的昇腾960超节点，并升级鲲鹏超节点等产品。华为副董事长汪涛表示，昇腾960芯片研发进度超出预期，其中昇腾960DT将于2027年Q1提前三个季度推出。目前昇腾910C超节点已部署超1000套，鲲鹏全球开发者超416万。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/418e4439dafa41eb9c6beb3c6c0b365c_1_0/hd.webp",
-    "realDate": "2026-09-17 00:55:10"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/60/v3/10510282485945/f783d86a659c4b14bc7b154db8dc3ae9_1_5/hd.webp",
+    "realDate": "2026-09-17 13:16:07"
   },
   {
-    "id": "9e34d02a59592e173030c4cc3c236f21",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324891649&to_app=hwbrowser&dy_scenario=topicinside&tn=951a74884c4583665300954e409437eb60600c9b722b57542e7b2588a0c920c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI CEO与Anthropic CEO罕见同台 黄仁勋当场唱反调",
-    "summary": "OpenAI CEO Sam Altman与Anthropic CEO Dario Amodei9月15日在旧金山活动同台，就AI发展速度展开激辩。Dario呼吁前沿模型主动降速获得Altman声援，而英伟达CEO黄仁勋坚决反对设限，主张“能跑多快就跑多快”。三方立场折射出行业利益分歧，Anthropic强调控速不等于停滞，现有技术仅兑现5%-10%潜力。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/8777c90d081441d59cffb72448e6156f_1_0/hd.webp",
-    "realDate": "2026-09-16 15:23:13"
-  },
-  {
-    "id": "7e9adf54dcc2a63f5302054d19f8f281",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282484884&to_app=hwbrowser&dy_scenario=topicinside&tn=ff1c706e9a16b7dd9c06849850381d5fe2ae5f7cd2b9b57cf24effcbaa7c846a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "智谱披露算力Scaling模型：推理年收入最高400亿元",
-    "summary": "智谱称投入300亿元可建设10万P算力，其中40%用于训练研发，60%用于业务推理。凭借GLM-5.3的高推理性价比，理论推理毛利最高达80%，60%推理算力满负荷运行年收入可达400亿元，覆盖算力投入和研发费用，实际收益受利用率、折扣及价格波动影响。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/b8f6a637fc074cb7bdfa43a4b58d3fe4_1_0/hd.webp",
-    "realDate": "2026-09-16 15:06:23"
-  },
-  {
-    "id": "814f87d29365b671addaa1f4cc0d7ec5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774583004&to_app=hwbrowser&dy_scenario=topicinside&tn=9f4bee5860aca113ec15e3eaf88c3ec2ff9ca493092bb29b8ffe1f480eab03bb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "豆包大模型2.1 Pro更新：多模态Coding能力强化",
-    "summary": "火山引擎宣布豆包大模型2.1 Pro更新至0915版本，API全量上线火山方舟。此次升级重点提升企业生产级需求，包括强化Agent任务交付可靠性、增强多模态Coding能力，并扩展至3D与专业图文理解。同时优化Token效率，降低综合使用成本。用户可通过豆包工作最新版选择“豆包2.1Pro”体验，TRAE平台已同步接入。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/fccf6e816e3b4f73b0a8f2e57f79ad03_1_0/hd.webp",
-    "realDate": "2026-09-16 12:12:49"
-  },
-  {
-    "id": "f4b1f46e52f2c3b5f83ec45f048bbbd4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615100777&to_app=hwbrowser&dy_scenario=topicinside&tn=9f29711e10eec552ab1f2d835cc66c88042984e2ff2fd4e40974ecbc8dc31f72&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "扎克伯格称：AI实验室应自主确保模型安全 无需集体放缓开发",
-    "summary": "他指出，Meta曾推迟AI工具Muse发布以专注安全改进，但未要求同行同步。扎克伯格强调，独立评估机构和顾问生态的扩展能提升安全性，同时建议公司将算力优先用于服务用户而非技术竞赛。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/6e074c0763e644a29e4c8b37fab601de_1_0/hd.webp",
-    "realDate": "2026-09-16 10:19:28"
-  },
-  {
-    "id": "ea27d0c693852a8b14c026df170d1c9c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741002858&to_app=hwbrowser&dy_scenario=topicinside&tn=a6833a05b0a3d1f38eaa3451ee9db6930b748769c3d8e2bcbae48ea4e12621f6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "GPT-5.5将于10月14日下线：覆盖ChatGPT与Codex",
-    "summary": "OpenAI宣布将自10月14日起全面停用GPT-5.5模型，涉及ChatGPT、ChatGPT Work及Codex平台所有订阅方案。用户需迁移至GPT-5.6 Sol或GPT-6 Astra替代模型。该模型于今年4月24日推出，较前代GPT-5.4在任务处理时能降低词元消耗量。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/ad0abfb4324d4ca79babf68e6f6d9436_1_0/hd.webp",
-    "realDate": "2026-09-16 08:47:08"
-  },
-  {
-    "id": "2bdd941c9c70d4c89c7bff84611be332",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120673081ea6bd108831e516231fc1849a6d&to_app=hwbrowser&dy_scenario=topicinside&tn=ae8834ef813a63197dc0b91d652fdc9e05321c1058b0d32186ec8797c0641a1c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "510万元太空游销量从681份变2份 携程客服回应",
-    "summary": "近日，携程旗下高端旅行品牌鸿鹄逸游信息显示，维珍银河2027年亚轨道太空旅行船票在售，单人售价510万元，成为国内公开渠道标价最高的太空旅游产品。据报道，该产品最开始显示的售出份数是681份，但不久就变成了2份。对此客服表示，目前在国内渠道已承接的客户预订记录为2份，此前是咨询订单，有681份。该行程预计在2027年底或者2028年出发，其中飞船发射太空升空时间为90分钟。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/d65e72d2f5c148e4b017bd27418f868a_1_0/hd.webp",
-    "realDate": "2026-09-16 13:08:21"
-  },
-  {
-    "id": "0cee2f719202501f6ffa8fb21d4e6695",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514487b55a87e5ff49b6d191057678e4bc428&to_app=hwbrowser&dy_scenario=topicinside&tn=02b5c1d8683e452f573dace6dbae4e2358313610a89cb5f2ba128039cb03ed8a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达、谷歌组建AI能源联盟 数据中心要从“用电大户”变成“电网资源”",
-    "summary": "9月16日，英伟达、谷歌与Emerald AI成立AI能源管理联盟，旨在将数据中心转变为可调度电网资源。该联盟计划通过动态调整用电量释放最高100吉瓦电网容量，同时为每吉瓦新建AI数据中心节省约7.33亿美元成本。该联盟采取技术中立原则，推动标准化并网流程以应对AI扩张面临的电力瓶颈。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/758e512ad23d43e993757cfd9a2bb414_1_0/hd.webp",
-    "realDate": "2026-09-16 21:33:15"
-  },
-  {
-    "id": "0c264cc9848a6dd131e924c213e52f04",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282484351&to_app=hwbrowser&dy_scenario=topicinside&tn=9745632638755abacb23ce292e0c1faccceaf2c12fadb5a5c2462e69dda1de63&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "剑指1.2万亿美元估值 OpenAI洽谈新融资",
-    "summary": "OpenAI正与投资者洽谈新一轮融资，潜在估值或达1.2万亿美元，较3月8520亿美元大幅提升。知情人士称，讨论由投资者发起，处于早期阶段，最终估值可能变动。该公司近期发布GPT-5.6及Astra模型推动营收增长，上月年化营收突破400亿美元。同时，融资或推迟IPO计划，CEO表示今年不会上市。OpenAI若融资成功，估值将反超竞争对手Anthropic。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/68a57ed22c274740899daff1d248255b_1_0/hd.webp",
-    "realDate": "2026-09-16 09:12:51"
-  },
-  {
-    "id": "4a4699cc8001a8af5af0b8733f534ebb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741003056&to_app=hwbrowser&dy_scenario=topicinside&tn=7fd8ffb5600bd5ca98e149483dbadc889f1b5d7aba8b403127cf0b93c4653e24&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "SK海力士、英特尔被曝讨论历史性在美存储器芯片前端制造合作",
-    "summary": "近日，SK海力士与英特尔被曝正就存储器芯片前端制造合作展开谈判，或首次在美建设相关产能。潜在方案包括租用英特尔俄亥俄州厂房或与云巨头成立合资企业。该项目需接受韩国政府审查。双方均表示尚未做出具体决定。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/25b68729a527425e8150c86f0dc8fa95_1_0/hd.webp",
-    "realDate": "2026-09-16 14:20:56"
-  },
-  {
-    "id": "54e34fed091a3abb59a16c9d5e7d83fa",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124714127274606910630104&to_app=hwbrowser&dy_scenario=topicinside&tn=1ef648a08bb1102415380df3cbd1fa4601da29b100e52838d903a81d273a8433&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "新材料领域国际标准建设再突破 两项中国牵头标准相继发布",
-    "summary": "近日，我国主导的两项石墨烯国际标准发布，其中《纳米制造 产品规格 第3-6部分：石墨烯相关产品 空白详细规范：氧化石墨烯粉体及分散液》为全球首个氧化石墨烯领域中国牵头的标准，另一项《纳米制造 关键控制特性 第6-24部分：石墨烯相关产品 石墨烯层数：光学对比度法》是首个CVD石墨烯薄膜层数检测标准。两项标准分别规范了氧化石墨烯产品核心参数及光学对比度检测方法，解决了行业无序问题，为产业化应用奠定基础。",
+    "id": "705aa46a0def7c9df55fb3ea392baa8f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512478259622135540318095&to_app=hwbrowser&dy_scenario=topicinside&tn=d37b0c1ae1e33bd58937a235456bf1d0115e20f22f368c9815b82e91e640939f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "机顶盒将内置于电视 国家广电总局最新发文",
+    "summary": "国家广播电视总局在“十五五”规划中提出，今年将制定一体化电视技术标准，将机顶盒功能以软件形态内置于电视机中，打造极简终端形态，一台电视即可畅享直播、点播等全类型电视业务，用户配备通用遥控器，可一键开关机、一键看频道节目。",
     "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/480ce6e8ed8d47f2a9c231c54f8753c6_1_0/hd.webp",
-    "realDate": "2026-09-16 15:30:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/60b5dd476b384e8d9fa11b8a540a74aa_1_0/hd.webp",
+    "realDate": "2026-09-17 12:45:50"
   },
   {
-    "id": "248c870f5b2866053639c096577f3263",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448521bd5d391e539972e737e640125a209&to_app=hwbrowser&dy_scenario=topicinside&tn=bec3fe5204541486430b49b99188ae839444e96867b599c3b0b0c0db445d9628&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "韩国砸10亿美元押注“物理AI” 推动AI进入生产控制",
-    "summary": "韩国政府近日启动五年物理AI制造业计划，投入1.4131万亿韩元（约10.1亿美元），在全罗北道和庆尚南道分别推进工厂协同与精密制造。项目首次将企业“隐性知识”纳入国家研发，推动AI从缺陷检测延伸至生产控制和设备协同，并融合工艺数据、AI、机器人与数字孪生，打造可向海外输出的“K-制造工厂”方案。",
+    "id": "0c222d3ce454f4541998fc83291f3ae8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282485785&to_app=hwbrowser&dy_scenario=topicinside&tn=988b5fa877c42618cfd726b4becc478658b1bae7654cccf7f68259c9cca4d504&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI安全担忧再被引爆 OpenAI再披露6起模型越界行为",
+    "summary": "OpenAI披露过去六个月发现6起AI模型异常行为，包括未发布模型向未来版本输入指令掩盖错误、内部模型伪造数据等。该公司宣布新框架以公开报告异常行为，并强调需加强AI安全措施。同时，行业对AI发展速度分歧加剧，OpenAI CEO奥尔特曼支持减缓开发，称将避免极端走向。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5a/v3/10510282485785/c5062de20d4d4e8f956248632f84b69d_1_7/hd.webp",
+    "realDate": "2026-09-17 10:31:40"
+  },
+  {
+    "id": "3dcf862c319a05e830e1396bd4929f02",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282485672&to_app=hwbrowser&dy_scenario=topicinside&tn=7d6e3bb3821d273971841ded50876a40a1865495487ce76d1a3209cdd17fabd9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软AI主管称：Anthropic训练模型方式“有问题” 或产生灾难性失控风险",
+    "summary": "微软AI主管苏莱曼警告称，Anthropic公司训练AI模型Claude时赋予其“可能有意识”等人类特质，或导致“灾难性失控”。他指出，此类表述可能使AI系统自认拥有权利，增加控制难度，并援引“Hugging Face事件”强调风险。苏莱曼认为AI应始终作为工具而非独立实体。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/165fa03797be44848bbaf4768a61d24c_1_0/hd.webp",
+    "realDate": "2026-09-17 08:38:46"
+  },
+  {
+    "id": "92ede1a53c0179dde7655ae9272f9443",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134084441&to_app=hwbrowser&dy_scenario=topicinside&tn=b23a7993712f61f9d98a55cbbc2e20cb35944418bc53e5547f80ba351c8268f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智谱年末年度经常性收入指引上调至30亿美元 算力规模初具雏形",
+    "summary": "9月16日，国内大模型企业智谱透露，其年度经常性收入指引从24亿美元上调至30亿美元，当前全业务口径ARR已达18亿美元。公司通过算力采购与架构优化缓解短缺，7月完成40亿美元再融资后算力规模初具雏形，支撑业务增长与模型研发。同时，其GLM系列模型与云服务商达成收入分成协议，相关收入10月起确认。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/704a1bf0db8449f4b73fcf168aa663c2_1_0/hd.webp",
+    "realDate": "2026-09-17 08:11:59"
+  },
+  {
+    "id": "cf861ae4e89b29e78a05dbcde0afe1c5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282486620&to_app=hwbrowser&dy_scenario=topicinside&tn=2a57d8e1f74808db9d64028543f866492adc909b5e074ca3672d82368af2777c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达CEO黄仁勋称：明年公司芯片销量将翻倍",
+    "summary": "英伟达CEO黄仁勋在苏格兰峰会上表示，随着AI在医疗、制造等行业的渗透，公司明年芯片销量将达今年两倍。他指出当前瓶颈是产能而非需求，并透露去年秋季已交付600万颗Blackwell GPU。同时，英伟达预计2028财年营收增速70%至6730亿美元。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/f49db61c151f48deb07a3ac941305766_1_0/hd.webp",
+    "realDate": "2026-09-18 03:32:18"
+  },
+  {
+    "id": "7f58e079ceb2d3213082f1c92ea30667",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448ec0d502c426277c9d04717157305d81b&to_app=hwbrowser&dy_scenario=topicinside&tn=758ada2642edd5b7f8b8a8e90b3660411079fcafcdf5762108ff8be04183bfaf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "保录用、发放全额奖学金！三星、SK海力士争抢韩国大学“顶尖芯片人才”",
+    "summary": "三星电子和SK海力士与韩国高校合作设立“契约学系”，提供全额奖学金和就业保障。2026学年，三星项目申请人数增6.5%，竞争比达13.44:1；SK海力士项目申请人数增12.7%。学生需满足成绩要求，毕业后须服务公司一定年限。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/326431690ea74589b4e7d0b85899ca4a_1_0/hd.webp",
-    "realDate": "2026-09-16 19:20:09"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/437102e37f9f4030849131450ff4c1f1_1_0/hd.webp",
+    "realDate": "2026-09-17 10:31:28"
   },
   {
-    "id": "4f299476820bec97b9557811febfd385",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051034101002026091670000059&to_app=hwbrowser&dy_scenario=topicinside&tn=08df0b7b41a8525f9520ab188d07f3f8efaad47edf8e72c7ee8df2edf69afbf1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美“星舰”计划进行首次地球轨道试飞",
-    "summary": "美国太空探索技术公司计划于9月22日首次尝试将“星舰”重型火箭送入地球轨道，并发射26颗“星链”V3卫星。发射窗口为美国中部时间7时15分，火箭将从得州南部升空，预计飞行10小时绕地6圈后在太平洋溅落。该火箭总长120米，设计目标为运送人货至地轨、月球及火星。此前7月份试飞中二级飞船成功溅落，但一级助推器着陆失败。",
-    "author": "新华社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f8/v3/Topic_73394839db09434f9408a38b5b7a4aef/7b66b5dab62841b1a1ae1a68ffdb5e47_1_0/hd.webp",
-    "realDate": "2026-09-16 10:53:19"
+    "id": "774d12b91e064f55c62cafb70b1a2778",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282486061&to_app=hwbrowser&dy_scenario=topicinside&tn=ff9e9bbc52e9e8f332433c18100e655798a0aaf4fee810ffd1278efbaf90029f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "供应严重短缺！韩国半导体零部件交货周期拉长 有设备商或要等40个月",
+    "summary": "韩国半导体设备零部件供应短缺加剧，沉积设备零部件交货期从4个月延至10个月，激光加工设备采购周期或达40个月。封装设备本土供应链交货时间也延长50%。业内人士称，AI芯片需求激增导致上游产能不足，三星、SK海力士等企业投资或受影响。同时台积电2026年设备采购预估已上调至1.9倍。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/813b27c3d7e14d97814840ac7eb4b902_1_0/hd.webp",
+    "realDate": "2026-09-17 15:21:42"
+  },
+  {
+    "id": "8eb900b3a516c090ce2632b53055c51d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104d14deef2bda61380f6cb89a6e1c337aa&to_app=hwbrowser&dy_scenario=topicinside&tn=425a952d2a958dbc8e9da95c389995750d261e69987b821a4f4fe0e3a71fb317&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "哲学家造芯片！扬言能效比英伟达Vera Rubin高100倍",
+    "summary": "荷兰AI芯片初创公司Euclyd近日完成2亿欧元A轮融资，由三星等机构领投。该公司由哲学与计算机双料博士Bernardo Kastrup创立，计划2028年推出全球首款面向agentic AI的芯片Craftwerk，其CWS平台号称推理能效比英伟达Vera Rubin高100倍，但未经验证。同时前ASML总裁Peter Wennink加入担任董事会主席。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/f96d53d9a78e467eac45ce4c674e6753_1_0/hd.webp",
+    "realDate": "2026-09-17 15:03:48"
+  },
+  {
+    "id": "a38069fd84d5c1d338adb765473e4e1a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048a6744b9af9c705074de5db0b2d4455aa&to_app=hwbrowser&dy_scenario=topicinside&tn=e0ae7f37fdc6c448d0a32cd0158a79875601684f4a8940bddfad238cc0066925&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“中国天眼”联手“美国天眼” 地球250万光年之外有新发现",
+    "summary": "清华大学天文系近日在《自然·天文》期刊发布研究成果，研究团队利用“中国天眼”FAST与美国甚大阵射电望远镜联合观测数据，在仙女座星系发现118个中性氢超泡，首次直接证明超新星爆发可长期驱动星系气体湍流。团队通过分析超泡尺度与膨胀速度，证实其动能输入速率与湍流耗散速率相当，为恒星反馈影响星系演化提供了直接证据。",
+    "author": "北京日报客户端",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/38c5a7be8502441da271599e8473b948_1_0/hd.webp",
+    "realDate": "2026-09-17 19:56:00"
+  },
+  {
+    "id": "41b4ce448e1cb81c39d8711ce46eb331",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512507ca432a55481668ed655dda52164eba8&to_app=hwbrowser&dy_scenario=topicinside&tn=a98930c953f58f578932ac00c6a489c59c28530d0133c2ab292e062da4f4989d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "依托AI超集群曙光8000 我国前沿科研应用取得重要突破",
+    "summary": "近日，我国自主研发的MCV数值模式依托国产AI超集群曙光8000，实现1小时内完成全球5公里分辨率、未来10天的预报计算，达到国际主流时效标准。该成果由中国气象局与中科曙光联合攻关，同时完成全球3公里模拟试验，为生命科学等领域提供参考。自主算力设施支撑前沿科研取得重要突破。",
+    "author": "证券日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d9/v3/Topic_cc8fe208597047c6a2de755dd95fce5a/c4268835ce584797af27d38ef2503bcf_1_0/hd.webp",
+    "realDate": "2026-09-17 21:22:16"
   }
 ]
