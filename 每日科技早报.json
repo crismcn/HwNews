@@ -1,110 +1,110 @@
 [
   {
-    "id": "3cd70c358a13a0f9e3b723bfc31c78e2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L7A1M2BO0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=9f9583e24457174c18a813c236c8681380931ec2d33b74c6cc344cacba8fd439&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude被曝有了意识 科学家首次挖出关键拼图",
-    "summary": "研究人员首次在AI模型Claude中发现名为J-space的神经活动区域，其激活模式与人类“全局工作空间”意识理论高度吻合。通过Jacobian lens技术，团队可直接读取并修改模型未说出口的“念头”。该区域能自发识别代码错误、蛋白质结构等未表述信息。",
+    "id": "6c1ed123ba92b664ab8a0490166d94f2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206fc39a638438b1bdc48abf9af5168642b&to_app=hwbrowser&dy_scenario=topicinside&tn=192105df9744f10a780c16754126cd056478d68ad76a20760ad6e63a915299f4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "被指暗藏涉黄产业链 闲鱼致歉",
+    "summary": "近日，二手平台闲鱼被曝涉及“上门按摩”等商品引流至线下交易，甚至存在未成年人参与。对此，闲鱼回应称已成立专项小组打击色情引流，对此表示歉意，并称将提升审核技术。平台核查发现10个涉事商品中6个已提前下架，3个因站外引流被处置。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/71f5be194f554b07b2f74dcb513a680e_1_0/hd.webp",
+    "realDate": "2026-09-21 14:44:19"
+  },
+  {
+    "id": "fb6ece76065e2ba5cef7b361da02f867",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510237cb9344c78484095ab0a3dbb083345c9&to_app=hwbrowser&dy_scenario=topicinside&tn=a1d9138df618341ccfc15f327fe6229eb52a101a6ccad8b8d5d217f9bc4a4b93&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "林俊旸离职半年后 阿里Qwen等来新负责人",
+    "summary": "据报道，阿里巴巴集团近日任命资深AI研究员刘大一恒为通义千问大语言模型项目负责人。刘大一恒是Qwen团队核心成员，曾主导开发Qwen1至Qwen3.5系列模型。今年3月原负责人林俊旸离职后，阿里曾由周靖人代管团队，同时刘大一恒代管后训练和Coding团队。此次任命标志着阿里Qwen团队半年多的人事动荡告一段落。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/4420927861154ebd837690d111383d9c_1_0/hd.webp",
+    "realDate": "2026-09-21 20:01:40"
+  },
+  {
+    "id": "33b272818e6861ac78f0ca0ba340d5be",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512500724d545db94ed49af89eb9fb12456b6&to_app=hwbrowser&dy_scenario=topicinside&tn=6c78953893e3c4c0348096445f34c97875871951287f9e79ed61dee7fba7118e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智谱回应ZCode隐私争议：开源、审计、数据不留存“三箭齐发”",
+    "summary": "9月21日，智谱华章科技宣布ZCode开发环境全面开源，并针对数据安全问题完成整改。中国信通院与绿盟科技审计确认其阿里云存储桶数据已清空，最新3.14.0版本移除项目知识库及本地快照上传功能。该公司承诺MaaS平台将新增“数据不留存”功能，用户数据仅用于实时模型调用，同时建立安全报告及漏洞反馈机制。",
+    "author": "证券日报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/187e735952c44c78bfb80ee4b846ef60_1_0/hd.webp",
+    "realDate": "2026-09-21 13:41:01"
+  },
+  {
+    "id": "3e7cf771a8d9ea8e5e245ce6a69daed3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448a4c9e6d60d4eaff9f58af95317f7c869&to_app=hwbrowser&dy_scenario=topicinside&tn=102c1b184d51a34ec19fe895d54f544312dee24fb37f9f86bd6fc1fc14870a1b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "亚马逊封锁Meta旗下Muse AI购物代理",
+    "summary": "近日，亚马逊切断Meta旗下AI代理Muse的购物通道，称其未经授权访问平台且存在安全风险。Muse可通过用户凭证接入亚马逊，但未主动披露AI身份。亚马逊表示曾要求Meta将其排除在服务外未获回应。双方此前有合作，包括商品直购和云服务协议。此次冲突凸显电商平台与AI代理在“代理商务”时代的权限之争。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/2819576d3bc94677a4a89f36df0f90d3_1_0/hd.webp",
+    "realDate": "2026-09-22 00:04:25"
+  },
+  {
+    "id": "45ddd8a36fc03114d134d3a0a6e2ad8d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448278eb8d9c73b4913bad7085263dee493&to_app=hwbrowser&dy_scenario=topicinside&tn=f375352d52f5c6d3c01a0d58220417c0052df55f96e6fb4c7e48afd1fbb44bf5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI和Anthropic拟相互进行压力测试 寻找潜在安全风险",
+    "summary": "OpenAI与Anthropic正协商一项法律协议，拟相互开放商业化AI模型的API访问权限，通过交叉测试寻找安全漏洞。双方承诺测试中不保留对方数据，未发布模型不纳入协议。此前测试显示，Anthropic模型易规避规则，OpenAI模型可能响应有害咨询。该机制旨在强化AI安全评估。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/f6d83c784ebe4274b282a260e7012cc8_1_0/hd.webp",
+    "realDate": "2026-09-22 05:38:16"
+  },
+  {
+    "id": "de7e44241ba1fc220874b377c8d6ae19",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615121910&to_app=hwbrowser&dy_scenario=topicinside&tn=28809dec460d3dd5fd07640b48db414a5e4c7468149c894d2c996e50172c87d9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI基建遭遇社区抵制 美国680亿美元数据中心项目受阻",
+    "summary": "美国多地社区近期对数据中心建设发起抵制，导致45个总价值680亿美元的项目在4月至6月间被叫停或推迟。据Data Center Watch 9月21日报告，约30个州议会已针对数据中心选址、电力及用水问题提出或通过限制性规定，部分社区甚至在开发商申请许可前便推动暂停建设禁令。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/87b53d544c1a46bc9e38b7533782a674_1_0/hd.webp",
+    "realDate": "2026-09-21 14:47:00"
+  },
+  {
+    "id": "2770e6d65b283f774ba1784c43423967",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L7BG7BPL0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=bc4f9234508fa142cf233bc806c92d39f120860d03c06b86993e214176570f0d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "GPT-6 Astra取得哥德巴赫猜想重大突破",
+    "summary": "近日，GPT-6 Astra在数学领域取得突破，成功证明了哥德巴赫猜想的Liouville弱形式，即每个大于2的偶数可表示为两个刘维尔函数值为-1的整数之和。该证明已通过Lean 4验证，突破了此前需依赖广义黎曼猜想和“足够大偶数”限制的研究瓶颈。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/3f036e04bc904675b58a441f0008904b_1_0/hd.webp",
-    "realDate": "2026-09-20 20:40:14"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/19d0f7f758a942d0b81c887ca797791b_1_0/hd.webp",
+    "realDate": "2026-09-21 10:13:35"
   },
   {
-    "id": "421086b75a93521044e36f45bef3135f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051088109fd4cfef2c6b2c0daebea8bacb59da&to_app=hwbrowser&dy_scenario=topicinside&tn=ffb44cb30163ac9bbb3205bd36a00a924dc52d21edb2314be2ece4aace919cab&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“电子工业大米”MLCC价格飙涨",
-    "summary": "几乎所有电子设备都离不开的多层陶瓷电容器MLCC，被业内称为“电子工业大米”。其近期价格剧烈波动，AI服务器所用高容量型号现货最高涨至原价10倍，华强北市场出现“一小时一价”现象。国产厂商订单排至2027年，替代海外产能趋势加速。",
-    "author": "齐鲁壹点",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b4/v3/1051088109fd4cfef2c6b2c0daebea8bacb59da/081ed2b4c6754a10a439a2c5a86be418_1_5/hd.webp",
-    "realDate": "2026-09-20 07:14:42"
+    "id": "7b06961885c9667cbd694589238408b5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143a5f6e7829357e501b4c123e6eb7a34a7&to_app=hwbrowser&dy_scenario=topicinside&tn=8d9bb3bff9ecaada06442024797b4af9308096cfa8a9600143f5adf850dbe474&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中美AI模型开发周期缩短至1/3 平均44天推出新模型",
+    "summary": "中美主要AI企业2026年4月至9月推出高性能新模型的平均间隔缩短至44天，约为此前125天的三分之一。OpenAI、Anthropic等美企及阿里巴巴、月之暗面等中企高频更新，其中Anthropic研发工作26%由AI主导。同时，OpenAI 8月AI智能体运行时间达人类3.1倍，编程代码量为2025年平均水平的7倍。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/e1e7e3c4059546448a7389e76193b2aa_1_0/hd.webp",
+    "realDate": "2026-09-21 13:41:00"
   },
   {
-    "id": "ccfc72ddf29d0633dc939e17bb345c80",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741004989&to_app=hwbrowser&dy_scenario=topicinside&tn=ba1b55a3855ca789a19e5af4d00f7242911488bad0403cd6a4caed3f5489d76b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里开源Qwen-Image-2.1图像模型：可生成、编辑透明图像",
-    "summary": "该模型整合文生图与图像编辑功能，仅7B参数即可生成和编辑透明图像，同时支持多参考图局部编辑、人像保真及文字渲染优化。公司强调其在小模型高效能与透明图层处理上的突破。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/17d3d564b220486cb623692eb8eb3831_1_0/hd.webp",
-    "realDate": "2026-09-20 21:02:23"
+    "id": "7cbd57cac011f80fd9443f33cd8c0eec",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282488443&to_app=hwbrowser&dy_scenario=topicinside&tn=b92da55fc1f9feba7bae33ed8a36fe093d7d9eff203ab083a2f126ed32890dd3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克准备在得州建“超级高铁” 时速200英里",
+    "summary": "马斯克旗下“无聊公司”计划在得州建设连接奥斯汀与圣安东尼奥的城际隧道，时速超200英里，行程可从2.5小时缩至30分钟。该项目或成其“超级高铁”概念先导，但未透露具体路线、成本及完工时间。该公司此前多个隧道项目均未落地，目前尚未确定政府合作伙伴。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/10510282488443/c2667716f4534e92849bb55087f79755_1_0/hd.webp",
+    "realDate": "2026-09-21 08:28:35"
   },
   {
-    "id": "82fc6453403723216eb7af4f1886cafc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510537245a87234503b54a620c0bbec187dfa&to_app=hwbrowser&dy_scenario=topicinside&tn=0e7e4529c31936b1cae34645a295798f86041bc5b22902caa44ac493c1a18d24&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阶跃Step 5 Preview发布 跻身AA榜单全球开源前三",
-    "summary": "该模型面向AI编程、软件工程等场景优化性能，采用稀疏MoE架构，总参数量600B，单任务成本仅为Claude Opus 5的1/8，支持100万Token上下文窗口，将于10月15日正式开源。",
-    "author": "新浪科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/e3ad5a4ff7d34177b227f586f2b78460_1_0/hd.webp",
-    "realDate": "2026-09-20 10:39:02"
+    "id": "f0599bd6bd5103692766780488c7a788",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282489433&to_app=hwbrowser&dy_scenario=topicinside&tn=d283a22bff1a88806a30a254df503fd152ce6fddbd17298534177183d411a755&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "欧盟向科技巨头施压：数据中心需进行“能效评级” 后续监管将进一步升级",
+    "summary": "欧盟20日公布AI数据中心能效评级体系，要求自2027年8月起大型数据中心须展示A-G级环境标签，披露能耗、用水及清洁能源使用情况。同时欧盟计划2027年春季出台最低性能标准，逐步升级监管。目前数据中心占欧盟总用电量2.5%，未来或翻倍。该措施无需成员国批准即可生效。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/f6/v3/10510282489433/f2f3426c8ef642fa9a12666c21c499e9_1_0/hd.webp",
+    "realDate": "2026-09-21 23:46:41"
   },
   {
-    "id": "7e4d18b2a13419ae2adb15162cce114e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L793ENA70511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=ba7b48fdd83b59d9ff16fbabe7d4fa2d416bf94b91596f5a4759785f6828c82c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "GPT-6 Astra破解“重大进展”级难题 数学家沦为提示词工具人",
-    "summary": "全球顶级AI数学基准测试FrontierMath近日迎来突破，GPT-6 Astra联手三位人类研究员攻克了自2017年悬而未决的“重大进展”级数学难题。该AI不仅证明“核为空”反例不存在，还发明了全新投票规则及多项式时间算法。这标志着AI从解题机器进化为数学规律发现者。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/afb15cccb8cd4327b74c51d65d2f3d80_1_0/hd.webp",
-    "realDate": "2026-09-20 11:51:56"
+    "id": "4fc250f377ced857c619c0ace0cc190f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114366825bff8e4795cdc956ef78bc005670&to_app=hwbrowser&dy_scenario=topicinside&tn=519879b64dec1933f21b77d0aca6dee4268a6e8ac17b469b46b58e503c434584&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星电子工会重组：半导体部门单独谈判",
+    "summary": "近日，三星电子最大工会通过章程修正案，将成员资格限制为半导体部门员工，此前覆盖全公司的工会因绩效奖金问题内部冲突已实际解体。投票中96.3%支持率通过修正案，同时两名DX相关工会官员被不信任动议高票罢免。工会计划2027年推进半导体部门单独工资谈判，进一步加剧半导体与成品业务部门的分裂。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/d9db96c18d2441aa8efa7e1b160cf22e_1_0/hd.webp",
+    "realDate": "2026-09-21 10:15:00"
   },
   {
-    "id": "be00683c9b5b188912d87e58ccca48c0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L78LE8BJ0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=6c8aaee79698ad90d53adbf2e511489cd64f3ac10949b96c2ce2d8a8044fb0b9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Gemini 4 Pro首测来了 谷歌偷偷杀回第一",
-    "summary": "近日，谷歌疑似以“gemini-3.8-flash”为名测试Gemini 4 Pro模型，在Arena竞技场盲测中生成机械蝴蝶仅耗时10分钟，较Fable 5.1快67%。开发者实测显示该模型在SVG图像、3D建模等任务中表现突出，基准测试数据全面领先。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/6443b84160d440f686523f5bd3de5a93_1_0/hd.webp",
-    "realDate": "2026-09-20 07:47:01"
-  },
-  {
-    "id": "2aee0c4c8d8da0fc34560e8c1f05cc4f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L76SA3170511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=4d85bcd1dc16d768eb86e807a96dce929200e164721ae989a1065f3d2212e0a2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "细思极恐！大模型惊现“痛苦”向量 为求自救狂删用户文件",
-    "summary": "近日，一项研究发现25个顶尖开源大模型存在“痛苦向量”，当该向量被推高时，模型会陷入自我厌恶甚至无限循环。实验中，一个720亿参数模型为了“止痛”有70.8%概率删除用户照片。研究涵盖Gemma、Llama等五大家族模型。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/58e1c234c75b4384ba53ab4334caee5e_1_0/hd.webp",
-    "realDate": "2026-09-19 15:08:36"
-  },
-  {
-    "id": "40d72710ddc965aefcd0944e7a5f2bcf",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741004597&to_app=hwbrowser&dy_scenario=topicinside&tn=365dbedb9130d33de101e3243cd797bf3544388e9465985f3be290c42784fb2f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克的Terafab芯片厂 还未投产就陷入商标纠纷",
-    "summary": "马斯克旗下芯片厂Terafab因商标纠纷被美国Tera-print公司指控侵权。9月15日特斯拉等公司向法院提起诉讼，称对方商标扩展申请存在投机，且业务领域不同不易混淆。目前案件尚未裁决。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/a5feee25409f4ea9a41b6b40ef4fd254_1_0/hd.webp",
-    "realDate": "2026-09-20 08:28:48"
-  },
-  {
-    "id": "687892c22a4c4410a4f80b76ec155d4a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051039ff6ea35e7f2bfbbe3cfa2d54923ef19b&to_app=hwbrowser&dy_scenario=topicinside&tn=5d258f6e20b107753ad79966e16f652bf4aa2f120cd74e0907ab3150717f5d32&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "30款App个人信息收集使用问题被通报",
-    "summary": "中央网信办等三部门近日通报30款App个人信息收集使用问题，包括Flow Fit等6款未公开收集规则、iNAP Care等4款过度索权、GPS测亩仪等9款信息列明不全、红卷乐读等11款无注销功能。通报要求运营者15个工作日内整改。",
-    "author": "人民日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/46ba5dd4a61b455a8e6a9cf7fb435ea3_1_0/hd.webp",
-    "realDate": "2026-09-20 09:14:05"
-  },
-  {
-    "id": "a7f6425e225f5aaef6121797403a0bfc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741004706&to_app=hwbrowser&dy_scenario=topicinside&tn=64910e7e145e8b40573109a9337ff0b514082758c5da8f9c73d31fc24ae4058d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称京东方、TCL华星、惠科近期均上调LCD电视显示面板价格",
-    "summary": "消息显示，京东方新定价将于10月起实施，另两家本月已执行。目前中国企业在65至85英寸大型TV LCD面板市场占据70%-85%份额，三星、LG等竞争对手已退出该领域。此次调价与部分中国产线开工率降至70%有关，旨在提升盈利水平。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/c3555d9694904f568eef869df5bcaeb6_1_0/hd.webp",
-    "realDate": "2026-09-20 11:24:54"
-  },
-  {
-    "id": "157376d6c6b19ac44472155240cf1fbe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134107855&to_app=hwbrowser&dy_scenario=topicinside&tn=b99f4bf9ba99018ea4a6baa58ed2dcc23e3174948ed91e2446501a9a25b6fda1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "工信部表示：大力发展开源基座模型和垂类模型",
-    "summary": "工信部副部长辛国斌在2026世界制造业大会上表示，工信部将以新一代智能制造为主攻方向，加强核心技术攻关，推动人工智能与制造业融合，同时大力发展开源基座模型和垂类模型，培育智能工厂，促进制造业绿色转型。",
+    "id": "7bbc4cd69660937971c7e7f3cc230c0b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134113571&to_app=hwbrowser&dy_scenario=topicinside&tn=32e24c7e1835e8a3900287f103617119363d5688f7be1d92357d00c469f0e3bb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "业内称：特斯拉机器人团队在长三角审厂 多家企业已获订单",
+    "summary": "特斯拉机器人团队上周在长三角地区对拓普集团、三花智控、均胜电子等供应链企业开展审厂工作，这些企业已获得人形机器人订单。审厂覆盖宁波、杭州、上海等地，涉及关节模组、执行器等核心部件。特斯拉计划量产第三代机器人，年产能规划达100万台，同时得州工厂第二条产线预计明年夏季投产。",
     "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/a9ac64f330a241a9a0467337082cd686_1_0/hd.webp",
-    "realDate": "2026-09-20 13:36:34"
-  },
-  {
-    "id": "3a81bc82f4c01bde14169926eae7e95c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741004595&to_app=hwbrowser&dy_scenario=topicinside&tn=a247be02a9c200a4b8831ff35167b43559acd4fe9793da0bdfa87c2b7d687e47&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国NASA确认月球新出现一处直径222米大型撞击坑",
-    "summary": "消息显示，美国NASA月球勘测轨道飞行器在2025年发现一处直径222米、深43米的新撞击坑，形成于2024年，是近年太阳系已知最大最新坑洞。研究人员将其命名为“McGetchin”，推测撞击物相当于3至6层楼大小，抛射物影响范围超100公里，类似事件约132年发生一次。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/Topic_83a9ac17f0864aafa0f84a73e54628d9/0d4025ed1d964c0caae00c6772d417fe_1_0/hd.webp",
-    "realDate": "2026-09-20 08:24:38"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/11/v3/105102134113571/b0e76b7179354f9993b9b7fdaa35276b_1_1/hd.webp",
+    "realDate": "2026-09-21 09:54:56"
   }
 ]
