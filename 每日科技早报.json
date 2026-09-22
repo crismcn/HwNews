@@ -106,5 +106,32 @@
     "author": "澎湃新闻",
     "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/11/v3/105102134113571/b0e76b7179354f9993b9b7fdaa35276b_1_1/hd.webp",
     "realDate": "2026-09-21 09:54:56"
+  },
+  {
+    "id": "8d471d36f1e7a265d342b329bb8d8559",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511041176fee91287cbd7f06e032df008918a&to_app=hwbrowser&dy_scenario=topicinside&tn=7ae18d2bffde1ad314ee8f745c62c5cc8fe0b6ac0f8c19b4e0f79f4aca753978&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国产CPU最高安全等级首次出现 昇腾950成AI芯片唯一Ⅱ级",
+    "summary": "近日，中国信息安全测评中心与国家保密科技测评中心联合发布安全可靠测评结果，首次明确测评结果有效期为三年。龙芯3A6000（C）与3C3000获Ⅲ级认证，与华为海思鲲鹏950并列国产CPU最高安全等级。昇腾950成为唯一获Ⅱ级认证的AI芯片，适用于金融风控等场景。打印机主控芯片中，龙芯2P0300与2P0500获Ⅱ级认证。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5f/v3/10511041176fee91287cbd7f06e032df008918a/0830e09c6cd24d7b9c2b0ecf579b0c0a_1_4/hd.webp",
+    "realDate": "2026-09-21 09:29:46"
+  },
+  {
+    "id": "8ab8ce46b303eac8faa4528581d120aa",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051206c6fa948292733853cc1282ea99821116&to_app=hwbrowser&dy_scenario=topicinside&tn=33c8ce3cc14dd45d976e750c0711c6f923458a9ea32023ac620ce8aa8d9b7594&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国资委作出最新部署 央企将加速AI在制造业各领域应用",
+    "summary": "国务院国资委召开专题会议，部署中央企业加速人工智能在制造业各领域普及应用，强调加强全流程智能升级、推动先进制造业与现代服务业融合。同时，国资委将支持央企打造原创技术策源地，并组建“AI+”产业共同体。今年以来，国资委已多次推进央企人工智能专项行动，包括举办“AI+工业制造”特训班等。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/a/v3/Topic_dc40ffa4d23542889e7a9f48b44ec854/ab6efa86853b4e6aa3d202bcb850a80a_1_0/hd.webp",
+    "realDate": "2026-09-21 12:11:43"
+  },
+  {
+    "id": "dac2f1d8b4e8dede7ea21b3598114494",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134115015&to_app=hwbrowser&dy_scenario=topicinside&tn=97b86020c9e3f230213a7b9470fd2031aca00c5e5c43c7d79a3b27a75da61575&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "80后中国女科学家本月连续在《细胞》《自然》《科学》三大国际顶刊发文",
+    "summary": "中科院古脊椎所付巧妹团队成果，涉及史前亚欧交流遗传历史、中国西南丹尼索瓦人古蛋白鉴定及东天山古代人群DNA研究。其合作单位包括甘肃省文物考古研究所、复旦大学等多家机构。付巧妹长期从事古基因组研究，曾解码东亚现代人遗传历史，相关成果入选Nature“年度十大科学事件”“中国科学十大进展”。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/54/v3/105102134115015/8f2b222387a344eab32048bc3f296fc5_1_2/hd.webp",
+    "realDate": "2026-09-21 15:08:24"
   }
 ]
