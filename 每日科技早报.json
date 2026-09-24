@@ -1,110 +1,101 @@
 [
   {
-    "id": "11f9774875e4cbc84986aad8cf81a67b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514487f68e8178481b662efd325aa754289cf&to_app=hwbrowser&dy_scenario=topicinside&tn=d0ee4dad9537577370e787f302af896aa2e7c7f73ee45fa9ab29a46379363e79&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里大动作！规划10万亿参数模型",
-    "summary": "阿里巴巴CEO吴泳铭在云栖大会宣布，计划到2032年将阿里云全球数据中心规模扩至超20吉瓦，同时，阿里还披露将研发参数规模5至10万亿的新一代AI模型，以应对当前算力供需缺口。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/9da4a74ec8444168ac79911cc29ed89d_1_0/hd.webp",
-    "realDate": "2026-09-22 19:58:07"
+    "id": "985f6c638d8feb92467e4e11bf5df0c4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10517412854530371620320&to_app=hwbrowser&dy_scenario=topicinside&tn=0a3eb106fba6a845f38ddd8beb89998bcea83e3c9ba881be123385c400fcb93f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "2亿日活之后 豆包开始收缩对话团队",
+    "summary": "据报道，豆包通用Session团队正缩减约一半人员，部分转岗至商业化及飞书团队。该团队曾负责对话产品能力，调整由负责人赵祺推动。豆包日活超2亿，但多模态功能成本高企，商业化瓶颈显现。同时，业务重心转向企业服务，原对话体验优化工作被放缓。",
+    "author": "晚点LatePost",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/e3c70ca6d13b451ba30754f9cafa096d_1_0/hd.webp",
+    "realDate": "2026-09-23 13:49:51"
   },
   {
-    "id": "44a22f316e072d53a2bc950f14acea3b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118b08be7962f00ab07eeb4e4e5644cfdeb&to_app=hwbrowser&dy_scenario=topicinside&tn=326196ef75d7072b1f98c61bc74922808fa1c4ca4843a37110f6079fc6571a6c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "智谱登顶榜单 马斯克“点赞”",
-    "summary": "智谱AI旗下GLM-5.3-Flash在9月22日OpenRouter日榜中以4.36万亿Token调用量位列第一，较上一周期增长73%，超过DeepSeek、腾讯及OpenAI。同时，比利时公司Aikido Security选用该模型作为安全底座。此外，特斯拉CEO马斯克近日点赞中国开源模型发展，称“智能正呈指数级提升”。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/dfa0c30c0e004200ad1c413befc4c887_1_0/hd.webp",
-    "realDate": "2026-09-22 20:03:03"
-  },
-  {
-    "id": "801fd92039dec790efca279e1c8b2efb",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741005998&to_app=hwbrowser&dy_scenario=topicinside&tn=a81e149110530249f5708cfffee830c5dbfa987dcd7d4359655250d7ea8a2ad2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic发布Claude Opus 5.5模型：性能媲美Fable 5.1",
-    "summary": "据介绍，该模型运行成本比Opus 5低40%，在代码迁移、软件优化等复杂任务中表现突出，安全测试得分创纪录，生物学和网络安全能力与Mythos 5.1相当。输入输出Token价格分别降至4美元/百万和20美元/百万，缓存命中成本降低60%。同时企业套餐使用限制放宽，订阅用户可随时重置速率限制。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/482f956d744b49769167899eb20ca0d9_1_0/hd.webp",
-    "realDate": "2026-09-23 02:55:08"
-  },
-  {
-    "id": "ad0561d4ef69eb570adf00c83b77b701",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047ebab8a5f46e2fdf86376cd6a5e7c0da&to_app=hwbrowser&dy_scenario=topicinside&tn=e0da7deed50d7c655efd749433d8760b9fcb5efcf2a50871ac85428e28b2743e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Grok 4.7发布 号称是马斯克旗下最强编码和知识处理模型",
-    "summary": "该模型推理速度达竞品两倍，价格仅一半，每百万词元输入起价2美元。它针对编程和知识工作优化，参数量约2.1万亿，支持文本与图像输入，提供四档推理强度。同时，Grok 4.7在安全防护、对话及文档生成能力方面均有提升，已通过Cursor和Grok Build提供。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/f6480f037cdb4e7cb6c6610bc63dd074_1_0/hd.webp",
-    "realDate": "2026-09-22 08:19:43"
-  },
-  {
-    "id": "6e0325a2292021e48cb6822f9228c09d",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282489627&to_app=hwbrowser&dy_scenario=topicinside&tn=36b3172607bc31452ee17d972559cde440e0f9e10b7b69fc5b38f5cdcd1c111a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI安全担忧持续发酵 OpenAI呼吁制定全球AI标准",
-    "summary": "近日，OpenAI发布AI安全保障提案，重点关注递归自我改进（RSI）技术风险，呼吁国际合作制定前沿标准。该公司警告称，若缺乏保障措施，RSI或致人类失去对AI开发的控制权。同时，该公司提及“抱抱脸事件”以警示潜在风险。",
+    "id": "35a1cb6ac237411a954e785563333977",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282490899&to_app=hwbrowser&dy_scenario=topicinside&tn=4a215e975fff54ee4010d8624f915fba7a92bb4e2dbb193f58b74102f43386ed&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Muse大火之际 Meta Connect重磅来袭",
+    "summary": "9月24日，Meta年度科技盛会Connect 2026举行，将展示硬件产品与AI技术进展。外界预计，会上将更新更多关于Muse的信息。同时，Meta也可能发布旗舰大模型Llama的新版本，模型自2025年4月更新后已沉寂许久，本次升级备受行业期待。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/d48e237aab6f4c84bd61671d1876f369_1_0/hd.webp",
-    "realDate": "2026-09-22 09:46:16"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e4/v3/10510282490899/e857c6596dc340bdb89d4f2a46650c80_1_1/hd.webp",
+    "realDate": "2026-09-23 11:34:21"
   },
   {
-    "id": "565f752e62c731c6adf239630706a397",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103374389&to_app=hwbrowser&dy_scenario=topicinside&tn=5b9ad9048bd8029bbc8971f649859d875b7d5aa276798460f7df9d3d463d2fde&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "安世半导体中国区重建供应链 东莞封测产能仍在恢复",
-    "summary": "安世半导体中国区因荷兰总部控制权受限，东莞封测厂产能逐步恢复。安世中国已在国内重建供应链，与国内晶圆厂商合作实现12英寸晶圆工艺平台导入，预计年底完成主要产品线国内闭环。同时，安世荷兰也在弥补封测产能。闻泰科技上半年营收同比降超九成。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/752856c0648b4f2789720f8a88d58c3d_1_0/hd.webp",
-    "realDate": "2026-09-22 20:31:08"
-  },
-  {
-    "id": "1ff4b12eb61a63ea0d2ce46ec5cbef59",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169f8e6c11ca43080c6510f76024a41bb7e&to_app=hwbrowser&dy_scenario=topicinside&tn=d80499fcc4933813e8246ee67349b3c2fbf328dda2ce43c3b0ee05301206bc5d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌因位置准确性等问题被罚近31亿元",
-    "summary": "爱尔兰数据保护委员会因谷歌在2018至2020年间违反欧盟《一般数据保护条例》，对其处以4.03亿欧元罚款。调查发现谷歌在用户位置数据处理方面存在缺陷，包括网络活动记录和定位精确度问题。谷歌回应称已改进工具并更新数据管理措施。",
-    "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/988e2c5ce1d04406b089b75a60a1203c_1_0/hd.webp",
-    "realDate": "2026-09-22 08:45:42"
-  },
-  {
-    "id": "0f51155fbc0e039147f3e024e8133747",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282489746&to_app=hwbrowser&dy_scenario=topicinside&tn=a7f669a9230e0fbaf9ab5b25bbed145c7533ad08aa28b2dba2767b21c9a25d40&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "毛利率被吸至-50%！硅谷独角兽反水OpenAI 中国开源模型成救星",
-    "summary": "法律AI独角兽Harvey因OpenAI模型调用成本飙升致毛利率跌至-50%，近日转向中国开源模型月之暗面Kimi K3等方案降低成本。其自研模型上线后毛利率已回正，同时医疗科技公司Abridge等初创企业也加速布局开源架构。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5b/v3/10510282489746/8b79bf7c55c24506851c169662e1c023_1_3/hd.webp",
-    "realDate": "2026-09-22 11:18:01"
-  },
-  {
-    "id": "09954061bc437e8d58808ebee99ea7da",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741005735&to_app=hwbrowser&dy_scenario=topicinside&tn=cf4308ea93232a08426eae50901323f5c8efb31f0666f630857e0fd9ce6bc9f6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国得州全面冻结数据中心审批 启动大规模审查",
-    "summary": "美国得州州长阿博特下令暂停审批新建数据中心许可，直至完成对高耗能设施接入电网的审查。此前该州因电力充沛吸引大量投资，但AI热潮导致数据中心激增引发民众反对。审查将评估电力消耗、税收优惠及水资源使用等指标，阿博特称“民众利益优先”。得州电力委员会已启动审查，排队项目总装机超470吉瓦。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/d984d25dd65e4f2891f8926b86243b0f_1_0/hd.webp",
-    "realDate": "2026-09-22 15:29:33"
-  },
-  {
-    "id": "662a08a42dbd87ca8c9caa2db9023a89",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615126857&to_app=hwbrowser&dy_scenario=topicinside&tn=ad68fb5bc9012503372b73bba09e19c5fa641aacc39e2225a3eb12c006331f09&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "机构称：二季度全球半导体营收超4250亿美元 再创历史新高",
-    "summary": "数据显示，2026年第二季度全球半导体营收达4250亿美元，环比增长31.4%，创历史新高。AI需求及存储器价格上涨推动上半年总营收至7520亿美元，连续四个季度实现两位数增长。该数据为2002年有记录以来最高单季增幅。",
+    "id": "87c21bbe49f7dd519f85b015a18b0d8c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615130838&to_app=hwbrowser&dy_scenario=topicinside&tn=2db729c663e905cee84b81a8132a7918c08600b7348106f747662787a9a60491&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "闲鱼公布“涉未成年人淫秽”调查结果",
+    "summary": "9月23日，闲鱼公布调查结果显示，平台公开展示信息中未发现淫秽及涉未成年人淫秽内容，媒体报道的违规聊天截图来自其他平台。闲鱼已向公安机关报案，并将相关商家、二维码和聊天记录向涉事平台举报。同时，闲鱼表示将升级技术识别能力，加大人工巡查力度，并倡议互联网平台联手建立反引流联盟。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/98a4ac941f684527a91209a3117666aa_1_0/hd.webp",
-    "realDate": "2026-09-22 13:38:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/90/v3/105120615130838/c846780b55e84db78f1780822713f213_1_5/hd.webp",
+    "realDate": "2026-09-23 10:23:57"
   },
   {
-    "id": "c7decdc85bd5b1c7e08f279900795ddc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282490041&to_app=hwbrowser&dy_scenario=topicinside&tn=00972f00825c6af4ac5f3efb9de5bb3d00af140d19c5bb4087c631ebbd655343&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "搭载7万块英伟达芯片 亚美尼亚赫拉兹丹数据中心冲刺欧洲最大算力集群",
-    "summary": "亚美尼亚赫拉兹丹数据中心近日投入运营，由美国Firebird公司建设，计划明年底前部署7万块英伟达先进芯片，总装机规模达300兆瓦。该中心20%算力将用于支持亚美尼亚本土科研及企业，剩余部分面向国际客户，包括美国PerplexityAI等企业。该设施距首都埃里温45公里，有望成为欧洲最大算力集群之一。",
+    "id": "d35ca81ffb3fa91b7690a4c0f91d283e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282491719&to_app=hwbrowser&dy_scenario=topicinside&tn=13dbd0ea1822c093f7c7b82eb65af36bbeee55f3ee05d0b83b0add052161f836&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic CEO宣布 公司将放慢AI的研发进度",
+    "summary": "Anthropic首席执行官达里奥·阿莫迪在联合国安理会表示，人工智能虽推动健康科学进步，但存在被用于制造生物武器等风险，可能威胁人类生存。基于安全考虑，该公司决定放缓AI研发进度。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/81bca1dcdc53467cb38891cd496d6ad1_1_0/hd.webp",
-    "realDate": "2026-09-22 15:28:08"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/1cde327fa7d842ce800024b63aeb5082_1_0/hd.webp",
+    "realDate": "2026-09-24 03:24:29"
   },
   {
-    "id": "b0dd5d64d742ab51e684351c52faf631",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741005524&to_app=hwbrowser&dy_scenario=topicinside&tn=c5fef385a389efed00c859e9eda1817e47c0e13f1cf97db41abc2f72bcb91cdc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国内首个“筷子夹火箭”方案来了：“跃迁一号”研制全面提速",
-    "summary": "国内商业航天公司大航跃迁近日宣布，其“跃迁一号”火箭二级仪器舱结构静力试验成功，各项数据符合预期。该火箭采用“筷子夹”塔架回收技术，取消着陆腿以减轻重量，同时本月已完成二级发动机校准试车等动力“三关”试验。公司表示研制全面提速，为2027年首飞奠定基础。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e8/v3/Topic_b7dc3f008ff74e63a65b53d3b5b6833f/8a6813016ed64cc9b0f17e25d238c959_1_0/hd.webp",
-    "realDate": "2026-09-22 09:07:02"
+    "id": "e5c15089639f660579d7c60be520b3ff",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512475446054412602888666&to_app=hwbrowser&dy_scenario=topicinside&tn=6cd81ba4c59f1d295bbef32cd52fd6a78b9a6272cf04575507cc57fdd010b32e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "能侦察也能攻击！两栖球形机器人来了",
+    "summary": "近日，在中国国际国防电子展览会上亮相的一款国产两栖球形机器人引发关注。该机器人直径0.8米、重180多公斤，最高时速35公里，通过内部电机和摆锤控制运动，可自主驾驶或人工操控。其球形设计使其能在水面侦察、陆地越障，适用于机场驱鸟、油田巡逻等场景，同时可挂载网枪、声波驱散器等装备执行攻击任务。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/75/v3/10512475446054412602888666/51102972dc174059a35412a2bf6b56bd_1_8/hd.webp",
+    "realDate": "2026-09-23 05:14:50"
+  },
+  {
+    "id": "21e6e168f80deeecf78fa05fe86527f9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282491150&to_app=hwbrowser&dy_scenario=topicinside&tn=c1aa7354a949dc0c351c1270537cb0c9de7a7df07e10da6b7506d576847108ce&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克预测称：20年后人形机器人数量或达1000亿台",
+    "summary": "特斯拉CEO马斯克预测，未来20年全球人形机器人数量或达1000亿台，可承担看护、教育等工作。同时，特斯拉Optimus机器人量产提速，已向中国供应链企业派发订单，美国得州工厂主结构接近完工。但机构指出其软件技术路径未收敛，商业化进度存在风险。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/3e7d29ede1f147ea8e773794820a0186_1_0/hd.webp",
+    "realDate": "2026-09-23 15:56:23"
+  },
+  {
+    "id": "a6ae3465eb7375bcd4888b810c51e981",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282490694&to_app=hwbrowser&dy_scenario=topicinside&tn=d228a5f4293121b48ccfcf7c299f6f401753105b3afc52bd13e35ded35b00bd1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "用“人工”假装“智能” Meta被曝内测让真人代替Muse通话",
+    "summary": "Meta测试其AI助手Muse的“人工管家”功能，在用户不知情时将通话转接给外包人员完成。内部文件显示，人工介入可提升成功率至95%-98%，但引发员工对隐私泄露的担忧，已有外包人员涉及种族歧视言论。公司承认未充分告知属“失误”，已暂停该功能并致歉。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/bf03671bea5a46029f35e2b95028698f_1_0/hd.webp",
+    "realDate": "2026-09-23 08:50:47"
+  },
+  {
+    "id": "809890f90385e82b7ba1dc1f8d3abe3a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282490756&to_app=hwbrowser&dy_scenario=topicinside&tn=367f60875394f90064f7c41dae9c02d459f3bcb1db94d03e6b2ac5ab179aade0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "李飞飞加入“AI减速”论战：呼吁第三方监管",
+    "summary": "近日，斯坦福大学教授李飞飞呼吁AI技术需接受独立机构及公共部门监督，强调安全评估不能仅由开发企业负责。她指出AI系统性风险取决于人类管理技术的方式，需平衡潜在益处与安全。当前硅谷掀起“AI减速”论战，Anthropic、OpenAI CEO支持第三方评估，而黄仁勋等人认为无需集体减速。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/aca0dbaa1c9a47598a0f3e8dece30890_1_0/hd.webp",
+    "realDate": "2026-09-23 09:38:55"
+  },
+  {
+    "id": "07361b3b87adb552b83ba4db6fac0954",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324893423&to_app=hwbrowser&dy_scenario=topicinside&tn=979a916d8d0f492208dd4825a60b65ce0d36b3ccb8e331064902b01ebd971d17&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "00后华人天才少女从DeepMind转会OpenAI",
+    "summary": "近日，00后华人研究员Bonnie Li宣布从谷歌DeepMind离职加入OpenAI。她曾深度参与Gemini及具身智能体Sima 2研发。这位17岁即登上RE•WORK峰会、师从Yoshua Bengio的天才少女，此前在NeurIPS等顶会发表论文被引超5600次。数据显示，DeepMind对竞对人才留存比已从12:1降至2:1。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1032_8/e3/v3/10510324893423/b8fefbc6d597478ab4ac694a4ac17554_1_0/hd.webp",
+    "realDate": "2026-09-23 12:35:53"
+  },
+  {
+    "id": "33104b0217b62f2a0bd5a1ffc51d9986",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282491473&to_app=hwbrowser&dy_scenario=topicinside&tn=ea07affa971082925ef9c36b250b580f741fe152fed2416d9d5e00ac2100fdd2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "部分涨幅或超50% 半导体12英寸硅片长约“涨声”起",
+    "summary": "半导体12英寸硅片长约价格因AI芯片与存储扩产导致供需趋紧，2027年涨价趋势确立。业界调查显示，12英寸外延片新长约价或涨15%-25%，抛光硅片涨幅或超40%，部分二线客户涨幅超50%，2028年可能续涨。现货价持续上涨，预计四季度超长约价。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/7e471838f46b435dbdc3943553b3affe_1_0/hd.webp",
+    "realDate": "2026-09-23 20:07:40"
+  },
+  {
+    "id": "84bc17cf8130e893079498c34545e1ef",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134129693&to_app=hwbrowser&dy_scenario=topicinside&tn=0f51a5109f5435a2b468d6b2e8b0b0ce74f9b41db008f4ce075edf646cb1fbc3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国能源部耗资2亿资助竞赛 力图在2028年前建成量子计算机",
+    "summary": "美国能源部宣布投入2.15亿美元资助竞赛，目标在2028年前研发具备纠错功能的实用量子计算机。参赛团队需达到阶段性性能目标，DOE预计成功概率为50%。量子计算机利用量子比特解决传统超算难题，但需克服稳定性挑战。该项目要求最终实现100-200个逻辑量子比特的容错机器，可能需数千物理量子比特支撑。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/35/v3/Topic_f95e1df005c544aca28a2554dfad93e6/7daa2f5c53b84d4d92cec9c77ea0c8b9_1_0/hd.webp",
+    "realDate": "2026-09-23 07:17:50"
   }
 ]
