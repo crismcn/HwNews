@@ -1,92 +1,20 @@
 [
   {
-    "id": "226d09d76104d1f461951b9eb6e20c79",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8wlKR0zpGKH&to_app=hwbrowser&dy_scenario=topicinside&tn=e41a91e2a875c42e4dbb107c0bfd84158e02ab2a13b54c4d0cf81727acd91c72&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Gemini 4 Pro全新曝光 实测碾压Opus 5.5",
-    "summary": "近日，谷歌Gemini 4 Pro新检查点曝光，实测显示其3D物理模拟、代码生成等能力远超Opus 5.5。开发者测试中，该模型16分钟纯代码生成交互式3D国际空间站，并精准渲染水上飞机起飞效果。Google DeepMind负责人确认其训练进度提前，已进入后训练早期阶段。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/7877b5693f844a88a01bbc265fadf03c_1_0/hd.webp",
-    "realDate": "2026-09-27 16:32:12"
+    "id": "1688abf8e51989eefe8ef119a24cb924",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282493802&to_app=hwbrowser&dy_scenario=topicinside&tn=18265abe0b572b6d6f1657c0a044b450d3007fd2551b5e4d53d068136f7b8924&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "迎战Meta Muse OpenAI将紧急推出个人AI助手",
+    "summary": "近日，Meta个人AI智能体Muse因能主动执行全网任务迅速走红，摩根大通将其评为顶尖AI。OpenAI为应对竞争，计划在9月29日开发者大会推出名为“o”的常驻AI助手，由GPT-6 Astra变体驱动，擅长处理长时任务，同时配套消费级硬件。此外，OpenAI或推出月费500美元的ChatGPT Pro Max订阅服务。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/ce7e3b1b2be046e2bb98205226e5dbd8_1_0/hd.webp",
+    "realDate": "2026-09-28 11:23:33"
   },
   {
-    "id": "fabeb626edf89e1636be35793ca537e7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512060140d596575808a81fd82e3492d949c0&to_app=hwbrowser&dy_scenario=topicinside&tn=525bf1faa28a6db7c007c23ac4b6182db2aba351e5ac1a018a0b109fbc7cf05a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "比尔·盖茨警告称：AI足够强大 足以引发十亿人死亡事件",
-    "summary": "他表示，人工智能是“足够强大”的工具，可能引发导致十亿人死亡的事件。他近期转变态度，认为恶意使用AI的威胁超过任何武器，并呼吁立法征税AI文本处理量。同时，Anthropic等公司高管也提出需放缓AI开发、加强监管，OpenAI和特斯拉CEO均公开支持。",
+    "id": "dcb3f2f3807c02d80f8a9207122978de",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615147476&to_app=hwbrowser&dy_scenario=topicinside&tn=f5836616f1e2565cd6bf86287ed707e50696237b1266953f53643227957796c7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Manus正组建团队 开发面向国内市场产品",
+    "summary": "9月28日，Manus宣布面向海外用户发布2.0版本，并推出面向个人生活场景的智能助理Cue。此外，公司表示正在组建团队开发面向国内市场的产品，与国产模型厂商及生态伙伴的合作也在稳步进行，后续将分享更多进展。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/b701ab608f7b4d91b37e0be79129f03c_1_0/hd.webp",
-    "realDate": "2026-09-26 19:05:21"
-  },
-  {
-    "id": "ed35ce944489d0085a59da0b6dc0b562",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134160122&to_app=hwbrowser&dy_scenario=topicinside&tn=687d9b0e9642b3c27476b3f307e3c33cb195ad4d2d9fa6be2ca212a754ed5fe0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "特斯拉人形机器人被曝周产量已达数百台",
-    "summary": "据报道，该产值较第二季度提升了约10倍，但仍需解决零部件一致性等问题。目前V3版本非最终商业版，多数用于内部测试。特斯拉计划年底前建立自动化生产线，目标周产超1000台。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/db/v3/105102134160122/60024c9ad8a1486d86e6ce6264c1ca7f_1_2/hd.webp",
-    "realDate": "2026-09-27 15:43:42"
-  },
-  {
-    "id": "c2cfb223839359d3c2cd9b51670e5829",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047fd57231db8c614f12fa6448baaa8778&to_app=hwbrowser&dy_scenario=topicinside&tn=d3ddf866e3fbdfe42a9fe463313892abb2c26bb8cf0ee6589ed5a808e6ffd017&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude刷新物理学世界纪录 单挑基于杨振宁理论9圈难题",
-    "summary": "Anthropic宣布其AI系统Claude在无人类干预下，连续运行数天攻克了高能物理学界著名的“九圈散射振幅”计算难题，突破了此前八圈纪录。该计算基于杨振宁与米尔斯1954年提出的理论模型，采用两种方法完成，其中一种使用96个CPU运行约一周。同时，AI在科学领域的快速推进引发学术评价体系争议，陶哲轩等25位菲尔兹奖得主曾联署公开信表达担忧。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/c361bba74d384822867d85825c309454_1_0/hd.webp",
-    "realDate": "2026-09-27 08:03:53"
-  },
-  {
-    "id": "4545795154b479151b430dbbb59956c0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110494498af6f05f228011e9b53111a0ea9f&to_app=hwbrowser&dy_scenario=topicinside&tn=a82c64c1894876a55d3a3b77cf54a27c205d21bcbd0ff735203106e79960d0a3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "王兴兴回应造390万元载人机甲",
-    "summary": "近日，宇树科技GD01载人变形机甲亮相杭州全球数字贸易博览会，售价390万元起。王兴兴表示，该产品定位为“机器人里的越野车”，专为户外复杂地形设计，具备强通过性。目前问价者多但尚未售出，王兴兴称就算宇树不做，未来几年也会有其他企业推出同类产品。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/8974ee20d3e645e3b3e79a4727492d1a_1_0/hd.webp",
-    "realDate": "2026-09-27 07:20:29"
-  },
-  {
-    "id": "ed35b25f35dbd1833aed2f9bc4300262",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169f3a9b1ea6ef3716e768922ed5d45ac2e&to_app=hwbrowser&dy_scenario=topicinside&tn=e395fec77b796351feb58e574149527148a4d82a45b17f34ce9f558fca68dfd7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "涉触觉反馈专利侵权 苹果被判赔57亿美元",
-    "summary": "美国陪审团裁定苹果公司因侵犯Taction公司触觉反馈专利，需赔偿57亿美元。苹果否认侵权并称将上诉，此前联邦法院曾裁定其未侵权。Taction于2021年起诉，其技术应用于耳机等设备。",
-    "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/54616cc1697a4317bb231dfbc4c496bc_1_0/hd.webp",
-    "realDate": "2026-09-27 11:04:35"
-  },
-  {
-    "id": "8cf26e13add4ca0f3b772e9c95eb1882",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110461ebfbbccb0649dc85a56a1c9e8ebeb1&to_app=hwbrowser&dy_scenario=topicinside&tn=967b9561f79fd4cbb9d7c425a2ccf615c2526fe31468fbbf52495510b3dbb719&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克拼了！狂堆121万颗英伟达最新GPU：半年内要追上OpenAI",
-    "summary": "马斯克旗下Space XAI计划年底前将Colossus 2数据中心的GPU总量增至121万颗，当前已部署55万颗英伟达GB200和GB300。扩容分三批推进，12月底完成。Space XAI运营GPU总数将达144万颗，总价值或超500亿美元。马斯克称未来两到三个月内有望推出与Anthropic Fable和OpenAI GPT-6水平相当的模型。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/99dc606eab954cfc9645dcbbee525428_1_0/hd.webp",
-    "realDate": "2026-09-26 20:07:31"
-  },
-  {
-    "id": "0285ca5d1b73f318d9e87d6c7384e4e2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105125360cd9c26d95bb6a9a0561f22646f9c88&to_app=hwbrowser&dy_scenario=topicinside&tn=d65a5b79c474b94c1196baa73dc6c3f07afed7b0e55f7fb66496049e2b0469b0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国产火箭迎重大突破 总装周期已缩短至约15天",
-    "summary": "中科宇航力箭一号火箭在南沙总装厂房完成整箭总装，其各级分段已实现标准化生产。该型号首飞阶段总装周期约3个月，现缩短至约15天，厂房年产能达30发。同时，商业火箭生产模式从“按任务生产”转向提前备产，接单到发射周期可压缩至半年内。",
-    "author": "证券时报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/d3fce1de78a44d49beff8236f052f35a_1_0/hd.webp",
-    "realDate": "2026-09-27 15:03:05"
-  },
-  {
-    "id": "fe9049d779e149621bf50af159c0c246",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104329e480d10d26239a38166af78eecb4b&to_app=hwbrowser&dy_scenario=topicinside&tn=366c24d3139c74951b465124ad907cedd3991fd30b1c3779d8845d04a39f5685&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "狂砸8.5万亿！中国AI算力扩容三倍、国产芯片占比要超70%",
-    "summary": "高盛研报显示，2026至2030年中国AI资本开支将达8.5万亿元，IT电力容量从2025年26吉瓦扩至2030年81吉瓦。阿里、腾讯等云厂商2026年投资预计9950亿元，国产芯片部署占比将超70%，2030年出货量或达1100万颗。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/dd65db1dafb1477eb2f69e0c8e76f1a3_1_0/hd.webp",
-    "realDate": "2026-09-26 22:39:28"
-  },
-  {
-    "id": "066c1daaf7ff43ac6acfaa1441af718e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105119583ce6f87093e717c60af8023b2769572&to_app=hwbrowser&dy_scenario=topicinside&tn=94b38d69611c5ec9832204011f3cf633a6d0ad472eadd2be40df88255296442f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "科学家首次捕获系外行星射电信号！距地球约63光年",
-    "summary": "天文学家首次探测到来自系外行星“绘架座βb”的无线电辐射，该行星距地球约63光年。研究团队利用南非MeerKAT射电望远镜发现其辐射频率达3.5GHz，推算磁场强度为地球的2000-5000倍。这是人类首次直接测量系外行星磁场，为探索外星生命提供新途径。",
-    "author": "红星新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ff/v3/Topic_5e1d5b6bc5094d1b9241bb994b40160b/fa8c60f22d6549bf93e5bf4271d2e5b8_1_0/hd.webp",
-    "realDate": "2026-09-27 15:40:41"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/1fa515c224fd4f98a3af5461ff1244f8_1_0/hd.webp",
+    "realDate": "2026-09-28 23:30:55"
   }
 ]
