@@ -16,5 +16,86 @@
     "author": "界面新闻",
     "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/1fa515c224fd4f98a3af5461ff1244f8_1_0/hd.webp",
     "realDate": "2026-09-28 23:30:55"
+  },
+  {
+    "id": "9ef3f6b352723a4de594d5e4fc48e15b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473605748366772343157&to_app=hwbrowser&dy_scenario=topicinside&tn=5534eb89681075b79652ce2a6044604acc4d732b97c3708bc31392a88b73aad2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "全球首台！搭载全国产化电子架构的具身智能机器人亮相",
+    "summary": "9月28日，全球首台搭载全国产化电子架构的具身智能机器人在湖北宜昌亮相。该架构作为“智能神经系统”，涵盖操作系统至AI芯片，实现控制与计算的隔离融合，通过破坏性测试验证了实时控制与防攻击能力。专家称其保障了机器人内生安全及产业主权，为AI物理应用划定安全边界。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/99/v3/10512473605748366772343157/2668a9c6d4cf4aefbb2fe6bf27c6ac4c_1_3/hd.webp",
+    "realDate": "2026-09-28 09:34:05"
+  },
+  {
+    "id": "1251dc838ee25eec5a1a9fe7e2dd2644",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110476d2a8001f6c210909d64efb3b2c5610&to_app=hwbrowser&dy_scenario=topicinside&tn=e81d82e806b81beedcbb261946f42c3f89ab51628ab77bc061230f016a222f08&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国模型首登CyberGym榜首！阿里自研AI安全模型实现“小强”突破",
+    "summary": "近日，阿里巴巴伏渊息壤大模型以88.9%成功率登顶国际AI安全榜单CyberGym模型榜，成为中国首个冠军模型。该27B参数模型体积仅为其他上榜模型的1/27-1/370，实现“小强”突破，显著降低安全漏洞检测算力成本。榜单排名第2-5名分别为谷歌、OpenAI、智谱和DeepSeek研发的模型。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/4caee3f0056f40c48fbae550a218fdaa_1_0/hd.webp",
+    "realDate": "2026-09-28 10:22:39"
+  },
+  {
+    "id": "1ae23c4da0a5b449e0f80d71341e4a2c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134163982&to_app=hwbrowser&dy_scenario=topicinside&tn=3c246e2149d684abdd478759e557503229ab8ef0af7b849ab6102cb6a1fd8810&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国大模型日调用量持续霸榜 神秘“玉兔”大模型被曝来自MiniMax",
+    "summary": "近日，中国大模型周调用量以62.22万亿Token连续二十二周全球居首，其中DeepSeek V4.1 Flash、智谱GLM 5.3 Flash分列前两位。匿名模型“玉兔”以13.9万亿Token冲至第三，开发者通过分词器测试推测其或为MiniMax新发布的M3.1-Flash-Preview版本，该模型支持百万级上下文窗口与多模态开发闭环。同时MiniMax H3多模态模型在多项国际评测中位列第一。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/82450a2c7a62453fa0bbc6666f1a4992_1_0/hd.webp",
+    "realDate": "2026-09-28 13:16:06"
+  },
+  {
+    "id": "367b1308368dca00221b9fbb3fa63c5c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514486c223b05eebfc1f635983bb3f3ea7ec0&to_app=hwbrowser&dy_scenario=topicinside&tn=ac39025f4fa6c710d59af157cbd39e1cac3b3be26b034c15c197f7e5e1ff3656&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达最新披露：供应承诺额暴增135% Anthropic已签约超1800亿美元",
+    "summary": "英伟达披露AI基础设施需求激增，Anthropic签约2.6吉瓦算力合同总价值超1800亿美元，交付期至2028年。同时，英伟达整体供应承诺额环比增长135%至2790亿美元，主要由内存采购驱动。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/0c6a0ee3822f4839a59e9337467c2087_1_0/hd.webp",
+    "realDate": "2026-09-28 21:55:31"
+  },
+  {
+    "id": "259acee06f485b5dac94b65a69b67012",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483c605734c24f1e2031aa7b9b95f5d201&to_app=hwbrowser&dy_scenario=topicinside&tn=fa70b6718dcff99b5b3f01678fceb38a812b3ac6c7db6ba4c9140b856e40b5a3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI需求催化台积电加速扩产 2纳米月产能年底冲刺12万片",
+    "summary": "苹果、英伟达等科技巨头追加台积电2纳米订单10%-20%，推动其年底月产能达12万片，较原预估超20%。台积电首次五厂同步扩产，2026-2028年产能年复合增速将达70%。同时3纳米产能也在全球布局，南科厂第四季月产能近18万片。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/69cad5f4329e476db49ca2f8f74e0482_1_0/hd.webp",
+    "realDate": "2026-09-28 12:17:40"
+  },
+  {
+    "id": "88d45f57d00126c76cfbdf0d2088ab1f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282494038&to_app=hwbrowser&dy_scenario=topicinside&tn=f6f412e8bb3c03d5b7f9fc4ada1054ad7f7356d152df9c63772ea43ffb54b35d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "抢抓AI存储需求！三星加快建设P5晶圆厂 设备进厂提前至明年二季度",
+    "summary": "三星电子加速建设平泽P5晶圆厂，设备安装节点从明年三季度提前至二季度，一期预计5-6月启动。该厂瞄准AI存储需求，一期生产DRAM与HBM内存，二期或建NAND产线。行业面临设备及零部件短缺，台积电已上修2026年设备采购预估至1.9倍。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/d58541d6b5a34130809acdfe5b554d09_1_0/hd.webp",
+    "realDate": "2026-09-28 15:12:35"
+  },
+  {
+    "id": "509424c7d0270347c9382502889816b1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023afcd930e4fb635f50d2ea61b6661a3ba&to_app=hwbrowser&dy_scenario=topicinside&tn=22a3faa27ebc0163e1faee4da0c6fc965b2c6a026a90c5e7a9010c5d12fe09dc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国队夺得亚运会王者荣耀项目金牌",
+    "summary": "9月28日，中国队在爱知·名古屋亚运会王者荣耀项目决赛中，由王科等7名选手及教练李托组成的团队击败对手，成功卫冕，成为该项目亚运会历史上首个实现两连冠的队伍。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/34539ff092fd4fc4b790cb144395f657_1_0/hd.webp",
+    "realDate": "2026-09-28 15:26:44"
+  },
+  {
+    "id": "53096584cca3765595251f76d616da51",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124714063982017027320047&to_app=hwbrowser&dy_scenario=topicinside&tn=a3d20b6d1bfef66be5608c97527dfbcd0ceefc0bb292dbd4248bbd21cef99746&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“梦想”号南海试钻成功 钻获深海洋盆玄武岩样品",
+    "summary": "近日，“梦想”号大洋钻探船在南海4100米水深海域完成试钻任务，成功获取深海洋盆玄武岩样品，成为全球第三个实现该目标的国家。该船具备11000米钻探能力，本航次最大钻深达4929.17米，刷新我国自主作业水深纪录。样品显示南海扩张脊存在多期火山喷发，为研究地质活动提供关键实证。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/24/v3/105124714063982017027320047/1b54d79c1f774b0d9e3cfec376d4303c_1_8/hd.webp",
+    "realDate": "2026-09-28 10:00:00"
+  },
+  {
+    "id": "5a3b4d4729f5c448c9e522ce388259fd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512476183844855453192164&to_app=hwbrowser&dy_scenario=topicinside&tn=0fcb166e424ac7995f29f51ffb9c151c799e053459adde883e0af34fd2063f8c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "聚焦人工智能、量子科技等领域科技创新 中国科学院“十五五”发展规划发布",
+    "summary": "中国科学院发布“十五五”发展规划，聚焦人工智能、量子科技等优先领域，部署基础研究、战略高技术和可持续发展三大方向。规划提出加强人工智能赋能科研，建设科学基础大模型等设施，同时推动国家重大科技基础设施智能化升级，构建“3+4+X”区域科技布局体系。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/2e76e842ec4e4430a500bc9f0e95b3d9_1_0/hd.webp",
+    "realDate": "2026-09-28 08:10:00"
   }
 ]
