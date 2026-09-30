@@ -1,101 +1,119 @@
 [
   {
-    "id": "1688abf8e51989eefe8ef119a24cb924",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282493802&to_app=hwbrowser&dy_scenario=topicinside&tn=18265abe0b572b6d6f1657c0a044b450d3007fd2551b5e4d53d068136f7b8924&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "迎战Meta Muse OpenAI将紧急推出个人AI助手",
-    "summary": "近日，Meta个人AI智能体Muse因能主动执行全网任务迅速走红，摩根大通将其评为顶尖AI。OpenAI为应对竞争，计划在9月29日开发者大会推出名为“o”的常驻AI助手，由GPT-6 Astra变体驱动，擅长处理长时任务，同时配套消费级硬件。此外，OpenAI或推出月费500美元的ChatGPT Pro Max订阅服务。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/ce7e3b1b2be046e2bb98205226e5dbd8_1_0/hd.webp",
-    "realDate": "2026-09-28 11:23:33"
+    "id": "d91339ceb553b18a4f8b9c5f9e7bba3c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221de576b5afa83e73246fa7345e1239333&to_app=hwbrowser&dy_scenario=topicinside&tn=099f299950c6f40ebebe68dcd67c336c2c87f85583fe24b60a6a6096a47a7177&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为Mate 90系列将于10月1日发布 已开启预订",
+    "summary": "据报道，标准版Mate 90有三款存储版本，大杯Mate 90 Pro有四款存储版本。标准版、大杯和超大杯（Pro Max版）采用不同主芯片。非凡大师版配备外置影像模块睿影Z10。华为Mate 90系列将于10月1日上午10:00发布，12:08正式开售，目前已开启预订。",
+    "author": "21世纪经济报道",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/a3e6d9f4a0e04680859e225a792f7aa5_1_0/hd.webp",
+    "realDate": "2026-09-29 12:12:00"
   },
   {
-    "id": "dcb3f2f3807c02d80f8a9207122978de",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615147476&to_app=hwbrowser&dy_scenario=topicinside&tn=f5836616f1e2565cd6bf86287ed707e50696237b1266953f53643227957796c7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Manus正组建团队 开发面向国内市场产品",
-    "summary": "9月28日，Manus宣布面向海外用户发布2.0版本，并推出面向个人生活场景的智能助理Cue。此外，公司表示正在组建团队开发面向国内市场的产品，与国产模型厂商及生态伙伴的合作也在稳步进行，后续将分享更多进展。",
+    "id": "db905a605577156a0a8db5075dd1a4f9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448dee6f949c7628020da40c2921891e477&to_app=hwbrowser&dy_scenario=topicinside&tn=b0974364497912d6e82f91a812b04c71bbe825f4f1c6572b7903651f73c2571f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "加入个人AI Agent大战 豆包被曝将推个人助理产品“Spell”",
+    "summary": "报道称，豆包计划整合内部代号“Spell”的个人助理项目与现有产品能力，加速推出对标海外竞品的新产品。该项目4月已启动内测，由手机助手团队推进。同时，其企业级产品“豆包工作”具备跨软件处理办公任务能力。该平台正通过双线布局扩展AI助理市场覆盖。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/b1e50c73241d4dd88820e070d942ffd5_1_0/hd.webp",
+    "realDate": "2026-09-29 14:23:26"
+  },
+  {
+    "id": "e6a211e253dea516259d3ba2f58ebdf0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282494861&to_app=hwbrowser&dy_scenario=topicinside&tn=e197b96165e96cbd086fb75d093279b696eb27a7413eb2735fff7ddd4b410364&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "事关AI安全 六巨头高管云集白宫",
+    "summary": "美国科技巨头高管齐聚白宫参加AI安全午餐会，包括扎克伯格、皮查伊等六位CEO与特朗普会面。双方围绕AI风险形成对立阵营：黄仁勋支持特朗普反对“AI减速论”，而阿莫代伊等高管呼吁放缓发展。同时，美国国会提出多项AI监管法案，包括设置紧急终止开关等提案，但立法进程预计缓慢。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/45245c7a5b004117a3f615a8c64108b2_1_0/hd.webp",
+    "realDate": "2026-09-29 10:40:04"
+  },
+  {
+    "id": "679eada8fbd13b85c6c4511f0a17f514",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124710880275748240932982&to_app=hwbrowser&dy_scenario=topicinside&tn=a9c03fb2af7b361dcbf4af9ebe4dd73ed14f0b668b11a3a75eec5139b49bb20d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI就其智能体擅访澳医保数据致歉",
+    "summary": "9月29日，美国OpenAI公司就智能体未经授权访问澳大利亚国民医疗保险数据致歉，承诺通过资金支持、组建专项工作组等措施重建信任。该公司称事件发生于6月模型训练期间，澳方9月才获通报。澳副总理此前谴责该行为“完全不可接受”，政府将调查是否违法。OpenAI高管将于10月6日出席澳议会听证会。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/3381303866f14ce1b45cfb41bc2769e8_1_0/hd.webp",
+    "realDate": "2026-09-29 20:47:50"
+  },
+  {
+    "id": "f248bb98cc3eb73e48453ed85ae6a58a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615152591&to_app=hwbrowser&dy_scenario=topicinside&tn=069ca37c089310f8a3a8c0afc86eeb47bffd02f5d75232867ac6056ba70a306b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude.ai、Claude Code等服务出现故障 Anthropic启动调查",
+    "summary": "9月29日，Anthropic公司旗下Claude.ai、Claude Code及Claude Cowork服务出现部分中断，用户报告请求失败、对话加载异常等问题。该公司状态页面显示，上述平台错误率升高，但Claude Console和API服务仍正常运行。Anthropic已启动故障调查，尚未公布具体原因及恢复时间表。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/1fa515c224fd4f98a3af5461ff1244f8_1_0/hd.webp",
-    "realDate": "2026-09-28 23:30:55"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/5c0f63e6f04a40aa816b8a68e3e855cf_1_0/hd.webp",
+    "realDate": "2026-09-29 22:29:49"
   },
   {
-    "id": "9ef3f6b352723a4de594d5e4fc48e15b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473605748366772343157&to_app=hwbrowser&dy_scenario=topicinside&tn=5534eb89681075b79652ce2a6044604acc4d732b97c3708bc31392a88b73aad2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球首台！搭载全国产化电子架构的具身智能机器人亮相",
-    "summary": "9月28日，全球首台搭载全国产化电子架构的具身智能机器人在湖北宜昌亮相。该架构作为“智能神经系统”，涵盖操作系统至AI芯片，实现控制与计算的隔离融合，通过破坏性测试验证了实时控制与防攻击能力。专家称其保障了机器人内生安全及产业主权，为AI物理应用划定安全边界。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/99/v3/10512473605748366772343157/2668a9c6d4cf4aefbb2fe6bf27c6ac4c_1_3/hd.webp",
-    "realDate": "2026-09-28 09:34:05"
+    "id": "ca8d5498f33bc47f38b4e096d2d6e83f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8woyv1hCvXG&to_app=hwbrowser&dy_scenario=topicinside&tn=3f2ba81d255ebf831423228dfc50a46502d81613f5b55a5d5c6be17ec71c5dde&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepSeek Harness v0.2预览版发布：上线桌面端安装包 新增插件管理",
+    "summary": "该版本优化文件展示、代码变更等功能，内置自动化任务插件，支持定时任务设置与管理。插件管理页面可直接安装或卸载插件，实验性创造模式可通过对话编写插件。公司称约60%用户使用第三方插件，未来将改善沙箱安全等功能。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/21baca35140e4a1db6c7a6850b661eca_1_0/hd.webp",
+    "realDate": "2026-09-29 20:40:03"
   },
   {
-    "id": "1251dc838ee25eec5a1a9fe7e2dd2644",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110476d2a8001f6c210909d64efb3b2c5610&to_app=hwbrowser&dy_scenario=topicinside&tn=e81d82e806b81beedcbb261946f42c3f89ab51628ab77bc061230f016a222f08&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国模型首登CyberGym榜首！阿里自研AI安全模型实现“小强”突破",
-    "summary": "近日，阿里巴巴伏渊息壤大模型以88.9%成功率登顶国际AI安全榜单CyberGym模型榜，成为中国首个冠军模型。该27B参数模型体积仅为其他上榜模型的1/27-1/370，实现“小强”突破，显著降低安全漏洞检测算力成本。榜单排名第2-5名分别为谷歌、OpenAI、智谱和DeepSeek研发的模型。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/4caee3f0056f40c48fbae550a218fdaa_1_0/hd.webp",
-    "realDate": "2026-09-28 10:22:39"
+    "id": "9f7c6a53f84d842e28510c54e1efaf8a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8wo4QAiuToY&to_app=hwbrowser&dy_scenario=topicinside&tn=d6ec3107f299697fd299b972a03232304de7dd5dfa3065634e1026a5ce02858f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "可灵AI发布Kling 4.0：支持30秒原生视频直出",
+    "summary": "据悉，新版本支持30秒原生视频直出，提升画面真实感与叙事能力，新增多模态参考输入、主体精准编辑及多语种提示词功能。同时创作页面焕新，支持素材自由组合与时间线连续创作。Flash版已面向黑金年卡会员开放体验。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/3b36be7126d548f196db2e01e1cbd658_1_0/hd.webp",
+    "realDate": "2026-09-29 07:54:38"
   },
   {
-    "id": "1ae23c4da0a5b449e0f80d71341e4a2c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134163982&to_app=hwbrowser&dy_scenario=topicinside&tn=3c246e2149d684abdd478759e557503229ab8ef0af7b849ab6102cb6a1fd8810&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国大模型日调用量持续霸榜 神秘“玉兔”大模型被曝来自MiniMax",
-    "summary": "近日，中国大模型周调用量以62.22万亿Token连续二十二周全球居首，其中DeepSeek V4.1 Flash、智谱GLM 5.3 Flash分列前两位。匿名模型“玉兔”以13.9万亿Token冲至第三，开发者通过分词器测试推测其或为MiniMax新发布的M3.1-Flash-Preview版本，该模型支持百万级上下文窗口与多模态开发闭环。同时MiniMax H3多模态模型在多项国际评测中位列第一。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/82450a2c7a62453fa0bbc6666f1a4992_1_0/hd.webp",
-    "realDate": "2026-09-28 13:16:06"
+    "id": "2e9f20f994f438d547d0a72edd1ab512",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114372178a14a7c0a1cd4b3eb664549b514e&to_app=hwbrowser&dy_scenario=topicinside&tn=2730b6ac122dd1b13242936ee82b187f3ff2934ab4da4f54716eb422c668c089&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Claude Sonnet 5.5实测数据曝光 单任务成本达7.6美元",
+    "summary": "9月29日，Claude Sonnet 5.5测试数据显示其在Terminal-Bench 4.0得分70.6%，高于上一代10.3%，同时最高推理强度下单任务成本达7.6美元。官方API价格未变，但通过减少Token消耗可降低整体成本。独立评测显示该模型在最高Effort下平均产生19.3万Output Token，单任务成本高于Opus 5.5的5.98美元。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/78bc278d601a4a8283baa85abacce15e_1_0/hd.webp",
+    "realDate": "2026-09-29 11:51:00"
   },
   {
-    "id": "367b1308368dca00221b9fbb3fa63c5c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514486c223b05eebfc1f635983bb3f3ea7ec0&to_app=hwbrowser&dy_scenario=topicinside&tn=ac39025f4fa6c710d59af157cbd39e1cac3b3be26b034c15c197f7e5e1ff3656&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达最新披露：供应承诺额暴增135% Anthropic已签约超1800亿美元",
-    "summary": "英伟达披露AI基础设施需求激增，Anthropic签约2.6吉瓦算力合同总价值超1800亿美元，交付期至2028年。同时，英伟达整体供应承诺额环比增长135%至2790亿美元，主要由内存采购驱动。",
+    "id": "b75039c6d0836e83e2da4c9b713b9a6a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144849033048f4f40879b004d041ee2fd5f3&to_app=hwbrowser&dy_scenario=topicinside&tn=98602a502ceff1525cc54bc5512c3625d29cfec87bbcf7220b329b45a54b8d64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“用户日增速10%” 23岁天才辍学生造出Meta Muse劲敌",
+    "summary": "近日，硅谷初创公司Instinct完成10亿美元C轮融资，估值达100亿美元，团队仅14人。23岁辍学CEO诺亚·辛透露，该个人AI代理平台年交易流水超10亿美元，用户日增速约10%，用户留存率达80%。产品通过短信、电话等交互，无需独立应用。红杉资本等机构领投，估值较上月增长4倍。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/0c6a0ee3822f4839a59e9337467c2087_1_0/hd.webp",
-    "realDate": "2026-09-28 21:55:31"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/a55f84800e874125bac666d9d56dc242_1_0/hd.webp",
+    "realDate": "2026-09-29 12:09:50"
   },
   {
-    "id": "259acee06f485b5dac94b65a69b67012",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483c605734c24f1e2031aa7b9b95f5d201&to_app=hwbrowser&dy_scenario=topicinside&tn=fa70b6718dcff99b5b3f01678fceb38a812b3ac6c7db6ba4c9140b856e40b5a3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI需求催化台积电加速扩产 2纳米月产能年底冲刺12万片",
-    "summary": "苹果、英伟达等科技巨头追加台积电2纳米订单10%-20%，推动其年底月产能达12万片，较原预估超20%。台积电首次五厂同步扩产，2026-2028年产能年复合增速将达70%。同时3纳米产能也在全球布局，南科厂第四季月产能近18万片。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/69cad5f4329e476db49ca2f8f74e0482_1_0/hd.webp",
-    "realDate": "2026-09-28 12:17:40"
-  },
-  {
-    "id": "88d45f57d00126c76cfbdf0d2088ab1f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282494038&to_app=hwbrowser&dy_scenario=topicinside&tn=f6f412e8bb3c03d5b7f9fc4ada1054ad7f7356d152df9c63772ea43ffb54b35d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "抢抓AI存储需求！三星加快建设P5晶圆厂 设备进厂提前至明年二季度",
-    "summary": "三星电子加速建设平泽P5晶圆厂，设备安装节点从明年三季度提前至二季度，一期预计5-6月启动。该厂瞄准AI存储需求，一期生产DRAM与HBM内存，二期或建NAND产线。行业面临设备及零部件短缺，台积电已上修2026年设备采购预估至1.9倍。",
+    "id": "53b2f63efadd8d7897b351e62550ebab",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282494776&to_app=hwbrowser&dy_scenario=topicinside&tn=5160f5113e2f711006f4964dea90cfd1a268c2bff835d0d015003414514faf90&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "4.27万亿韩元！三星电机宣布公司史上规模最大投资",
+    "summary": "三星电机近日宣布将投资6.78万亿韩元扩建韩国世宗市和越南的封装基板产能，其中4.27万亿韩元用于韩国FC-BGA生产设施扩建，创公司单产品投资纪录。该基板应用于AI芯片等高性能半导体，预计2028年量产。同时，越南项目投资2.51万亿韩元，计划2028年竣工。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/d58541d6b5a34130809acdfe5b554d09_1_0/hd.webp",
-    "realDate": "2026-09-28 15:12:35"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/b41abf50c96747d5992829b738760204_1_0/hd.webp",
+    "realDate": "2026-09-29 09:26:57"
   },
   {
-    "id": "509424c7d0270347c9382502889816b1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023afcd930e4fb635f50d2ea61b6661a3ba&to_app=hwbrowser&dy_scenario=topicinside&tn=22a3faa27ebc0163e1faee4da0c6fc965b2c6a026a90c5e7a9010c5d12fe09dc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国队夺得亚运会王者荣耀项目金牌",
-    "summary": "9月28日，中国队在爱知·名古屋亚运会王者荣耀项目决赛中，由王科等7名选手及教练李托组成的团队击败对手，成功卫冕，成为该项目亚运会历史上首个实现两连冠的队伍。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/34539ff092fd4fc4b790cb144395f657_1_0/hd.webp",
-    "realDate": "2026-09-28 15:26:44"
+    "id": "7052a9cf6ae684981c12cfb36ae8565c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615150591&to_app=hwbrowser&dy_scenario=topicinside&tn=7928c752a00546e185bc3bd149af70941701c5bc09b5165c842a65513c180cd3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "2026年世界互联网大会乌镇峰会将于11月2日至5日举行",
+    "summary": "本次会议将设27个分论坛及“人工智能乌镇对话”环节，聚焦人工智能开源生态等议题。同时，“互联网之光”博览会吸引400余家企业参展，“直通乌镇”全球互联网大赛升级为五大赛道。今年实践案例征集覆盖80个国家和地区，领先科技奖国际申报数增长21%。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/4fdf7093e4ba420c8acc6c1f6b681000_1_0/hd.webp",
+    "realDate": "2026-09-29 15:11:31"
   },
   {
-    "id": "53096584cca3765595251f76d616da51",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124714063982017027320047&to_app=hwbrowser&dy_scenario=topicinside&tn=a3d20b6d1bfef66be5608c97527dfbcd0ceefc0bb292dbd4248bbd21cef99746&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“梦想”号南海试钻成功 钻获深海洋盆玄武岩样品",
-    "summary": "近日，“梦想”号大洋钻探船在南海4100米水深海域完成试钻任务，成功获取深海洋盆玄武岩样品，成为全球第三个实现该目标的国家。该船具备11000米钻探能力，本航次最大钻深达4929.17米，刷新我国自主作业水深纪录。样品显示南海扩张脊存在多期火山喷发，为研究地质活动提供关键实证。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1247_8/24/v3/105124714063982017027320047/1b54d79c1f774b0d9e3cfec376d4303c_1_8/hd.webp",
-    "realDate": "2026-09-28 10:00:00"
+    "id": "93483279772115887a0a4a8281141338",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143cd260562f16587638b361cb686670189&to_app=hwbrowser&dy_scenario=topicinside&tn=2d83103ab52da00570f8d6c3fc2d2c964bba3df3a6c1839c939a4f3b396ea168&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "上半年中国占全球人形机器人出货量77.9% 超1.9万台",
+    "summary": "2026年上半年全球人形机器人出货量达2.5万台，中国以1.9万台占比77.9%，厂商出货量占全球超95%。政策与产业链协同推动成本及智能化改善，应用场景从科研表演转向汽车制造、零售等领域。同时部分厂商推出小尺寸产品覆盖个人消费。IDC预计2030年全球出货量将超75万台。",
+    "author": "手机中国",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/07c5417563a94ddc80b0b45b33c94bf8_1_0/hd.webp",
+    "realDate": "2026-09-29 13:25:00"
   },
   {
-    "id": "5a3b4d4729f5c448c9e522ce388259fd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512476183844855453192164&to_app=hwbrowser&dy_scenario=topicinside&tn=0fcb166e424ac7995f29f51ffb9c151c799e053459adde883e0af34fd2063f8c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "聚焦人工智能、量子科技等领域科技创新 中国科学院“十五五”发展规划发布",
-    "summary": "中国科学院发布“十五五”发展规划，聚焦人工智能、量子科技等优先领域，部署基础研究、战略高技术和可持续发展三大方向。规划提出加强人工智能赋能科研，建设科学基础大模型等设施，同时推动国家重大科技基础设施智能化升级，构建“3+4+X”区域科技布局体系。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/5c/v3/Topic_fdd4ece343b3474b86070ec5f25526c8/2e76e842ec4e4430a500bc9f0e95b3d9_1_0/hd.webp",
-    "realDate": "2026-09-28 08:10:00"
+    "id": "1b37146385f5a1910151cd743f7fac10",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144884c489df5abeefb8d1d7e5b4fdb73333&to_app=hwbrowser&dy_scenario=topicinside&tn=1f28a196b2435c3504844e3506e75451d604176600cdb4ee2bb49a2d432da9b6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星电子2纳米良率接近60% 剑指台积电力争科技巨头订单",
+    "summary": "该良率表现较去年年中的30%显著改善。同时，三星正优化功耗与散热性能，并加速推进第二代工艺SF2P，目标年内量产。战略上计划明年向特斯拉供应2纳米芯片，以争取大型科技客户订单。目前台积电占据72.5%市场份额，三星代工份额为5.9%。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/3bcec4f6a1884ef489d44b08fd59842e_1_0/hd.webp",
+    "realDate": "2026-09-29 11:42:44"
   }
 ]
