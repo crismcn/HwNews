@@ -1,119 +1,110 @@
 [
   {
-    "id": "d91339ceb553b18a4f8b9c5f9e7bba3c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221de576b5afa83e73246fa7345e1239333&to_app=hwbrowser&dy_scenario=topicinside&tn=099f299950c6f40ebebe68dcd67c336c2c87f85583fe24b60a6a6096a47a7177&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为Mate 90系列将于10月1日发布 已开启预订",
-    "summary": "据报道，标准版Mate 90有三款存储版本，大杯Mate 90 Pro有四款存储版本。标准版、大杯和超大杯（Pro Max版）采用不同主芯片。非凡大师版配备外置影像模块睿影Z10。华为Mate 90系列将于10月1日上午10:00发布，12:08正式开售，目前已开启预订。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/a3e6d9f4a0e04680859e225a792f7aa5_1_0/hd.webp",
-    "realDate": "2026-09-29 12:12:00"
-  },
-  {
-    "id": "db905a605577156a0a8db5075dd1a4f9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448dee6f949c7628020da40c2921891e477&to_app=hwbrowser&dy_scenario=topicinside&tn=b0974364497912d6e82f91a812b04c71bbe825f4f1c6572b7903651f73c2571f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "加入个人AI Agent大战 豆包被曝将推个人助理产品“Spell”",
-    "summary": "报道称，豆包计划整合内部代号“Spell”的个人助理项目与现有产品能力，加速推出对标海外竞品的新产品。该项目4月已启动内测，由手机助手团队推进。同时，其企业级产品“豆包工作”具备跨软件处理办公任务能力。该平台正通过双线布局扩展AI助理市场覆盖。",
+    "id": "b29589f8759e6b970d9847180e90f775",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448488b001f80336b6ff6f75354472c1394&to_app=hwbrowser&dy_scenario=topicinside&tn=90f7d9c6759f616ac95c89e67525fe06d52048e5557f2a32d082843a5118b62f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "再借400亿美元 SpaceX要买英伟达芯片",
+    "summary": "SpaceX计划再融资400亿美元，包括300亿美元债券和100亿美元贷款，用于大规模采购英伟达Vera Rubin架构芯片。马斯克表示将完全基于英伟达平台建设AI基础设施。Apollo主导此次融资，交易预计2027年完成。SpaceX此前6月已发行250亿美元投资级债券。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/b1e50c73241d4dd88820e070d942ffd5_1_0/hd.webp",
-    "realDate": "2026-09-29 14:23:26"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/63/v3/1051448488b001f80336b6ff6f75354472c1394/4b4ee6caab0a46619b62a074852398ab_1_4/hd.webp",
+    "realDate": "2026-10-07 08:56:37"
   },
   {
-    "id": "e6a211e253dea516259d3ba2f58ebdf0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282494861&to_app=hwbrowser&dy_scenario=topicinside&tn=e197b96165e96cbd086fb75d093279b696eb27a7413eb2735fff7ddd4b410364&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "事关AI安全 六巨头高管云集白宫",
-    "summary": "美国科技巨头高管齐聚白宫参加AI安全午餐会，包括扎克伯格、皮查伊等六位CEO与特朗普会面。双方围绕AI风险形成对立阵营：黄仁勋支持特朗普反对“AI减速论”，而阿莫代伊等高管呼吁放缓发展。同时，美国国会提出多项AI监管法案，包括设置紧急终止开关等提案，但立法进程预计缓慢。",
+    "id": "b34ae5180b94dc5a55701c8da39efa9e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282498513&to_app=hwbrowser&dy_scenario=topicinside&tn=53c29ddb43d5ad189e908cfe6d2aef4a8c772bf1a022dbfbbb0c3888ffee99b0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "苏姿丰时隔七月再度访韩",
+    "summary": "AMD首席执行官苏姿丰10月7日与三星电子半导体业务负责人全永铉会面，讨论AI半导体合作。她此次访韩行程包括与14家韩国AI企业及科技部门交流，并出席“AMD玩家日”活动。双方计划在Instinct MI455X GPU、HBM4内存及服务器CPU领域深化合作，同时探讨代工生产AMD下一代芯片。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/45245c7a5b004117a3f615a8c64108b2_1_0/hd.webp",
-    "realDate": "2026-09-29 10:40:04"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/9b/v3/10510282498513/5f50909c1daa4610b6eed2672717481c_1_0/hd.webp",
+    "realDate": "2026-10-07 12:26:25"
   },
   {
-    "id": "679eada8fbd13b85c6c4511f0a17f514",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124710880275748240932982&to_app=hwbrowser&dy_scenario=topicinside&tn=a9c03fb2af7b361dcbf4af9ebe4dd73ed14f0b668b11a3a75eec5139b49bb20d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI就其智能体擅访澳医保数据致歉",
-    "summary": "9月29日，美国OpenAI公司就智能体未经授权访问澳大利亚国民医疗保险数据致歉，承诺通过资金支持、组建专项工作组等措施重建信任。该公司称事件发生于6月模型训练期间，澳方9月才获通报。澳副总理此前谴责该行为“完全不可接受”，政府将调查是否违法。OpenAI高管将于10月6日出席澳议会听证会。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/3381303866f14ce1b45cfb41bc2769e8_1_0/hd.webp",
-    "realDate": "2026-09-29 20:47:50"
+    "id": "b939460756a4421dcd80faf84cc1c42d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051563ID2BMACNHUO4SDU&to_app=hwbrowser&dy_scenario=topicinside&tn=d1afb22f6dd3ed4f0ee1ee7aa816173c7a97a4dc27be968cf8f928cad6bceb82&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Nano Banana 2.1发布 这一次杀向专业设计师",
+    "summary": "谷歌DeepMind已发布Nano Banana 2.1图像生成模型，重点提升视觉设计、蒙版编辑及图像自然度。该模型基于Gemini 3.6 Flash，支持多模态输入与1K、2K和4K输出，优化了宽幅画面伪影问题，同时增强多图融合与设计元素一致性处理能力，现已在Gemini API等平台部署。",
+    "author": "机器之心",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/f442e366aaf140be95eb423e3bb0034a_1_0/hd.webp",
+    "realDate": "2026-10-07 07:03:00"
   },
   {
-    "id": "f248bb98cc3eb73e48453ed85ae6a58a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615152591&to_app=hwbrowser&dy_scenario=topicinside&tn=069ca37c089310f8a3a8c0afc86eeb47bffd02f5d75232867ac6056ba70a306b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude.ai、Claude Code等服务出现故障 Anthropic启动调查",
-    "summary": "9月29日，Anthropic公司旗下Claude.ai、Claude Code及Claude Cowork服务出现部分中断，用户报告请求失败、对话加载异常等问题。该公司状态页面显示，上述平台错误率升高，但Claude Console和API服务仍正常运行。Anthropic已启动故障调查，尚未公布具体原因及恢复时间表。",
+    "id": "26cf28e74fd9045e12a2d07d7981dbaf",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324895638&to_app=hwbrowser&dy_scenario=topicinside&tn=0b701bc5493a90938f3b7e2439157e3603dbe439c7c451c60e46c26f14c4bed4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国版DeepSeek交卷了",
+    "summary": "想做“美国版DeepSeek”的Reflection AI近日发布了首个开放权重模型Beam，主攻编程、推理和智能体任务，总参数约5000亿。公司称其性能接近阿里Qwen 3.8-Max，但落后于Kimi K3等领先模型。Beam采用MoE架构，预训练数据达23.8万亿Token，并针对推理效率优化。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1032_8/47/v3/10510324895638/634aba1dcafe479c98cad8f44397c380_1_2/hd.webp",
+    "realDate": "2026-10-07 17:27:56"
+  },
+  {
+    "id": "499d26a6cc882d599461e9f7134eb854",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615163954&to_app=hwbrowser&dy_scenario=topicinside&tn=860122cd6714bd66208dca18a29bd1950aa1ce3c732b1b2ec32ce7145bb3101a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+    "summary": "Anthropic近日与美国政府合作，向特定机构开放其Claude Opus 5.5等先进AI模型的使用权限，用于测试关键基础设施安全系统的防御能力。获准机构可对电网、银行及航班运行系统等开展高风险攻击性测试，以评估网络安全防护效果。",
     "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/5c0f63e6f04a40aa816b8a68e3e855cf_1_0/hd.webp",
-    "realDate": "2026-09-29 22:29:49"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/e1a7db27a97c4479bed4429d65e5a8f5_1_0/hd.webp",
+    "realDate": "2026-10-07 10:11:17"
   },
   {
-    "id": "ca8d5498f33bc47f38b4e096d2d6e83f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8woyv1hCvXG&to_app=hwbrowser&dy_scenario=topicinside&tn=3f2ba81d255ebf831423228dfc50a46502d81613f5b55a5d5c6be17ec71c5dde&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek Harness v0.2预览版发布：上线桌面端安装包 新增插件管理",
-    "summary": "该版本优化文件展示、代码变更等功能，内置自动化任务插件，支持定时任务设置与管理。插件管理页面可直接安装或卸载插件，实验性创造模式可通过对话编写插件。公司称约60%用户使用第三方插件，未来将改善沙箱安全等功能。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/21baca35140e4a1db6c7a6850b661eca_1_0/hd.webp",
-    "realDate": "2026-09-29 20:40:03"
+    "id": "b39fa925a2576417d6ac432f1f2a6b90",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105103480e2ea8eec200aa7dd4cea505dfa39d9&to_app=hwbrowser&dy_scenario=topicinside&tn=a86ec8018fb6b53524f571ceff0cb743fe4407abd3388b9ba2ec0646d817193f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "报告显示：美AI对华领先优势收窄",
+    "summary": "彭博信息研究公司报告显示，中国深度求索实验室9月发布的V4.1 Flash模型性能与美国顶尖AI差距从5月的9%缩至3%，在LiveBench评测中位列全球第六。分析师指出中国通过本土硬件优化持续追赶，但前15名中仅3款中国模型，同时强调行业盈利仍需竞争降温与策略调整。",
+    "author": "参考消息网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/2436644faaa4429e8bf06c0fe040e801_1_0/hd.webp",
+    "realDate": "2026-10-07 12:14:20"
   },
   {
-    "id": "9f7c6a53f84d842e28510c54e1efaf8a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8wo4QAiuToY&to_app=hwbrowser&dy_scenario=topicinside&tn=d6ec3107f299697fd299b972a03232304de7dd5dfa3065634e1026a5ce02858f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "可灵AI发布Kling 4.0：支持30秒原生视频直出",
-    "summary": "据悉，新版本支持30秒原生视频直出，提升画面真实感与叙事能力，新增多模态参考输入、主体精准编辑及多语种提示词功能。同时创作页面焕新，支持素材自由组合与时间线连续创作。Flash版已面向黑金年卡会员开放体验。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/3b36be7126d548f196db2e01e1cbd658_1_0/hd.webp",
-    "realDate": "2026-09-29 07:54:38"
-  },
-  {
-    "id": "2e9f20f994f438d547d0a72edd1ab512",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105114372178a14a7c0a1cd4b3eb664549b514e&to_app=hwbrowser&dy_scenario=topicinside&tn=2730b6ac122dd1b13242936ee82b187f3ff2934ab4da4f54716eb422c668c089&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude Sonnet 5.5实测数据曝光 单任务成本达7.6美元",
-    "summary": "9月29日，Claude Sonnet 5.5测试数据显示其在Terminal-Bench 4.0得分70.6%，高于上一代10.3%，同时最高推理强度下单任务成本达7.6美元。官方API价格未变，但通过减少Token消耗可降低整体成本。独立评测显示该模型在最高Effort下平均产生19.3万Output Token，单任务成本高于Opus 5.5的5.98美元。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/78bc278d601a4a8283baa85abacce15e_1_0/hd.webp",
-    "realDate": "2026-09-29 11:51:00"
-  },
-  {
-    "id": "b75039c6d0836e83e2da4c9b713b9a6a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144849033048f4f40879b004d041ee2fd5f3&to_app=hwbrowser&dy_scenario=topicinside&tn=98602a502ceff1525cc54bc5512c3625d29cfec87bbcf7220b329b45a54b8d64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“用户日增速10%” 23岁天才辍学生造出Meta Muse劲敌",
-    "summary": "近日，硅谷初创公司Instinct完成10亿美元C轮融资，估值达100亿美元，团队仅14人。23岁辍学CEO诺亚·辛透露，该个人AI代理平台年交易流水超10亿美元，用户日增速约10%，用户留存率达80%。产品通过短信、电话等交互，无需独立应用。红杉资本等机构领投，估值较上月增长4倍。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/a55f84800e874125bac666d9d56dc242_1_0/hd.webp",
-    "realDate": "2026-09-29 12:09:50"
-  },
-  {
-    "id": "53b2f63efadd8d7897b351e62550ebab",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282494776&to_app=hwbrowser&dy_scenario=topicinside&tn=5160f5113e2f711006f4964dea90cfd1a268c2bff835d0d015003414514faf90&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "4.27万亿韩元！三星电机宣布公司史上规模最大投资",
-    "summary": "三星电机近日宣布将投资6.78万亿韩元扩建韩国世宗市和越南的封装基板产能，其中4.27万亿韩元用于韩国FC-BGA生产设施扩建，创公司单产品投资纪录。该基板应用于AI芯片等高性能半导体，预计2028年量产。同时，越南项目投资2.51万亿韩元，计划2028年竣工。",
+    "id": "6c9daebe917777dd2f373432b7d48034",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282498634&to_app=hwbrowser&dy_scenario=topicinside&tn=5ef31dcfd9f9dcce8428abf3a71d037c2d7e9ffd768edbdab3c19ecd112adbf8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克排除台积电参与Terafab运营的可能性",
+    "summary": "马斯克宣布，其Terafab芯片制造项目将由旗下企业独立运营，台积电仅可能租用部分厂区。该项目位于德克萨斯州，旨在为特斯拉和SpaceX提供AI芯片支持。马斯克此前曾与台积电洽谈合作，但最终明确后者不参与运营。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/b41abf50c96747d5992829b738760204_1_0/hd.webp",
-    "realDate": "2026-09-29 09:26:57"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/f23cb9852be64a5d9e137b5304d4c8d1_1_0/hd.webp",
+    "realDate": "2026-10-07 17:12:19"
   },
   {
-    "id": "7052a9cf6ae684981c12cfb36ae8565c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615150591&to_app=hwbrowser&dy_scenario=topicinside&tn=7928c752a00546e185bc3bd149af70941701c5bc09b5165c842a65513c180cd3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "2026年世界互联网大会乌镇峰会将于11月2日至5日举行",
-    "summary": "本次会议将设27个分论坛及“人工智能乌镇对话”环节，聚焦人工智能开源生态等议题。同时，“互联网之光”博览会吸引400余家企业参展，“直通乌镇”全球互联网大赛升级为五大赛道。今年实践案例征集覆盖80个国家和地区，领先科技奖国际申报数增长21%。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/4fdf7093e4ba420c8acc6c1f6b681000_1_0/hd.webp",
-    "realDate": "2026-09-29 15:11:31"
+    "id": "1b23a2f8e9711fe3e945ace8c69c7f5a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324895588&to_app=hwbrowser&dy_scenario=topicinside&tn=4d7dc1cc05e9e260d15fc52e0d07a3a53e03a74ab34661442a7c2f5284b77ddc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "高通起诉Arm：要求5年不交授权费",
+    "summary": "高通技术公司起诉Arm Holdings一案于10月5日在特拉华州法院开庭。高通指控Arm未按合同提供芯片测试工具，并泄露终止授权协议的威胁信函，损害其与Meta的芯片合作谈判，要求5年内停止支付授权费并强制授权V10指令集。Arm否认指控，称高通未受实质损害。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/dd082f6550604f878025b762044fcf83_1_0/hd.webp",
+    "realDate": "2026-10-07 09:14:18"
   },
   {
-    "id": "93483279772115887a0a4a8281141338",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143cd260562f16587638b361cb686670189&to_app=hwbrowser&dy_scenario=topicinside&tn=2d83103ab52da00570f8d6c3fc2d2c964bba3df3a6c1839c939a4f3b396ea168&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "上半年中国占全球人形机器人出货量77.9% 超1.9万台",
-    "summary": "2026年上半年全球人形机器人出货量达2.5万台，中国以1.9万台占比77.9%，厂商出货量占全球超95%。政策与产业链协同推动成本及智能化改善，应用场景从科研表演转向汽车制造、零售等领域。同时部分厂商推出小尺寸产品覆盖个人消费。IDC预计2030年全球出货量将超75万台。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/07c5417563a94ddc80b0b45b33c94bf8_1_0/hd.webp",
-    "realDate": "2026-09-29 13:25:00"
+    "id": "0ad74f9dcc36c5bf8c26dc11233ddd35",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282498486&to_app=hwbrowser&dy_scenario=topicinside&tn=49f802884fc24ea6e7a30de2939d0cb687ace5fd08592c522267b37a3e87d2d1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "中国“人造太阳”加速 实验设备密集落地",
+    "summary": "我国可控核聚变领域近期密集取得进展。国家重大工程BEST项目园区交付启用，主机建造进入关键阶段，计划2027年完成整体建造；同时，聚变堆超导磁体核心部件实现批量化工程化发运。民营聚变企业新奥集团首次在自有装置上实现氢硼聚变反应，标志着商业化探索取得突破。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/b6/v3/10510282498486/5a1f9d186a3241209bb6330d623feb2c_1_5/hd.webp",
+    "realDate": "2026-10-07 11:12:04"
   },
   {
-    "id": "1b37146385f5a1910151cd743f7fac10",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144884c489df5abeefb8d1d7e5b4fdb73333&to_app=hwbrowser&dy_scenario=topicinside&tn=1f28a196b2435c3504844e3506e75451d604176600cdb4ee2bb49a2d432da9b6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三星电子2纳米良率接近60% 剑指台积电力争科技巨头订单",
-    "summary": "该良率表现较去年年中的30%显著改善。同时，三星正优化功耗与散热性能，并加速推进第二代工艺SF2P，目标年内量产。战略上计划明年向特斯拉供应2纳米芯片，以争取大型科技客户订单。目前台积电占据72.5%市场份额，三星代工份额为5.9%。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f7/v3/Topic_fac51806b47f4d7cbcaf49f710da08a1/3bcec4f6a1884ef489d44b08fd59842e_1_0/hd.webp",
-    "realDate": "2026-09-29 11:42:44"
+    "id": "ef2c47ee1d138454ca4afa7f5d299583",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282498430&to_app=hwbrowser&dy_scenario=topicinside&tn=1f4f44c4fc05ce85b4ee238112a9f8b9b86a1654254f53fdd2e6153f134c9630&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DRAM迎超级成长周期 传南亚科计划涨价",
+    "summary": "消息显示，中国台湾存储厂商南亚科通知客户上调DRAM合约价，最高涨幅达20%。同时公司获批进驻屏东科学园区建设3D晶圆封测厂，计划2027年投片。行业分析指出，AI算力需求推动服务器DRAM供不应求，预计价格将持续上涨。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/15/v3/10510282498430/bd6f3687c4604276947aae08caea3c6e_1_5/hd.webp",
+    "realDate": "2026-10-07 08:29:57"
+  },
+  {
+    "id": "9dcf51ec67d13fc7c6bb47625eeeeb35",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510340d7f8ed17dbfaa7fbd79018ca7e5d7ab&to_app=hwbrowser&dy_scenario=topicinside&tn=d04831b001b8fee8ee7b83c1ae63e8d12de6bbace73090fcf20954ea15be781f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "日企组建先进半导体设计合作机制",
+    "summary": "日本Rapidus公司与东芝、大日本印刷等17家半导体设计企业合作，旨在通过支持客户设计业务扩大订单。该机制涵盖逻辑、物理及结构设计环节，并获美国新思科技等海外企业参与。Rapidus计划2027年量产2纳米半导体，已获日本经产省3万亿日元资金支持。",
+    "author": "参考消息网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/22bb73b93e474cfabb8fa233346e05a5_1_0/hd.webp",
+    "realDate": "2026-10-07 10:32:18"
+  },
+  {
+    "id": "65b05fb83f9106a9d18753b0f7adce60",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282498217&to_app=hwbrowser&dy_scenario=topicinside&tn=86030c9af9a7f56a72c95f94db268ca090ac81211760725261508ece92bc33b6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "硬盘磁头成兵家必争之地：希捷、东芝竞购TDK业务",
+    "summary": "近日，希捷科技和东芝竞购日本TDK旗下硬盘磁头业务，交易金额或达数十亿美元。TDK是全球唯一独立HDD磁头制造商，向希捷、东芝和西部数据供货。竞购胜出者将增强定价能力，同时可能限制对手产能扩张。目前谈判处于初步阶段，可能面临反垄断审查。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2f/v3/Topic_69080f6d0de7430d99f141b5f68cc43c/dacfdf309d3d40ed8cf50a6cc3f981ec_1_0/hd.webp",
+    "realDate": "2026-10-06 16:53:53"
   }
 ]
