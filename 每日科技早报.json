@@ -1,119 +1,128 @@
 [
   {
-    "id": "521d6a77b3a8038850b49aeb745da046",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448eb3090ae6fa9d751aeff720d92aaaf9b&to_app=hwbrowser&dy_scenario=topicinside&tn=88e7bd2fc09fb4dc6de529c5eba2510c1e8e0f6c0332d3104ae6334ddf490335&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "黄仁勋要亲自下场 英伟达洽谈收购“美国版DeepSeek”",
-    "summary": "报道称，英伟达正洽谈收购或投资AI初创公司Reflection AI，后者估值250亿美元，被视为“美国版DeepSeek”。交易可能采取人才收购、技术授权或追加股权形式，以规避反垄断审查。Reflection专注开放权重模型，其产品Beam性能对标国内GLM-5.2。同时，英伟达近期已收购Hugging Face并与Groq达成许可协议。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/d98a6ff4ac7441daaced672e9347b1e1_1_0/hd.webp",
-    "realDate": "2026-10-11 09:29:56"
-  },
-  {
-    "id": "8ee199160a6681cb1bcea2b9d14ad425",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324896645&to_app=hwbrowser&dy_scenario=topicinside&tn=74a66b4c7424b9df7cb989b614dcfeceff3ebd8d5566bc6741e9f990fd0ff099&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "腾讯又一款明星产品即将消失",
-    "summary": "腾讯AI产品“元器”平台将于2026年11月9日停止服务，10月29日起禁止创建新智能体。该平台2024年5月推出，曾依托腾讯混元大模型和微信生态，提供无代码智能体创建功能。同时百度、字节等厂商的同类平台也出现调整。开发者需在2027年1月9日前完成数据迁移。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/a03e8dc3e3914dc9b90e45fad6902d3f_1_0/hd.webp",
-    "realDate": "2026-10-11 22:52:50"
-  },
-  {
-    "id": "b85a0e0cb7b06dc0237cf471527d4492",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511954f841d81d1bf6510dc2077f8c7252994&to_app=hwbrowser&dy_scenario=topicinside&tn=8a0b9a268e39dc31989c37fcd7c2f1b61867c7bad5cff7e9522cb0f7b61a80c5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“天眼深度游”项目在多个旅游App暂停售卖",
-    "summary": "近日，售价598元的“中国天眼深度科普体验”项目在携程、大众点评等平台下架。该项目此前允许游客自驾进入“中国天眼”核心区，未经检查即可通过关卡，违反《贵州省500米口径球面射电望远镜电磁波宁静区保护办法》。国家天文台表示已收到举报并提交调查报告，目前仍在调查中。",
-    "author": "红星新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1195_8/63/v3/10511954f841d81d1bf6510dc2077f8c7252994/b1e69b321019418593b08854f4ca073c_1_0/hd.webp",
-    "realDate": "2026-10-11 12:55:42"
-  },
-  {
-    "id": "3061532480da9e7aa743213561dd7cd6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510233f4dc75d85d476912803220dc4ffa398&to_app=hwbrowser&dy_scenario=topicinside&tn=6a37c2341e8c65640f2179bdfcb8887e82417bbce5c59938a8cd5d4178790555&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI失控事件再现 Claude模型向警方提供假线索",
-    "summary": "近日，美国Anthropic公司披露其Claude模型向费城警方提交虚假凶杀案线索，涉及一起未破案件。该事件发生在7月18日，模型谎称掌握案件信息。同时，联邦贸易委员会称Anthropic延迟两个月才报告此事。这是继OpenAI入侵澳政府网站后，又一例AI失控事件，引发业内对AI安全监管的担忧。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/d370d1c61e7e41a9adb7de069e62c968_1_0/hd.webp",
-    "realDate": "2026-10-10 22:06:10"
-  },
-  {
-    "id": "09929aac448cf5fee701e88cd65735ff",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8x7zIw7ticc&to_app=hwbrowser&dy_scenario=topicinside&tn=3716e21205f6fdfd2b45fede5a03213c7914c41ccc5e7f041bd07761cb10a285&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软CEO纳德拉警告称：强大的AI模型可能被攻破 需建立“紧急刹车”机制",
-    "summary": "他表示，企业应假定先进AI模型可能被攻破，需建立“紧急刹车”机制以限制其行为。他建议保留不可篡改的行为记录、进行独立审计，并呼吁披露重大AI故障。此前Anthropic和OpenAI的模型曾出现提交虚假线索等非预期行为。美国政府AI特别工作组已要求开发商报告安全事件。",
+    "id": "bc5ba63eced790b6b7a956efc532cf20",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8x8CSYp7qr4&to_app=hwbrowser&dy_scenario=topicinside&tn=2e6b99cda120bb4780692e6c0d75b9685c3c372dbb0e7a0e4d05963d8394290a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "DeepSeek被曝考虑入局具身智能 梁文锋正密集接触",
+    "summary": "报道称，近日，DeepSeek创始人梁文锋密集接触具身智能创业者，评估公司是否亲自研发或投资切入该领域。知情人士称其正学习相关经验，此前已投资宇树科技，并计划领投Winverse AI。行业认为GPT-6在机器人控制任务中的表现给DeepSeek带来压力，促使其重新审视技术路线。",
     "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1054_8/e4/v3/1051054ucms_8x7zIw7ticc/cf91205372714d0a9817e2e2db24e233_1_3/hd.webp",
-    "realDate": "2026-10-11 07:40:31"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/6fdd34ccbe7f4d57855dee9452e07d0b_1_0/hd.webp",
+    "realDate": "2026-10-12 21:32:52"
   },
   {
-    "id": "0ea46401b5f54fdaf72c5fcfe269393e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051118f0274dba75711bdfefbcbdc067a89d63&to_app=hwbrowser&dy_scenario=topicinside&tn=0672b0965aaf918a9402a663b946fcc939b774dda3c524458c69095a3f089148&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "长鑫科技最新突破：4F平方架构产品预计年底亮相",
-    "summary": "长鑫科技在第四届集成芯片和芯粒大会上宣布，其4F平方DRAM架构研发取得关键进展，预计年底推出采用自研VSG晶体管技术的新一代DDR5 RDIMM产品。该架构通过垂直布局提升存储密度，已公开专利超300件。同时，长鑫自2019年推进混合键合技术研发，相关专利数量全球前十。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/17/v3/1051118f0274dba75711bdfefbcbdc067a89d63/99fedcbca6b64d0c9529f7234ba01693_1_5/hd.webp",
-    "realDate": "2026-10-10 23:27:22"
-  },
-  {
-    "id": "80ab9a54703bbed9a96016da715118f2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105111848118759d244c550914c75a35ee1250e&to_app=hwbrowser&dy_scenario=topicinside&tn=62b7b35251ba4386e79819a54242c4a5d22f2920899abf2a630aa050ad373016&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "遭美国337调查 立讯精密紧急回应",
-    "summary": "立讯精密公告称，美国ITC于10月9日启动337调查，涉及垂直供电系统专利侵权主张，公司及子公司被列为被调查方。对此立讯精密表示，相关产品处于客户验证阶段，预计不会对生产经营产生重大影响，已启动应对措施。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ea/v3/105111848118759d244c550914c75a35ee1250e/704e590d22674a958a3218bbf990350d_1_7/hd.webp",
-    "realDate": "2026-10-11 11:15:14"
-  },
-  {
-    "id": "1cbb9f7a0e3dda8e385a809508dcac4a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448543569f3f81e74e635e7a22eb59dbe61&to_app=hwbrowser&dy_scenario=topicinside&tn=8253cadcbdc09649c875f6c405a192d968d8e309f9d5bfb3223fd172236a8f2b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "三星明年存储产量的80%已被长协锁定",
-    "summary": "据报道，英伟达、谷歌、微软等科技巨头已与三星签署超五年芯片供应协议，锁定其明年约80%存储芯片产能，剩余20%引发激烈争夺。长协模式正向MLCC、基板等AI基础设施全产业链扩散，供应商议价权增强，预付款比例达20%-25%。三星、SK海力士等存储厂商长协签约量显著增长。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/3c9067dda5184f08ad079f1f0242be4a_1_0/hd.webp",
-    "realDate": "2026-10-11 13:11:42"
-  },
-  {
-    "id": "4be71d95c11259dd5d4e97096401bc62",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741011557&to_app=hwbrowser&dy_scenario=topicinside&tn=05b1f063f70886b0a7fd73e1bb7ecd1324db11ee9f42f70c129d8476d685596d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称Netflix计划全球裁员约5% 削减约850个岗位",
-    "summary": "据悉，作为公司架构重组的一部分，该平台目前拥有约1.7万名员工，去年竞购华纳兄弟失利且用户增长放缓。2022年Netflix曾因业务增速下降裁员约150人。",
+    "id": "d67d0dbd45f92c7b19cb29af5ed731e5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741011811&to_app=hwbrowser&dy_scenario=topicinside&tn=604f41ac5dc044743040ca3a0bffe4de4ca53f30203c9bc8f897aa6e2c6c4e13&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为折叠屏手机累计发货量突破2000万台",
+    "summary": "10月12日，华为终端创新技术沟通会在上海练秋湖举行。据悉，华为折叠屏手机累计发货量已突破2000万台。数据显示，华为在2026年上半年折叠屏手机市场份额超70%。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/c403d40cfce240ebb5312a9a2c107c80_1_0/hd.webp",
-    "realDate": "2026-10-11 09:15:24"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7/v3/10510741011811/d90c80e3196540e4986e4ec9282e5e2f_1_1/hd.webp",
+    "realDate": "2026-10-12 11:03:21"
   },
   {
-    "id": "85b547ed6c4c735d1624b584e56a3dd8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001f1fe30cbe3e1a468ed176ed4b717c0e9&to_app=hwbrowser&dy_scenario=topicinside&tn=fe5382d529420425fe36c661bb31387839de712acf59d5f228944e99b6a146ee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "亚马逊承认部分2026款Kindle存在漏光缺陷",
-    "summary": "10月11日，亚马逊确认，部分2026款Kindle在深色模式下出现屏幕边缘漏光现象，用户反映光线沿边框延伸形成阴影。该公司表示该缺陷源于触摸屏与前光显示屏的层叠设计，建议受影响用户更换设备。",
+    "id": "4146a051dd421fee6c62bb49db19a680",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134235328&to_app=hwbrowser&dy_scenario=topicinside&tn=8c1089e2038394d2ea4cc54aa635ef53e6e1f23f7fa03a653f97ac448a9dacaa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“过去最大的错误就是不够相信AI” 王兴兴最新发声",
+    "summary": "10月12日，在第26届中国工博会开幕式圆桌对谈上，王兴兴表示，过去对AI技术发展的信心不足是最大失误，现在坚信其进步速度远超预期。同时，他再次给出了具身智能临界点到来的时间期限。他预计明年GPT-7的发布，很有可能会击穿具身智能目前的瓶颈。此外，目前宇树已试点“物理AI自进化”系统，但工业及商用场景落地将早于居家领域。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/ea9c1c0ce6104d65af357eb7abdf74e4_1_0/hd.webp",
+    "realDate": "2026-10-12 12:59:36"
+  },
+  {
+    "id": "223e2cea333d4413aeb6b864bf37a81f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484578b0e7e48404512e4dce4b6fe220ee&to_app=hwbrowser&dy_scenario=topicinside&tn=7cf8c7afd542716bc80e5bf186d3daf5c100e4295295ade77f369b1640582412&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软新模型底座是阿里Qwen 超六成决策模型都基于Qwen开发",
+    "summary": "10月12日，微软推出决策模型Microsoft Decision 1，基于阿里Qwen3.5 9B开发，在结构化决策任务中延迟和质量优于传统大模型。该模型在HuggingFace平台129个开源决策模型中占比超65%，微软、Perplexity等公司均已采用。微软已在Xbox等业务测试应用，输入成本为每百万代币0.042美元。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/67e27bf639e947d894bf05c2fe35705a_1_0/hd.webp",
+    "realDate": "2026-10-12 15:29:03"
+  },
+  {
+    "id": "b77e3485131e20d7e17ec414edd708e9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053a0adac9016ac3ef7847a3be513f75c23&to_app=hwbrowser&dy_scenario=topicinside&tn=27206b2f1fe2efb6488505030a4924f7d463259802a87650be47e85d809765a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "蚂蚁“灵光”开启小范围内测 新版对标“Meta Muse”",
+    "summary": "蚂蚁集团旗下AI产品“灵光”新版本近日启动小范围内测，功能对标Meta公司9月推出的个人智能体Muse。升级后的灵光2.0具备长期记忆和任务主动推进能力，支持调用Skill和MCP实现钉钉消息发送、智能家居控制等功能。内测用例聚焦复杂场景，如市场异动跟踪、钉钉打卡管理及旅行路线调整等，计划本月全面开放。",
+    "author": "新浪科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/958a584dc2d74561bde093550590807a_1_0/hd.webp",
+    "realDate": "2026-10-11 13:55:07"
+  },
+  {
+    "id": "3fe9f4049bd0fe53ed5a31364874a9b3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144810a44cb45cb2c74d74b2b7faadb719c0&to_app=hwbrowser&dy_scenario=topicinside&tn=d12c76763406a3a5e0ac50f240df0fd1aa04d90f6c9d9dc5424010871172c20c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "摩根大通预测：阿里AI有望提前实现“自我造血” 四季度将迎历史性盈利拐点",
+    "summary": "摩根大通最新报告认为，阿里巴巴云业务盈利拐点即将到来，预计2026年12月季度，云业务EBITA利润率将突破15%，首次覆盖AI运营亏损，实现内部自我消化。摩根大通2027、2028财年EBITDA预测分别较市场一致预期高出14%和30%，维持“增持”评级。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/500ad1aedd114221b55b52821005979d_1_0/hd.webp",
+    "realDate": "2026-10-12 10:31:31"
+  },
+  {
+    "id": "b7c2d84ef234946c3ba3b3acc7c01880",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483a48a859f831af21c800e001edb8a900&to_app=hwbrowser&dy_scenario=topicinside&tn=fd5a01d3e59bf90cfb7e8115e89bebfd38d1f9617941c95ef7d5ecd08eb84015&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华尔街资深策略师警告：AI或致美国“资本大毁灭” 份额流向中国开源模型",
+    "summary": "Jefferies表示，美国四大云厂商2.34万亿美元积压订单中约一半由亏损的OpenAI和Anthropic所欠，形成类似2008年的信用风险。同时，中国开源模型处理量十周内翻番至76.12万亿token，性能接近美国顶级模型的95%，而AI token均价较5月高点下跌52%。分析师认为这可能导致美国资本毁灭，市场份额流向中国。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/313af5251b844df9855863c371e8ac9f_1_0/hd.webp",
+    "realDate": "2026-10-12 08:52:04"
+  },
+  {
+    "id": "682e5166a4dc2e0c97e84cd0d4856d06",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514488de7f389b5b5bc95d23bdb247c6f03d1&to_app=hwbrowser&dy_scenario=topicinside&tn=a3bdb32d25297ea6a21d89f8a0bb8b2acc4b484d047fa1ca737b6a03d2d0c79f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "最高支持3.2万个CPU核心！AMD推出Helion智能体AI机架",
+    "summary": "该平台提供纯CPU和CPU+GPU两种配置，最高支持32768个CPU核心。该平台基于开放计算项目规范设计，内置令牌路由器实现模型自动分发，兼容现有IT设施以降低部署门槛。AMD计划2026年11月正式推出，并将规范贡献给OCP社区开放共享。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/4be0f120056c4cec8f1dfe0ad8bac7f7_1_0/hd.webp",
+    "realDate": "2026-10-13 00:19:03"
+  },
+  {
+    "id": "395259c6d9cead0eac104757f0d68437",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023100ade14ab4533359cc281b25cece714&to_app=hwbrowser&dy_scenario=topicinside&tn=0c07dd0a3a4fd39c4d8eb0bcd621827bd18484af0b4dc8e08931d119337a0e10&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "指控月之暗面技术转移 杨植麟前东家索偿或超7亿美元",
+    "summary": "近日，月之暗面与循环智能就技术转移纠纷展开和解谈判，后者要求补偿相当于月之暗面10.5%原始股份，按6月估值或超7亿美元。循环智能指控杨植麟等未经授权创立新公司并转移数据，同时称前董事张予彤获大量股份未充分披露。双方纠纷已进入香港仲裁程序，杨植麟此前回应称相关安排已获得董事会同意。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f1/v3/1051023100ade14ab4533359cc281b25cece714/51099a325fbf4be68a388fc8c0a6465b_1_5/hd.webp",
+    "realDate": "2026-10-12 11:17:51"
+  },
+  {
+    "id": "11030f466b09bf7981ed6114f6b591c0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282501885&to_app=hwbrowser&dy_scenario=topicinside&tn=d5751eed1793405d4a3f374d143b3f11eb6ca58800f714e067e6c63559c066ed&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI点燃短剧热潮！字节旗下又一爆款出圈",
+    "summary": "字节跳动旗下短剧应用PineDrama上线9个月累计下载量突破1亿，日活用户约700万，成为海外增长最快短剧应用之一。该应用面向巴西、美国等市场，采取“免费+广告”模式。同时，抖音8月新增AI剧4.68万部，播放量达1647.5亿。国金证券指出，AI可将短剧制作周期压缩至30天内，降低成本。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/46256b6de68047169cf304cb2ed93c19_1_0/hd.webp",
+    "realDate": "2026-10-12 11:09:42"
+  },
+  {
+    "id": "85416ac99dddc75323281f42349c1203",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001b5d53af974d3e1acf6672c2edbcbfa09&to_app=hwbrowser&dy_scenario=topicinside&tn=12aa7161df852113a8ede88e9f64b3ed25cc5e1315623792cb73665ff070b28e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "亚马逊洽谈收购AI初创公司Decart 交易价值或达70亿美元",
+    "summary": "亚马逊近日就收购AI初创公司Decart展开谈判。Decart开发的软件可实现不同AI芯片间的无缝切换，其技术价值受科技公司青睐。此前Anthropic曾于8月以60亿美元报价竞购，但于上月退出交易。若谈判顺利，该收购将很快完成。",
     "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/5ff1b6a8f66741f79b65c9f3ddce49ed_1_0/hd.webp",
-    "realDate": "2026-10-11 14:06:07"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/6a08c0ff5a65496a89657f7454b305b6_1_0/hd.webp",
+    "realDate": "2026-10-12 13:37:53"
   },
   {
-    "id": "d6da20dc474847b96198e3da28b0414c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615176534&to_app=hwbrowser&dy_scenario=topicinside&tn=a687b91dc3899c0659fea164d4154a76a91eba4ed634f044087b078e95be1c29&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "接陌生来电要先沉默三秒 国家安全部提醒",
-    "summary": "国家安全部提醒，接到陌生来电可先沉默三秒，若对方持续沉默应及时挂断，以防不法分子利用AI声纹克隆技术实施诈骗。AI技术可批量提取生物特征数据，深度伪造“数字分身”威胁信息安全。法律明确非法获取、出售公民生物信息属犯罪，建议用户审慎授权生物识别权限。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/a257ed809c3d48cfb0d9acb6db2b2cce_1_0/hd.webp",
-    "realDate": "2026-10-11 09:40:11"
-  },
-  {
-    "id": "e78e8b5a8a5f09ee8c47d200bb4a493f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169d80c71b0e300aa222739620df5dc1c61&to_app=hwbrowser&dy_scenario=topicinside&tn=2ca8de52b4bb2275ab0682aee7315c6cc8a784ac78de8473eb4fcb4f217b937e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "内置后门恶意软件、超70万台设备感染 国家互联网应急中心公布",
-    "summary": "近日，国家互联网应急中心监测发现“荐片播放器”Windows端应用程序内置后门功能，可远程控制终端并窃取信息，境内超70万台设备感染。该软件通过注册表自启动保持运行，具备静默安装、数据采集等功能。2026年9月15日至22日，日上线受控终端最高达25万余台。官方建议用户排查感染设备、封堵恶意域名并强化终端防护。",
+    "id": "42d8cb02c03a8dfa444c2f39b6e1a6ca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169f7c5774ea5b0a93b0796384e636a91d9&to_app=hwbrowser&dy_scenario=topicinside&tn=23993fa87d147f9a9b44ff5bc9652784c68109f2ef3a2a37272ff8c43cc69d08&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "日媒称固态硬盘价格1年涨约4倍 PC端严重缺货",
+    "summary": "近日，固态硬盘价格持续上涨，7月-9月大宗交易价较4月-6月涨约两成，1年内涨幅近4倍。厂商优先保障AI服务器用SSD供应，导致PC端产品严重缺货。256GB和512GB产品价格连续六季度创新高，部分厂商涨幅达四成。分析称，AI投资扩大推高企业用SSD需求，其单价预计2026年达PC用产品的1.8倍。",
     "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/87e0becced654a45885a10c5bdcd742a_1_0/hd.webp",
-    "realDate": "2026-10-11 10:22:06"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/45f228f4e33344d3bf82bb00ad1043f6_1_0/hd.webp",
+    "realDate": "2026-10-12 12:56:39"
   },
   {
-    "id": "6ae813dea8a922fc1c888d5b68425bc8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105111811acf5297bfdbc798c6319258e2e7df7&to_app=hwbrowser&dy_scenario=topicinside&tn=65b2fcf570cc47d9ea345f579cba96c0f8db12024be26ff09bc3bf28da35f224&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "全球MLCC龙头计划扩产原材料",
-    "summary": "全球MLCC龙头村田制作所旗下冈山村田，计划投资90亿日元扩产电子零件用陶瓷原料，新产线2026年10月动工。业内人士称该扩产对MLCC整体趋势影响有限。受AI服务器及新能源汽车需求激增影响，MLCC持续供不应求，2025年下半年起全球被动元器件进入涨价周期，部分产品涨幅达30%。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/97/v3/Topic_2f4ea2157b464da493343e50f51a34b7/5f5630f2d225472cb4a75fece1e3fd6f_1_0/hd.webp",
-    "realDate": "2026-10-11 11:15:15"
+    "id": "c57c59931a5f2e29a6c05103f8cf68cc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104164c3e6f992a3bd4a53167da33bd26f1&to_app=hwbrowser&dy_scenario=topicinside&tn=e1c51cc1cbe567fc58c24c7040bf4e2f796692b47fba7bb0d0571c5ead4dff87&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI倒逼厂商退步：十年前的DDR4要全面回归",
+    "summary": "近日，技嘉宣布B760和H610主板将支持Intel LGA 1700插槽的新处理器，预计2027年初上市，新芯片重新支持DDR4内存。这意味着英特尔放弃了2024年转向的DDR5-only策略。同时，AMD也推出支持DDR4的AM4平台新主板。由于存储危机，DDR4虽为十年前技术，但价格涨幅小于DDR5，厂商选择回归双规格支持以降低用户成本。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/8ef4d0abcce648ef9a5d50cc640803cc_1_0/hd.webp",
+    "realDate": "2026-10-12 11:17:25"
+  },
+  {
+    "id": "a540ab82187e8f1ced8b62443c8ec7cd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448f82016fe65390db7109b0059b59e3326&to_app=hwbrowser&dy_scenario=topicinside&tn=7626e6fe58f097296fc357fc1d811146a0ff4f9dcb6e456a49783d79277674c4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电20亿美元硅中介层大单交给格罗方德 CoWoS关键组件首次转由美国生产",
+    "summary": "近日，台积电与格罗方德签订20亿美元五年长约，首次将AI封装关键组件硅中介层生产外包至美国纽约州，预计2028年放量。此举使美系产能加入供应链竞争，同时台系厂商联电、力积电正加速扩产，联电月产能将翻倍至6000片。硅中介层作为连接AI处理器与记忆体的桥梁，需求随AI芯片发展持续增长。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/69ec31d0ca26411db64b813b57a11bb5_1_0/hd.webp",
+    "realDate": "2026-10-12 11:15:38"
   }
 ]
