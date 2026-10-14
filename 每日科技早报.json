@@ -1,128 +1,110 @@
 [
   {
-    "id": "bc5ba63eced790b6b7a956efc532cf20",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8x8CSYp7qr4&to_app=hwbrowser&dy_scenario=topicinside&tn=2e6b99cda120bb4780692e6c0d75b9685c3c372dbb0e7a0e4d05963d8394290a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek被曝考虑入局具身智能 梁文锋正密集接触",
-    "summary": "报道称，近日，DeepSeek创始人梁文锋密集接触具身智能创业者，评估公司是否亲自研发或投资切入该领域。知情人士称其正学习相关经验，此前已投资宇树科技，并计划领投Winverse AI。行业认为GPT-6在机器人控制任务中的表现给DeepSeek带来压力，促使其重新审视技术路线。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/6fdd34ccbe7f4d57855dee9452e07d0b_1_0/hd.webp",
-    "realDate": "2026-10-12 21:32:52"
-  },
-  {
-    "id": "d67d0dbd45f92c7b19cb29af5ed731e5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741011811&to_app=hwbrowser&dy_scenario=topicinside&tn=604f41ac5dc044743040ca3a0bffe4de4ca53f30203c9bc8f897aa6e2c6c4e13&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为折叠屏手机累计发货量突破2000万台",
-    "summary": "10月12日，华为终端创新技术沟通会在上海练秋湖举行。据悉，华为折叠屏手机累计发货量已突破2000万台。数据显示，华为在2026年上半年折叠屏手机市场份额超70%。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/7/v3/10510741011811/d90c80e3196540e4986e4ec9282e5e2f_1_1/hd.webp",
-    "realDate": "2026-10-12 11:03:21"
-  },
-  {
-    "id": "4146a051dd421fee6c62bb49db19a680",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134235328&to_app=hwbrowser&dy_scenario=topicinside&tn=8c1089e2038394d2ea4cc54aa635ef53e6e1f23f7fa03a653f97ac448a9dacaa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“过去最大的错误就是不够相信AI” 王兴兴最新发声",
-    "summary": "10月12日，在第26届中国工博会开幕式圆桌对谈上，王兴兴表示，过去对AI技术发展的信心不足是最大失误，现在坚信其进步速度远超预期。同时，他再次给出了具身智能临界点到来的时间期限。他预计明年GPT-7的发布，很有可能会击穿具身智能目前的瓶颈。此外，目前宇树已试点“物理AI自进化”系统，但工业及商用场景落地将早于居家领域。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/ea9c1c0ce6104d65af357eb7abdf74e4_1_0/hd.webp",
-    "realDate": "2026-10-12 12:59:36"
-  },
-  {
-    "id": "223e2cea333d4413aeb6b864bf37a81f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514484578b0e7e48404512e4dce4b6fe220ee&to_app=hwbrowser&dy_scenario=topicinside&tn=7cf8c7afd542716bc80e5bf186d3daf5c100e4295295ade77f369b1640582412&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软新模型底座是阿里Qwen 超六成决策模型都基于Qwen开发",
-    "summary": "10月12日，微软推出决策模型Microsoft Decision 1，基于阿里Qwen3.5 9B开发，在结构化决策任务中延迟和质量优于传统大模型。该模型在HuggingFace平台129个开源决策模型中占比超65%，微软、Perplexity等公司均已采用。微软已在Xbox等业务测试应用，输入成本为每百万代币0.042美元。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/67e27bf639e947d894bf05c2fe35705a_1_0/hd.webp",
-    "realDate": "2026-10-12 15:29:03"
-  },
-  {
-    "id": "b77e3485131e20d7e17ec414edd708e9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051053a0adac9016ac3ef7847a3be513f75c23&to_app=hwbrowser&dy_scenario=topicinside&tn=27206b2f1fe2efb6488505030a4924f7d463259802a87650be47e85d809765a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "蚂蚁“灵光”开启小范围内测 新版对标“Meta Muse”",
-    "summary": "蚂蚁集团旗下AI产品“灵光”新版本近日启动小范围内测，功能对标Meta公司9月推出的个人智能体Muse。升级后的灵光2.0具备长期记忆和任务主动推进能力，支持调用Skill和MCP实现钉钉消息发送、智能家居控制等功能。内测用例聚焦复杂场景，如市场异动跟踪、钉钉打卡管理及旅行路线调整等，计划本月全面开放。",
-    "author": "新浪科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/958a584dc2d74561bde093550590807a_1_0/hd.webp",
-    "realDate": "2026-10-11 13:55:07"
-  },
-  {
-    "id": "3fe9f4049bd0fe53ed5a31364874a9b3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144810a44cb45cb2c74d74b2b7faadb719c0&to_app=hwbrowser&dy_scenario=topicinside&tn=d12c76763406a3a5e0ac50f240df0fd1aa04d90f6c9d9dc5424010871172c20c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "摩根大通预测：阿里AI有望提前实现“自我造血” 四季度将迎历史性盈利拐点",
-    "summary": "摩根大通最新报告认为，阿里巴巴云业务盈利拐点即将到来，预计2026年12月季度，云业务EBITA利润率将突破15%，首次覆盖AI运营亏损，实现内部自我消化。摩根大通2027、2028财年EBITDA预测分别较市场一致预期高出14%和30%，维持“增持”评级。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/500ad1aedd114221b55b52821005979d_1_0/hd.webp",
-    "realDate": "2026-10-12 10:31:31"
-  },
-  {
-    "id": "b7c2d84ef234946c3ba3b3acc7c01880",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483a48a859f831af21c800e001edb8a900&to_app=hwbrowser&dy_scenario=topicinside&tn=fd5a01d3e59bf90cfb7e8115e89bebfd38d1f9617941c95ef7d5ecd08eb84015&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华尔街资深策略师警告：AI或致美国“资本大毁灭” 份额流向中国开源模型",
-    "summary": "Jefferies表示，美国四大云厂商2.34万亿美元积压订单中约一半由亏损的OpenAI和Anthropic所欠，形成类似2008年的信用风险。同时，中国开源模型处理量十周内翻番至76.12万亿token，性能接近美国顶级模型的95%，而AI token均价较5月高点下跌52%。分析师认为这可能导致美国资本毁灭，市场份额流向中国。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/313af5251b844df9855863c371e8ac9f_1_0/hd.webp",
-    "realDate": "2026-10-12 08:52:04"
-  },
-  {
-    "id": "682e5166a4dc2e0c97e84cd0d4856d06",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514488de7f389b5b5bc95d23bdb247c6f03d1&to_app=hwbrowser&dy_scenario=topicinside&tn=a3bdb32d25297ea6a21d89f8a0bb8b2acc4b484d047fa1ca737b6a03d2d0c79f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "最高支持3.2万个CPU核心！AMD推出Helion智能体AI机架",
-    "summary": "该平台提供纯CPU和CPU+GPU两种配置，最高支持32768个CPU核心。该平台基于开放计算项目规范设计，内置令牌路由器实现模型自动分发，兼容现有IT设施以降低部署门槛。AMD计划2026年11月正式推出，并将规范贡献给OCP社区开放共享。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/4be0f120056c4cec8f1dfe0ad8bac7f7_1_0/hd.webp",
-    "realDate": "2026-10-13 00:19:03"
-  },
-  {
-    "id": "395259c6d9cead0eac104757f0d68437",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023100ade14ab4533359cc281b25cece714&to_app=hwbrowser&dy_scenario=topicinside&tn=0c07dd0a3a4fd39c4d8eb0bcd621827bd18484af0b4dc8e08931d119337a0e10&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "指控月之暗面技术转移 杨植麟前东家索偿或超7亿美元",
-    "summary": "近日，月之暗面与循环智能就技术转移纠纷展开和解谈判，后者要求补偿相当于月之暗面10.5%原始股份，按6月估值或超7亿美元。循环智能指控杨植麟等未经授权创立新公司并转移数据，同时称前董事张予彤获大量股份未充分披露。双方纠纷已进入香港仲裁程序，杨植麟此前回应称相关安排已获得董事会同意。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/f1/v3/1051023100ade14ab4533359cc281b25cece714/51099a325fbf4be68a388fc8c0a6465b_1_5/hd.webp",
-    "realDate": "2026-10-12 11:17:51"
-  },
-  {
-    "id": "11030f466b09bf7981ed6114f6b591c0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282501885&to_app=hwbrowser&dy_scenario=topicinside&tn=d5751eed1793405d4a3f374d143b3f11eb6ca58800f714e067e6c63559c066ed&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI点燃短剧热潮！字节旗下又一爆款出圈",
-    "summary": "字节跳动旗下短剧应用PineDrama上线9个月累计下载量突破1亿，日活用户约700万，成为海外增长最快短剧应用之一。该应用面向巴西、美国等市场，采取“免费+广告”模式。同时，抖音8月新增AI剧4.68万部，播放量达1647.5亿。国金证券指出，AI可将短剧制作周期压缩至30天内，降低成本。",
+    "id": "77b81b9c3f74190ed06316649d8cea87",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282503911&to_app=hwbrowser&dy_scenario=topicinside&tn=5e327a5ef716d6602f99cb8e8243c122c469ec9546dc74860de9493d04e1b3a9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "前沿AI模型“四国大战”打响！谷歌Gemini 4 Argon全面上架",
+    "summary": "该模型面向AI Pro和Ultra订阅用户开放，擅长金融、法律等专业领域，单次输出上限提升至100万词元，首发优惠价仅为竞品的五分之一。同时，谷歌展示其可完成3D建模、动画制作及财报分析等复杂任务，在Kepler测试中财务分析准确率超99%。免费用户暂无法使用引发争议。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/46256b6de68047169cf304cb2ed93c19_1_0/hd.webp",
-    "realDate": "2026-10-12 11:09:42"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/7033eaefea3a448cb10c68a0cbf50bc6_1_0/hd.webp",
+    "realDate": "2026-10-14 02:29:12"
   },
   {
-    "id": "85416ac99dddc75323281f42349c1203",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001b5d53af974d3e1acf6672c2edbcbfa09&to_app=hwbrowser&dy_scenario=topicinside&tn=12aa7161df852113a8ede88e9f64b3ed25cc5e1315623792cb73665ff070b28e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "亚马逊洽谈收购AI初创公司Decart 交易价值或达70亿美元",
-    "summary": "亚马逊近日就收购AI初创公司Decart展开谈判。Decart开发的软件可实现不同AI芯片间的无缝切换，其技术价值受科技公司青睐。此前Anthropic曾于8月以60亿美元报价竞购，但于上月退出交易。若谈判顺利，该收购将很快完成。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/6a08c0ff5a65496a89657f7454b305b6_1_0/hd.webp",
-    "realDate": "2026-10-12 13:37:53"
+    "id": "526e4c8ba676a1b38a70be1851477733",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134241236&to_app=hwbrowser&dy_scenario=topicinside&tn=1641d1bd3f301db43e522f88b038a99216a8b5d5862c1d025c98136e1b33fcee&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国内首家！字节跳动Seed单独设立大模型安全与对齐部门",
+    "summary": "近日，字节跳动Seed宣布成立国内首个AI安全与对齐部门“Seed Model-Alignment&Preparedness”，由严林负责。该部门将整合原Responsible AI团队，重点防范智能体逃逸等风险，通过规范制定、安全评估等提升模型安全性。Seed团队成立于2023年，研究方向涵盖多模态大模型、AI for Science等领域。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bb/v3/105102134241236/cc97531a722342989781b30c8818be83_1_0/hd.webp",
+    "realDate": "2026-10-13 11:47:00"
   },
   {
-    "id": "42d8cb02c03a8dfa444c2f39b6e1a6ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169f7c5774ea5b0a93b0796384e636a91d9&to_app=hwbrowser&dy_scenario=topicinside&tn=23993fa87d147f9a9b44ff5bc9652784c68109f2ef3a2a37272ff8c43cc69d08&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "日媒称固态硬盘价格1年涨约4倍 PC端严重缺货",
-    "summary": "近日，固态硬盘价格持续上涨，7月-9月大宗交易价较4月-6月涨约两成，1年内涨幅近4倍。厂商优先保障AI服务器用SSD供应，导致PC端产品严重缺货。256GB和512GB产品价格连续六季度创新高，部分厂商涨幅达四成。分析称，AI投资扩大推高企业用SSD需求，其单价预计2026年达PC用产品的1.8倍。",
-    "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/45f228f4e33344d3bf82bb00ad1043f6_1_0/hd.webp",
-    "realDate": "2026-10-12 12:56:39"
+    "id": "31977baab1a986c21b70d0be01d6ddd6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10517416125644494665792&to_app=hwbrowser&dy_scenario=topicinside&tn=7c6ffe64ebdf3fed035623344f3e792fa95de26cbd14b5f8730efdaa953b57b1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里组织近百人开发千问办公电商版 计划在双十一预售前发布",
+    "summary": "报道称，该项目由千问办公CEO陈宇森统筹，黄丕培负责，电商团队提供行业技能，千问团队提供通用Agent能力。电商版非独立App，含双十一专区等5个板块，可汇总多平台数据。现有付费用户中20%来自电商行业。",
+    "author": "晚点LatePost",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/cd933f1298254ca39fd8d4b7d1288e9b_1_0/hd.webp",
+    "realDate": "2026-10-13 20:54:07"
   },
   {
-    "id": "c57c59931a5f2e29a6c05103f8cf68cc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104164c3e6f992a3bd4a53167da33bd26f1&to_app=hwbrowser&dy_scenario=topicinside&tn=e1c51cc1cbe567fc58c24c7040bf4e2f796692b47fba7bb0d0571c5ead4dff87&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI倒逼厂商退步：十年前的DDR4要全面回归",
-    "summary": "近日，技嘉宣布B760和H610主板将支持Intel LGA 1700插槽的新处理器，预计2027年初上市，新芯片重新支持DDR4内存。这意味着英特尔放弃了2024年转向的DDR5-only策略。同时，AMD也推出支持DDR4的AM4平台新主板。由于存储危机，DDR4虽为十年前技术，但价格涨幅小于DDR5，厂商选择回归双规格支持以降低用户成本。",
+    "id": "212f8355fde849665ef572d0f6a13d86",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282503929&to_app=hwbrowser&dy_scenario=topicinside&tn=090c2f871ef792306ff996e5e1338ebcc2b6c1b5e3ab466c13185e1da3efb69a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "游戏行业的“GPT时刻”又进一步 英伟达发布DLSS 5新模型",
+    "summary": "10月13日，英伟达宣布DLSS 5新模型性能提升2倍，模型规模缩减24%至1.18亿参数，4K显存占用降低20%。新模型将于10月16日推送更新，支持RTX 50系显卡和RTX Spark笔记本，同时11月5日登陆《霍格沃茨之遗》，11月下旬支持国产游戏《燕云十六声》。DLSS 5还将用于RTX Remix，助力老游戏画面翻新。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/64d0f24f1a26467e9bdf90d13f6ffd47_1_0/hd.webp",
+    "realDate": "2026-10-14 05:11:05"
+  },
+  {
+    "id": "823ebfab58dc6558a5a5635522199648",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774602666&to_app=hwbrowser&dy_scenario=topicinside&tn=e7f941f721e28b1b09d8eefe8d8e0e70ae4e40020f746bf95342457b9b676adc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“千问Go！”即将发布 AI已能协商航班理赔、预约场馆",
+    "summary": "千问Personal Agent产品“千问Go”即将推出。测试用户分享显示，该AI已能处理航班延误理赔、购物价保等事务，如查询订单、联系客服协商赔偿，成功为用户争取70元现金赔偿及52元价保退款。同时，它还可预约汽车保养和羽毛球场地，需在信息不全时主动补充并调整方案。该产品依托阿里生态，强调理解个人需求，如综合预算筛选商品。",
+    "author": "每日经济新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/5aa6d08b804b4f32b939ca9c38ec00fe_1_0/hd.webp",
+    "realDate": "2026-10-13 10:48:27"
+  },
+  {
+    "id": "76f348d9e5ddff22e1ca1e39f539fa0a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511041d9ae8f8e755f6f4cda44fd8c81ef1d1&to_app=hwbrowser&dy_scenario=topicinside&tn=9f91ed14fab4e4c209c4bad5fbcf3748d58e5cb9c87ce8795beb87dce09c17c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "4枚TPU芯片上天！谷歌太空AI首秀：算15分钟必须暂停",
+    "summary": "谷歌与Planet Labs合作的首枚太空AI实验卫星已通过SpaceX发射入轨，搭载4枚自研TPU芯片，用于测试太空环境下的耐受性。因真空散热限制，TPU每次仅能运行15分钟需暂停。卫星将运行Gemma模型验证性能，同时谷歌计划2027年发射两枚卫星，测试激光通信技术。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/8ef4d0abcce648ef9a5d50cc640803cc_1_0/hd.webp",
-    "realDate": "2026-10-12 11:17:25"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/34d303f4ecc94f448d78a9760627043b_1_0/hd.webp",
+    "realDate": "2026-10-13 11:07:11"
   },
   {
-    "id": "a540ab82187e8f1ced8b62443c8ec7cd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448f82016fe65390db7109b0059b59e3326&to_app=hwbrowser&dy_scenario=topicinside&tn=7626e6fe58f097296fc357fc1d811146a0ff4f9dcb6e456a49783d79277674c4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电20亿美元硅中介层大单交给格罗方德 CoWoS关键组件首次转由美国生产",
-    "summary": "近日，台积电与格罗方德签订20亿美元五年长约，首次将AI封装关键组件硅中介层生产外包至美国纽约州，预计2028年放量。此举使美系产能加入供应链竞争，同时台系厂商联电、力积电正加速扩产，联电月产能将翻倍至6000片。硅中介层作为连接AI处理器与记忆体的桥梁，需求随AI芯片发展持续增长。",
+    "id": "af3ea220d7e930e6010ff3ea189386ff",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514483d9d65bd9787dae8e8c8bdc7688be1e0&to_app=hwbrowser&dy_scenario=topicinside&tn=94cf8a1babcec8f4cf3a003ad9ad22c685ae281075d7469598b0b12a134249bb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "HBM之外再出新招！SK海力士发布两大技术",
+    "summary": "SK海力士在2026年OCP全球峰会上，发布MARS内存加速架构与HBF高带宽闪存技术，瞄准AI内存瓶颈。MARS通过内存解聚使AI推理首次标记时间提升3至5倍。HBF带宽达HBM一半但容量为其14倍，样品计划2028年初推出。两项技术将优化AI基础设施内存利用率与配置。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4/v3/Topic_5f77da3930c4484687dfc97abe77d183/69ec31d0ca26411db64b813b57a11bb5_1_0/hd.webp",
-    "realDate": "2026-10-12 11:15:38"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/bdd63a094322439ab1ddf5c9ff3759ea_1_0/hd.webp",
+    "realDate": "2026-10-13 20:37:48"
+  },
+  {
+    "id": "b27c52b88fb31a1b1ed45de507b0f5ad",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282503311&to_app=hwbrowser&dy_scenario=topicinside&tn=96b1cec6d59d4d012fee2f33e53519f4c2d39d4e60d35e8d002012b76fd1940d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克又来颠覆芯片业！宣称Terafab一年制造和测试10款芯片",
+    "summary": "特斯拉CEO马斯克近日透露，其与SpaceX合作的Terafab芯片项目计划在美国得州工厂每年制造测试10款芯片设计，以加速研发迭代。该项目将整合制造、测试、封装等环节于同一设施，但业内质疑其缺乏芯片制造经验。分析师指出，传统芯片研发周期长达两年，光掩模成本数千万美元，而Terafab若实现低成本快速测试，或颠覆行业竞争格局。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/52/v3/10510282503311/b5e25d21c0eb46fe8f9fd18dbe73577d_1_0/hd.webp",
+    "realDate": "2026-10-13 15:24:25"
+  },
+  {
+    "id": "f8ff6e59be127b76508eccc488d19aef",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282503034&to_app=hwbrowser&dy_scenario=topicinside&tn=86facc59f42b72e11ded3c2d38e3f6a989f197c28a29170f2fa02f8563dfb04c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "内存价格涨势如火如荼！DDR4三个月内上涨24% 甚至超过DDR5",
+    "summary": "近日，巴克莱报告显示，DDR4内存现货价格三个月内上涨24%，涨幅超过DDR5的20%。美光科技称行业内存短缺将持续至2029年，花旗银行预测DRAM短缺将在2027年第四季度达峰值。同时，芯片设计商为应对短缺降低规格，特斯拉曾将AI5芯片内存减半。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/50/v3/10510282503034/41dc2b30a56c4a039643038701a5e284_1_5/hd.webp",
+    "realDate": "2026-10-13 10:29:58"
+  },
+  {
+    "id": "724bec9988a108dbd1cb4ede29ce88e7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514482c378b386c079f23d43a45c7d8558a11&to_app=hwbrowser&dy_scenario=topicinside&tn=9139e384de544217a32d7e46967694826c595e6a4af2a9edee464c1f723377e3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英特尔和博通CEO同日警告：资本已成AI最大瓶颈 ROI比芯片更短缺",
+    "summary": "近日，博通CEO陈福阳与英特尔CEO陈立武警告称，资本短缺和ROI不确定性正取代芯片短缺成为AI扩张最大瓶颈。陈福阳称部分AI投资者行为如赌场押注，马斯克则在X平台回应称，“在赌场就别哭”。两人预计算力供需缺口或延续至2030年，同时指出中国AI模型如DeepSeek、Kimi的竞争加剧了ROI压力。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/3acd3f702bec44608c024a83e082fc18_1_0/hd.webp",
+    "realDate": "2026-10-13 08:29:05"
+  },
+  {
+    "id": "1d7a216a2f9192b1e34f3aa701625683",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134241807&to_app=hwbrowser&dy_scenario=topicinside&tn=a2ea0588bc92f59ca3ca97b71341163e34e2621ed4fb4690aca002646bba8f1c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "分子生物学家吴军回国 全职加入西湖大学",
+    "summary": "10月13日，西湖大学宣布前美国德克萨斯大学西南医学中心教授吴军全职加盟，任干细胞生物学和再生医学讲席教授。吴军系统解析了跨物种器官生成机制，建立人源类胚胎体系，其团队致力于利用多能干细胞构建器官再造技术体系。他表示回国旨在培养中国年轻科学家，同时将在西湖大学建立干细胞胚胎学与嵌合体生物学实验室。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e5/v3/105102134241807/c638c5c70c504ebebf950740bd8059a8_1_1/hd.webp",
+    "realDate": "2026-10-13 13:21:37"
+  },
+  {
+    "id": "f33ac9b7086a4074e2c260daf52715f7",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510019b0e7674fe8bf07519e87c4de4cee3f2&to_app=hwbrowser&dy_scenario=topicinside&tn=2fb60ab3717e4405f92a7ee011f169fe3d53b1f81930ba51579f9fec37a48bdf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "“中国天眼”发现首例演化阶段三体脉冲星",
+    "summary": "中国科学院国家天文台联合国内外科研人员，利用FAST射电观测数据与国际多波段天文数据，证实发现的脉冲星J0435+3233为首例处于演化阶段的原生脉冲星三体系统。该脉冲星与一颗白矮星构成双星系统，同时存在一颗类太阳恒星以73.5年为周期环绕运行。研究显示，其自转周期每年增加1纳秒，异常变化由三体引力作用导致。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/c5/v3/Topic_5479c7d88c9c42f381cf2c4a4189bff6/2425858f343f4a5b8b47142473d1fa26_1_0/hd.webp",
+    "realDate": "2026-10-13 10:59:50"
   }
 ]
