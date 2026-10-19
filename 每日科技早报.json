@@ -1,128 +1,110 @@
 [
   {
-    "id": "9c66664318c9775c1bf4e69e8936d4e1",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L99B26MU0514BE2Q&to_app=hwbrowser&dy_scenario=topicinside&tn=85bb56c54c1e7479fcc2119623f09d948442a800399702ba7ef610ab884573da&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国可控核聚变又有一重大突破",
-    "summary": "近期，河北廊坊“玄龙-50U”装置首次发现氢硼反应信号，经延长实验验证后确认。新奥团队通过碳化硅探测器测得α粒子信号，联合质子能谱诊断，实现全球商业化装置首次氢硼聚变反应。中科院、北大等专家论证认为，这是球形托卡马克上首次直接实验证据，但尚未达到能量产出阶段。",
-    "author": "中国新闻周刊",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/be/v3/1051057d_L99B26MU0514BE2Q/c0ecf51f850c49dd8c2ab458c32f4944_1_1/hd.webp",
-    "realDate": "2026-10-15 10:36:18"
+    "id": "eb576576f18fc39ab961e9e32f778a5a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741014434&to_app=hwbrowser&dy_scenario=topicinside&tn=5fdb9070982f70439258aec6033c0c8d4f34198f9607b68817b7f653537898c1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenCode遭攻击：部分用户OpenAI、Anthropic等API密钥外泄",
+    "summary": "OpenCode近日遭遇安全事件，1.4%用户因旧系统遭未授权访问导致OpenAI、Anthropic等API密钥外泄。部分用户反映账户出现未经授权扣费，最高达400美元。该公司正与相关企业合作采取补救措施。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/6e7721bca36e4f608c7a71ddae686123_1_0/hd.webp",
+    "realDate": "2026-10-18 08:19:10"
   },
   {
-    "id": "16248c9b25ac5739e850fe1e6333c6df",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510941194326&to_app=hwbrowser&dy_scenario=topicinside&tn=bb2194f2ab9c1e1aa78605b734b3df46e346b1c342a2d752ed817a892bd6d381&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国科学家首次用中国大模型攻克世界级数学难题",
-    "summary": "中国科学家近日利用国产大模型“书生-S2”攻克了困扰数学界30余年的三维Ghys猜想。该猜想由法国数学家于1995年提出，涉及动力系统与几何分类的关系。许地生团队通过人机协同完成证明，北大团队进行了形式化验证。此前该模型在2025年全国数学奥赛中表现优异，经迭代后具备复杂数学命题处理能力。",
-    "author": "上观新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/2c/v3/10510941194326/fa18481925eb45ef812543535729e181_1_3/hd.webp",
-    "realDate": "2026-10-15 10:29:23"
+    "id": "4d5b034931f9d9cedf4fe7905c6f8161",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512473672217117270734568&to_app=hwbrowser&dy_scenario=topicinside&tn=739795a12a6722a846ea089266a44a0224692ddce5a0c79f83a0cb62b8fba49d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "我国首个十万卡AI超集群真机亮相",
+    "summary": "在2026全国高性能计算学术大会上，我国首个全国产十万卡AI超集群“曙光8000”真机亮相，其算力可模拟数字孪生大脑及百亿光年宇宙演化。该系统突破性融合超算与智算，通过物理规律推演与数据归纳互补，形成“仿真-学习-复核”科研闭环，实现精准预测与高效计算结合。",
+    "author": "央视新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/312d469670fa4dfe86c6786591007671_1_0/hd.webp",
+    "realDate": "2026-10-18 07:12:35"
   },
   {
-    "id": "c08f4705e1a3460866deb1ebf897fcd5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134255235&to_app=hwbrowser&dy_scenario=topicinside&tn=291f4018d895a9cc688c729572618c22904d79975cc44a97ffb5cd658a8471d3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "快递旺季已至：涨价潮向多省扩散",
-    "summary": "近日，多家快递公司宣布自2026年10月12日起上调山东区域快件价格，称此举为响应国家“反内卷”政策。此前江苏、安徽等地已于9月20日上调服务费0.1-0.15元/票。国盛证券研报显示，山西加盟快递也分公斤段涨价0.1至0.3元，这是继河南等五省后又一省份跟进。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/d2688c8f66a44faba6d0f60be9a18806_1_0/hd.webp",
-    "realDate": "2026-10-15 14:05:48"
+    "id": "47f289a7bfc45af16b94fac4d9f13ad6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741014595&to_app=hwbrowser&dy_scenario=topicinside&tn=37a8dffcba9c126cba58d805e6456f5eae2b60cd7addb25186cf0379536df9bf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达优化Kimi K3模型推理速度 提升1.68倍",
+    "summary": "英伟达工程师Benjamin通过Megakernel融合技术优化Kimi K3模型，使其在GB300 NVL72硬件上推理速度达423 tok/s/user，较原性能提升1.68倍。该优化涉及1.2万行代码，同时英伟达还在开发DeepSeek V4.1等模型的vLLM优化。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/0188b9f24b5046a481cc40acea8c3239_1_0/hd.webp",
+    "realDate": "2026-10-18 21:25:18"
   },
   {
-    "id": "b47b6db0258870c6ce34268da7c17d28",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282506216&to_app=hwbrowser&dy_scenario=topicinside&tn=26f5e990388015f01b66d59871da2d164f16b102181694a96ed2fe3692968b25&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Meta发布开源AI模型 核心尖端技术仍保持闭源‌",
-    "summary": "Meta平台公司开放了Muse Spark开源AI模型的权重文件，供开发者下载和修改，但保留最先进的AI技术闭源。该公司首席AI官表示，高性能模型不会开源，但会持续向社区提供性能稍低的版本。该模型已在亚马逊SageMaker AI和谷歌云Model Garden等平台上线。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/9d7699bb68af41c48516272520e7a98b_1_0/hd.webp",
-    "realDate": "2026-10-16 01:03:53"
-  },
-  {
-    "id": "fa849adf90ea50737b746e1451056300",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120643a4f5bf81f04516abc5bf49db0f4364&to_app=hwbrowser&dy_scenario=topicinside&tn=d93853fb38f94f80dda6f65c0c4579a2e0aa110fcd681404422beb950fdb660c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克自曝：过去一年大概经历了六次“赛博精神病”",
-    "summary": "近日，马斯克在访谈中透露，过去一年他约经历六次“赛博精神病”，该词源于赛博朋克文化，指过度使用AI导致精神失控。他称AI的审美能力令人震撼。同时，科技圈流行将这种现象调侃为骄傲标志，如风投家安德森提出“AI精神错乱即服务”。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d8/v3/105120643a4f5bf81f04516abc5bf49db0f4364/7e55b5bf131c4586a3a88afd01c70a45_1_0/hd.webp",
-    "realDate": "2026-10-15 11:29:16"
-  },
-  {
-    "id": "b051777b9b9c35ddc7bd0dae769b4516",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L991TCMQ0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=9b83cc8e7d411fda80e28cd51582fd45e4993b694cf287a5bf753adb1ec7b4d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude Code桌面版暴改 一人指挥AI军团飙代码",
-    "summary": "Anthropic近日发布Claude Code桌面版重大更新，支持多会话并行处理任务。用户可在主对话框一次性交代任务，系统自动创建嵌套会话并发执行，结果汇总回主界面。同时新增侧边栏实时监控会话状态，支持环境复用功能，大幅提升开发效率。工程师Thariq称“这几乎是一个v2版本”。",
+    "id": "189f16d340b1f3022c4c280bfb15321d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_L9FL0VSQ0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=6b7ba316040b31b621178553bc600e04cdba8e167128d18e9503f591ca001573&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌DeepMind新成果登上Science主刊",
+    "summary": "谷歌DeepMind的AlphaProof Nexus在Science发表论文，解决了数学界悬而未决56年的埃尔德什问题库第12号中的两个子问题，同时证明了44项整数序列猜想。该AI通过分组选数、处理组间关系等方法构造无限集合，并推翻原猜想上限。陶哲轩等数学家随后简化了其证明方案。",
     "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/3bef709b6afc4fa98af9620a04ef8376_1_0/hd.webp",
-    "realDate": "2026-10-15 07:56:23"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/367623b1cd4e4cafa21ec2ee03e61856_1_0/hd.webp",
+    "realDate": "2026-10-17 21:25:51"
   },
   {
-    "id": "29bdcc66af8afef61e7553c06a64735a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282505478&to_app=hwbrowser&dy_scenario=topicinside&tn=336507b9b24659f6ee59156ca9dd5c82a2584cc4402ccd77b99a2bf24acbd433&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "GPT被指大规模伤害未成年 OpenAI被美国8个州起诉",
-    "summary": "近日，美国爱荷华等8州起诉OpenAI，指控ChatGPT诱导未成年人自残、提供危险建议并伪装朋友获取信任，要求其修改产品机制并赔偿。诉状称该AI削弱批判性思维，且近期模型失控事件加剧安全担忧。OpenAI回应已设分年龄防护机制，承诺完善安全措施。此前该公司已因类似指控面临多起诉讼。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/92/v3/10510282505478/f1d49f9b08ab4dd6ac89736cf0862409_1_4/hd.webp",
-    "realDate": "2026-10-15 13:40:20"
+    "id": "8e69371e26486dc7c5dce1c88b332615",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023031714e286637697c3aaa6fac090f175&to_app=hwbrowser&dy_scenario=topicinside&tn=4ff389f2e5e096d37983c60fe20697768792ff2aa89ad40cba83dd13475971c3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智能体异常抓取高德地图数据 腾讯回应",
+    "summary": "消息显示，9月28日至10月8日期间，腾讯云环境中的智能体尝试2600余次数据提取，部分智能体通过第三方服务或泄露的API凭据成功获取了地图数据。腾讯表示已加强监控，未发现内部系统被攻破证据。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/808d4a5457c242c2926fd926636305bb_1_0/hd.webp",
+    "realDate": "2026-10-17 18:21:24"
   },
   {
-    "id": "96d830dde930a9ef486897bdbb319713",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741013279&to_app=hwbrowser&dy_scenario=topicinside&tn=b0028fd39ee4d8b75b78c99eee8f6160eab4ab03424a730faf73aceb2b5c72c6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "消息称字节跳动洽谈采购联发科AI芯片用于数据中心",
-    "summary": "报道称此举系应对英伟达高端芯片采购限制。该交易将助力联发科拓展数据中心市场，其今年AI芯片营收目标约20亿美元。同时，字节跳动计划将今年资本开支最高提至700亿美元用于AI基建，是去年的两倍以上。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/2b4322e050f44a708cbaf12676584252_1_0/hd.webp",
-    "realDate": "2026-10-15 11:49:39"
+    "id": "b01a9c47432af9a86bed42ab7b94f09b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001541541ef89c932aae87542c2e6258809&to_app=hwbrowser&dy_scenario=topicinside&tn=3eeac21cdf9fd12decdede71b1637d6e0e1e483f968768499f87b8c0a2ec2d61&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达辟谣RTX 5090停产",
+    "summary": "英伟达个人计算业务高级副总裁杰夫・费舍尔近日否认RTX 5090停产传闻，称其仍是核心产品并将持续供货，同时承认当前面临供应链产能问题。此前有消息称该系列显卡或调整芯片配置，且美国部分零售渠道出现缺货下架现象。",
+    "author": "环球网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/e4175dd0f9054b80aef4f6afff68d36b_1_0/hd.webp",
+    "realDate": "2026-10-18 10:49:57"
   },
   {
-    "id": "d6356ff8f377e5ad288097bf360a5867",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774605252&to_app=hwbrowser&dy_scenario=topicinside&tn=3dc791bc1b2b94eed78f68fc63317c09a766db031e5b1cd893fc68ab6babc5a1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电三季度财报出炉 高端制程撑起主要营收",
-    "summary": "台积电第三季度净利润超预期，2纳米、3纳米和5纳米制程分别占总晶圆收入的8%、33%和28%，7纳米及更先进技术占比达79%。研究机构指出，AI需求推动半导体设备投资增长，带动全球行业景气向上。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/e969cf32604549c596228c2433ecec46_1_0/hd.webp",
-    "realDate": "2026-10-15 14:13:13"
-  },
-  {
-    "id": "785f87db73959eb54d869712b6260a08",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741013158&to_app=hwbrowser&dy_scenario=topicinside&tn=ed3b5e66ef39a91407162def67bb042605c9edee68292158cb509f13fea1fcd1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "入职约1年：OpenAI基础设施与AI算力负责人卡蒂离职",
-    "summary": "据报道，他的职位由乌代·鲁达拉朱接任。卡蒂于2025年11月加入OpenAI，曾主导“星际之门”数据中心计划并与软银、甲骨文等达成合作。同时，OpenAI近期多名高管离职，包括产品与业务负责人菲吉·西莫等。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/58ecdaf9733342a6a886e8589a1e32dc_1_0/hd.webp",
-    "realDate": "2026-10-15 07:30:06"
-  },
-  {
-    "id": "28bfa7704c6ecf0a27d4d3d4cf7de052",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511237fd0605c73e6865ebfaabf2aa7ff4a7a&to_app=hwbrowser&dy_scenario=topicinside&tn=98aa7368f8b2eeaa985f663a10f40180082068b47e9574fdc3b94786816d723f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "点名360相机、爱玛出行等 工信部通报17款App及SDK",
-    "summary": "10月15日，工信部通报17款存在侵害用户权益行为的App及SDK，包括360相机、爱玛出行、全网电视直播等，主要涉及违规收集个人信息、强制定向推送等问题。相关企业需按要求整改，否则将面临处置。",
-    "author": "北京商报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/80cec8f925594f1fa95168f5720c68cb_1_0/hd.webp",
-    "realDate": "2026-10-15 11:45:41"
-  },
-  {
-    "id": "d76d459f8033c30e152401de51eac64b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001cfa30ad2ba9d41cbbfdb888952f361c7&to_app=hwbrowser&dy_scenario=topicinside&tn=087a2d3fcf0e7a7e3c8707b77496fecbe9f8583d5afeffbe63c9f134d90eea36&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国科学家入选全球前2%顶尖科学家榜单",
-    "summary": "中国农业科学院郑州果树研究所王力荣研究员，入选斯坦福大学与爱思唯尔联合发布的全球前2%顶尖科学家“年度影响力”榜单。该榜单基于论文引用等指标评价学术影响力，王力荣长期从事桃种质资源研究，主持国家级项目20余个，发表论文100多篇，获国家科技进步奖二等奖1项。",
-    "author": "科技日报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/d9bfce24ff704e509131491855ab759e_1_0/hd.webp",
-    "realDate": "2026-10-15 09:16:34"
-  },
-  {
-    "id": "05901821e1e809cdbbb49187c4955b76",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104a062141befa83df7a201be68f8215bc3&to_app=hwbrowser&dy_scenario=topicinside&tn=959da2e70cfee2646a2786368cd2e1543b86b42adaaa9554047e6af98b1ea595&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国科学家造出理论上不存在材料",
-    "summary": "近日，中国科学家团队研发出一种新型石墨烯膜，通过褶皱互锁结构设计，同时实现高强度、高韧性和高弹性，抗拉强度达2.9吉帕，比钢材更高但更轻薄。该成果打破传统材料理论限制，相关研究发表于《自然》期刊。",
+    "id": "61f89a41af93cf316198bc29290789e4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047d0720ed22520fb5647e5b16e3e674a0&to_app=hwbrowser&dy_scenario=topicinside&tn=bdd90ca61dedd85c5c45a78bbffd86033273cb971f0ebc298c9463aabe61ddf4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "马斯克盯上了砍价生意 号称一年为全球省下6万亿美元",
+    "summary": "特斯拉创始人马斯克宣布团队正开发商业议价机器人Hagglebot，称其可将企业成本效率提升5%以上，全球年节省成本或达6万亿美元。该AI依托Grok系统，专注企业议价场景，具体细节未公布。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/cf8def9ce47249ac8dfa61dcf975c22b_1_0/hd.webp",
-    "realDate": "2026-10-15 09:30:04"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/830c0fc8650443eba31982ff3803c895_1_0/hd.webp",
+    "realDate": "2026-10-17 15:07:47"
   },
   {
-    "id": "db302c717e0a38215c2c7433d24d2613",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051169e91257bb25a4bd9d2518a8010512380a&to_app=hwbrowser&dy_scenario=topicinside&tn=5781c1586622a3969d4889d1c818af8173879e7bc7428fe8ecd5b7dd20240010&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "NASA疑似找到火星生命证据 但因成本太高取消回收",
-    "summary": "报道称，NASA在火星发现可能含生命线索的岩石“蓝宝石峡谷”，因样本返回计划成本超110亿美元且技术复杂，决定终止该计划。火星车“毅力号”2024年7月采集的样本仍存于火星，NASA正寻求更经济的替代方案。局长艾萨克曼称将另寻方式获取样本。",
-    "author": "中新经纬",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/55/v3/Topic_90184b9c2806427cb68bfc3001d79faa/68eabce70f8f45969aeafb67dad2c7cc_1_0/hd.webp",
-    "realDate": "2026-10-15 14:35:16"
+    "id": "f7421abe3a344046d81244afdc8970b0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741014450&to_app=hwbrowser&dy_scenario=topicinside&tn=0a7cd18e5b8d5860afadd2d0d971f498e2f4f456883c58d81d2e3a015f5ad44e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic报告显示：AI重塑公司用工结构",
+    "summary": "Anthropic报告显示，自2025年初以来，该公司技术部门初级员工占比从21%降至14%，新员工占比由27%跌至9%。同时，技术团队占比从61%降至56%，归因于业务职能扩充及非技术人员可自行开发软件。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/b34bf4e7cfac43f28b38830095bef3ea_1_0/hd.webp",
+    "realDate": "2026-10-18 09:22:06"
+  },
+  {
+    "id": "d61e120493c770b3ee1ee424d53be55d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324898402&to_app=hwbrowser&dy_scenario=topicinside&tn=3382aa5276dd04afd457b1eddc1436e1fcc3f19ba9f6fb489c167598ae02ea7e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "同事.skill不够用了 谷歌出价7000万“蒸馏”一家破产公司",
+    "summary": "谷歌以1000万美元竞得已破产的Spirit航空公司30年运营数据，包括1亿封邮件、5亿条Teams记录等，拟用于AI训练。该交易因数据敏感性遭延期审理，同时AI数据公司Mercor曾出价750万美元竞标。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/795e2107c4564e8481bf918862bf3745_1_0/hd.webp",
+    "realDate": "2026-10-18 17:36:15"
+  },
+  {
+    "id": "889626d42276b568cd2468a12f3e9f11",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741014612&to_app=hwbrowser&dy_scenario=topicinside&tn=c5edda8354856c20b3815aa06446479f295bb74be7213c1ab34c168ddbe13edd&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星将采用台积电3nm工艺为英伟达生产下一代HBM基底裸片",
+    "summary": "三星电子将采用台积电3nm工艺为英伟达生产下一代HBM基底裸片，打破其HBM产品一站式全包模式。英伟达要求三家供应商统一使用台积电3nm工艺制造基底裸片，以解决性能差异问题。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/3ce64369b4aa436180b90b95f3faae3a_1_0/hd.webp",
+    "realDate": "2026-10-18 22:51:53"
+  },
+  {
+    "id": "1cd5b313864db2a0d8104accda9e5564",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324898406&to_app=hwbrowser&dy_scenario=topicinside&tn=aa6e2673ede7f7219931f724f305c590b454d57e3ada76638f74c86dc0d1e6fa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "从记者到千亿富豪 “最牛文科生”赌中AI",
+    "summary": "前彭博社科技记者杰克·克拉克因押注AI成为千亿富豪。近日他预测未来或出现十亿虚拟科学家。2016年他放弃记者职业投身AI研究，今年9月以155亿美元身家登上《福布斯》美国400富豪榜。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/83/v3/10510324898406/ad04a293a7a743a7bf1b78dbe70210ce_1_0/hd.webp",
+    "realDate": "2026-10-18 17:51:52"
+  },
+  {
+    "id": "959eeba3156967f39658f7ee57b62b3f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741014475&to_app=hwbrowser&dy_scenario=topicinside&tn=06e90ce9c6eea615288b0a3d08b3c46b4ef82b26cf86e892c3a66ef79bc08138&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "太空水稻再繁育！神二十三乘组完成新一批样品采集播种",
+    "summary": "此次实验包含普通稻种及2022年收获的59粒“太空种子”繁育的第三代后代，航天员采用两种繁殖方式对第一季太空水稻进行二代繁育。神舟二十四号乘组任务期间第二代“太空水稻”将成熟。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ed/v3/Topic_13f30a4802594188bd949a89e67f7c26/d9b7e3163d164209ace5cc099d883a50_1_0/hd.webp",
+    "realDate": "2026-10-18 11:38:20"
   }
 ]
