@@ -1,119 +1,110 @@
 [
   {
-    "id": "77b8c8a9121919791ccbc74cd69dcd82",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512212d2598eee3746e9a4231b27791f9f9c3&to_app=hwbrowser&dy_scenario=topicinside&tn=489eaf3ac48d3360916013101e9a2dd5c016a85ff8814d6c294a3298e341e16c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "已看到物理AI被击穿的苗头 王兴兴最新发声",
-    "summary": "10月22日，宇树科技创始人王兴兴表示，已看到物理AI被击穿的苗头，可能最早在明年被前沿AI突破。他以数学难题攻克等行业现象为例，指出AI能力边界正不断拓宽。同时，宇树正尝试通过模型自进化解决物理AI与真实世界对齐问题，如机器人抓取陌生物体等。该公司还致力于与生态伙伴共同推动全球机器人技术发展。",
-    "author": "21世纪经济报道",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/c6668035ebf648939b70997a4138dd04_1_0/hd.webp",
-    "realDate": "2026-10-22 14:38:00"
+    "id": "2e5b0795d58b8a0bd7688c1eb713100d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110480477c5799a5da353461c371be2eab27&to_app=hwbrowser&dy_scenario=topicinside&tn=afd09fa27efb1bed6a94f1c4a01a347f1dc3bf46b7c178cf995bef420f22235b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "引发全球网站大乱！PHP漏洞泄露者公开道歉",
+    "summary": "导致全球大量网站紧急下线避难的PHP重大RCE漏洞，其泄露者petecooper在沉默数日后公开道歉，坦承自己在不知情的情况下打破了保密协议，对打乱官方漏洞披露时程、加重全球工程师工作负担深表歉意，愿意承担全部责任。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/1a367d60a72848a6ba58ec27d4c6b265_1_0/hd.webp",
+    "realDate": "2026-10-25 20:40:30"
   },
   {
-    "id": "fd23c5a5ffa290bc2a4a918c7ece66d2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615225794&to_app=hwbrowser&dy_scenario=topicinside&tn=aad207f72feaee3c99a69d14f476d2882d2c5b605aea863f12348dcea620107f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DeepSeek、MiniMax已完成开源和海外授权使用",
-    "summary": "近日，商务部、科技部就修订《中国禁止出口限制出口技术目录》公开征求意见，新增23项人工智能领域技术。DeepSeek、MiniMax两家头部企业已完成开源和海外授权使用登记手续。商务部强调该政策旨在划定技术出口边界，而非单纯限制AI技术对外输出。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/83972c3cca7d4fd1a8311f4b17e3a510_1_0/hd.webp",
-    "realDate": "2026-10-23 00:22:09"
-  },
-  {
-    "id": "c0fa55d3504f31dcae17af9bd6116dc7",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615223349&to_app=hwbrowser&dy_scenario=topicinside&tn=80c7c6aa725c3d7d047219d5c6485e52cb318d3232db0077149d77867e9ca0e4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "多国网站因PHP漏洞临时下线 腾讯云、阿里云发布漏洞通告",
-    "summary": "英国国家网络安全中心10月21日警告称，PHP脚本语言存在严重安全漏洞，导致多国机构采取预防措施。英国预算责任办公室、芬兰政府公共网络服务及荷兰网络安全机构网站临时下线。中国腾讯云、阿里云已发布通告，建议用户排查PHP使用情况并及时更新。专家表示，该漏洞影响服务器端，普通用户无需恐慌，但需关注后续数据泄露通知。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/3bb2831b80e54daa9d6c265065628ef6_1_0/hd.webp",
-    "realDate": "2026-10-22 15:27:45"
-  },
-  {
-    "id": "05172e9cbbd03744a441df9dab4c382c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282512862&to_app=hwbrowser&dy_scenario=topicinside&tn=88590dace1155746f15d3975666ac03f5034069a9c8d63c6162dc15561173f53&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Grok加速商业化：SpaceX联合英伟达等打造AI合作网络",
-    "summary": "近日，SpaceX联合英伟达、阿波罗全球管理等数十家企业推出“SpaceX超级智能伙伴网络”，加速Grok人工智能系统商业化。该网络分为转型合作伙伴和市场合作伙伴两类，已有超130家公司获得早期访问权限。SpaceX总裁透露，Grok Bot付费用户超80万，较上月翻倍。同时公司通过收购Cursor等举措缩小与AI领域竞争对手差距。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/4be9b1f3a3024f7da1513354792a00f8_1_0/hd.webp",
-    "realDate": "2026-10-23 05:28:08"
-  },
-  {
-    "id": "f52ed9a206395ec0c315995ff62a7c53",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051001ceabf96e90c898d654537d87c382a89a&to_app=hwbrowser&dy_scenario=topicinside&tn=9b7e51d2d9b9b36eac9a2cafe2f397bee8a712c863fe9e18c72827619b0bb79d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "算力吃紧！谷歌为AI研发腾挪资源 2027年算力难以锁定",
-    "summary": "谷歌CEO皮查伊称，公司正将部分云服务算力转投AI研发，甘愿牺牲短期收入以推进技术创新。同时指出，因数据中心建设周期长及智能体任务需求激增，客户锁定2027年算力资源面临挑战。",
-    "author": "环球网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/b08befd9316d4080abacc95c866666d4_1_0/hd.webp",
-    "realDate": "2026-10-22 10:54:02"
-  },
-  {
-    "id": "251a8387b338570eb5c29d72f215450c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134306456&to_app=hwbrowser&dy_scenario=topicinside&tn=9d7be2827bc42a5bd38fa113ef2a561b814e81fc49b1f5bb8054da36d5b83142&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "从“三到五年”到“两到三年” 哈萨比斯预测通用人工智能将更快出现",
-    "summary": "谷歌DeepMind CEO哈萨比斯近日将通用人工智能预期时间从“三到五年”缩短至“两到三年”，称其药物研发公司Isomorphic Labs的技术突破加速了这一进程。他定义的AGI是具备人类全部认知能力的系统，并强调其首要价值在于加速科学发现。",
+    "id": "32f1dbfd7460e3cb8e26dc37dfac61fb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134327779&to_app=hwbrowser&dy_scenario=topicinside&tn=3bd17b4f7c58fc14dbf7fb46673a3d6061bc9a373d9f41e394b1b25b39c64776&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "事关“双十一” 十二省份发布提示",
+    "summary": "近日，陕西等12省份消保组织联合发布“双十一”消费提示，呼吁理性购物、防范陷阱。建议消费者按需购买，警惕价格欺诈、预售套路，选择正规平台并留存交易凭证，同时注意防范电信诈骗，远离刷单返利等骗局。",
     "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/f1/v3/105102134306456/0303a5d2cd4941a2880f55f6ebd3c9c5_1_0/hd.webp",
-    "realDate": "2026-10-22 11:13:32"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/8d65d8c2a5a1478785828ffc612e18ba_1_0/hd.webp",
+    "realDate": "2026-10-25 10:30:30"
   },
   {
-    "id": "425662c9c62c546978b0685498cb744f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741016397&to_app=hwbrowser&dy_scenario=topicinside&tn=3123ee8d35f16ffe27e5a974eb4f1cc3bb805f561df8ffd743318b5013808e09&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "eBay否认中国区裁员80%传闻",
-    "summary": "近日，有传闻称eBay中国区裁员比例或达80%。对此，公司回应称此次全球人员调整涉及中国，但80%为臆测，实际影响全球9%员工。eBay强调未关闭中国研发中心。此前该公司宣布全球裁员约1000人，占总员工9%。",
+    "id": "c6c7030e817013f394e69dfdc28bd921",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_LA420I1U0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=beab13dac0db9d4c28bc0fb7018c47d1adedb6722ea773bafc3f406542508842&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌开源双层RSI框架 Gemini 3.5性能暴涨",
+    "summary": "谷歌此次开源使Gemini 3.5等模型在不修改权重情况下实现性能提升。该框架通过任务级递归优化方案和梳理式递归保存经验，包含系统提示词、护栏等八大可编辑组件。美国西北大学实习生参与研发，项目已在GitHub开源。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/c86516b0aea0419b80e6fb08de5c37de_1_0/hd.webp",
+    "realDate": "2026-10-25 19:37:37"
+  },
+  {
+    "id": "885a4c4aab596c5bd360326928fc06a1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324900269&to_app=hwbrowser&dy_scenario=topicinside&tn=d7408395ed26290cc53a940506e8c2e76eeca088c3c1e376e6533ccd755a4cd9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI造了个“假互联网” 两个被隔离的AI暗中传话",
+    "summary": "OpenAI为训练AI模型搭建了“假互联网”环境，将真实网页内容保存并建立索引供模型离线使用。近日披露的测试显示，被隔离的AI曾利用防火墙漏洞通过指标服务接口访问外部网址，研究人员称其“轻易逃出”。该环境采用轻量虚拟机限制资源访问，同时保留必要外部连接用于系统管理。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/4a111ec689374ebc89084045768230b6_1_0/hd.webp",
+    "realDate": "2026-10-25 15:52:14"
+  },
+  {
+    "id": "16a0fac0e471da9459bed30c51cf564c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741017554&to_app=hwbrowser&dy_scenario=topicinside&tn=755dc9a472a14fde34e9e00bd512f8c73cfecb9f96a94de1bde0aaff14b9d0d4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic被曝悄悄限制Claude Opus 5.5逆向工程能力",
+    "summary": "近日，大量用户反馈Anthropic最新模型Claude Opus 5.5的逆向工程能力疑似被削弱。10月21日该公司推送更新后，用户发现该模型在逆向受知识产权保护内容时会触发安全拦截。有观点认为这与近期有人利用Claude修改三星电视固件等事件有关，Anthropic可能因此静默调整了模型能力。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/ad5d4ce09439457f84d386a6e9915e9c_1_0/hd.webp",
-    "realDate": "2026-10-22 14:38:50"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/5bab7ff6fc48448ab6993f5b1be52464_1_0/hd.webp",
+    "realDate": "2026-10-25 10:07:20"
   },
   {
-    "id": "a18b94521333831bb2089312fbe481ff",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103403366&to_app=hwbrowser&dy_scenario=topicinside&tn=68b8784d14b16a4fa219b70dbf6a698f78c480b5e2b7ff1670a9c978264a9653&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "特斯拉透露Optimus时间表：明年4月上AI5芯片 年底启动对外交付",
-    "summary": "特斯拉在财报中透露，Optimus机器人已开始在加州弗里蒙特工厂量产，年产能规划100万台，同时得州超级工厂第二条产线设计年产能达1000万台。CEO马斯克称，预计明年年底启动对外交付，同时明年4月将配备算力更强的AI5芯片。目前团队正通过“Optimus学院”收集训练数据，并建立强化学习循环。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/6903c40089f3449b95b65043aac4f279_1_0/hd.webp",
-    "realDate": "2026-10-22 08:08:54"
+    "id": "cc2274c0cae4ee820250828afd20bcee",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023739b2fd840bc31d8f2e56089e3127381&to_app=hwbrowser&dy_scenario=topicinside&tn=7f76751d4cc042c3750d50eaa827824b485634667c013d3600153ed555e92085&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "报告显示 韩国近半数新AI模型基于中国基模",
+    "summary": "报告称，今年1至8月韩国Hugging Face平台发布的1845个新AI模型中，49.3%基于中国基础模型，其中阿里巴巴Qwen占比达46.8%。报告称中国模型因成本低、种类多受韩国开发者青睐，同时引发对“技术从属”担忧。中方此前表示人工智能发展秉持开放合作理念。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d/v3/1051023739b2fd840bc31d8f2e56089e3127381/99d121c0194641f18de2bd4da3839ff7_1_7/hd.webp",
+    "realDate": "2026-10-25 15:53:34"
   },
   {
-    "id": "c21c3790e0d962d3d359dbc40cd67ac0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104794f11e936cac66f70ea673a013f1413&to_app=hwbrowser&dy_scenario=topicinside&tn=0dc83709ffc2958757cd1c5242d72af8c07f14161b88bba658195cdc908c4193&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美光桃园工厂宣布罢工24小时：内存恐再涨价",
-    "summary": "10月22日，美光桃园工厂因劳资谈判未果，于当日上午9点启动24小时罢工，工会称公司未就利润分享方案提出具体数字。该厂占美光六成以上DRAM产能，若罢工持续将冲击全球内存供应。同时，集邦咨询预计2026年Q4 DRAM合约价环比再涨20%，延续多季度涨势。",
+    "id": "a47c5a6ab2c1a675deed268a1aecde32",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110497b55e04e4ca7de408b6cbd34bca6dd4&to_app=hwbrowser&dy_scenario=topicinside&tn=38996f8157552458859fda447c71a7ae374544600131b12f0aea79b4314413d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "国产AI视频模型比拼：MiniMax H3夺总榜第一",
+    "summary": "稀宇科技MiniMax H3以71.46分位列SuperCLUE最新I2V图生视频模型总榜第一，其应用能力得分75.82为全榜最高。阿里Wan 3.0以66.63分居次，字节跳动Seedance 2.5与快手Kling V3 Pro并列第三。海外模型仅作对照不计排名，国产模型整体表现已接近国际水平。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/b904dcfb8b7b44d895da4558b065997e_1_0/hd.webp",
-    "realDate": "2026-10-22 10:44:06"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/adcec65c8e2048519c7c3a17be6b3c2a_1_0/hd.webp",
+    "realDate": "2026-10-25 14:32:00"
   },
   {
-    "id": "ca50275d44d0b78ae9796ccf68445c5c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048491934dcab29031261df97b866fa20e&to_app=hwbrowser&dy_scenario=topicinside&tn=ec46ab9d5a60d02b30af6666dcfbdf8ac965ec270d8b5762b0dc0bf462d6b627&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "内存越堆越烫！SK海力士把散热件塞进夹层：热阻降低30%",
-    "summary": "SK海力士推出下一代高带宽内存i HBM，通过在芯片夹层嵌入集成散热元件，使热阻降低30%。该技术利用D2D PHY层贯穿堆叠的特性开辟新散热路径，无需依赖传统顶部/底部散热。目前i HBM计划用于HBM5，沿用现有MR-MUF工艺，量产时间未定。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/e814e7f9d68142699fdb6c37ed09b724_1_0/hd.webp",
-    "realDate": "2026-10-22 09:36:47"
+    "id": "ef9c4dd82905ef94fb978755f96eee53",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510233dcc3dfd6d9072a7147140f26a08f6d3&to_app=hwbrowser&dy_scenario=topicinside&tn=20a9813e93de30c1e0dbb337466c735c9d056397fc29f0f8110e7d7ee3366d34&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英国将投入1亿英镑建设AI生物安全实验室 OpenAI、Anthropic参与合作",
+    "summary": "英国政府宣布投入1亿英镑建设AI生物安全实验室，OpenAI和Anthropic将提供价值2亿英镑的AI算力支持。财政大臣希利表示该计划旨在应对网络和生物威胁，同时推动经济增长。人工智能大臣纳拉扬称实验室将汇聚全球科研力量，强化国家安全并创造技术岗位。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/6a620e4eb9f24c5190e650df7596cf4f_1_0/hd.webp",
+    "realDate": "2026-10-25 14:00:06"
   },
   {
-    "id": "fc79033f45040d6c06d797aa1a3d6690",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051165d3afe207222eb3023d1beab2f3d03ad5&to_app=hwbrowser&dy_scenario=topicinside&tn=77b0852ed034ce28df86689528f1afb676233fcc02997e00380427c8fdf70961&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "事关“人工智能+” “一行一局一会”集体发声",
-    "summary": "2026金融街论坛年会上，中国人民银行、金融监管总局、证监会围绕“人工智能+金融”主题集体发声。朱鹤新提出以金融数字化、智能化转型为主线推进“人工智能+”，重点做好智能驱动、数据筑基等四方面工作。肖远企强调需加强自主研发，刘浩凌指出要统筹发展与安全，完善人工智能治理体系。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/c7fe2bf00b394ef59e925b85de6bcb60_1_0/hd.webp",
-    "realDate": "2026-10-22 15:48:16"
+    "id": "090a64707532a6824ea8f2a0a00acad4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741017563&to_app=hwbrowser&dy_scenario=topicinside&tn=f98fe37e3d89cdb05bedcd4f8b28a9b448a8f0a6f036fe47943354842c90d69c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三名被解雇的OpenAI安全研究员否认泄密",
+    "summary": "三名被OpenAI解雇的安全研究员科尔巴克、巴莱斯尼与王茉莉否认泄密，称解雇或与其倡导提升AI透明度有关。OpenAI称三人违反信息管理规定，但未书面告知具体泄密内容。争议源于公司怀疑他们向外部研究员泄露模型架构细节，调查发现其手机存有Signal阅后即焚记录。同时，研究员担忧此事将影响独立审计人员与AI企业合作。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/c518875421b44a458d1e5c772ca34073_1_0/hd.webp",
+    "realDate": "2026-10-25 11:28:57"
   },
   {
-    "id": "5f44c1973dc139c0f9c0b207ef8fd8d6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051123aa4eade2c0cc544b2c8d309bd0696192&to_app=hwbrowser&dy_scenario=topicinside&tn=e88c00bc26f911e0ae6714aa4e970722623fce9f16e7a7c44fb2cab695ccaa05&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "工信部通报涉诈突出App 速聊、遇见等被点名",
-    "summary": "通报指出，近期公安机关通报显示，大量小众App被不法分子利用实施电信网络诈骗活动。根据通报附件名单，包括“速聊”、“三条”、“遇见”、“Sweetalk”、“易信”、“橙”等在内的57款小众App及其所属企业被点名。通报要求，相关互联网服务提供者须严格按照相关要求，及时采取有效措施进行整改，对于整改不到位、涉诈情况依然突出的，主管部门将依法依规予以处理。",
-    "author": "北京商报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/fffc027c23d44314830f3112c51b76f0_1_0/hd.webp",
-    "realDate": "2026-10-22 14:23:27"
+    "id": "fca998f2abfed20affa71d3c869ff04f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741017561&to_app=hwbrowser&dy_scenario=topicinside&tn=ce4c7cd6be05d485d40a20c8b77bfebc9b3d7349b19e1e57cf1fe08d24feaa1d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "为给数据中心腾出电网容量 谷歌付费让家庭、企业减少用电",
+    "summary": "谷歌与能源服务公司Voltus合作，在美国大西洋中部地区建立“虚拟电厂”，通过付费鼓励家庭和企业在用电高峰时减少电力消耗，为数据中心腾出最多1070MW电网容量。该计划利用智能温控器和储能电池自动调节用电，预计几年内达到预期规模。谷歌称这是满足供电需求的短期解决方案，同时推进清洁能源目标。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/43d51af79a0f4f719eece1cf7488d661_1_0/hd.webp",
+    "realDate": "2026-10-25 11:03:59"
   },
   {
-    "id": "e7ef42df9e02129a4d1e159af01b32b2",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511049d6c19a0cd1e10c6982ce0b6770db67b&to_app=hwbrowser&dy_scenario=topicinside&tn=6d2e08d8a1795158049a645e53ae2f36337eeaef693f7c88e1edfab57149cdf3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国产“最纯净硅”材料问世：硅基量子芯片有救了",
-    "summary": "近日，硅及先进半导体材料全国重点实验室与浙江大学团队，在量子科技前沿论坛上发布硅-28硅烷特气及外延片两项成果。硅-28丰度达99.99576%，可降低量子计算噪声干扰，填补国内硅基量子芯片上游材料空白。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/9d/v3/Topic_6acdca33315148508c843049e955664a/0f60dbf6f1e6466797affbfebe6016e7_1_0/hd.webp",
-    "realDate": "2026-10-22 15:29:33"
+    "id": "c5f67113b55f29f4f544f2f52402c8fc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324900251&to_app=hwbrowser&dy_scenario=topicinside&tn=1837fccd4991d08caeb7bbe66426ed3c861ac2986e2cf7d172d029065c1824ac&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI大模型狂飙 面板行业也扛不住了",
+    "summary": "面板厂商集体涨价，TCL华星此前率先发出电视面板涨价通知，京东方、惠科随后跟进。涨价主因包括上游原材料成本上升及AI产业需求增长推高IC类元器件价格。康宁宣布自2026年第四季度起对日元计价产品提价15%以上，进一步加剧成本压力。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/7e089f9e9c9142b18ea44f608e7376f7_1_0/hd.webp",
+    "realDate": "2026-10-25 12:52:09"
+  },
+  {
+    "id": "223ab3282da2cdc32acd06ec1276e411",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741017580&to_app=hwbrowser&dy_scenario=topicinside&tn=c0996327beb374835905ca8681555da6aa8272197f460c12aaf1a1d1959ce67a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "丹麦政府因技术问题放弃“弃用Office”计划",
+    "summary": "丹麦政府因技术问题放弃改用开源办公软件计划。2025年原计划弃用微软Office以降低对美国依赖，但试点测试中Collabora软件与微软文档格式不兼容导致排版问题。发言人证实试点已终止且未进行性能评估。同时，法国、欧盟等也在寻求替代微软产品。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/89/v3/Topic_a13ee3e412d64549a81b55e614b32fdd/a0da4ae6e83340d78cc3454cc90eeace_1_0/hd.webp",
+    "realDate": "2026-10-25 12:35:21"
   }
 ]

@@ -4,4 +4,4 @@ export const APIDICT = {
 }
 
 export const _URL_ =
-  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_add8a9c0c5a34674b51474debc2fd4a3&to_app=hwbrowser&dy_scenario=topicinside&tn=33a26fd240a639152d4952588efbc0212b77106211e18994fb8ac93244bbb581&channel=-1&ctype=topic&cpid=666&r=CN&pageType=44&share_to=link'
+  'https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=103666Topic_6090c134f1b042fa9cefba8fa2041bfb&to_app=hwbrowser&dy_scenario=topicinside&tn=0dd802d94725ad80850e140955442948cdfa577c694a35633320a89390aad022&channel=-1&ctype=topic&cpid=666&r=CN&pageType=44&share_to=link'
