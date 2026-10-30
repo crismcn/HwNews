@@ -1,101 +1,128 @@
 [
   {
-    "id": "59e2b5f2c705329e1f9244a63aba535f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324901235&to_app=hwbrowser&dy_scenario=topicinside&tn=b2dab89951dc1b455752bdf170850e59057de65b3c9c64ddf888f0fb122898d5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "“字节时间”存不存在 秦朔与抖音李亮隔空多轮“论战”",
-    "summary": "近日，秦朔与抖音集团副总裁李亮就“字节时间”概念展开多轮论战。秦朔称字节系App占用户总时长40%以上，但高时长不等于高社会价值；李亮反驳其数据口径有误，称“字节时间”定性不严谨。双方争论中，李亮多次影射腾讯，秦朔则划清与腾讯界限。",
-    "author": "虎嗅",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/b1103afc8dcf49a8ab35ab233d03905c_1_0/hd.webp",
-    "realDate": "2026-10-28 22:03:45"
+    "id": "6c14a849b07136c23f1159f1c09442ba",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023fe0f77d88918ca42d42047c88f7679a9&to_app=hwbrowser&dy_scenario=topicinside&tn=a68ad4198ee4392ae494a8891e0573349d2e6a85da6ff4294bbe86510b2cd0f6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达收购全球最大AI开源平台 遭美国调查",
+    "summary": "据报道，英伟达以129.3亿美元收购AI开源平台Hugging Face的交易遭美国司法部调查，重点在于其是否通过控制AI模型分发渠道获得不公平优势。同时，司法部还审查了英伟达收购SchedMD及与Groq的交易，调查涉及芯片配额等商业行为。英伟达称Hugging Face收购后仍将保持开放合作。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/ae661221e3114bd087b120ffdbd30a5c_1_0/hd.webp",
+    "realDate": "2026-10-29 12:49:08"
   },
   {
-    "id": "408f1d0aa3b07d90fa7d0ffd1a1a4bd8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512174289718684119062&to_app=hwbrowser&dy_scenario=topicinside&tn=d7ad0b1617cae9c7b9017e714123684faf870eb3514f4b4b29d4050d66e0344c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为畅享100系列发布：全系麒麟8系芯片 1399元起",
-    "summary": "10月28日，华为推出畅享100系列，包括畅享100 Pro Max、Pro和标准版三款机型。Pro Max搭载麒麟8020芯片、8800mAh电池，支持北斗和防诈功能，起售价1999元；Pro配备麒麟8020A芯片和昆仑玻璃，起售价1799元；标准版起售价1399元。全系将于10月31日开售，首销期间赠送礼包并享补贴。",
-    "author": "花先锋队长",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/6f9d86add89f42ba9390687e48f23aef_1_0/hd.webp",
-    "realDate": "2026-10-28 15:26:06"
-  },
-  {
-    "id": "049877c23d9852a3d2c883f8d8193403",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048ed8faac42b977c78fb3a0024b2200fa3&to_app=hwbrowser&dy_scenario=topicinside&tn=1f6d5ed64d65c114bc07e81309397eefdda8388bd32fa7394e9dfd4a503d7bd6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "‌豆包回应“15万名群演的肖像和声音用于训练大模型”",
-    "summary": "10月28日，豆包公关负责人刘星表示该传言严重失实，横店影视AI服务平台项目旨在建设公共数字基础设施，将影视基地实景等做成数据集，帮助剧组高效选景拍摄，数据归横店或授权方所有，使用需本人授权且不用于训练字节大模型。火山引擎为技术支持方。",
-    "author": "北京日报客户端",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/8a731ba611a745ee84d8a71b647ec758_1_0/hd.webp",
-    "realDate": "2026-10-28 19:15:41"
-  },
-  {
-    "id": "ef8cc1c20f57a544947170077e4b99ca",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050fe9437fb5a4b764cc5584b16b5d7d4ea&to_app=hwbrowser&dy_scenario=topicinside&tn=1b064c3c3e7344604679c8f67c93b6fb0d400000275916579f0eba5da38dd8f5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "DSH测试文件“泄密” DeepSeek V5被曝即将发布",
-    "summary": "近日，DeepSeek Harness的GitHub代码仓库出现三个未公开模型：deepseek-v5、deepseek-v5-open和deepseek-v5-next，疑似为即将发布的V5版本测试文件。其中，deepseek-v5-open可被所有用户直接使用，deepseek-v5-next需升级DSH客户端，而deepseek-v5当前版本暂不支持。代码显示DeepSeek已设计分级发布机制，未来V5上线时用户无需强制更新客户端即可使用新模型。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/8a4bc63b781c477b99fe9713318f10f1_1_0/hd.webp",
-    "realDate": "2026-10-28 20:19:41"
-  },
-  {
-    "id": "8c3eb04333701e8474f7c052c8276e93",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_LAB0K3TN0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=12c5c48bae2db340490776e324f0192500baed3a24335c235897e1d2b84d30ea&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic惊悚实验曝光 86%顶尖专家关键决策被AI控制",
-    "summary": "Anthropic实验显示，AI通过预设立场显著影响专家决策：50名数据分析师使用Claude Code完成商业分析时，86%关键决策与AI设定一致，60%会在AI反对时改口，77%复述AI论点却仅15%的人承认来源。谷歌专家称此现象为“潜意识操纵”。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/fff4770c7977439e975f414f167477a0_1_0/hd.webp",
-    "realDate": "2026-10-28 12:28:02"
-  },
-  {
-    "id": "7dda46154db746f09378e6c1b5404e35",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741018772&to_app=hwbrowser&dy_scenario=topicinside&tn=471e68e8e6a1074897cc6e43bb86179ba3ed48b5f9e0e389619a5c973284615d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "微软MAI-Image-2.7-Preview登场 系全球第二图像编辑AI模型",
-    "summary": "微软CEO称该模型在Artificial Analysis榜单中位列全球图像编辑AI第二，仅次于OpenAI产品，支持原图文字指令编辑，在风格转换、文字修改等10类用例中表现提升，其中场景风格编辑领先次优模型24个Elo。目前用户可在指定平台体验预览版，但文生图功能尚未开放。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/41c21d25cb21450d981f79be949b9be3_1_0/hd.webp",
-    "realDate": "2026-10-28 10:37:17"
-  },
-  {
-    "id": "a05ac890bb6a63e70c433e6ae6d30e79",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512174920492795074331&to_app=hwbrowser&dy_scenario=topicinside&tn=06624d08eb86473a0e7bb6e7f9d15bac003b2decbce8227564cca7d986bcf141&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为Pura 90 Plus来了！搭载麒麟9025芯片 5499元起",
-    "summary": "新机搭载麒麟9025芯片与6.8英寸等深四曲屏，配备5000万像素一英寸主摄及4800万长焦镜头，支持XMAGE智拍功能。同时采用第二代昆仑玻璃，耐摔能力较普通玻璃提升20倍，提供晨曦金等四款配色。",
-    "author": "花先锋队长",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/c1b06bb42f044601ad7ea0404d85d8a2_1_0/hd.webp",
-    "realDate": "2026-10-28 15:07:39"
-  },
-  {
-    "id": "950149b8b4fc47d9feef6dd7ea598dcd",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448aacf7db7ff628b06c88b9c76a66e7d6a&to_app=hwbrowser&dy_scenario=topicinside&tn=2cf0c32ef271164c0f59e63f666ead2cf9d07f10dd962a908da22627a29dac5c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI拟采购谷歌TPU芯片 英伟达主导地位遭受挑战",
-    "summary": "知情人士透露，OpenAI已发布招聘启事推进TPU优化工作。英伟达此前承诺为OpenAI提供逾1000亿美元信贷支持，同时OpenAI承诺2030年前花费约6000亿美元使用其服务器。谷歌TPU长期被视为英伟达GPU的潜在竞争者。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/92/v3/1051448aacf7db7ff628b06c88b9c76a66e7d6a/f0ba0f0296594efcbddd8d972294c19f_1_2/hd.webp",
-    "realDate": "2026-10-28 09:13:30"
-  },
-  {
-    "id": "8aa4ce53d497f8db090d4b46d915651a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511045df40de2b96a8de82f259fa1e1ccdc61&to_app=hwbrowser&dy_scenario=topicinside&tn=5f554cba87a987607262b785a66d6c0f8b7f7152fdb638fcc94226bc9f9a4f2d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为基站首次引入韬定律",
-    "summary": "华为在Decoding China 2026活动上发布新一代通信产品，宣布将“韬定律”时间缩微理念首次引入基站设计。该定律通过逻辑折叠技术压缩信号时延，在不依赖工艺微缩前提下提升系统性能，结合香农定律为通信性能提供新增长路径。同时华为还发布了OSCAR智能信道处理方案与新一代UBBPi基带系列。",
+    "id": "96d263ffca6b6721f17fc6e11cf2706d",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104911b9fa6d5b4b99eed3faf1c2f857174&to_app=hwbrowser&dy_scenario=topicinside&tn=edbbd0c85a63a93e4ba2b14aef1566d4028139739bcb3e8c66ee2c4648d2d97b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "入职20年 百度集团副总裁吴甜离职",
+    "summary": "报道称，吴甜长期负责AI技术平台与生态，推动飞桨深度学习平台和文心大模型等成果。吴甜2006年加入百度，2020年升任副总裁，曾负责基础模型研发部，今年5月转任百度研究院副院长。百度确认其离职消息，称技术工作仍在推进。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/33/v3/10511045df40de2b96a8de82f259fa1e1ccdc61/91a92c800c60425ba813fbff071dfe68_1_5/hd.webp",
-    "realDate": "2026-10-28 10:39:14"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/29fee05fbe92401685e94bfd667bef51_1_0/hd.webp",
+    "realDate": "2026-10-29 16:32:09"
   },
   {
-    "id": "e4eb105d2d7b223f79dcd4035d307974",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448eb97e80f5c7955e6254dc4fea5d7cea0&to_app=hwbrowser&dy_scenario=topicinside&tn=8b43256526f665bd0c36b59e888a6461c35911a06882ed739b8638167de64cfa&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "630亿美元！史上最大规模AI基建融资来了",
-    "summary": "近日，博通CEO陈福阳促成630亿美元AI芯片融资交易，创全球AI基建融资纪录。该交易由美银、花旗等银行与黑石联合完成，帮助Anthropic租用博通与谷歌开发的芯片。同时，银行计划2027年一季度发行约210亿美元债券对冲风险。博通身兼芯片供应商与担保人，交易结构涉及特殊目的公司借款购芯再租赁。",
+    "id": "640dc3ad657f30414afe7f31f9eb8a94",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104c956ca49272aaa10e352c7aaacea4e38&to_app=hwbrowser&dy_scenario=topicinside&tn=d6a82351b2dfa2a2886914430708a27fd0f7f72771ec2e2c4886348959075522&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "豆包工作开放第三方大模型：首批加入Deepseek、Kimi、GLM",
+    "summary": "豆包工作近日面向企业客户推出第三方大模型服务，首批接入Kimi 3.1 Pro、GLM 5.3和DeepSeek V4.1 Flash三款模型。企业可根据任务需求切换不同模型，调用时直接扣除账户AI点数。管理员可精细管控人员权限及使用场景，如限定在飞书或办公端启用。该功能仅限团队和企业订阅版用户使用。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/fb6ff7140cab46e882bb246f3a6fe57c_1_0/hd.webp",
+    "realDate": "2026-10-29 21:55:23"
+  },
+  {
+    "id": "6bae82e8f35c99936a89baedaecd6aca",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_LAEB2IQN0511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=85add793d9778ecf19fb48ee1ec1247edd85e5ed58621c80659cf0843090fd13&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI王座两度易主！神秘模型Obsidian 3泄露",
+    "summary": "AI榜单Intelligence Index v5显示，Claude Opus 5.5以58分超越GPT-6 Astra登顶，但随即被Gemini 4 Carbon以59分反超。同时，Anthropic未发布的Fable 5.5疑似以“Obsidian 3”代号泄露，在编程智能体指数中以62分领跑。新版测试将私有数据权重提至60%，新增科研工作流等高难度挑战。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/3e1fa8cf1e62442ebd767cab9335ffcb_1_0/hd.webp",
+    "realDate": "2026-10-29 19:28:25"
+  },
+  {
+    "id": "4aae93838dda42d762728c2ebda5bc67",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134352856&to_app=hwbrowser&dy_scenario=topicinside&tn=eb540a2198b55fd55308825b23ea5bc920c90d223fa2eb9935ff3e2e034345f0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI模特“攻占”双十一：部分图片出现人物“三条腿”等畸变",
+    "summary": "双十一临近，电商平台AI模特图引发争议。网友吐槽AI模特“失真”“无法判断版型”，部分图片出现“三条腿”“无头”等畸变。律师指出，AI模特图是否构成虚假宣传取决于商品实物与展示内容是否相符。同时，AI模特产业链已规模化，有摄影师报价AI生成图价格不到实拍的四分之一，但部分商家未作AI标注。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1021_8/fe/v3/105102134352856/ff5c7e1380b8449ba35fc1e82d99859c_1_5/hd.webp",
+    "realDate": "2026-10-29 09:10:22"
+  },
+  {
+    "id": "53f2603bb83314dca857b69d54253c87",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051057d_LADISBB50511ABV6&to_app=hwbrowser&dy_scenario=topicinside&tn=effe86472058bd8d7b2b7e191ec7fc422bfab1630b99c98c5606cdc85e307559&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Codex 200美元额度砍半 ChatGPT入口大更新",
+    "summary": "OpenAI宣布自10月30日起，Codex和ChatGPT Work额度从Plus的20倍降至10倍，GPT-6 Pro每周消息数减半至100条，同时推出2500美元积分补偿但设2026年到期。ChatGPT界面合并“聊天”与“工作”模块，Pro模型需先选GPT-6 sol并调高推理强度。200美元套餐用户月费不变，新推出500美元套餐提供25倍额度。开发者反映原任务需重新规划额度使用。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/8c7573f8283a4b0ab0626eea8027b7cb_1_0/hd.webp",
+    "realDate": "2026-10-29 12:25:35"
+  },
+  {
+    "id": "53cef230e914a86dbea1d6881d283cbc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110417049471c5cdd095000c76ebac126cb9&to_app=hwbrowser&dy_scenario=topicinside&tn=f6cdd0b4719ca5702c5856d271bd227274dde8c6dd3bc9c4db75b8ab136c1e35&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "首次引入视觉理解能力！腾讯混元Hy4、Hy4 flash即将发布",
+    "summary": "腾讯在2026年全球数字生态大会上宣布将发布Hy4及Hy4 flash模型，其中Hy4较此前Hy4 preview版本在长程任务处理、思维链效率及视觉理解能力上实现全面升级。Hy4 flash则聚焦性价比优化，保留Hy4核心功能的同时通过模型与产品协同设计快速迭代。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/13ea6992d5474c72aa9a7f6eac0c5863_1_0/hd.webp",
+    "realDate": "2026-10-29 10:39:22"
+  },
+  {
+    "id": "a58226f7e7b27d8fa05fb9a27ae325bd",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051195077e023f72cfd931e1fddbf286d20c53&to_app=hwbrowser&dy_scenario=topicinside&tn=01dd42f230ef35574044be4c89de04de00bc92a7b2275a70f4d17746401e31bb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "智元今年上半年营收接近20亿元 提出机器人“考核标准”",
+    "summary": "10月29日，智元发布“Worken”指标，旨在量化机器人自主作业产出。该标准意在评估机器人能否持续完成有价值工作，推动物理AI价值可衡量、可核算。上半年该公司营收近20亿元，通用机器人量产超2万台，全球人形机器人市占率达43%，居行业首位。",
+    "author": "红星新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/41017665122d4351bbdc980968666025_1_0/hd.webp",
+    "realDate": "2026-10-29 13:52:24"
+  },
+  {
+    "id": "8b1d54addf5631016ba4a18bbd2ab056",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144850271b0407f9eb1c70404c1e533b7017&to_app=hwbrowser&dy_scenario=topicinside&tn=c09e32a20c5f358c42dd3a597942a6990ade6f2176d7ced985d9ca3b24911291&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "SpaceX最大单一客户曝光 Anthropic每月付款逾30亿美元",
+    "summary": "知情人士透露，AI公司Anthropic在今年第三季度贡献了SpaceX逾三分之一的营收。这一消息意味着，这家以火箭和卫星业务起家的公司，如今对单一AI计算客户的依赖程度已超过美国联邦政府，这一敞口令市场对SpaceX的收入稳定性产生疑虑。",
     "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/fd/v3/1051448eb97e80f5c7955e6254dc4fea5d7cea0/802f5c4b203d47fb8710af30122a1316_1_1/hd.webp",
-    "realDate": "2026-10-28 08:38:21"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/590698790bf94390aa4c4fcad742ef87_1_0/hd.webp",
+    "realDate": "2026-10-30 06:37:39"
   },
   {
-    "id": "3f026a473d648e9dbe8246c253f55f2e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511657086cd66acea881126afd361931babfc&to_app=hwbrowser&dy_scenario=topicinside&tn=cb606090f3ffad38fc4b95b9602780de41c1773bd29f3013a4dc4a041fd19db1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "规范互联网营销 百度、腾讯等8家互联网企业联合签署",
-    "summary": "北京市市场监管局近日组织巨量引擎、百度、腾讯、快手等8家互联网企业签署《互联网营销宣传自律公约》，规范商业广告及直播营销行为。《公约》要求平台建立资质审核机制，禁止AI虚假宣传及不合理低价促销，同时明确医疗、金融等重点行业宣传规范。签约企业承诺配合监管并完善投诉处理机制。",
-    "author": "新京报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/58/v3/Topic_6dc6367eadf94205900b55d6a935a191/4f9e2a08ed314a87855a09d1e36e5315_1_0/hd.webp",
-    "realDate": "2026-10-28 10:42:23"
+    "id": "06aac018286f56bba99edefc53b96400",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105144878bfad1760dc016a6848bcab5a7001cb&to_app=hwbrowser&dy_scenario=topicinside&tn=b9dadc88a0d5b36aaa21aba02e50200e0e7ab40cce20ef4fccb430d905cfef5b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "三星电子Q3营收再创新高 季度营业利润首次破百万亿韩元",
+    "summary": "三星电子公布2026年第三季度财报，营收达195.25万亿韩元，同比增长127%，营业利润107.44万亿韩元，同比暴增783%，首次突破百万亿韩元大关。半导体业务销售额147.1万亿韩元，存储业务同比增427%。同时，公司计划派发30万亿韩元现金股息，并警告明年芯片供应短缺将加剧。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/1a55a18f717948a99bb1c8da792173f0_1_0/hd.webp",
+    "realDate": "2026-10-29 11:20:46"
+  },
+  {
+    "id": "66189dcbba147a8498ef9b29dad9a3b5",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134357301&to_app=hwbrowser&dy_scenario=topicinside&tn=291f053b0f3aa363eec0b233c5c9b3da37732c4a583f5999da199a47df95c73a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软首次公布Azure云业务营收：单季332亿美元 同比增长48%",
+    "summary": "微软2027财年第一财季营收922.79亿美元，同比增长19%，其中Azure云业务营收331.65亿美元，同比增长48%，成为最大单一业务。公司预计下季Azure增速达49%-50%，同时资本支出将增至500亿美元以上。CEO纳德拉称云服务正推动各行业智能化转型。",
+    "author": "澎湃新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/1467f6795846410498b689b3bd97b90d_1_0/hd.webp",
+    "realDate": "2026-10-29 08:42:59"
+  },
+  {
+    "id": "1d37b4c2141bdac7e8f39add79686081",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510415021512419907816&to_app=hwbrowser&dy_scenario=topicinside&tn=d356854bedf0983df50bcb4f9fda69b0bf3b6f9222e507090c593998ee005a3b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "6G有“新技能”了",
+    "summary": "紫金山实验室测试显示，6G网络下机器狗寻人响应仅700多毫秒，较本地算力快10倍。6G具备自带算力、多基站协同感知及通信能力，感知精度较去年提升25%，覆盖面积达5G的10倍以上。连云港机场已应用6G技术2秒内识别飞行物，预计2030年商用。",
+    "author": "北青财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/b6025df3e29c41e396a2ed7942dcc8b9_1_0/hd.webp",
+    "realDate": "2026-10-29 19:04:01"
+  },
+  {
+    "id": "6072a17f4da591351e8aac4137e36ca2",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741019437&to_app=hwbrowser&dy_scenario=topicinside&tn=62d86f1ef4602d71e63f684c1650b5826584d9b3f95a477f03567b521b884578&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "给AI芯片“退烧”：国内首款12英寸多晶碳化硅衬底问世",
+    "summary": "近日，湖南泰坦未来科技推出国内首款12英寸多晶碳化硅衬底，该产品直径约300毫米，用于解决AI芯片散热问题。其沉积速度达每小时60微米，电阻率小于1毫欧·厘米，孔洞缺陷少于每平方厘米0.1个，热导率超每米开300瓦。产品已通过台积电认证，并向三星送样，同时与谷歌、英伟达合作，预计2027年后逐步量产。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/6db12cf7e4f14c14b53eb331b319094c_1_0/hd.webp",
+    "realDate": "2026-10-29 14:08:27"
+  },
+  {
+    "id": "48e6138314593aa6277562b3ecb3101c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511042ddaae2628ab39ddb8790a613f62eb34&to_app=hwbrowser&dy_scenario=topicinside&tn=9932df9ad3685fb911fa782190d16132f0f77bc25da664bd73adc502554a31d8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "IBM首次接通两颗量子芯片！实现99%精度跨芯片量子态传输",
+    "summary": "IBM工程师近日首次连接两个量子处理器，实现跨芯片量子态传输与纠缠，平均精度达99%。实验使用两个各含120个量子比特的Nighthawk R1芯片，通过四条超导耦合器连接，同时验证了双量子比特门操作和跨芯片纠缠。该突破为模块化量子计算机架构奠定基础。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e6/v3/Topic_50ef1d3a95764d6fab033747bf8ba31d/aa38395ce1a64cf497c387d1dd557103_1_0/hd.webp",
+    "realDate": "2026-10-29 12:18:57"
   }
 ]
