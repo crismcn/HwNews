@@ -1,128 +1,110 @@
 [
   {
-    "id": "35b6c38c7e88d1cd66693c5974090100",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110481c686956d0b0a3385f58470c7cd0068&to_app=hwbrowser&dy_scenario=topicinside&tn=23eb251ec0e274b3dcad2e9e69ab30d3db4f6afb23a24e81d1f90096a0f61f99&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "2026世界互联网大会乌镇峰会开幕 蔡崇信、王兴兴等现身",
-    "summary": "11月3日，2026年世界互联网大会乌镇峰会开幕，蔡崇信、张朝阳、王兴兴等企业代表出席。蔡崇信表示，AI需求持续攀升、算力供不应求，只有开源才能普及。他表示，开源能有效降低中小企业研发成本，对发展中国家尤其重要。",
+    "id": "0b4a5762a2ffd4006ddead04b5bde760",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110470089dcb14c86647932833352738a21b&to_app=hwbrowser&dy_scenario=topicinside&tn=a3173c49848d17901dd53592e8b9e7b946c46143d2f8ce95319d051bda493a7b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Anthropic新旗舰Fable 5.5实测曝光",
+    "summary": "近日，Anthropic未发布的Claude Fable 5.5模型在开发者社区引发关注。测试显示，该模型通过纯代码耗时2小时40分钟生成66秒动画，包含画面、配乐及音效。开发者称，整个过程中没有使用外部图片、素材库、音频采样或字体文件，模型自主完成了场景设计、画面渲染和声音合成，并将最终作品封装成一个HTML文件。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/96bcccddcbec44d4b46a64824e126624_1_0/hd.webp",
-    "realDate": "2026-11-03 11:08:35"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/0b2aee319ade41a3b1595390760c7de3_1_0/hd.webp",
+    "realDate": "2026-11-05 00:20:57"
   },
   {
-    "id": "4d694dcbb23f4e4a3195e5fc202d2cd5",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051143cd4cec555f93aac699da72bb05ac7d18&to_app=hwbrowser&dy_scenario=topicinside&tn=60b540e6ec4516b98b1a30b4471553442654a530d3dc06e350c27be0fd2e04c0&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Claude被曝可显著缩短芯片设计时间 已用于芯片研发",
-    "summary": "报道称，Anthropic工程师在投资者会议上披露，其Claude模型辅助芯片设计耗时明显短于英伟达、AMD传统流程，公司已组建15人团队开展定制芯片研发。同时，三星电子8月引入Claude后，一项SoC验证任务耗时从预计1个多月缩短至2天。",
+    "id": "f1437ba4a4d91251a6f6ba717066f5fe",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511437cf578a4076b4344a5ea2da9188c6110&to_app=hwbrowser&dy_scenario=topicinside&tn=27ee8b7758c9d720f58bb900c8e56d6fc8b57c43ebe9b4439f7a11119bd4ac41&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "知情人士回应字节跳动限制外部AI工具访问内部资料",
+    "summary": "近日，报道称字节跳动出台新规，限制员工使用Claude、Codex等外部AI个人账号访问公司内部L4级别代码仓库和飞书文档，但处理公开信息或个人生活场景不受限。技术副总裁洪定坤称此举出于数据安全考虑，同时否认强制推广自研工具。这是该公司继2025年5月逐步淘汰Cursor等第三方编程工具后，第二次收紧AI管控，管控重点从工具入口转向数据出口。",
     "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/fe774da9703f48ba9f8987c1b8e6ac46_1_0/hd.webp",
-    "realDate": "2026-11-03 22:29:00"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/29050f96a9ed49d8bbeabf456f74e94d_1_0/hd.webp",
+    "realDate": "2026-11-04 21:53:00"
   },
   {
-    "id": "a9aba88a98c7fa4b5c9e7a64233083df",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511950f577fb694ea4e69b50c43c5f0e53e4f&to_app=hwbrowser&dy_scenario=topicinside&tn=9fbdc811ca27f252bb857e6b761c95d432598010bd8cd6f7fc7f4b21c46b43a4&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "国家发改委回应人工智能“就业替代风险”",
-    "summary": "国家发改委11月3日表示，“十五五”时期将统筹人工智能发展与安全，重点健全治理规则体系、优化监管环境、明确多元主体责任。同时，针对就业替代风险将强化监测预警，加强社保体系衔接，做好兜底性、普惠性社会保障，并规范算法歧视等问题，保护特殊群体权益。",
-    "author": "红星新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/8fe8c3f613704c7b9689126916f4689f_1_0/hd.webp",
-    "realDate": "2026-11-03 12:04:54"
+    "id": "6fe478ceca3c1405a9f2b347f3def9e8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103425503&to_app=hwbrowser&dy_scenario=topicinside&tn=34506fb398834584ca3ce758021910aaeeaad6c7c4789003e9f449811424c777&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "宇树科技王兴兴表示：明年大概率是机器人行业的临界点",
+    "summary": "他称，目前机器人数据利用率偏低，大量数据未被充分利用。他认为随着物理AI模型实现自进化，数据利用效率将提升，预计2027年或成机器人行业临界点。同时指出，当前顶尖模型在精细操作场景成功率仍较低，但相关问题有望未来1-3年解决。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/8040518ea4e64320a10f71c242894a29_1_0/hd.webp",
+    "realDate": "2026-11-04 15:22:41"
   },
   {
-    "id": "c1a5dfcf09dad83bbe7740feb64301ed",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741021808&to_app=hwbrowser&dy_scenario=topicinside&tn=e7858c57aba5288f57f0248d02d4b967da78513840323e55b988888daeac2efb&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "用AI教AI开车 百度Apollo World世界模型亮相",
-    "summary": "11月3日，百度发布智能体驱动全模态世界模型Apollo World，提出“2+3”判断标准。该模型能生成逼真视频模拟现实交通，支持无人车从起点到终点的完整测试，并通过数据飞轮持续优化驾驶系统。同时，萝卜快跑平台已覆盖28城，累计自动驾驶里程3.5亿公里。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/49a2f1481142414284834053f5625ac7_1_0/hd.webp",
-    "realDate": "2026-11-03 20:55:18"
+    "id": "280a7243b9676fb51bdfbe221391e798",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510041B4NVPMZ&to_app=hwbrowser&dy_scenario=topicinside&tn=0d0c459b2d43f8882181ee6df75d3e3ed8f442c21d6cf574c3a69602e1d9a586&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI发布AGI新标准 价值1.7万亿美元",
+    "summary": "11月4日，OpenAI发布LifeVal基准，确立首个个性化代理消费者任务评估体系。该标准聚焦148项高价值生活办事场景，而非传统学术测试，旨在衡量AI在现实世界中的实际服务能力。据评估，完美执行这些任务可为美国消费者每年节省1.7万亿美元。系统引入GPT-5.6作为双考官，严防AI作弊。",
+    "author": "新智元",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/afebcc9c2ddc4b52af84e4f4ef838a10_1_0/hd.webp",
+    "realDate": "2026-11-04 13:10:13"
   },
   {
-    "id": "d77ea123cc0caf281e5e1f1727a99f70",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741021325&to_app=hwbrowser&dy_scenario=topicinside&tn=e524fbb6ffa74758d5c1e99c654d4d6e40e9ed069ca1b2d8dc33b81356996414&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "重点攻克机器人大脑技术 王兴兴最新发声",
-    "summary": "11月3日，宇树科技创始人王兴兴出席了世界互联网大会乌镇峰会，他在采访中透露，宇树科技未来重点将攻克机器人大脑技术，除了宇树科技自身的技术突破，还将在全球范围寻求合作，看好物理AI技术，并致力于突破。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/1d9091f8bfae4b6db63280eb65926a63_1_0/hd.webp",
-    "realDate": "2026-11-03 09:29:43"
+    "id": "e568ddfcf0880ca4ff06d72c2577bda3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G19G1GUFXCT1&to_app=hwbrowser&dy_scenario=topicinside&tn=2b2f1f0a1d9b1c35adbc68e0e6c334cc1ce5d2bbfa84f068a7fc27c08f32f7f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "只待了5个月 中科大少年班天才离职OpenAI",
+    "summary": "近日，中科大少年班天才、哈佛最年轻华人正教授尹希宣布离开OpenAI，仅任职5个月。他称“这是一段非常棒的旅程”，但决定探索新方向。尹希曾表示AI可复制人类所有智力能力，并使其研究效率提升100倍。目前其去向未明，哈佛官网仍显示其教授身份。",
+    "author": "量子位",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/4c613c65edb7406a9e43d82d167d99c7_1_0/hd.webp",
+    "realDate": "2026-11-04 08:33:00"
   },
   {
-    "id": "68d060f58dcc9c72244ea21d7a838a3e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741021487&to_app=hwbrowser&dy_scenario=topicinside&tn=e0e9da50c81648e8a323bc802ff1c539f94e54987f2aba380b84964aba76ad93&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "商汤发布日日新SenseNova6.8Flash正式版模型 支持动态PPT及3D设计",
-    "summary": "该模型重点升级办公协作与设计生成能力，支持动态PPT、海报、网页及Blender3D创作，具备长期记忆与主动交互功能，可识别任务变化并提出调整建议。评测显示其在智能体协作等场景超过部分国际前沿模型，目前开放在线体验并同步上线Token Plan。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/03ec15e1189d433fbd303109f4ea5130_1_0/hd.webp",
-    "realDate": "2026-11-03 11:59:48"
+    "id": "aa8dfe13a3aff0d7cdbe09b324d12d94",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050863845cb85d02b9414782a12a5aa16bb&to_app=hwbrowser&dy_scenario=topicinside&tn=ca67ddecc5ddf5cc5742ad1251185db2761bc8b3619b60b941d37e078b532711&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节的AI战略收拢：Coze企业版下架",
+    "summary": "字节跳动旗下AI开发平台“扣子”企业版宣布将于2026年11月30日起停止新客户购买，存量套餐最晚2027年12月31日下线。该产品曾以19.3%份额居中国智能体开发平台公有云市场第一。此次调整源于字节“粗主干”战略，要求资源向豆包等核心业务集中，避免内部同质化竞争。",
+    "author": "钛媒体APP",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/7af7f7dd1fe145c3b229a6aaab633882_1_0/hd.webp",
+    "realDate": "2026-11-04 11:49:00"
   },
   {
-    "id": "71eb530eddacb461dff8e587b566c513",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282523197&to_app=hwbrowser&dy_scenario=topicinside&tn=4596cdf2f67a89ea7d05655068020a6179dcc08792c54944d3ffef904ee8629f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Grok Bot用户吐槽额度提前耗尽 马斯克坦言AI算力“太烧钱”扛不住",
-    "summary": "近日，SpaceX旗下AI助手Grok Bot因算力成本过高被用户投诉额度提前耗尽。马斯克回应称服务成本远超收入难以持续，数据显示其日活用户16天内从10万激增至60万。该产品采用每周限额模式，但近期用户反映额度消耗速度异常加快，部分用户未到重置日已用尽。前员工指出Grok Bot从增长引擎转为亏损状态，引发对AI商业模式的质疑。",
+    "id": "c48694c7226204edc3e6ec367f1796aa",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103425002&to_app=hwbrowser&dy_scenario=topicinside&tn=05e7dd363659f163e9fda87ef47fb974071d61eb230b1d54c9ddc5bbc83acd6e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "游族网络拟42亿买GPU 游戏公司豪赌算力",
+    "summary": "游族网络全资子公司拟以42.25亿元采购英伟达PRO5500专业级GPU，用于AI推理等企业级负载。该金额相当于公司去年营收的3倍，资金来源为自有资金及融资。游族近年持续布局AI生态，投资国产GPU企业并落地封装项目。",
+    "author": "第一财经",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/30dd754b2eda46a795c31680fb0b20e0_1_0/hd.webp",
+    "realDate": "2026-11-04 12:57:02"
+  },
+  {
+    "id": "edc0d4fd3d62ebac28a94cea4668da4f",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282525513&to_app=hwbrowser&dy_scenario=topicinside&tn=21fe36e9844019b8b630daf9c8191e05ecd93b8a5533102924e9f9c51b34bd1c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "高通拿下公司史上最大5G交易 助力“星链移动”部署数万基站",
+    "summary": "高通与SpaceX达成多年合作，为后者“星链移动”计划提供技术支持，涉及数万个5G基站，预计2027年开始部署。SpaceX将采用高通Dragonwing蜂窝平台建设地面网络，高通称此为迄今最大5G交易。同时，SpaceX正通过频谱收购和基站建设向美国移动通信市场扩张，计划与传统运营商竞争。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/5fea4e42ebf8450d983c8c2844539b46_1_0/hd.webp",
-    "realDate": "2026-11-03 08:00:54"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/4ba3362d5a8447df95b24b834d668694_1_0/hd.webp",
+    "realDate": "2026-11-04 22:38:40"
   },
   {
-    "id": "93cf4b7cf055cd6e4743ae638955224b",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051048aca6d530f56505f197d13baff59783ca&to_app=hwbrowser&dy_scenario=topicinside&tn=987df36a1ef43f2d790d3d3d817c47a010a5244f5bb00869c46a4a7c09c8ce9c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "被传400亿元卖掉手机业务 中兴通讯辟谣",
-    "summary": "近日，有市场消息称中兴通讯拟以400亿元估值出售手机业务，并与某互联网大厂及上海国资组建合资公司，其中互联网大厂计划出资80亿元。中兴通讯回应称该报道严重失实，将保留追究法律责任的权利。",
-    "author": "北京日报客户端",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/e92a603c79974f7b8265d4e7a674b91b_1_0/hd.webp",
-    "realDate": "2026-11-03 22:45:41"
+    "id": "ef0f411914d958b614f40770dde63ce9",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8xltsDayPWg&to_app=hwbrowser&dy_scenario=topicinside&tn=8efdbdbf56c3eba88c017c17850f2ab92a43be11120b86dd6da04381359af3ed&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "美国对华限制反伤450亿美元本土投资 SK海力士纽约建厂计划遇阻",
+    "summary": "SK海力士因美国推迟批准其大连工厂芯片制造设备出口许可，导致纽约州450亿美元建厂计划受阻。该公司称大连扩产可为美国项目提供资金，但美商务部副部长表示不希望更多设备进入中国。公司相关部门正与美方谈判，尚未就建厂作出决定。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/1051054ucms_8xltsDayPWg/a91538c62c464adca65ee504f254df56_1_3/hd.webp",
+    "realDate": "2026-11-04 08:39:18"
   },
   {
-    "id": "391a86b990c100cf92de79d3bfaa601c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282524253&to_app=hwbrowser&dy_scenario=topicinside&tn=d7cb9c7aabb16e5f0bc5e6de846c808cdf74cd2a2c9baa258bab3927cf25269b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克瞄准美国无线通信市场 SpaceX或自建地面移动网络",
-    "summary": "据悉，SpaceX计划进军美国无线通信市场，可能自建地面移动网络或收购无线频谱资源，挑战Verizon、AT&T和T-Mobile三大运营商主导的格局。公司已与EchoStar谈判收购Boost Mobile，但三大运营商拒绝其网络接入请求。SpaceX拥有雄厚资金和卫星网络优势，分析师认为其可能改变行业竞争态势。",
+    "id": "9bb5e4c2d86cbec34fe9bb9213660aee",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221a29d436615a23d55268050762c6f923e&to_app=hwbrowser&dy_scenario=topicinside&tn=aef4f8f0f8e70c527c9a46ab1b3a468adcb00b52da4a4726b6491c8bf395230d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为、阿里等20家单位签署 共同抵制利用智能体实施算法压榨等行为",
+    "summary": "近日，中国信通院联合华为、阿里、腾讯等20家单位发布《智能体发展自律公约》，提出健全智能体治理机制，发展合规性测试等技术，抵制算法压榨及黑灰产行为。公约强调推动技术普惠共享，通过开源开放、国际标准合作及联合研发，提升智能体服务全球覆盖能力。",
+    "author": "21快讯",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/f337742d642948eaac9915e3e0f3c91f_1_0/hd.webp",
+    "realDate": "2026-11-04 14:50:00"
+  },
+  {
+    "id": "6ce22dffa9f95d595b384ed939b46fd6",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104cf16c9f14be2dc5a0b595cc83a92cda0&to_app=hwbrowser&dy_scenario=topicinside&tn=74b09c4a5254aa83952426cfa3ef23eb91a33aaaf0260c7d71fd261ffed898da&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "刷新历史纪录！全球芯片Q3销售额破3.47万亿元：中国增长124.9%",
+    "summary": "美国半导体行业协会数据显示，2026年第三季度全球半导体销售额达5177亿美元，环比增长24.1%，创历史新高。中国销售额同比增长124.9%，美洲、亚太、欧洲及日本市场均实现显著增长。AI算力需求推动高端存储芯片供不应求，SK海力士与美光2026年HBM产能已售罄。机构预计此轮景气周期将持续至2027年。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/cd2dc9cdf9d249c19f70f263a66aa067_1_0/hd.webp",
+    "realDate": "2026-11-04 14:47:30"
+  },
+  {
+    "id": "1c9b557c3946c9d5e6f1647baabe993a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282524511&to_app=hwbrowser&dy_scenario=topicinside&tn=bc589fe46d31643d40e0a981cf42700b5b2a44145c8950db6cff5ebd82e54c97&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "半导体设备景气依旧 韩媒称 下游客户已在争夺三年后的订单",
+    "summary": "受AI需求驱动，台积电、英特尔等厂商提前锁定2028至2029年半导体设备订单，交付周期延长超一年。阿斯麦上调2026年营收预期，SEMI预计2026年全球设备销售额达1659亿美元。机构指出，景气度或延续至2027-2028年，先进制程及存储设备需求将持续增长。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/70/v3/10510282524253/98800e89d6644f9fbceac1cdb570813e_1_0/hd.webp",
-    "realDate": "2026-11-03 22:27:03"
-  },
-  {
-    "id": "fb0673434798d0c7b2e01a96317454cf",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10512067cfcea3dc919fdc1b12dd90a1202636b&to_app=hwbrowser&dy_scenario=topicinside&tn=87dabe08f9c5d070a2535691559da25ee45a30c0d9a3a340d04d41f09ec6127b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "苹果交出特努斯上任后首份财报：业绩创纪录 大中华区不及预期",
-    "summary": "苹果2026财年第四财季度营收1144.77亿美元，净利润307.11亿美元，均创新高。但大中华区营收175.39亿美元，低于市场预期。该公司总净销售额1144.77亿美元，同比增长12%，净利润307.11亿美元。大中华区营收175.39亿美元低于预期。同时，研发投入达117.30亿美元，主要投向人工智能等项目。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/a0e4776ea23d46cfbcee1ebb1efd5aa0_1_0/hd.webp",
-    "realDate": "2026-11-03 09:53:52"
-  },
-  {
-    "id": "792582494b6d6243da7a9bcbf4dad5e0",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110464716046e6d11bad16f0f25cf594da44&to_app=hwbrowser&dy_scenario=topicinside&tn=e7c428aa114feda8b83321665b5ad932b19da665d51efa54971db67c63965a0c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美团回应数百账号宣布下架外卖",
-    "summary": "近日，中介机构通过数百账号批量发布“下架外卖”谣言视频引流牟利，美团指出“福源找铺”等账号矩阵长期使用模板化文案炒作争议话题。调查显示相关运营者并非餐饮商家，其主页主要推广商铺中介及培训业务。美团表示已固定证据，将依法维权。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/4e70559688ff4524abc5d67cc2340934_1_0/hd.webp",
-    "realDate": "2026-11-03 13:33:55"
-  },
-  {
-    "id": "5ccafcb9e75d8d94f063017d7ce10415",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104445155f2b93ab97fa1ee6bfb8d9357c3&to_app=hwbrowser&dy_scenario=topicinside&tn=05526414abecaefe49453fb0126da949eff541885d94af3d59242bd35c193f81&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "利润太低不干了！三星被曝退出8英寸晶圆代工",
-    "summary": "三星电子计划2030年底前退出8英寸晶圆代工业务，导致韩国IC设计公司急寻台积电等替代产能。8英寸晶圆主要用于电源管理芯片等成熟制程产品，三星此举旨在集中资源发展12英寸先进制程及HBM存储业务。转单面临工艺验证与产能排期挑战，可能加剧韩国半导体产业对存储业务的依赖。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/0a2ebf192b3c4db38276884fa09122c8_1_0/hd.webp",
-    "realDate": "2026-11-03 14:04:09"
-  },
-  {
-    "id": "b22059c15ae7e0738f5ea0818af73350",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105124718393988327605974653&to_app=hwbrowser&dy_scenario=topicinside&tn=9c1a2de7a89f13dfc50c8db5e71648bff9cf36b2c65c0f604123aa489a723032&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "我国广电视听形成“两个10亿”超大规模市场格局",
-    "summary": "《中国广播电视和网络视听发展报告（2026）》显示，截至2025年底，我国电视大屏用户超10亿，网络视听用户达10.99亿，形成“两个10亿”市场格局。同时，行业总收入15464.29亿元，同比增长5.22%，网络视听收入占比过半。",
-    "author": "央视新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/41aaeba7d79641188511dbd395d5bf7e_1_0/hd.webp",
-    "realDate": "2026-11-03 14:47:13"
-  },
-  {
-    "id": "abc80bed2a80add3d1014f205c1af966",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134392753&to_app=hwbrowser&dy_scenario=topicinside&tn=c6a40731fbe011cdbb7d5df1eb8cd059a1f7e6eade0c197e3a65d08d4edbd8e5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "破纪录！电气与电子工程师学会一次撤回1417篇会议论文",
-    "summary": "据报道，这些论文被预印本研究指出涉嫌通过论文工厂出售署名权，每篇售价43至400美元不等。研究显示，2062篇标记论文中1622篇已被撤回，其中95个涉事会议在印度举行。该机构称撤稿论文占6年会议论文总量不足0.06%，同时表示正考虑更新会议政策以加强监管。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/65/v3/Topic_d0cb06d744af434d954b94b5c3517363/c8450af973f143d6b6f6b75d1880106e_1_0/hd.webp",
-    "realDate": "2026-11-03 07:19:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/a5fc265e5c724552b4dcc8476078bb67_1_0/hd.webp",
+    "realDate": "2026-11-04 09:33:23"
   }
 ]
