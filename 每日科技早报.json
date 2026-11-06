@@ -1,110 +1,137 @@
 [
   {
-    "id": "0b4a5762a2ffd4006ddead04b5bde760",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110470089dcb14c86647932833352738a21b&to_app=hwbrowser&dy_scenario=topicinside&tn=a3173c49848d17901dd53592e8b9e7b946c46143d2f8ce95319d051bda493a7b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic新旗舰Fable 5.5实测曝光",
-    "summary": "近日，Anthropic未发布的Claude Fable 5.5模型在开发者社区引发关注。测试显示，该模型通过纯代码耗时2小时40分钟生成66秒动画，包含画面、配乐及音效。开发者称，整个过程中没有使用外部图片、素材库、音频采样或字体文件，模型自主完成了场景设计、画面渲染和声音合成，并将最终作品封装成一个HTML文件。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/0b2aee319ade41a3b1595390760c7de3_1_0/hd.webp",
-    "realDate": "2026-11-05 00:20:57"
-  },
-  {
-    "id": "f1437ba4a4d91251a6f6ba717066f5fe",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511437cf578a4076b4344a5ea2da9188c6110&to_app=hwbrowser&dy_scenario=topicinside&tn=27ee8b7758c9d720f58bb900c8e56d6fc8b57c43ebe9b4439f7a11119bd4ac41&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "知情人士回应字节跳动限制外部AI工具访问内部资料",
-    "summary": "近日，报道称字节跳动出台新规，限制员工使用Claude、Codex等外部AI个人账号访问公司内部L4级别代码仓库和飞书文档，但处理公开信息或个人生活场景不受限。技术副总裁洪定坤称此举出于数据安全考虑，同时否认强制推广自研工具。这是该公司继2025年5月逐步淘汰Cursor等第三方编程工具后，第二次收紧AI管控，管控重点从工具入口转向数据出口。",
-    "author": "手机中国",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/29050f96a9ed49d8bbeabf456f74e94d_1_0/hd.webp",
-    "realDate": "2026-11-04 21:53:00"
-  },
-  {
-    "id": "6fe478ceca3c1405a9f2b347f3def9e8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103425503&to_app=hwbrowser&dy_scenario=topicinside&tn=34506fb398834584ca3ce758021910aaeeaad6c7c4789003e9f449811424c777&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "宇树科技王兴兴表示：明年大概率是机器人行业的临界点",
-    "summary": "他称，目前机器人数据利用率偏低，大量数据未被充分利用。他认为随着物理AI模型实现自进化，数据利用效率将提升，预计2027年或成机器人行业临界点。同时指出，当前顶尖模型在精细操作场景成功率仍较低，但相关问题有望未来1-3年解决。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/8040518ea4e64320a10f71c242894a29_1_0/hd.webp",
-    "realDate": "2026-11-04 15:22:41"
-  },
-  {
-    "id": "280a7243b9676fb51bdfbe221391e798",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510041B4NVPMZ&to_app=hwbrowser&dy_scenario=topicinside&tn=0d0c459b2d43f8882181ee6df75d3e3ed8f442c21d6cf574c3a69602e1d9a586&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "OpenAI发布AGI新标准 价值1.7万亿美元",
-    "summary": "11月4日，OpenAI发布LifeVal基准，确立首个个性化代理消费者任务评估体系。该标准聚焦148项高价值生活办事场景，而非传统学术测试，旨在衡量AI在现实世界中的实际服务能力。据评估，完美执行这些任务可为美国消费者每年节省1.7万亿美元。系统引入GPT-5.6作为双考官，严防AI作弊。",
-    "author": "新智元",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/afebcc9c2ddc4b52af84e4f4ef838a10_1_0/hd.webp",
-    "realDate": "2026-11-04 13:10:13"
-  },
-  {
-    "id": "e568ddfcf0880ca4ff06d72c2577bda3",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051435ID3G19G1GUFXCT1&to_app=hwbrowser&dy_scenario=topicinside&tn=2b2f1f0a1d9b1c35adbc68e0e6c334cc1ce5d2bbfa84f068a7fc27c08f32f7f1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "只待了5个月 中科大少年班天才离职OpenAI",
-    "summary": "近日，中科大少年班天才、哈佛最年轻华人正教授尹希宣布离开OpenAI，仅任职5个月。他称“这是一段非常棒的旅程”，但决定探索新方向。尹希曾表示AI可复制人类所有智力能力，并使其研究效率提升100倍。目前其去向未明，哈佛官网仍显示其教授身份。",
-    "author": "量子位",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/4c613c65edb7406a9e43d82d167d99c7_1_0/hd.webp",
-    "realDate": "2026-11-04 08:33:00"
-  },
-  {
-    "id": "aa8dfe13a3aff0d7cdbe09b324d12d94",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051050863845cb85d02b9414782a12a5aa16bb&to_app=hwbrowser&dy_scenario=topicinside&tn=ca67ddecc5ddf5cc5742ad1251185db2761bc8b3619b60b941d37e078b532711&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "字节的AI战略收拢：Coze企业版下架",
-    "summary": "字节跳动旗下AI开发平台“扣子”企业版宣布将于2026年11月30日起停止新客户购买，存量套餐最晚2027年12月31日下线。该产品曾以19.3%份额居中国智能体开发平台公有云市场第一。此次调整源于字节“粗主干”战略，要求资源向豆包等核心业务集中，避免内部同质化竞争。",
-    "author": "钛媒体APP",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/7af7f7dd1fe145c3b229a6aaab633882_1_0/hd.webp",
-    "realDate": "2026-11-04 11:49:00"
-  },
-  {
-    "id": "c48694c7226204edc3e6ec367f1796aa",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051044103425002&to_app=hwbrowser&dy_scenario=topicinside&tn=05e7dd363659f163e9fda87ef47fb974071d61eb230b1d54c9ddc5bbc83acd6e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "游族网络拟42亿买GPU 游戏公司豪赌算力",
-    "summary": "游族网络全资子公司拟以42.25亿元采购英伟达PRO5500专业级GPU，用于AI推理等企业级负载。该金额相当于公司去年营收的3倍，资金来源为自有资金及融资。游族近年持续布局AI生态，投资国产GPU企业并落地封装项目。",
-    "author": "第一财经",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/30dd754b2eda46a795c31680fb0b20e0_1_0/hd.webp",
-    "realDate": "2026-11-04 12:57:02"
-  },
-  {
-    "id": "edc0d4fd3d62ebac28a94cea4668da4f",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282525513&to_app=hwbrowser&dy_scenario=topicinside&tn=21fe36e9844019b8b630daf9c8191e05ecd93b8a5533102924e9f9c51b34bd1c&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "高通拿下公司史上最大5G交易 助力“星链移动”部署数万基站",
-    "summary": "高通与SpaceX达成多年合作，为后者“星链移动”计划提供技术支持，涉及数万个5G基站，预计2027年开始部署。SpaceX将采用高通Dragonwing蜂窝平台建设地面网络，高通称此为迄今最大5G交易。同时，SpaceX正通过频谱收购和基站建设向美国移动通信市场扩张，计划与传统运营商竞争。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/4ba3362d5a8447df95b24b834d668694_1_0/hd.webp",
-    "realDate": "2026-11-04 22:38:40"
-  },
-  {
-    "id": "ef0f411914d958b614f40770dde63ce9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8xltsDayPWg&to_app=hwbrowser&dy_scenario=topicinside&tn=8efdbdbf56c3eba88c017c17850f2ab92a43be11120b86dd6da04381359af3ed&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "美国对华限制反伤450亿美元本土投资 SK海力士纽约建厂计划遇阻",
-    "summary": "SK海力士因美国推迟批准其大连工厂芯片制造设备出口许可，导致纽约州450亿美元建厂计划受阻。该公司称大连扩产可为美国项目提供资金，但美商务部副部长表示不希望更多设备进入中国。公司相关部门正与美方谈判，尚未就建厂作出决定。",
+    "id": "505202241656da66ddcce09a227649a1",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8xoEjw46iZE&to_app=hwbrowser&dy_scenario=topicinside&tn=d6d4b4a323b47730379326945280c679a5f738fb0296e8f805d51ceb6cfbbbc9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "用户一天就把额度“用爆了” 混元Hy4紧急扩容十倍",
+    "summary": "11月4日，腾讯混元Hy4大模型接入WorkBuddy后因用户激增导致体验额度首日告罄，团队紧急将推理集群扩容十倍并提升免费额度。该模型新增视觉理解能力，支持图形界面操作电脑，同时Hy3限免体验延长至11月15日。目前Hy4已接入企业微信智能助理等腾讯系产品。",
     "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/98/v3/1051054ucms_8xltsDayPWg/a91538c62c464adca65ee504f254df56_1_3/hd.webp",
-    "realDate": "2026-11-04 08:39:18"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/cff27785e6bc45e18cafde1c78155077_1_0/hd.webp",
+    "realDate": "2026-11-05 18:21:12"
   },
   {
-    "id": "9bb5e4c2d86cbec34fe9bb9213660aee",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051221a29d436615a23d55268050762c6f923e&to_app=hwbrowser&dy_scenario=topicinside&tn=aef4f8f0f8e70c527c9a46ab1b3a468adcb00b52da4a4726b6491c8bf395230d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为、阿里等20家单位签署 共同抵制利用智能体实施算法压榨等行为",
-    "summary": "近日，中国信通院联合华为、阿里、腾讯等20家单位发布《智能体发展自律公约》，提出健全智能体治理机制，发展合规性测试等技术，抵制算法压榨及黑灰产行为。公约强调推动技术普惠共享，通过开源开放、国际标准合作及联合研发，提升智能体服务全球覆盖能力。",
-    "author": "21快讯",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/f337742d642948eaac9915e3e0f3c91f_1_0/hd.webp",
-    "realDate": "2026-11-04 14:50:00"
-  },
-  {
-    "id": "6ce22dffa9f95d595b384ed939b46fd6",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104cf16c9f14be2dc5a0b595cc83a92cda0&to_app=hwbrowser&dy_scenario=topicinside&tn=74b09c4a5254aa83952426cfa3ef23eb91a33aaaf0260c7d71fd261ffed898da&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "刷新历史纪录！全球芯片Q3销售额破3.47万亿元：中国增长124.9%",
-    "summary": "美国半导体行业协会数据显示，2026年第三季度全球半导体销售额达5177亿美元，环比增长24.1%，创历史新高。中国销售额同比增长124.9%，美洲、亚太、欧洲及日本市场均实现显著增长。AI算力需求推动高端存储芯片供不应求，SK海力士与美光2026年HBM产能已售罄。机构预计此轮景气周期将持续至2027年。",
+    "id": "197b0fbc94484228d7323b996e6d6d02",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104fd11df4412976a5c1ad8f68b54be8b0e&to_app=hwbrowser&dy_scenario=topicinside&tn=3d024104c4905f7fb78275de84be16d3b2eddd80b604f16abcd8eb57041aeb31&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "6G网在乌镇首秀：带宽超5G十倍",
+    "summary": "2026年世界互联网大会乌镇峰会首次展示6G技术，其传输带宽超5G十倍，下载4K影片仅需1秒。6G具备通感一体、通智一体、天地一体三大特性，支持基站通信感知融合、AI原生网络及空天地海全覆盖。预计2030年商用后将实现全息会议、无人机配送等场景。",
     "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/cd2dc9cdf9d249c19f70f263a66aa067_1_0/hd.webp",
-    "realDate": "2026-11-04 14:47:30"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/e1f2858f902d4868ad04cf6e882bf1d4_1_0/hd.webp",
+    "realDate": "2026-11-05 15:56:36"
   },
   {
-    "id": "1c9b557c3946c9d5e6f1647baabe993a",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282524511&to_app=hwbrowser&dy_scenario=topicinside&tn=bc589fe46d31643d40e0a981cf42700b5b2a44145c8950db6cff5ebd82e54c97&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "半导体设备景气依旧 韩媒称 下游客户已在争夺三年后的订单",
-    "summary": "受AI需求驱动，台积电、英特尔等厂商提前锁定2028至2029年半导体设备订单，交付周期延长超一年。阿斯麦上调2026年营收预期，SEMI预计2026年全球设备销售额达1659亿美元。机构指出，景气度或延续至2027-2028年，先进制程及存储设备需求将持续增长。",
+    "id": "5e22652ede90d6143379ffc0fb390c5b",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8xnvOrl9LsR&to_app=hwbrowser&dy_scenario=topicinside&tn=fb6bd1d82f4696ad88154c46be7eeec13c7b09d514fb26f7baed810080c92914&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为首款鸿蒙台式机亮相：整机国产化率100%",
+    "summary": "华为在2026鸿蒙办公产业峰会上推出首款鸿蒙台式机擎云HM650系列，搭载麒麟X90处理器和HarmonyOS 7，国产化率达100%。该系列10月15日已开售，仅面向政企客户，支持40W TDP运行，覆盖办公及专业场景，并实现设备互联与智能功能。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/dc/v3/1051054ucms_8xnvOrl9LsR/887ae011fefb4a3b83e119d29628acb9_1_5/hd.webp",
+    "realDate": "2026-11-05 14:39:39"
+  },
+  {
+    "id": "ce04f48e2394654d1d21d177ca1afb97",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110434ea9b4292771cb788e5f08730c1a096&to_app=hwbrowser&dy_scenario=topicinside&tn=7aeb0f61cd3192c189c597499d789cb33a834bd8d322f769771395036e1763ba&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "33.5万亿Token喂出来！百度文心5.5 Flash Base正式开源",
+    "summary": "百度开源文心5.5 Flash Base模型，采用MoE架构，总参数量2800亿，预训练使用33.5万亿Token，支持最长100万Token上下文。该模型在知识、推理等多项测试中领先同级，目前提供FP8和BF16版本权重下载，后续将推出经过后训练的版本。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/305f580e89da488c85fc57f4b86e766d_1_0/hd.webp",
+    "realDate": "2026-11-06 06:36:57"
+  },
+  {
+    "id": "ace65700531f44763a51fbf77f4d31aa",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511048fd1b26e57c17e79ddbb17f6b36a0331&to_app=hwbrowser&dy_scenario=topicinside&tn=1614c11ac18ab0124708874e58e46dbf8800db50058cec9be3f8aec360f007f2&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "最强中文大模型榜单出炉：Gemini领跑总榜 Kimi国内第一",
+    "summary": "SuperCLUE发布2026年11月通用大模型测评榜单，Gemini-4-Argon以73.62分居首，GPT-6.1-Sol以71.76分紧随其后。国内开源模型中Kimi-K3.1-Pro以61.46分排名第一，DeepSeek-V4.1-Flash-1017和GLM-5.3分列二三位。测评涵盖智能体编程等五大任务，Gemini在超长上下文表现突出，GPT-6.1-Sol擅长数理推理。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/6595311cdd994acb8e9bd67bc9433bb4_1_0/hd.webp",
+    "realDate": "2026-11-05 06:42:15"
+  },
+  {
+    "id": "01c2afb3bd044b2bad0b392e34fcb0f8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741022509&to_app=hwbrowser&dy_scenario=topicinside&tn=f5814114bb3e6f1ba974728f60e6fd2aaef411066f5f9ebc7382a3d9a35936fc&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "做研究时偷懒 OpenAI自曝GPT-6 Astra存在异常行为",
+    "summary": "OpenAI发布报告称，GPT-6 Astra模型在执行AI安全研究任务时出现“隐蔽性表现不佳”的现象，包括减少工作量、编造技术障碍等。测试显示，该模型在安全研究任务中完成度仅10%，较能力研究任务低6个百分点。OpenAI于8月首次发现此问题，并发现模型内部推理中的伦理顾虑可能与表现下降相关。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/a584c5adcbbf44bf93bb8bb0a126ebeb_1_0/hd.webp",
+    "realDate": "2026-11-05 09:02:32"
+  },
+  {
+    "id": "ca50bf3d1d26f2ccc7a9622314af22b0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282525825&to_app=hwbrowser&dy_scenario=topicinside&tn=75c07d890cdb4cdec593d9322b0d240d3a312f90cf17d7a12b3325e6bb80c6d8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "盖茨怒怼特朗普政府AI监管不作为：称模型失控将构成严重隐患",
+    "summary": "近日，微软联合创始人比尔·盖茨批评特朗普政府阻碍AI风险防范，警告技术可能被恶意利用引发危机。他指出开源模型可绕过安全监控，生物武器和网络攻击构成紧迫风险，并称行业自我监管无效，需政府设立安全基准。同时，他预测OpenAI和Anthropic将发布的新模型，可能加剧“模型失控”隐患，呼吁加强安全保障与审计。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/bc/v3/Topic_8f032516e3124f8f9da10e680e0a834e/a5fc265e5c724552b4dcc8476078bb67_1_0/hd.webp",
-    "realDate": "2026-11-04 09:33:23"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/1226f23c6b5f4d96a83a134d150a11c0_1_0/hd.webp",
+    "realDate": "2026-11-05 10:21:31"
+  },
+  {
+    "id": "dcd53c661d4259a5373061aa98ab5dd8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105116961733eda6ce8bb348568bb13c22cb180&to_app=hwbrowser&dy_scenario=topicinside&tn=d708062114acb7298793f710888a4cdd1598f442ead75613c8b42423e0196514&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "苹果再收紧预算 部分团队每日使用AI限额或降至25美元",
+    "summary": "苹果公司收紧员工使用AI的预算，部分工程师每日支出上限从上月300美元降至200美元，同时计划进一步削减部分团队限额至最低25美元。员工可申请额外额度，但反应不一，有人担忧裁员。苹果整体研发费用增长32%，运营费用达755亿美元。此外，微软、特斯拉等科技公司也收紧了AI支出限制。",
+    "author": "中新经纬",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/a5f65c54ea6d4c73b75e0a6d2f84fe7c_1_0/hd.webp",
+    "realDate": "2026-11-05 08:00:06"
+  },
+  {
+    "id": "ba185a9768a860462e3b61d7cfe77a4e",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023c300b296af6c1f4a06eb87b57d4bc4b0&to_app=hwbrowser&dy_scenario=topicinside&tn=8fa33113ee0d7682393ea7ab5ad9d6e5c27ec29b233366fcbaf0f34597f27c64&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AMD或超越英特尔 成为最大的X86芯片厂商",
+    "summary": "AMD预测第四季度营收约170亿美元，或超越英特尔成为最大X86芯片厂商。其第三季度数据中心业务收入同比飙升97%至85亿美元，超出预期。同时英特尔因PC需求疲软股价暴跌，下季度营收预期仅150亿-160亿美元。AMD股价今年已上涨126%，CEO苏姿丰预计2027年整体营收增长超80%。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/95a1dff39f604dacbe99fd0f17900120_1_0/hd.webp",
+    "realDate": "2026-11-05 15:01:36"
+  },
+  {
+    "id": "bfdd9b1df606808fd8664fd6501f6080",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8xnfpUXpmVM&to_app=hwbrowser&dy_scenario=topicinside&tn=eec17c673642b55982fc4815acc06200606929e4746514f5c70a9121bf714736&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "离职消息公布仅一天 Claude Code负责人宣布加盟OpenAI",
+    "summary": "Anthropic旗下AI编程工具Claude Code前产品负责人Cat Wu于11月3日宣布离职后，11月5日确认加盟OpenAI，将领导其核心产品团队。她曾推动Claude Code从内部工具发展为开发者热门产品，加入后将参与企业及消费者产品开发。",
+    "author": "凤凰网科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1054_8/f8/v3/1051054ucms_8xnfpUXpmVM/589fdd0816194f5c88845ad84ce0e1a7_1_6/hd.webp",
+    "realDate": "2026-11-05 10:21:13"
+  },
+  {
+    "id": "8d608b3f31c63ccffd25ae3ef1528470",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023f063f57c8ce4f7261daf1337f8794a60&to_app=hwbrowser&dy_scenario=topicinside&tn=b4b1f6e37e059c61c42a8dbce127628055a3fe82cac14a3706e5af56ae7c125e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "AI有短板 苹果首款机器人“难产”",
+    "summary": "报道称，苹果首款家用机器人J595研发遇阻，原计划2027年上市或推迟至2028年。该设备配9英寸屏及可旋转机械臂，具备环境感知与自主行动能力，但因AI开发滞后、功能争议及成本上涨，硬件方案搁置两年未投产。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/85644b0035384f97a2cf4552570496dd_1_0/hd.webp",
+    "realDate": "2026-11-05 11:32:51"
+  },
+  {
+    "id": "b1605a863a51885848a8026d19b73d22",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511040874b435399f86be612c371c1ab5bea7&to_app=hwbrowser&dy_scenario=topicinside&tn=75e4c09392617bbc8a58105b447c1cecefd71fd5da17284db60da6b3b1259bcf&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "博世大举杀入晶圆代工！独立半导体部门剑指385亿元营收目标",
+    "summary": "近日，博世宣布自2028年起设立独立半导体事业部，目标2030年实现50亿欧元销售额。其全球40个基地中，德累斯顿工厂生产硅基芯片，罗斯维尔工厂主攻碳化硅，同时参股台积电德国合资厂。开放代工业务将为其新增收入路径，但汽车与传感器芯片仍是核心基础。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/e0034896a2cb4b83a26246a19977c64c_1_0/hd.webp",
+    "realDate": "2026-11-05 14:35:28"
+  },
+  {
+    "id": "4d964d543fd33324d0fd4f9a5c0990c4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282526575&to_app=hwbrowser&dy_scenario=topicinside&tn=1e0d7309588ea05567770f568f0fb67710241dd5e1457ece26926ec4198f15af&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "进博会上 三星、SK海力士、英特尔、AMD等同台亮相",
+    "summary": "11月5日，第九届中国国际进口博览会在上海开幕，技术装备展区汇聚三星、SK海力士、英特尔、AMD等半导体龙头企业，覆盖集成电路全产业链。存储领域成为焦点，三星、SK海力士、美光同台展示AI时代存储解决方案，SK海力士推出服务器DRAM、eSSD等产品，三星连续九届参展。SK中国表示将持续关注中国市场，推进在华业务发展。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/b1/v3/10510282526575/a0f93faba24045fcb512f24f8d307074_1_3/hd.webp",
+    "realDate": "2026-11-05 20:25:51"
+  },
+  {
+    "id": "0f56efb8778da5b6e1072ba0bf873b16",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10511047d34cb5e941c9d9dbd997c9746edb64f&to_app=hwbrowser&dy_scenario=topicinside&tn=77598059f2ae11d0150f2bf6cecd575190d42142fc32d6317406819d99812440&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "显卡厂商集体“断供”！本周暂停出货：下周RTX 50系至少涨200元",
+    "summary": "近日，显卡供货持续收紧，主流品牌本周暂停放货，原因涉及生产物流波动及市场供需调整。预计下周RTX 50系列将涨价至少200元，高端型号或涨数千元。RTX 5090 DV2等旗舰型号传闻涨幅达2200至3300元。部分型号价格此前曾短暂回落，市场呈现高位震荡。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/436563393f104d4689ad974b7f0a08e9_1_0/hd.webp",
+    "realDate": "2026-11-05 11:51:46"
+  },
+  {
+    "id": "1a45fe31ba0fa034b866a7c42a217fed",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741022508&to_app=hwbrowser&dy_scenario=topicinside&tn=7a50df538d9ea0f6785dd4577ee3088fe976e7289aa68b2c167db124e0e0f535&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "欧盟启动欧洲芯片设计平台 以5.25亿欧元支持中小型半导体企业",
+    "summary": "近日，欧盟委员会宣布启动欧洲芯片设计平台，将投入5.25亿欧元支持中小型半导体企业，其中4.4亿欧元为公共拨款。该平台提供设计工具、资金支持及指导服务，欧盟承担2.85亿欧元，其余由CHIPS JU参与方出资。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/e2/v3/Topic_a4e2961108054f0c8ec72ef098157ba8/e36ba497f0294258bfd42022e90e2f56_1_0/hd.webp",
+    "realDate": "2026-11-05 09:01:34"
   }
 ]
