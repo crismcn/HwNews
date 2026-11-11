@@ -1,110 +1,110 @@
 [
   {
-    "id": "63ba17466bf9ade0026912edafe770ff",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051054ucms_8xus4KvnLN7&to_app=hwbrowser&dy_scenario=topicinside&tn=ddb5fcc1f8c203052a5897e6fe398f9863885571b4a3faa4b0ecb01bd8b364ce&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "字节发布Seedream 5.5图像模型：支持100轮连续编辑",
-    "summary": "该模型支持围绕同一作品进行最多100轮连续编辑，并通过专项训练消除色彩偏移与画质衰减。该版本新增原生RGBA透明素材生成能力，可直接输出带Alpha通道的透明或半透明图像，省去后期抠图。在计费上，Seedream 5.5采用“输入图+输出图”两段计费，2K方图编辑单张0.28元，价格比Seedream 5.0 Pro便宜60%，生成速度快近40%。",
-    "author": "凤凰网科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/8caadc3efecf45c9a053998220bfaa9f_1_0/hd.webp",
-    "realDate": "2026-11-09 18:50:42"
-  },
-  {
-    "id": "f391721a5afc1f045708ff949b34b62e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448eb5d9c46363735f5eeebf2f2bbd9f3c4&to_app=hwbrowser&dy_scenario=topicinside&tn=cbae453cf597d1a33627d75289cd052c636d56fca8957efff6ee700116dabfc3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌推出两款新TPU 挑战英伟达霸主地位",
-    "summary": "谷歌推出TPU 8tx和TPU 8i Max两款新芯片，分别针对机密计算和长上下文AI应用，TPU系列扩展至四款。凭借较英伟达GPU低约30%的价格优势及专业化设计，TPU已吸引苹果、Meta、甲骨文、Anthropic等客户，OpenAI也有采购计划。据彭博行业研究预测，TPU销售额今年预计达120亿美元，2028年或超1350亿美元。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/b3c2d24579394679aca2bfc7bd6efddb_1_0/hd.webp",
-    "realDate": "2026-11-09 20:31:14"
-  },
-  {
-    "id": "7e2bfd68886c73b80a4e9b3173c2d4ce",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134438417&to_app=hwbrowser&dy_scenario=topicinside&tn=47652d5fcf0c4c07936919ff36b19f46f7b6d2a6069fd07c3beb31b81dfd8f29&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中方回应“尚未批准约60万枚英伟达先进芯片进口”",
-    "summary": "11月9日，外交部例行记者会上，记者提问，约60万枚英伟达先进芯片目前存放在香港，正等待运往中国内地，而北京方面尚未批准这些芯片的大规模进口。请问外交部对此有何回应？对此，郭嘉昆表示：“中方在美国输华芯片问题上的立场是一贯的。具体情况建议向中方主管部门询问。”",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/3b4e46d0bdb64e0aaef783e8905a04bd_1_0/hd.webp",
-    "realDate": "2026-11-09 15:29:33"
-  },
-  {
-    "id": "8b62ea1dca83deb47312d58f7e447b92",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105102134438998&to_app=hwbrowser&dy_scenario=topicinside&tn=4c82611deafbcd6804bb0474c1c703943d654119e5c6b72360f9a3605539682e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "关于AI与数学 姚期智、杨植麟联合发表论文",
-    "summary": "据报道，双方团队推出“TCSExam”统一考试，评估前沿AI大模型在理论计算机科学上的能力。在最受关注的定理证明类中，GPT-6 Astra在“裸考”条件下20道题完整证明出14道，成功率达70%；Kimi K3.1 Pro以38.3%位居第二。论文发现，补充中间引理和证明思路后，AI成功率明显上升。在构造类，Kimi K3造出一个124个顶点、630条边的无三角形和四边形的图，超过论文引用记录。",
-    "author": "澎湃新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/6b7c8d9831584622914dc007b34d9452_1_0/hd.webp",
-    "realDate": "2026-11-09 18:59:44"
-  },
-  {
-    "id": "1b3da17100285d00d9ad0fd83e86570e",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510774642315&to_app=hwbrowser&dy_scenario=topicinside&tn=a0bff97a952cb041943f114093ca40e338a16271ca835cfbf60a5dfec2f842a3&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "千问办公2.0发布 首个支持多人与Agent协作的Team Agent来了",
-    "summary": "该模型新增“协作”功能，成为首个支持多人与Agent协同工作的企业级产品。此次升级包含“人机共创”“资料空间”等核心功能，实现从个人服务向团队服务的转型。该版本已集成钉钉、飞书等IM软件能力，标志着办公Agent正式进入团队协作领域。",
-    "author": "每日经济新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/83dda15212d94fefbc9867eee5b775cb_1_0/hd.webp",
-    "realDate": "2026-11-09 15:38:39"
-  },
-  {
-    "id": "f88fbb442dfd4e28222f3ccc5a049a42",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105111820e745e9358a4e44f9799e66564cd3ed&to_app=hwbrowser&dy_scenario=topicinside&tn=27030428a6e5595a4e14dfcac7a04ad081c15672acffa443aeccd07d91a0d6c5&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "阿里云Token Plan大幅上调额度 四档套餐单位成本降超四成",
-    "summary": "其中，Lite、Essential、Standard三档套餐月费不变，月度额度提升74%至78%；Pro套餐额度增至20万Credits，月费降至312元。四档套餐单位成本降幅均超四成，覆盖存量用户。该服务可接入千问App等AI工具，以Credits抵扣模型调用费用。",
-    "author": "上海证券报",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/f419cb31c1c24d36a0ab6373bf9dc37b_1_0/hd.webp",
-    "realDate": "2026-11-09 15:31:48"
-  },
-  {
-    "id": "2a01de6a0d61ed6bd5fdd668c6e3d877",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104e373fe31245b7e05c915aac9c35923d6&to_app=hwbrowser&dy_scenario=topicinside&tn=a3390046e958cae41bd347b7123c353cf9f2b58d7e297bd3999a43afbae94a70&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "中国AI大模型调用量连续28周领先美国 全球前五拿下四席",
-    "summary": "中国AI大模型上周全球调用量达116.18万亿Token，环比增长16.71%，连续28周领先美国。全球前五中四款为中国模型，DeepSeek V4.1 Flash 1017以56万亿Token居首，腾讯混元Hy4新晋第四。自3月9日首超美国后，国产大模型持续领跑。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/87460864933b4fe7911fd7e311e527d4_1_0/hd.webp",
-    "realDate": "2026-11-09 11:42:43"
-  },
-  {
-    "id": "31a716aca4c5ea8e995e7b69e1f320e4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282528701&to_app=hwbrowser&dy_scenario=topicinside&tn=67143cf91e8d0e84151b1f0b17fdba5ceeed9d041881087fb496e8213ef33074&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "Anthropic砸钱“截胡”发电设备订单 金额或创纪录",
-    "summary": "近日，Anthropic以34亿美元接手OnePWR向卡特彼勒订购的1.7吉瓦燃气发电机组订单，创AI实验室单笔发电设备采购纪录。该公司通过截胡两年前订单，在价格和交期上获得优势，以应对数据中心电力需求激增。同时，高盛预测2030年全球数据中心容量将达273吉瓦，电力供应成为关键制约因素。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/788af19ca49e485e8dd9fa16eb8e3d2c_1_0/hd.webp",
-    "realDate": "2026-11-09 11:56:56"
-  },
-  {
-    "id": "184d51e5276c75676d41782239536002",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510238f7a26edce9e9cd4b03be15df7d77099&to_app=hwbrowser&dy_scenario=topicinside&tn=729226a43102da2764ab9f573a051066967e2cdbae7bd60c533fa62617a99635&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "与内部会议冲突 光刻机巨头阿斯麦缺席进博会",
-    "summary": "本届进博会中，自2020年以来连续六次出席的荷兰光刻机制造商阿斯麦没有参展。据了解，阿斯麦给出的理由是，会议时间与公司内部会议冲突。此前多年，该公司曾通过设备模型、视频、虚拟晶圆厂等方式展示其全景光刻解决方案。虽然今年没有阿斯麦的展台，但国产光刻装备并未缺席。",
-    "author": "观察者网",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/ae/v3/10510238f7a26edce9e9cd4b03be15df7d77099/63e54e409f41413283b60ccedd79a039_1_6/hd.webp",
-    "realDate": "2026-11-09 13:50:55"
-  },
-  {
-    "id": "d70ae3ac0c3cfbba0c40160fdae990b9",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282528931&to_app=hwbrowser&dy_scenario=topicinside&tn=16ac2fe8d6ff66ce69b6a9ffa3373bc3bc0354dbdf5cb0b15b3ea85e9a6492f9&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "马斯克重申太空算力优势 SpaceX三年发射规划曝光",
-    "summary": "SpaceX与英伟达合作的首批StarMind太空数据中心卫星将于明年第三季度发射，2028年实现规模部署。马斯克称太空算力可突破地面电力瓶颈，同时谷歌也完成在轨AI推理验证，但双方对成本与可行性存在分歧。",
-    "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/0317dc95011a424b94386bf6cc5cde18_1_0/hd.webp",
-    "realDate": "2026-11-09 15:19:54"
-  },
-  {
-    "id": "fd77be30993735943469c07c138d0751",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104aa5e743809f6e1d00568bb73778e0a14&to_app=hwbrowser&dy_scenario=topicinside&tn=f5b95090b1b7a9f1a7bce3b8cc69c4a6a1a17ad44a727aeecf4640098d699612&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "AI降温也没便宜内存买！三大厂产能被HBM掏空",
-    "summary": "全球存储芯片巨头三星、SK海力士和美光已将大部分DDR4、DDR5及显存产能转向高带宽内存生产，导致消费级内存供应锐减。专家称生产线切换需2-3个月，新建厂则需数年，即便AI市场波动，HBM也无法转产普通PC内存。供应链传导机制下，高价内存或持续至2026年。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/429e1c9aeb5d41e683b0c48196645278_1_0/hd.webp",
-    "realDate": "2026-11-09 11:39:48"
-  },
-  {
-    "id": "2ee7a873fbf266a160b396f753bc5306",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741024035&to_app=hwbrowser&dy_scenario=topicinside&tn=f6658a0f6b097502ef33124149c646cda2efff2f421d6964856449a12f639b2d&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "网易游戏《蛋仔派对》B站渠道版将停运",
-    "summary": "11月9日，网易游戏公告称，因与B站渠道合作运营策略调整，《蛋仔派对》B站渠道版将于2027年1月9日14时停运，角色资产找回服务已同步开启。该作是网易2022年推出的潮玩休闲竞技手游。",
+    "id": "16c8d58ba07f2e905c6e60dc35f73378",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741025203&to_app=hwbrowser&dy_scenario=topicinside&tn=e66cf92643e24da4f91440d74e452fc8981f81ae8afc54e0b074fbb6c6c0f29e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌迄今最强模型Gemini 4 Carbon登场：主打复杂编程等",
+    "summary": "当地时间11月10日，谷歌宣布正式开放其迄今最强的推理模型Gemini 4 Carbon，该模型于10月28日首次公布，重点面向复杂软件工程、多步骤编程及科学研究等场景。谷歌称，与同期推出的Gemini 4 Argon相比，Carbon能在复杂任务中投入更多推理Token。该模型已通过Gemini API面向付费开发者开放，同时正逐步向Google AI Ultra订阅用户开放。",
     "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/76/v3/Topic_d8d69d727f5940878e87b01e4e0ac2e2/7ea2c83b06d44c38acb5a9a3613067c1_1_0/hd.webp",
-    "realDate": "2026-11-09 08:17:28"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/4098b82e6f5a45958564009847889012_1_0/hd.webp",
+    "realDate": "2026-11-11 06:43:37"
+  },
+  {
+    "id": "3cca633e3ebe07bf7ce1d632c4059ef4",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110420ea017171a933bf6f22c8cf90333fcc&to_app=hwbrowser&dy_scenario=topicinside&tn=0333515c4f3768bf2327aafd5ef0e0cb8297dbad5327decb176921f91a857e36&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "京东宣布重大调整！两大事业群正式成立",
+    "summary": "近日市场传出消息，京东内部官宣重大架构调整，成立“京东云科技”与“京东金融科技”两大事业群。其中，京东云作为集团对外提供技术服务的核心平台，将持续加大AI、云计算等核心技术投入；金融科技将聚焦数字金融服务。有接近京东的人士透露，此次调整与京东近年来强化产业AI能力的方向相契合。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/669a80b6c2cb4f45b08c829196892eba_1_0/hd.webp",
+    "realDate": "2026-11-10 19:53:21"
+  },
+  {
+    "id": "90303fda9368fd4bad803ae71acfcc3c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741025191&to_app=hwbrowser&dy_scenario=topicinside&tn=388237fa2a435a7cff63e350962dfed00378ef95e26919b9ab09195329613231&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "MiniMax开源H3-Image生图模型 10秒就能生成一张4K图像",
+    "summary": "11月10日，MiniMax发布H3-Image图像生成模型并开放权重。该模型可在10秒内生成4K图像，速度达主流水平的5倍，同时具备文本生成图像、图像参考和编辑能力，在预训练基础上强化了后训练链路。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/07eb28789d2e4581a22194042b5318cf_1_0/hd.webp",
+    "realDate": "2026-11-10 23:25:52"
+  },
+  {
+    "id": "6fb576c1bc79469118b1ae0f38afc424",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104bc32b4e535850441425ecfd37ebf2820&to_app=hwbrowser&dy_scenario=topicinside&tn=b9e2a557e73d78d7cd0f8da6e4c34dd294ef1c993afcf6a45c6c40adb11ef5a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "一张照片生成90米3D世界！英伟达Lyra 2.0开源",
+    "summary": "英伟达空间智能实验室的Lyra 2.0框架，以单张静态图像为输入，可生成约90米的持久化三维环境并开源。该技术引入基于3D几何信息的空间记忆机制，解决了“空间遗忘”与“时间漂移”问题；经知识蒸馏后，生成80帧片段速度提升约13倍。落点包括机器人仿真，可导出至NVIDIA Isaac Sim用于训练。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/cee6aadc02f54044a3807fc0690fcbf4_1_0/hd.webp",
+    "realDate": "2026-11-10 09:38:09"
+  },
+  {
+    "id": "35b69d11a16d6f01a3c2ea7eaaacc290",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615314392&to_app=hwbrowser&dy_scenario=topicinside&tn=a6c144dc3a2eda5b84efbc208d1f22accdc3c253d40f13c6498071ff4a5c6720&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "擎天柱机器人可能以租赁形式交付 马斯克最新透露",
+    "summary": "对于特斯拉人形机器人“擎天柱”，马斯克透露其交付可能以租赁形式进行，预计2027年底左右开始。初期成本与电动汽车相当，约3万美元，未来可降至2万。该机器人将在特斯拉工厂先行使用，达到全面量产需至少一年；据业内人士称，公司或于12月初开放预订。",
+    "author": "界面新闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/5f06286dd816458dbf7c0806ae983a52_1_0/hd.webp",
+    "realDate": "2026-11-10 09:44:47"
+  },
+  {
+    "id": "9d781fc304a1b670c49354c87220da4c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741024742&to_app=hwbrowser&dy_scenario=topicinside&tn=18160bc03e8560624743fc11a22eac519a5497fcdb3884f10e9aa6f9dcdeb076&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为鸿蒙小折叠电脑MateBook Fold S亮相",
+    "summary": "11月10日，华为官宣全新鸿蒙小折叠电脑MateBook Fold S。该产品搭载Live小方屏，提供云海蓝、天际白、幻夜黑三款配色；采用类似手机背屏设计，展开后为14.7英寸显示屏，该电脑将在11月14日10:08开启预订。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/42/v3/10510741024742/d7ba1e14f23841398ed1395882148e69_1_3/hd.webp",
+    "realDate": "2026-11-10 11:54:24"
+  },
+  {
+    "id": "f722dd107540ad52862c6e5abc8441b8",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741024748&to_app=hwbrowser&dy_scenario=topicinside&tn=f339a5d8924e0a016a57febd0bf34773152c3c0ac05f24736d606ce549dc98d6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "原今日头条CEO陈林首次公开承认离职",
+    "summary": "近日，原今日头条CEO陈林发文，首次公开承认离职字节、筹备AI教育创业。他在文中提到，2022年他退出字节一线岗位并休养两年半，期间做过投资和顾问。他回忆2023年6月赛里木湖雨夜的思考，认为ChatGPT带来的AI技术变革让他焦虑下一代成长问题，成为他重启教育创业的核心原点。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/6933ff21314f4d9ebe93447f53ec6e49_1_0/hd.webp",
+    "realDate": "2026-11-10 12:21:39"
+  },
+  {
+    "id": "ec04bce0c7721fc932e44afb8a3ddebf",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282529739&to_app=hwbrowser&dy_scenario=topicinside&tn=a8afec06c40c133fe2b315f6ecafea21480d3ea507f9a7bf77dc28463850921f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "单家投资上限接近千亿元！存储双雄争夺EUV光刻机",
+    "summary": "报道称，三星电子与SK海力士正竞购阿斯麦极紫外光刻设备，各自投资上限或达20万亿韩元（约合人民币992亿元）。由于设备交付周期翻倍，两家公司考虑提前下单以扩大先进DRAM产能。SK海力士已披露一项约11.95万亿韩元的采购计划，三星电子则在平泽P4工厂增设HBM4生产线，并为P5工厂订购了光刻设备。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d8/v3/10510282529739/1d195137e1814324a4a37b2396a92018_1_1/hd.webp",
+    "realDate": "2026-11-10 09:56:10"
+  },
+  {
+    "id": "841e0c0ed2ddb5311288ea811a59ee70",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514481f5fe36c7a59864acd6f9cb6e9a29b63&to_app=hwbrowser&dy_scenario=topicinside&tn=316de8b140f60b431f7dbb0b070851a189fe7f90580127949a39ffe13221eb44&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "台积电10月营收同比飙升60% 四季度预期更高",
+    "summary": "台积电10月合并营收约新台币5868.9亿元，同比增长59.7%，较上月增加14.7%，增速高于三季度约51%的同比增速。分析师预计四季度增速将进一步升至63%。同时，台积电正同步推进约20座晶圆厂建设，资本支出上限高达640亿美元，押注AI基础设施的长期需求。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/d6a95c82ff3e48479948f42ae2b9f7a6_1_0/hd.webp",
+    "realDate": "2026-11-10 13:31:14"
+  },
+  {
+    "id": "9132f4d3113236d49c136844cec1a9fc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282529770&to_app=hwbrowser&dy_scenario=topicinside&tn=40cf643ca2c38a498fa51cab9c4ea7b2aadd9f7a74054c3c7632688b7809b602&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "明年或有高达9%的手机使用回收内存条",
+    "summary": "根据TrendForce报告，今年回收重焊内存将占智能手机市场的3%至4%，到2027年可能攀升至7%至9%。面对内存价格不断上涨，消费电子生产商开始使用从旧设备中回收的重焊内存，主要针对入门级手机。Counterpoint指出，这种做法只是权宜之计，回收芯片存在质量隐患。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4b/v3/10510282529770/6622c4de415c4d7bb70071eba486b593_1_3/hd.webp",
+    "realDate": "2026-11-10 10:10:48"
+  },
+  {
+    "id": "3093049523c8c4aaa12adb13fed71d2c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448253e7703c64ee8c8a24920b27cc3adc7&to_app=hwbrowser&dy_scenario=topicinside&tn=feec821d736e961656892eb1be7f69a4bf83ce3b890fa21202b13916c8be7f67&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "20%新增的数据中心项目可能推至2029年 大摩最新研判",
+    "summary": "摩根士丹利报告显示，受美国中期选举引发的政治阻力影响，约20%原定2028年落地的美国新增数据中心容量将被推迟至2029年，约5吉瓦项目顺延。同时，2026至2028年间在美部署的芯片中约40%面临无法及时通电的风险，主因包括电网容量不足、在建项目未竣工及供电延迟。",
+    "author": "华尔街见闻",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/452e27d37afe4ddab6a687d6be7dff0f_1_0/hd.webp",
+    "realDate": "2026-11-10 14:37:46"
+  },
+  {
+    "id": "6e639d4850cc2c6ed8f8885b75f3ae61",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104247f26c7548d8a77ab35bcc61bcab87d&to_app=hwbrowser&dy_scenario=topicinside&tn=be1b019aab2e8b708f95f1809d28de13aaf968d6a98d6761fa031a6794d92036&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "英伟达显卡定价失控：AMD销量趁机反超",
+    "summary": "近日，据亚马逊美国站10月显卡销售数据，AMD单月出货9200块，以47.67%的份额反超英伟达的8900块（46.11%），拿下GPU出货量第一。单品方面，RX 9070 XT以3300块成为销冠，其竞品RTX 5070 Ti仅1300块。AMD GPU平均售价915美元，英伟达则高达1313美元，但后者仍凭高均价占据56.56%的营收份额。",
+    "author": "快科技",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/5d341a84af9c4a8dba8bf82cea96fa47_1_0/hd.webp",
+    "realDate": "2026-11-10 12:05:58"
   }
 ]
