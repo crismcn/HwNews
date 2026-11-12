@@ -1,110 +1,119 @@
 [
   {
-    "id": "16c8d58ba07f2e905c6e60dc35f73378",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741025203&to_app=hwbrowser&dy_scenario=topicinside&tn=e66cf92643e24da4f91440d74e452fc8981f81ae8afc54e0b074fbb6c6c0f29e&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "谷歌迄今最强模型Gemini 4 Carbon登场：主打复杂编程等",
-    "summary": "当地时间11月10日，谷歌宣布正式开放其迄今最强的推理模型Gemini 4 Carbon，该模型于10月28日首次公布，重点面向复杂软件工程、多步骤编程及科学研究等场景。谷歌称，与同期推出的Gemini 4 Argon相比，Carbon能在复杂任务中投入更多推理Token。该模型已通过Gemini API面向付费开发者开放，同时正逐步向Google AI Ultra订阅用户开放。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/4098b82e6f5a45958564009847889012_1_0/hd.webp",
-    "realDate": "2026-11-11 06:43:37"
+    "id": "53ac7229900fbd9684905a8010fc7c05",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510831689016&to_app=hwbrowser&dy_scenario=topicinside&tn=01a54df2a21734089b658a7439749676eb918e4f7741265893ca7a3075290ee8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "字节被曝要做“中国版Muse” 给豆包造个“超级大脑”",
+    "summary": "近日，报道称字节跳动正筹备类似Meta Muse的个人AI Agent，旨在让豆包成为能记住用户需求、主动规划并执行任务的个人助理。字节今年4月已启动代号“Spell”的项目，并在9月Meta推出Muse后加速，计划将其功能整合进豆包。豆包App目前已新增“出行用豆包”入口，可查询机票、购买火车票等。",
+    "author": "爱范儿",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/279d1fbe2234430e8072596f9f8eea57_1_0/hd.webp",
+    "realDate": "2026-11-11 11:52:16"
   },
   {
-    "id": "3cca633e3ebe07bf7ce1d632c4059ef4",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105110420ea017171a933bf6f22c8cf90333fcc&to_app=hwbrowser&dy_scenario=topicinside&tn=0333515c4f3768bf2327aafd5ef0e0cb8297dbad5327decb176921f91a857e36&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "京东宣布重大调整！两大事业群正式成立",
-    "summary": "近日市场传出消息，京东内部官宣重大架构调整，成立“京东云科技”与“京东金融科技”两大事业群。其中，京东云作为集团对外提供技术服务的核心平台，将持续加大AI、云计算等核心技术投入；金融科技将聚焦数字金融服务。有接近京东的人士透露，此次调整与京东近年来强化产业AI能力的方向相契合。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/669a80b6c2cb4f45b08c829196892eba_1_0/hd.webp",
-    "realDate": "2026-11-10 19:53:21"
-  },
-  {
-    "id": "90303fda9368fd4bad803ae71acfcc3c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741025191&to_app=hwbrowser&dy_scenario=topicinside&tn=388237fa2a435a7cff63e350962dfed00378ef95e26919b9ab09195329613231&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "MiniMax开源H3-Image生图模型 10秒就能生成一张4K图像",
-    "summary": "11月10日，MiniMax发布H3-Image图像生成模型并开放权重。该模型可在10秒内生成4K图像，速度达主流水平的5倍，同时具备文本生成图像、图像参考和编辑能力，在预训练基础上强化了后训练链路。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/07eb28789d2e4581a22194042b5318cf_1_0/hd.webp",
-    "realDate": "2026-11-10 23:25:52"
-  },
-  {
-    "id": "6fb576c1bc79469118b1ae0f38afc424",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104bc32b4e535850441425ecfd37ebf2820&to_app=hwbrowser&dy_scenario=topicinside&tn=b9e2a557e73d78d7cd0f8da6e4c34dd294ef1c993afcf6a45c6c40adb11ef5a7&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "一张照片生成90米3D世界！英伟达Lyra 2.0开源",
-    "summary": "英伟达空间智能实验室的Lyra 2.0框架，以单张静态图像为输入，可生成约90米的持久化三维环境并开源。该技术引入基于3D几何信息的空间记忆机制，解决了“空间遗忘”与“时间漂移”问题；经知识蒸馏后，生成80帧片段速度提升约13倍。落点包括机器人仿真，可导出至NVIDIA Isaac Sim用于训练。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/cee6aadc02f54044a3807fc0690fcbf4_1_0/hd.webp",
-    "realDate": "2026-11-10 09:38:09"
-  },
-  {
-    "id": "35b69d11a16d6f01a3c2ea7eaaacc290",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=105120615314392&to_app=hwbrowser&dy_scenario=topicinside&tn=a6c144dc3a2eda5b84efbc208d1f22accdc3c253d40f13c6498071ff4a5c6720&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "擎天柱机器人可能以租赁形式交付 马斯克最新透露",
-    "summary": "对于特斯拉人形机器人“擎天柱”，马斯克透露其交付可能以租赁形式进行，预计2027年底左右开始。初期成本与电动汽车相当，约3万美元，未来可降至2万。该机器人将在特斯拉工厂先行使用，达到全面量产需至少一年；据业内人士称，公司或于12月初开放预订。",
-    "author": "界面新闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/5f06286dd816458dbf7c0806ae983a52_1_0/hd.webp",
-    "realDate": "2026-11-10 09:44:47"
-  },
-  {
-    "id": "9d781fc304a1b670c49354c87220da4c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741024742&to_app=hwbrowser&dy_scenario=topicinside&tn=18160bc03e8560624743fc11a22eac519a5497fcdb3884f10e9aa6f9dcdeb076&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "华为鸿蒙小折叠电脑MateBook Fold S亮相",
-    "summary": "11月10日，华为官宣全新鸿蒙小折叠电脑MateBook Fold S。该产品搭载Live小方屏，提供云海蓝、天际白、幻夜黑三款配色；采用类似手机背屏设计，展开后为14.7英寸显示屏，该电脑将在11月14日10:08开启预订。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1074_8/42/v3/10510741024742/d7ba1e14f23841398ed1395882148e69_1_3/hd.webp",
-    "realDate": "2026-11-10 11:54:24"
-  },
-  {
-    "id": "f722dd107540ad52862c6e5abc8441b8",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741024748&to_app=hwbrowser&dy_scenario=topicinside&tn=f339a5d8924e0a016a57febd0bf34773152c3c0ac05f24736d606ce549dc98d6&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "原今日头条CEO陈林首次公开承认离职",
-    "summary": "近日，原今日头条CEO陈林发文，首次公开承认离职字节、筹备AI教育创业。他在文中提到，2022年他退出字节一线岗位并休养两年半，期间做过投资和顾问。他回忆2023年6月赛里木湖雨夜的思考，认为ChatGPT带来的AI技术变革让他焦虑下一代成长问题，成为他重启教育创业的核心原点。",
-    "author": "IT之家",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/6933ff21314f4d9ebe93447f53ec6e49_1_0/hd.webp",
-    "realDate": "2026-11-10 12:21:39"
-  },
-  {
-    "id": "ec04bce0c7721fc932e44afb8a3ddebf",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282529739&to_app=hwbrowser&dy_scenario=topicinside&tn=a8afec06c40c133fe2b315f6ecafea21480d3ea507f9a7bf77dc28463850921f&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "单家投资上限接近千亿元！存储双雄争夺EUV光刻机",
-    "summary": "报道称，三星电子与SK海力士正竞购阿斯麦极紫外光刻设备，各自投资上限或达20万亿韩元（约合人民币992亿元）。由于设备交付周期翻倍，两家公司考虑提前下单以扩大先进DRAM产能。SK海力士已披露一项约11.95万亿韩元的采购计划，三星电子则在平泽P4工厂增设HBM4生产线，并为P5工厂订购了光刻设备。",
+    "id": "4ccef386abd7715220ca0307653d5b6c",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282531282&to_app=hwbrowser&dy_scenario=topicinside&tn=c0f85260844653f7ea8b22bc62643ef7eba279cb42c0097a6d886b7a06834563&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "阿里新模型Qwen4重磅发布 预览版已上线",
+    "summary": "11月11日，阿里巴巴发布新一代大模型Qwen4，重点强化编程与智能体Agentic能力，千问办公、Qoder等产品已完成接入。Qwen4-Max预览版在阿里Token Plan上线，限时提供最低1折调用优惠。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/d8/v3/10510282529739/1d195137e1814324a4a37b2396a92018_1_1/hd.webp",
-    "realDate": "2026-11-10 09:56:10"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/5c6037dc1cec448881c014c74572bdf3_1_0/hd.webp",
+    "realDate": "2026-11-11 14:05:40"
   },
   {
-    "id": "841e0c0ed2ddb5311288ea811a59ee70",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10514481f5fe36c7a59864acd6f9cb6e9a29b63&to_app=hwbrowser&dy_scenario=topicinside&tn=316de8b140f60b431f7dbb0b070851a189fe7f90580127949a39ffe13221eb44&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "台积电10月营收同比飙升60% 四季度预期更高",
-    "summary": "台积电10月合并营收约新台币5868.9亿元，同比增长59.7%，较上月增加14.7%，增速高于三季度约51%的同比增速。分析师预计四季度增速将进一步升至63%。同时，台积电正同步推进约20座晶圆厂建设，资本支出上限高达640亿美元，押注AI基础设施的长期需求。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/d6a95c82ff3e48479948f42ae2b9f7a6_1_0/hd.webp",
-    "realDate": "2026-11-10 13:31:14"
+    "id": "64c2b9d9f9616b385280b39a49945986",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510741025331&to_app=hwbrowser&dy_scenario=topicinside&tn=87e6cafe24c5871ab20c024451d0a59bc8f7144c0b00ebebb395defc9ae6c0b1&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "华为麒麟9050系列芯片官宣搭载新一代达芬奇架构NPU",
+    "summary": "11月11日，华为麒麟发文，介绍首款“逻辑折叠”技术τ芯片——麒麟9050系列的新一代达芬奇架构NPU，支持30B大模型端侧运行，具备不用联网特性。该NPU性能提升140%、功耗降低66%，支持Transformer引擎，是业界首个30B MoE大模型入端。其功能包括感知屏幕-AI屏幕朗读、AI眼动翻页等。",
+    "author": "IT之家",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/f9b7c39b21b44adbb42f14c5c9c9bd2d_1_0/hd.webp",
+    "realDate": "2026-11-11 11:44:17"
   },
   {
-    "id": "9132f4d3113236d49c136844cec1a9fc",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282529770&to_app=hwbrowser&dy_scenario=topicinside&tn=40cf643ca2c38a498fa51cab9c4ea7b2aadd9f7a74054c3c7632688b7809b602&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "明年或有高达9%的手机使用回收内存条",
-    "summary": "根据TrendForce报告，今年回收重焊内存将占智能手机市场的3%至4%，到2027年可能攀升至7%至9%。面对内存价格不断上涨，消费电子生产商开始使用从旧设备中回收的重焊内存，主要针对入门级手机。Counterpoint指出，这种做法只是权宜之计，回收芯片存在质量隐患。",
+    "id": "082fe465464c51f83ae13f847a3b0b7a",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051657e831ce11b596b88a60e34eee41b30154&to_app=hwbrowser&dy_scenario=topicinside&tn=af43fb8540a0297a75fac603c9c01758629e4fc65a618b5beb8b5bb607db8288&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "35秒内阻断失控的智能体 OpenAI部署“控制室”系统",
+    "summary": "据悉，该系统用于追踪内部研究基础设施中的模型工作负载，可在出现安全隐患时，35秒内“叫停”失控的AI智能体。控制室通过整合工作负载、推理引擎等系统发挥作用，要求每个执行任务的智能体关联一份获批的安全论证，并在检测到异常时将任务ID标记为已停止。OpenAI称，该系统已部署到整个研究基础设施中。",
+    "author": "南方都市报",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/c1d775f5a13e4bb3a477b81fcf141f82_1_0/hd.webp",
+    "realDate": "2026-11-11 22:35:55"
+  },
+  {
+    "id": "1ede92fe41da9dbcd2898f4bcba6abb0",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510324904721&to_app=hwbrowser&dy_scenario=topicinside&tn=5e0fe84a0fe641152c507d936efacfa6d2a282f3c8044ecf85cc1a995e17125b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "盖茨再“吹哨”：称AI猛于核武 人类别大难临头才醒",
+    "summary": "近日，比尔·盖茨警告，AI模型已跨过危险门槛，社会与政府尚未做好准备，“AI当然比核武器更危险”。他指出，各公司争相全速前进，无人谨慎行事；预计未来几十年许多工作会消失，未来四年就业冲击将逐渐显现，需建立应对网络攻击和生物安全风险的监控机制，不能只靠行业自律。",
+    "author": "虎嗅",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/da0817df005548bfaa5534dd632555a0_1_0/hd.webp",
+    "realDate": "2026-11-11 18:45:40"
+  },
+  {
+    "id": "5d359cb2f5cae4eaf4d7a03a304530d3",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282531092&to_app=hwbrowser&dy_scenario=topicinside&tn=715398446c266a47c3d11485f1b2df34ecce3fc75732df6ad62ee4262a18600b&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "谷歌上线最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+    "summary": "近日，谷歌DeepMind推出新模型Gemini Robotics 2.5，称其为功能最强的视觉-语言-动作机器人模型。该模型在200多项真实任务中评估，成功率部分提升达100%，执行速度最高提升30%。DeepMind与Apptronik、梅赛德斯-奔驰合作，在匈牙利和德国工厂引入机器人，人形机器人基于该模型在梅赛德斯-奔驰工厂完成零件分拣，实现96%的任务成功率。",
     "author": "财联社",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4b/v3/10510282529770/6622c4de415c4d7bb70071eba486b593_1_3/hd.webp",
-    "realDate": "2026-11-10 10:10:48"
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_1028_8/cd/v3/10510282531092/fe8bbd71a36c4d85bfa940d75055ec24_1_8/hd.webp",
+    "realDate": "2026-11-11 10:44:30"
   },
   {
-    "id": "3093049523c8c4aaa12adb13fed71d2c",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051448253e7703c64ee8c8a24920b27cc3adc7&to_app=hwbrowser&dy_scenario=topicinside&tn=feec821d736e961656892eb1be7f69a4bf83ce3b890fa21202b13916c8be7f67&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "20%新增的数据中心项目可能推至2029年 大摩最新研判",
-    "summary": "摩根士丹利报告显示，受美国中期选举引发的政治阻力影响，约20%原定2028年落地的美国新增数据中心容量将被推迟至2029年，约5吉瓦项目顺延。同时，2026至2028年间在美部署的芯片中约40%面临无法及时通电的风险，主因包括电网容量不足、在建项目未竣工及供电延迟。",
-    "author": "华尔街见闻",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/452e27d37afe4ddab6a687d6be7dff0f_1_0/hd.webp",
-    "realDate": "2026-11-10 14:37:46"
+    "id": "e5fd21e6176f54e3142c59cf2369d6eb",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510231ea463510f929ccfc59667b2413a0d08&to_app=hwbrowser&dy_scenario=topicinside&tn=4038501cedd871db4ac229c563c1cf9a4fab06fdb931507302d7667053cc2c4a&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "闻泰拒绝单方面方案后 安世荷兰称：仍可能重新合并",
+    "summary": "近日，安世半导体临时首席执行官斯特凡·蒂尔格表示，公司仍有可能与中国业务重新合并；若分立成定局，中国母公司闻泰科技应获公平补偿。闻泰方面此前已书面回绝管理人提出的“双圈”结构方案，理由是该方案“本质上都是对闻泰科技合法投资的征收”，并称在不影响立场前提下愿继续磋商。同时，安世荷兰已起诉闻泰科技等，请求连带赔偿20亿美元；东莞中院此前已裁定查封安世半导体有限公司名下价值21.39亿元财产。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/59/v3/10510231ea463510f929ccfc59667b2413a0d08/b688ddb6998842fcbd6777ec4ae830a1_1_4/hd.webp",
+    "realDate": "2026-11-11 15:18:34"
   },
   {
-    "id": "6e639d4850cc2c6ed8f8885b75f3ae61",
-    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051104247f26c7548d8a77ab35bcc61bcab87d&to_app=hwbrowser&dy_scenario=topicinside&tn=be1b019aab2e8b708f95f1809d28de13aaf968d6a98d6761fa031a6794d92036&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
-    "title": "英伟达显卡定价失控：AMD销量趁机反超",
-    "summary": "近日，据亚马逊美国站10月显卡销售数据，AMD单月出货9200块，以47.67%的份额反超英伟达的8900块（46.11%），拿下GPU出货量第一。单品方面，RX 9070 XT以3300块成为销冠，其竞品RTX 5070 Ti仅1300块。AMD GPU平均售价915美元，英伟达则高达1313美元，但后者仍凭高均价占据56.56%的营收份额。",
-    "author": "快科技",
-    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/93/v3/Topic_da7f770735fd4b6ab8ee8fda08ef6c22/5d341a84af9c4a8dba8bf82cea96fa47_1_0/hd.webp",
-    "realDate": "2026-11-10 12:05:58"
+    "id": "7f05d2d7f80803f783af91bb73524a20",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023a7d8b9efd64023254dcddd8f0028767a&to_app=hwbrowser&dy_scenario=topicinside&tn=c38dc1ed1a614d103ebd953182b93f619669f98bd9676ecec8e5b6dbdf597787&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "微软反对封杀中国光模块",
+    "summary": "报道称，美国拟于年内禁止中国新型光模块进口，微软等企业近期游说特朗普政府叫停该计划。知情人士称，微软曾与白宫官员会面，反映禁令可能导致数据中心建设停滞。中国企业占全球光模块市场约三分之二份额，中际旭创、新易盛等为美国超大规模数据中心供应商。",
+    "author": "观察者网",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/033fda3b6ce1456098e18d38cd343c1c_1_0/hd.webp",
+    "realDate": "2026-11-11 12:21:23"
+  },
+  {
+    "id": "398cd4abad690d7694e5438eca8a9d21",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282531023&to_app=hwbrowser&dy_scenario=topicinside&tn=27aa81537f6e060cb677dec9a64f899eb721ce33eb0052eb1c5b6b76b4f7e678&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "双重布局！台积电计划向Anthropic和OpenAI投资至多10亿美元",
+    "summary": "芯片代工巨头台积电董事会已批准一项最高10亿美元的投资计划，拟向人工智能开发商Anthropic和OpenAI进行双重布局。其中，最高5亿美元将用于按IPO价格认购Anthropic股份，其IPO定价区间为每股70至78美元；另外最高5亿美元则用于收购OpenAI的优先股。台积电此举希望同时作为AI芯片供应商和模型开发商投资者获益。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/5a5b2261a9734de0b00653476a36bea9_1_0/hd.webp",
+    "realDate": "2026-11-11 10:18:44"
+  },
+  {
+    "id": "0e43fc0ec3b0b3c1d44c72a1ac4ec809",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282531077&to_app=hwbrowser&dy_scenario=topicinside&tn=d564fd4a95c7d0382bad574f1647a630326e01c4ed792820ebcd490cf4a87539&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "OpenAI三季度营收环比增近50%至100亿美元 企业业务单季翻倍",
+    "summary": "OpenAI首席财务官萨拉·弗莱尔表示，公司第三季度营收环比增长近50%，达到100亿美元，主要由前沿模型研发及企业业务拉动。企业业务营收环比翻番，与消费者业务各占一半；消费者业务营收环比提升20%，订阅用户突破1亿，周活跃用户达12亿。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/c47b0986e22444878c0aa52212bd165a_1_0/hd.webp",
+    "realDate": "2026-11-11 10:36:43"
+  },
+  {
+    "id": "43e3e4dd38a961436423c3c3e7afc2cc",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282530830&to_app=hwbrowser&dy_scenario=topicinside&tn=223668e6b548e9790b31268a8dd4c2673693594efbbcb5d13390b7c7f53024c8&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "太空AI加速备战：SpaceX订购太阳能产线 星舰挑战首次“双回收”",
+    "summary": "SpaceX为人工智能卫星订购太阳能电池产线，德国SINGULUS宣布提供异质结太阳能电池生产线，首条产线计划2027年上半年交付。这些电池将用于得州工厂生产的Starmind人工智能卫星，旨在利用太空太阳能提供低成本、高性能AI计算服务。同时，星舰计划最早于11月13日进行第15次试飞，首次尝试在同一次任务中捕获超重型助推器和星舰上面级。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/6cfc4c1bb1144807acbdb0c040083aff_1_0/hd.webp",
+    "realDate": "2026-11-11 04:03:25"
+  },
+  {
+    "id": "2ad0dcade3496e37e4679187a96dd440",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282531976&to_app=hwbrowser&dy_scenario=topicinside&tn=851d039ef34b0d3d8ee333c904319c5568a533d1c0c51b288a4cbe9e3dfaa101&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "Token登上“双十一”货架：AI推理火了 灰色中转站也来了",
+    "summary": "今年“双十一”，Token作为新商品登上电商货架。京东直播间2小时大模型Token包销量环比增长20倍；天猫千问办公0.01元个人月卡半小时售出近10万份。不过除了这些官方店铺，还有一些粉丝量不高的店铺同样在卖Token。这些“AI中转站”作为中介，很多游走在网络灰色地带，经营者全程隐匿身份，无公开备案信息、无明确运营主体。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/56b236e0f4df427494055cb7c386b5c7_1_0/hd.webp",
+    "realDate": "2026-11-11 23:21:40"
+  },
+  {
+    "id": "2a9bb7ce8af06f0cd12c87da55f39461",
+    "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510282531968&to_app=hwbrowser&dy_scenario=topicinside&tn=2bbf91dccc907fae7145dd22c8e4af93831a3538de62a83721ea67ca27fbcd19&channel=-1&ctype=news&cpid=666&r=CN&pageType=26",
+    "title": "存储市场罕见错位！产能排到2029 消费级却涨不动了",
+    "summary": "全球存储市场出现供需错位，企业级订单已排至2029年，SK海力士称DRAM与HBM产能近乎售罄，客户需求达供给两倍以上；而消费级存储动能较弱，MLC NAND 10月合约均价环比持平，有原厂判断NAND涨价趋势或在其下一财年停止。业内人士指出，本轮涨价是沿算力密度重新分配的结构性紧缺，原厂正通过长期协议锁定产能。",
+    "author": "财联社",
+    "image": "https://contentcenter-drcn.dbankcdn.cn/img/pub_1/Browser_bigCard_8888_8/4d/v3/Topic_a052a9bd89594cc7817b894a2a77401c/2874ab3732e444a382cc3ecd5f92a61c_1_0/hd.webp",
+    "realDate": "2026-11-11 22:59:03"
   }
 ]
